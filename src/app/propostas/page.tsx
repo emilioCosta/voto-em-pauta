@@ -1,6 +1,7 @@
 "use client";
 
 import initSqlJs from "sql.js";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
@@ -12,7 +13,7 @@ type PlanTopic = { id: string; label: string };
 type SenatorStatement = { text: string; section_title: string; topics: string[]; source_url: string; source_title: string; source_sha256: string; collected_at: string };
 type SenatorTopicSection = { id: string; label: string; summary: string; excerpts: SenatorStatement[] };
 type SenatorProposalData = { candidate_id: string; status: string; declared_sites: string[]; sources: Array<{ url: string; title: string; collected_at: string; kind: string }>; statements: SenatorStatement[]; sections?: SenatorTopicSection[] };
-type Candidate = { tse_candidate_id: string; state_code: string; office: string; full_name: string; ballot_name: string; party_code: string; proposals: Proposal[]; analyses: PlanAnalysis[]; topicLabels: Record<string, string>; senatorProposal?: SenatorProposalData };
+type Candidate = { tse_candidate_id: string; state_code: string; office: string; full_name: string; ballot_name: string; party_code: string; ballot_number: string; photo_path: string | null; proposals: Proposal[]; analyses: PlanAnalysis[]; topicLabels: Record<string, string>; senatorProposal?: SenatorProposalData };
 
 function analysisCategory(office: string) {
   const exactCategories: Record<string, string> = {
@@ -46,7 +47,7 @@ export default function ProposalPage() {
         if (!response.ok) throw new Error("O snapshot de candidaturas ainda não foi publicado.");
         const database = new SQL.Database(new Uint8Array(await response.arrayBuffer()));
         closeDatabase = () => database.close();
-        const candidateRows = database.exec("SELECT tse_candidate_id,state_code,office,full_name,ballot_name,party_code FROM candidates WHERE tse_candidate_id = ?", [candidateId])[0]?.values ?? [];
+        const candidateRows = database.exec("SELECT c.tse_candidate_id,c.state_code,c.office,c.full_name,c.ballot_name,c.party_code,c.ballot_number,(SELECT public_path FROM candidate_photos p WHERE p.candidate_id = c.tse_candidate_id) FROM candidates c WHERE c.tse_candidate_id = ?", [candidateId])[0]?.values ?? [];
         if (!candidateRows.length) { setLoaded(true); return; }
         const row = candidateRows[0];
         const text = (value: unknown) => String(value ?? "");
@@ -60,7 +61,7 @@ export default function ProposalPage() {
         const senatorProposal = senatorData.candidates?.find((item) => item.candidate_id === candidateId);
         if (!cancelled) setCandidate({
           tse_candidate_id: text(row[0]), state_code: text(row[1]), office: text(row[2]), full_name: text(row[3]),
-          ballot_name: text(row[4]), party_code: text(row[5]),
+          ballot_name: text(row[4]), party_code: text(row[5]), ballot_number: text(row[6]), photo_path: row[7] ? text(row[7]) : null,
           proposals: proposalRows.map((item) => ({ file_name: text(item[0]), public_path: text(item[1]) })),
           analyses: (analysisData.documents ?? []).filter((item) => item.candidate_id === candidateId),
           topicLabels: Object.fromEntries([...(analysisData.topics ?? []), ...(senatorData.topics ?? [])].map((topic) => [topic.id, topic.label])),
@@ -82,7 +83,10 @@ export default function ProposalPage() {
   return <main className="site-shell proposal-page">
     <header className="topbar"><a className="brand" href={`${BASE_PATH}/`}><span className="brand-mark" aria-hidden="true">VP</span><span>Voto em pauta</span></a><div className="topbar-meta"><span className="live-dot" /> ELEIÇÕES GERAIS <strong>2026</strong></div><a className="back-link" href={`${BASE_PATH}/`}>← Voltar às candidaturas</a></header>
     {candidate ? <>
-      <section className="proposal-hero"><p className="eyebrow">{candidate.office === "SENADOR" ? "CANDIDATURA AO SENADO" : "PROPOSTAS REGISTRADAS NO TSE"} <span>·</span> {candidate.state_code}</p><h1>{candidate.ballot_name || candidate.full_name}</h1><p className="proposal-person">{candidate.full_name} <span>·</span> {candidate.office} <span>·</span> {candidate.party_code}</p></section>
+      <section className="proposal-hero"><p className="eyebrow">{candidate.office === "SENADOR" ? "CANDIDATURA AO SENADO" : "PERFIL DA CANDIDATURA"} <span>·</span> {candidate.state_code}</p><div className="proposal-identity">
+        {candidate.photo_path ? <a className="proposal-photo-link" href={`${BASE_PATH}${candidate.photo_path}`} target="_blank" rel="noreferrer" aria-label={`Abrir foto de ${candidate.full_name}`}><Image className="proposal-photo" src={`${BASE_PATH}${candidate.photo_path}`} alt={`Foto de ${candidate.ballot_name || candidate.full_name}`} width={240} height={300} unoptimized /></a> : <div className="proposal-photo proposal-photo-placeholder" aria-hidden="true">{(candidate.ballot_name || candidate.full_name).split(/\s+/).filter(Boolean).slice(0, 2).map((part) => part[0]).join("")}</div>}
+        <div className="proposal-identity-copy"><h1>{candidate.ballot_name || candidate.full_name}</h1><p className="proposal-person">{candidate.full_name} <span>·</span> {candidate.office} <span>·</span> {candidate.party_code}</p><p className="proposal-ballot-number"><span>NÚMERO DE URNA</span><strong>{candidate.ballot_number || "Não informado"}</strong></p></div>
+      </div></section>
       <section className="proposal-content">
         <div className="proposal-section-title"><div><p className="eyebrow">DOCUMENTOS ORIGINAIS</p><h2>{isLegislativeCandidate ? "Propostas para o mandato" : "Plano de governo"}</h2></div><span>{candidate.proposals.length} {candidate.proposals.length === 1 ? "arquivo" : "arquivos"}</span></div>
         {candidate.proposals.length ? <div className="document-list">{candidate.proposals.map((proposal, index) => <a className="document-row" key={proposal.file_name} href={`${BASE_PATH}${proposal.public_path}`} target="_blank" rel="noreferrer"><span className="document-number">{String(index + 1).padStart(2, "0")}</span><span className="document-file"><strong>{isLegislativeCandidate ? "Proposta para o mandato" : "Proposta de governo"}</strong><small>{proposal.file_name}</small></span><span className="document-format">PDF</span><span className="document-open" aria-label="Abrir arquivo">↗</span></a>)}</div> : <div className="empty-state"><h3>{candidate.office === "SENADOR" ? "Sem documento padronizado" : "Documento não localizado"}</h3><p>{candidate.office === "SENADOR" ? "O TSE não exige nem mantém um plano individual padronizado para o Senado. Veja abaixo as propostas localizadas em site ou documento individual vinculado pelo candidato." : "Não encontramos uma proposta associada a esta candidatura nos dados publicados."}</p></div>}

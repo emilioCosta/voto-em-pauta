@@ -98,6 +98,10 @@ function paginationHref(filters: Filters, page: number) {
   return `${BASE_PATH}/?${params.toString()}`;
 }
 
+function candidateHref(candidateId: string) {
+  return `${BASE_PATH}/propostas/?candidate_id=${encodeURIComponent(candidateId)}`;
+}
+
 export default function CandidatesBrowser() {
   const [database, setDatabase] = useState<Database | null>(null);
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
@@ -168,12 +172,18 @@ export default function CandidatesBrowser() {
             const status = candidate.registration_status && !["#NE", "#NULO", "-"].includes(candidate.registration_status) ? candidate.registration_status : null;
             return <article className="candidate-row" key={candidate.tse_candidate_id}>
               <div className="candidate-index">{String((result.page - 1) * PAGE_SIZE + index + 1).padStart(2, "0")}</div>
-              {candidate.photo_path ? <Image className="candidate-monogram candidate-photo" src={`${BASE_PATH}${candidate.photo_path}`} alt={`Foto de ${candidate.ballot_name || candidate.full_name}`} width={41} height={41} unoptimized /> : <div className="candidate-monogram" aria-hidden="true">{initials(candidate.ballot_name || candidate.full_name)}</div>}
+              <a className="candidate-profile-photo" href={candidateHref(candidate.tse_candidate_id)} aria-label={`Abrir candidatura de ${candidate.ballot_name || candidate.full_name}`}>
+                {candidate.photo_path ? <Image className="candidate-monogram candidate-photo" src={`${BASE_PATH}${candidate.photo_path}`} alt={`Foto de ${candidate.ballot_name || candidate.full_name}`} width={41} height={41} unoptimized /> : <span className="candidate-monogram" aria-hidden="true">{initials(candidate.ballot_name || candidate.full_name)}</span>}
+              </a>
               <div className="candidate-main"><p className="candidate-ballot">{candidate.ballot_name || candidate.full_name}</p><p className="candidate-fullname">{candidate.full_name}</p></div>
               <div className="candidate-office"><span>{candidate.office}</span><strong>{candidate.state_code === "BR" ? "BRASIL" : candidate.state_code}</strong>{status && <small>{status}</small>}</div>
               <div className="candidate-party"><strong>{candidate.party_code}</strong><span>{candidate.party_name}</span></div>
-              <div className="candidate-number"><span>NÚMERO</span><strong>{candidate.ballot_number || "—"}</strong></div>
-              <div className="candidate-action">{candidate.office === "SENADOR" || candidate.proposal_count > 0 ? <a className="proposal-link" href={`${BASE_PATH}/propostas/?candidate_id=${encodeURIComponent(candidate.tse_candidate_id)}`}><span className="document-icon" aria-hidden="true">▤</span> {candidate.office === "SENADOR" ? "Propostas para o mandato" : "Proposta de governo"}{candidate.proposal_count > 0 && <span className="proposal-count">{candidate.proposal_count}</span>}</a> : <span className="no-proposal">Fonte individual não localizada</span>}</div>
+              <a className="candidate-number candidate-number-link" href={candidateHref(candidate.tse_candidate_id)} aria-label={`Abrir candidatura de ${candidate.ballot_name || candidate.full_name}, número ${candidate.ballot_number || "não informado"}`}><span>NÚMERO</span><strong>{candidate.ballot_number || "—"}</strong></a>
+              <div className="candidate-action"><a className="proposal-link" href={candidateHref(candidate.tse_candidate_id)}>
+                <span className="document-icon" aria-hidden="true">{candidate.office === "SENADOR" || candidate.proposal_count > 0 ? "▤" : "↗"}</span>
+                {candidate.office === "SENADOR" ? "Propostas para o mandato" : candidate.proposal_count > 0 ? "Proposta de governo" : "Ver candidatura"}
+                {candidate.proposal_count > 0 && <span className="proposal-count">{candidate.proposal_count}</span>}
+              </a></div>
             </article>;
           })}</div>
         ) : <div className="empty-state"><span className="empty-mark" aria-hidden="true">∅</span><h3>Nenhuma candidatura encontrada</h3><p>Altere os filtros ou tente buscar por outro nome.</p><a href={`${BASE_PATH}/`}>Limpar busca</a></div>}
