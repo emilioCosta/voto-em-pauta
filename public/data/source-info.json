@@ -1,0 +1,16 @@
+{
+  "election_year": 2026,
+  "generated_at": "2026-10-03T00:19:21+00:00",
+  "source": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026",
+  "license": "Creative Commons Atribuição (CC BY)",
+  "attribution": "Fonte: Tribunal Superior Eleitoral (TSE), Dados Abertos. CC BY.",
+  "candidates": 20988,
+  "proposal_documents": 232,
+  "excluded_fields": [
+    "CPF",
+    "e-mail",
+    "telefone",
+    "título eleitoral",
+    "descrições livres de bens/endereço"
+  ]
+}

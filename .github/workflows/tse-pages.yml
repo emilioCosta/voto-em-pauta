@@ -1,0 +1,77 @@
+name: Atualizar dados do TSE e publicar Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 7 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Obter código
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Coletar fontes públicas do TSE
+        run: python scripts/rebuild_db.py --year 2026 --refresh --public-only
+
+      - name: Gerar SQLite sanitizado e copiar propostas
+        run: python scripts/build_public_data.py --year 2026
+
+      - name: Guardar snapshot e propostas no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A public/data public/propostas public/vendor/sql-wasm.wasm
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza snapshot público do TSE"
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Exportar site estático
+        env:
+          NEXT_OUTPUT_EXPORT: "1"
+          NEXT_PUBLIC_BASE_PATH: "/${{ github.event.repository.name }}"
+        run: npm run build
+
+      - name: Empacotar site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

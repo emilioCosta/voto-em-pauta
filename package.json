@@ -1,0 +1,28 @@
+{
+  "name": "informe-eleitoral",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "preview:pages": "node scripts/serve_static_preview.cjs",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.3.8",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sql.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/sql.js": "^1.4.9",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.3.8",
+    "typescript": "^5.9.0"
+  }
+}
