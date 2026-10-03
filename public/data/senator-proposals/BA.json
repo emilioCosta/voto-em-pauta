@@ -1,0 +1,1365 @@
+{
+  "state_code": "BA",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "50002533124",
+      "state_code": "BA",
+      "ballot_name": "ANGELO CORONEL",
+      "party_code": "REPUBLICANOS",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002536625",
+      "state_code": "BA",
+      "ballot_name": "CARLOS SODRÉ",
+      "party_code": "MOBILIZA",
+      "sources": [
+        {
+          "url": "https://carlossodresenador.com.br/",
+          "title": "Início",
+          "sha256": "54186bf451154ad6eadc40aa3954db63562bf63f70e1339ad55ea55a5238f9ea",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:07:37+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://carlossodresenador.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002550314",
+      "state_code": "BA",
+      "ballot_name": "GREGORIO GOULD",
+      "party_code": "UP",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002536317",
+      "state_code": "BA",
+      "ballot_name": "JAQUES WAGNER",
+      "party_code": "PT",
+      "sources": [
+        {
+          "url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "title": "Home - Senador Jaques Wagner",
+          "sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Tenho muito orgulho dessa trajetória marcada pela defesa da economia solidária na #Bahia e no #Brasil. Na data de hoje, reforço a importância desse movimento, que chegou ao Brasil no final do século XX e tem se mostrado como alternativa fundamental para consolidar um modelo de desenvolvimento mais justo e sustentável. Os projetos ligados ao setor geram oportunidade de trabalho e renda para milhões de brasileiros e brasileiras. Vamos em frente!",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "O presidente Lula é obcecado em reduzir as desigualdades no #Brasil e esse é o nosso principal objetivo de governo. Hoje, no Dia Nacional de Combate à Pobreza, todos nós nos orgulhamos do tanto que avançamos nos últimos três anos. O #Brasil saiu novamente do Mapa da Fome, temos uma taxa recorde de pessoas empregadas com carteira assinada, aumentamos a renda e enfim chegamos aos menores níveis de pobreza e extrema pobreza. Esse é o Brasil que nós queremos! Sabemos que ainda temos uma longa caminhada a percorrer, mas, graças às políticas públicas de inclusão, hoje, brasileiros e brasileiras, que antes viviam à margem, agora têm uma casa para morar, comida na mesa e dinheiro no bolso. Vamos em frente!",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "social-protection"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "Estamos em tempo de colheita e vamos fechar o ano com a economia brasileira lá em cima! 🇧🇷 Inflação, preço dos alimentos e dólar em baixa, sem contar no menor índice de desemprego da história. O reflexo disso é o povo brasileiro com dinheiro no bolso, comida na mesa e uma vida melhor. Que orgulho! Vamos em frente, porque o trabalho não para e a nossa gente merece prosperar mais e mais!",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "Grande satisfação estar no Palácio do Planalto para o lançamento do Plano Nacional de Cultura com o Presidente Lula. O Brasil é muito rico culturalmente e este plano vai garantir que a nossa cultura brilhe cada vez mais. Tenho a missão de transformar o Plano Nacional de Cultura em realidade, no Senado Federal, e vou trabalhar muito para isso. Viva a Cultura Brasileira! 🇧🇷",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "Ser republicano é saber conviver com as diferenças e defender a nossa soberania incondicionalmente. O #Brasil dá exemplo ao mundo de como dialogar com quem pensa diferente, defendendo os interesses do nosso povo acima de qualquer coisa. Seguimos de cabeça erguida, em defesa da nossa democracia, sempre! 🇧🇷 #ProclamaçãoDaRepública",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "Defender a ciência e o futuro é prioridade! ✊🏻 Na abertura oficial da COP 30, o presidente @lulaoficial deixou claro que não podemos recuar na defesa da ciência e do planeta. 🌍 Na era da desinformação, tem pessoas que rejeitam as evidências da ciência e os avanços drásticos da mudança climática. Eles controlam algoritmos, espalham ódio e atacam as instituições. É momento de impor uma nova derrota aos negacionistas!",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "science-digital",
+            "environment-climate"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "Hoje começa oficialmente a COP 30 no #Brasil e eu estou aqui, no #Pará, representando a nossa gente e defendendo uma bandeira que carrego há anos: o desenvolvimento e o meio ambiente não são inimigos, mas, sim, aliados! Falar de preservação ambiental e propor soluções concretas que beneficiem as atuais e futuras gerações é urgente. Vamos juntos por um Planeta mais sustentável. 📷 Rafael Nunes",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [
+            "environment-climate"
+          ],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "A matéria, que agora vai para a sanção do presidente Lula, é uma conquista histórica e inédita para o povo brasileiro. Com a aprovação desse projeto, vamos aliviar o bolso das famílias, reduzir desigualdades sociais históricas e oferecer mais dignidade para a nossa gente. É o Brasil no rumo certo! Vamos em frente! 📷 Rafael Nunes",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        },
+        {
+          "text": "IR ZERO APROVADO NA CAE! ✅ Acabamos de aprovar o projeto do Imposto de Renda Zero na Comissão de Assuntos Econômicos do Senado Federal! Parabéns senador Renan pela relatoria e parabéns ao senador Laércio pela condução deste importante projeto! Agora à tarde, vamos votar o projeto no Plenário! Este é um grande passo para a justiça social do Brasil! 🇧🇷",
+          "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+          "topics": [],
+          "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+          "source_title": "Home - Senador Jaques Wagner",
+          "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+          "collected_at": "2026-10-03T13:07:41+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://www.ossenadoresdelula.com.br/",
+        "https://JAQUESWAGNEROFICIAL.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Tenho muito orgulho dessa trajetória marcada pela defesa da economia solidária na #Bahia e no #Brasil. Na data de hoje, reforço a importância desse movimento, que chegou ao Brasil no final do século XX e tem se mostrado como alternativa fundamental para consolidar um modelo de desenvolvimento mais justo e sustentável.",
+          "excerpts": [
+            {
+              "text": "Tenho muito orgulho dessa trajetória marcada pela defesa da economia solidária na #Bahia e no #Brasil. Na data de hoje, reforço a importância desse movimento, que chegou ao Brasil no final do século XX e tem se mostrado como alternativa fundamental para consolidar um modelo de desenvolvimento mais justo e sustentável. Os projetos ligados ao setor geram oportunidade de trabalho e renda para milhões de brasileiros e brasileiras. Vamos em frente!",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            },
+            {
+              "text": "Estamos em tempo de colheita e vamos fechar o ano com a economia brasileira lá em cima! 🇧🇷 Inflação, preço dos alimentos e dólar em baixa, sem contar no menor índice de desemprego da história. O reflexo disso é o povo brasileiro com dinheiro no bolso, comida na mesa e uma vida melhor. Que orgulho! Vamos em frente, porque o trabalho não para e a nossa gente merece prosperar mais e mais!",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "O presidente Lula é obcecado em reduzir as desigualdades no #Brasil e esse é o nosso principal objetivo de governo. Hoje, no Dia Nacional de Combate à Pobreza, todos nós nos orgulhamos do tanto que avançamos nos últimos três anos.",
+          "excerpts": [
+            {
+              "text": "O presidente Lula é obcecado em reduzir as desigualdades no #Brasil e esse é o nosso principal objetivo de governo. Hoje, no Dia Nacional de Combate à Pobreza, todos nós nos orgulhamos do tanto que avançamos nos últimos três anos. O #Brasil saiu novamente do Mapa da Fome, temos uma taxa recorde de pessoas empregadas com carteira assinada, aumentamos a renda e enfim chegamos aos menores níveis de pobreza e extrema pobreza. Esse é o Brasil que nós queremos! Sabemos que ainda temos uma longa caminhada a percorrer, mas, graças às políticas públicas de inclusão, hoje, brasileiros e brasileiras, que antes viviam à margem, agora têm uma casa para morar, comida na mesa e dinheiro no bolso. Vamos em frente!",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "social-protection"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "✊🏻 Na abertura oficial da COP 30, o presidente @lulaoficial deixou claro que não podemos recuar na defesa da ciência e do planeta. 🌍 Na era da desinformação, tem pessoas que rejeitam as evidências da ciência e os avanços drásticos da mudança climática.",
+          "excerpts": [
+            {
+              "text": "Defender a ciência e o futuro é prioridade! ✊🏻 Na abertura oficial da COP 30, o presidente @lulaoficial deixou claro que não podemos recuar na defesa da ciência e do planeta. 🌍 Na era da desinformação, tem pessoas que rejeitam as evidências da ciência e os avanços drásticos da mudança climática. Eles controlam algoritmos, espalham ódio e atacam as instituições. É momento de impor uma nova derrota aos negacionistas!",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "science-digital",
+                "environment-climate"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            },
+            {
+              "text": "Hoje começa oficialmente a COP 30 no #Brasil e eu estou aqui, no #Pará, representando a nossa gente e defendendo uma bandeira que carrego há anos: o desenvolvimento e o meio ambiente não são inimigos, mas, sim, aliados! Falar de preservação ambiental e propor soluções concretas que beneficiem as atuais e futuras gerações é urgente. Vamos juntos por um Planeta mais sustentável. 📷 Rafael Nunes",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "environment-climate"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "✊🏻 Na abertura oficial da COP 30, o presidente @lulaoficial deixou claro que não podemos recuar na defesa da ciência e do planeta. 🌍 Na era da desinformação, tem pessoas que rejeitam as evidências da ciência e os avanços drásticos da mudança climática.",
+          "excerpts": [
+            {
+              "text": "Defender a ciência e o futuro é prioridade! ✊🏻 Na abertura oficial da COP 30, o presidente @lulaoficial deixou claro que não podemos recuar na defesa da ciência e do planeta. 🌍 Na era da desinformação, tem pessoas que rejeitam as evidências da ciência e os avanços drásticos da mudança climática. Eles controlam algoritmos, espalham ódio e atacam as instituições. É momento de impor uma nova derrota aos negacionistas!",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "science-digital",
+                "environment-climate"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Grande satisfação estar no Palácio do Planalto para o lançamento do Plano Nacional de Cultura com o Presidente Lula. O Brasil é muito rico culturalmente e este plano vai garantir que a nossa cultura brilhe cada vez mais.",
+          "excerpts": [
+            {
+              "text": "Grande satisfação estar no Palácio do Planalto para o lançamento do Plano Nacional de Cultura com o Presidente Lula. O Brasil é muito rico culturalmente e este plano vai garantir que a nossa cultura brilhe cada vez mais. Tenho a missão de transformar o Plano Nacional de Cultura em realidade, no Senado Federal, e vou trabalhar muito para isso. Viva a Cultura Brasileira! 🇧🇷",
+              "section_title": "Ao lado de Lula, Wagner celebra expansão do metrô e do VLT",
+              "topics": [
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://JAQUESWAGNEROFICIAL.COM.BR/",
+              "source_title": "Home - Senador Jaques Wagner",
+              "source_sha256": "6ccb02f8cc28101cd2c5c8b02053551f2e190f45132763882cfb5b00f0b25df2",
+              "collected_at": "2026-10-03T13:07:41+00:00"
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002533123",
+      "state_code": "BA",
+      "ballot_name": "JOÃO ROMA",
+      "party_code": "PL",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "https://WWW.JOAOROMA.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002534774",
+      "state_code": "BA",
+      "ballot_name": "MARCELO CARVALHO",
+      "party_code": "REDE",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002553643",
+      "state_code": "BA",
+      "ballot_name": "MARCELO MILLET",
+      "party_code": "PCO",
+      "sources": [
+        {
+          "url": "https://candidatos.pco.org.br/c/marcelo-millet-2/",
+          "title": "MARCELO MILLET - Portal Eleitoral do PCO",
+          "sha256": "7436993485e6cda69cfaa6c705a33e6b24ee5202952f6085e6cf5d12151a26a8",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:07:48+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://candidatos.pco.org.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002536577",
+      "state_code": "BA",
+      "ballot_name": "MARCELO SANTTANA",
+      "party_code": "DC",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002534769",
+      "state_code": "BA",
+      "ballot_name": "PROFESSORA DELLIANA",
+      "party_code": "PSOL",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "50002536321",
+      "state_code": "BA",
+      "ballot_name": "RUI COSTA",
+      "party_code": "PT",
+      "sources": [],
+      "statements": [],
+      "status": "shared-site-without-individual-profile",
+      "declared_sites": [
+        "https://www.ossenadoresdelula.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    }
+  ]
+}

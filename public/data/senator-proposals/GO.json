@@ -1,0 +1,1503 @@
+{
+  "state_code": "GO",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "90002541454",
+      "state_code": "GO",
+      "ballot_name": "CINTIA DIAS",
+      "party_code": "PSOL",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002546974",
+      "state_code": "GO",
+      "ballot_name": "DR. ZACHARIAS CALIL",
+      "party_code": "MDB",
+      "sources": [
+        {
+          "url": "https://DRZACHARIASCALIL.COM.BR/",
+          "title": "Dr. Zacharias Calil",
+          "sha256": "d695e2dca7ef8db5d85ed37d7fd3c0cad93bcc7efb825665e9e4da5b60f77c99",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:52+00:00"
+        },
+        {
+          "url": "https://drzachariascalil.com.br/wp-content/uploads/2026/05/Apresentacao-Projetos-de-Lei.pdf",
+          "title": "Apresentacao-Projetos-de-Lei.pdf",
+          "sha256": "fba16a6bfd5e73ec064f8b7ec64cd483b5827f0d5fb53b69ef4dd9856f3a782d",
+          "kind": "official-candidate-document",
+          "collected_at": "2026-10-03T13:08:56+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://DRZACHARIASCALIL.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002545243",
+      "state_code": "GO",
+      "ballot_name": "ERNESTO ROLLER",
+      "party_code": "PSDB",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002540997",
+      "state_code": "GO",
+      "ballot_name": "GRACINHA CAIADO",
+      "party_code": "UNIÃO",
+      "sources": [
+        {
+          "url": "https://gracinhacaiado.com.br/",
+          "title": "",
+          "sha256": "34ced3519d33a34fe8d300c1db541d653961fa559071f3b957cb303f2dd97227",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:02+00:00"
+        },
+        {
+          "url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "kind": "official-candidate-document",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Defender a perda dos bens de condenados por violência contra a mulher",
+          "section_title": "",
+          "topics": [
+            "public-safety"
+          ],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender um programa nacional de segurança rural, inspirado no modelo de",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender para o Brasil o modelo de inteligência policial integrada de Goiás,",
+          "section_title": "",
+          "topics": [
+            "public-safety"
+          ],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender, no Senado, a aprovação da PEC 383/2017, que estabelece um",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender uma política nacional integrada para a primeira infância, reunindo",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
+          "section_title": "",
+          "topics": [
+            "education"
+          ],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        },
+        {
+          "text": "Defender uma distribuição mais racional dos recursos federais,",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+          "collected_at": "2026-10-03T13:09:03+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://gracinhacaiado.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
+          "excerpts": [
+            {
+              "text": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
+              "section_title": "",
+              "topics": [
+                "education"
+              ],
+              "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+              "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+              "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+              "collected_at": "2026-10-03T13:09:03+00:00"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Defender a perda dos bens de condenados por violência contra a mulher Defender para o Brasil o modelo de inteligência policial integrada de Goiás,",
+          "excerpts": [
+            {
+              "text": "Defender a perda dos bens de condenados por violência contra a mulher",
+              "section_title": "",
+              "topics": [
+                "public-safety"
+              ],
+              "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+              "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+              "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+              "collected_at": "2026-10-03T13:09:03+00:00"
+            },
+            {
+              "text": "Defender para o Brasil o modelo de inteligência policial integrada de Goiás,",
+              "section_title": "",
+              "topics": [
+                "public-safety"
+              ],
+              "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
+              "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
+              "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
+              "collected_at": "2026-10-03T13:09:03+00:00"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002551198",
+      "state_code": "GO",
+      "ballot_name": "GUILHERME DARQUES",
+      "party_code": "UP",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002543556",
+      "state_code": "GO",
+      "ballot_name": "GUSTAVO GAYER",
+      "party_code": "PL",
+      "sources": [
+        {
+          "url": "http://gustavogayer.com.br/",
+          "title": "Gustavo Gayer - 222 Senador",
+          "sha256": "14784b37a53866ac532129f6c31bbc9a905868e5ce57f65ff59a71fc4f7961c5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:04+00:00"
+        },
+        {
+          "url": "https://COS.TV/CHANNEL/27714561543414784/",
+          "title": "COS.TV | Content platform on blockchain",
+          "sha256": "51e51c381de3a5d782e5a3e32f464cb4e1179305ab9e273dd62657ad332273c2",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:07+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "http://t.me.joinchat/Odbt4Rfd5djLjnjH2Uc4Lw",
+        "http://gustavogayer.com.br/",
+        "https://COS.TV/CHANNEL/27714561543414784/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002540998",
+      "state_code": "GO",
+      "ballot_name": "GUSTAVO MENDANHA",
+      "party_code": "PRD",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "https://GUSTAVOMENDANHA.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002541455",
+      "state_code": "GO",
+      "ballot_name": "ISAURA LEMOS",
+      "party_code": "PSB",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002545244",
+      "state_code": "GO",
+      "ballot_name": "IURE CASTRO",
+      "party_code": "CIDADANIA",
+      "sources": [
+        {
+          "url": "https://iurecastro.com/",
+          "title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
+          "sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:11+00:00"
+        },
+        {
+          "url": "https://iurecastro.com/#propostas",
+          "title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
+          "sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:13+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Para quem acorda cedo e sustenta a família com trabalho honesto. Nosso compromisso é dar dignidade sem prejudicar os empregos.",
+          "section_title": "Descanso Digno com Fim da 6x1 e Isenção do IR",
+          "topics": [
+            "economy-jobs",
+            "health"
+          ],
+          "source_url": "https://iurecastro.com/",
+          "source_title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
+          "source_sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
+          "collected_at": "2026-10-03T13:09:11+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://iurecastro.com/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Para quem acorda cedo e sustenta a família com trabalho honesto. Nosso compromisso é dar dignidade sem prejudicar os empregos.",
+          "excerpts": [
+            {
+              "text": "Para quem acorda cedo e sustenta a família com trabalho honesto. Nosso compromisso é dar dignidade sem prejudicar os empregos.",
+              "section_title": "Descanso Digno com Fim da 6x1 e Isenção do IR",
+              "topics": [
+                "economy-jobs",
+                "health"
+              ],
+              "source_url": "https://iurecastro.com/",
+              "source_title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
+              "source_sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
+              "collected_at": "2026-10-03T13:09:11+00:00"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Para quem acorda cedo e sustenta a família com trabalho honesto. Nosso compromisso é dar dignidade sem prejudicar os empregos.",
+          "excerpts": [
+            {
+              "text": "Para quem acorda cedo e sustenta a família com trabalho honesto. Nosso compromisso é dar dignidade sem prejudicar os empregos.",
+              "section_title": "Descanso Digno com Fim da 6x1 e Isenção do IR",
+              "topics": [
+                "economy-jobs",
+                "health"
+              ],
+              "source_url": "https://iurecastro.com/",
+              "source_title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
+              "source_sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
+              "collected_at": "2026-10-03T13:09:11+00:00"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002543560",
+      "state_code": "GO",
+      "ballot_name": "OSÉIAS VARÃO",
+      "party_code": "PL",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "90002543215",
+      "state_code": "GO",
+      "ballot_name": "VANDERLAN CARDOSO",
+      "party_code": "PSD",
+      "sources": [
+        {
+          "url": "https://vanderlan555.com.br/",
+          "title": "Senador Vanderlan 555 – Quem trabalha tem que continuar",
+          "sha256": "a01c33610c178ad79fa098e7cf5b5874d36a956035b24ca8fa8f7424fc2f9e46",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:15+00:00"
+        },
+        {
+          "url": "https://www.vanderlan.com.br/",
+          "title": "Vanderlan Cardoso",
+          "sha256": "b0908a34e66177353740153a0fc1edbb8a412191770730dc8e4a1dd6d1edd0ef",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:09:15+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "No Senado Federal, o senador Vanderlan tem trabalhado para promover mudanças que beneficiem nosso país. O parlamentar tem participado de comissões e foi relator de importantes projetos.",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://www.vanderlan.com.br/",
+          "source_title": "Vanderlan Cardoso",
+          "source_sha256": "b0908a34e66177353740153a0fc1edbb8a412191770730dc8e4a1dd6d1edd0ef",
+          "collected_at": "2026-10-03T13:09:15+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://vanderlan555.com.br/",
+        "https://www.vanderlan.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    }
+  ]
+}

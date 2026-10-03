@@ -1,0 +1,214 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "source": "TSE, Dados Abertos; resumos gerados e armazenados por hash do PDF.",
+  "summary_policy": "Análises são pré-computadas no workflow e servidas como JSON estático; requisições de visitantes não chamam modelos de IA.",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "partitions": {
+    "deputado": {
+      "RJ": {
+        "path": "/data/plan-analysis/deputado/RJ.json",
+        "documents": 1
+      }
+    },
+    "governador": {
+      "AC": {
+        "path": "/data/plan-analysis/governador/AC.json",
+        "documents": 6
+      },
+      "AL": {
+        "path": "/data/plan-analysis/governador/AL.json",
+        "documents": 4
+      },
+      "AM": {
+        "path": "/data/plan-analysis/governador/AM.json",
+        "documents": 14
+      },
+      "AP": {
+        "path": "/data/plan-analysis/governador/AP.json",
+        "documents": 5
+      },
+      "BA": {
+        "path": "/data/plan-analysis/governador/BA.json",
+        "documents": 7
+      },
+      "CE": {
+        "path": "/data/plan-analysis/governador/CE.json",
+        "documents": 9
+      },
+      "DF": {
+        "path": "/data/plan-analysis/governador/DF.json",
+        "documents": 12
+      },
+      "ES": {
+        "path": "/data/plan-analysis/governador/ES.json",
+        "documents": 5
+      },
+      "GO": {
+        "path": "/data/plan-analysis/governador/GO.json",
+        "documents": 7
+      },
+      "MA": {
+        "path": "/data/plan-analysis/governador/MA.json",
+        "documents": 8
+      },
+      "MG": {
+        "path": "/data/plan-analysis/governador/MG.json",
+        "documents": 11
+      },
+      "MS": {
+        "path": "/data/plan-analysis/governador/MS.json",
+        "documents": 8
+      },
+      "MT": {
+        "path": "/data/plan-analysis/governador/MT.json",
+        "documents": 7
+      },
+      "PA": {
+        "path": "/data/plan-analysis/governador/PA.json",
+        "documents": 8
+      },
+      "PB": {
+        "path": "/data/plan-analysis/governador/PB.json",
+        "documents": 6
+      },
+      "PE": {
+        "path": "/data/plan-analysis/governador/PE.json",
+        "documents": 8
+      },
+      "PI": {
+        "path": "/data/plan-analysis/governador/PI.json",
+        "documents": 11
+      },
+      "PR": {
+        "path": "/data/plan-analysis/governador/PR.json",
+        "documents": 9
+      },
+      "RJ": {
+        "path": "/data/plan-analysis/governador/RJ.json",
+        "documents": 9
+      },
+      "RN": {
+        "path": "/data/plan-analysis/governador/RN.json",
+        "documents": 10
+      },
+      "RO": {
+        "path": "/data/plan-analysis/governador/RO.json",
+        "documents": 7
+      },
+      "RR": {
+        "path": "/data/plan-analysis/governador/RR.json",
+        "documents": 5
+      },
+      "RS": {
+        "path": "/data/plan-analysis/governador/RS.json",
+        "documents": 7
+      },
+      "SC": {
+        "path": "/data/plan-analysis/governador/SC.json",
+        "documents": 8
+      },
+      "SE": {
+        "path": "/data/plan-analysis/governador/SE.json",
+        "documents": 6
+      },
+      "SP": {
+        "path": "/data/plan-analysis/governador/SP.json",
+        "documents": 8
+      },
+      "TO": {
+        "path": "/data/plan-analysis/governador/TO.json",
+        "documents": 8
+      }
+    },
+    "presidente": {
+      "BR": {
+        "path": "/data/plan-analysis/presidente/BR.json",
+        "documents": 14
+      }
+    },
+    "vice-governador": {
+      "CE": {
+        "path": "/data/plan-analysis/vice-governador/CE.json",
+        "documents": 1
+      },
+      "ES": {
+        "path": "/data/plan-analysis/vice-governador/ES.json",
+        "documents": 1
+      },
+      "MA": {
+        "path": "/data/plan-analysis/vice-governador/MA.json",
+        "documents": 1
+      },
+      "PE": {
+        "path": "/data/plan-analysis/vice-governador/PE.json",
+        "documents": 1
+      }
+    }
+  }
+}

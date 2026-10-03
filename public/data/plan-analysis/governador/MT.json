@@ -1,0 +1,2673 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "MT",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "110002543953",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002543953_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002543953_01.pdf",
+      "sha256": "5dd8b959382c59d9d04f5d3334ea99601e54c2889c3da117ed2609d9d14a454b",
+      "summary": "Diagnóstico O sistema de saúde pública em Mato Grosso, estruturado de forma descentralizada pelo SUS, padece de gargalos crônicos na regulação do acesso a consultas especializadas, exames de alta complexidade e cirurgias eletivas. O objetivo central é consolidar Mato Grosso como o principal polo logístico e agroindustrial da América do Sul, convertendo a pujança econômica do setor primário em desenvolvimento estrutural, segurança pública integral, saúde responsiva e educação voltada para a nova economia global. Fase do Projeto Ação Governamental Órgãos Envolvidos Fase I Automatização do Licenciamento e Estabilização Normativa SEMA-MT, SEFAZ-MT Fase II Implantação das ZDIs e Atração de Fábricas de Insumos SEDEC-MT, SINFRA-MT Assegurar o controle territorial e das fronteiras estaduais, desarticular as finanças do crime organizado e reestruturar o sistema penitenciário por meio do isolamento penal rígido e do trabalho obrigatório para reinserção e custeio do sistema. O objetivo é consolidar a instituição como peça estratégica e integrada no subsistema de segurança pública, otimizando o fluxo de informações com a SESP-MT e garantindo máxima eficiência no controle, na custódia e na governança do sistema prisional estadual. A coordenação das ações ficará a cargo da Secretaria de Estado de Infraestrutura e Logística (SINFRA-MT), em parceria com a Secretaria de Estado de Desenvolvimento Econômico (SEDEC-MT) e a Agência Estadual de Regulação dos Serviços Públicos Delegados (AGER-MT). Sua fundamentação assenta-se na técnica administrativa, na responsabilidade fiscal, na segurança jurídica e na eficiência operacional, utilizando dados consolidados de órgãos oficiais. Diagnóstico Mato Grosso possui uma situação fiscal controlada, enquadrando-se nos limites da Lei de Responsabilidade Fiscal (LRF) quanto à despesa com pessoal. A Governança Inegociável da Máquina Pública O alicerce que confere viabilidade a todo este ecossistema de metas é o binômio composto pela Responsabilidade Fiscal e pelo Corte de Privilégios. Reestruturação do Sistema Integrado de Monitoramento e Licenciamento Ambiental (SIMLAM) da SEMA-MT, com implantação de inteligência artificial para análise automatizada de processos de baixo risco.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "health"
+          ],
+          "summary": "Diagnóstico O sistema de saúde pública em Mato Grosso, estruturado de forma descentralizada pelo SUS, padece de gargalos crônicos na regulação do acesso a consultas especializadas, exames de alta complexidade e cirurgias eletivas.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Diagnóstico O sistema de saúde pública em Mato Grosso, estruturado de forma descentralizada pelo SUS, padece de gargalos crônicos na regulação do acesso a consultas especializadas, exames de alta complexidade e cirurgias eletivas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O objetivo central é consolidar Mato Grosso como o principal polo logístico e agroindustrial da América do Sul, convertendo a pujança econômica do setor primário em desenvolvimento estrutural, segurança pública integral, saúde responsiva e educação voltada para a nova economia global. Fase do Projeto Ação Governamental Órgãos Envolvidos Fase I Automatização do Licenciamento e Estabilização Normativa SEMA-MT, SEFAZ-MT Fase II Implantação das ZDIs e Atração de Fábricas de Insumos SEDEC-MT, SINFRA-MT Assegurar o controle territorial e das fronteiras estaduais, desarticular as finanças do crime organizado e reestruturar o sistema penitenciário por meio do isolamento penal rígido e do trabalho obrigatório para reinserção e custeio do sistema. O objetivo é consolidar a instituição como peça estratégica e integrada no subsistema de segurança pública, otimizando o fluxo de informações com a SESP-MT e garantindo máxima eficiência no controle, na custódia e na governança do sistema prisional estadual.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "O objetivo central é consolidar Mato Grosso como o principal polo logístico e agroindustrial da América do Sul, convertendo a pujança econômica do setor primário em desenvolvimento estrutural, segurança pública integral, saúde responsiva e educação voltada para a nova economia global."
+            },
+            {
+              "id": "s08",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Fase do Projeto Ação Governamental Órgãos Envolvidos Fase I Automatização do Licenciamento e Estabilização Normativa SEMA-MT, SEFAZ-MT Fase II Implantação das ZDIs e Atração de Fábricas de Insumos SEDEC-MT, SINFRA-MT Assegurar o controle territorial e das fronteiras estaduais, desarticular as finanças do crime organizado e reestruturar o sistema penitenciário por meio do isolamento penal rígido e do trabalho obrigatório para reinserção e custeio do sistema."
+            },
+            {
+              "id": "s09",
+              "page_start": 6,
+              "page_end": 11,
+              "text": "O objetivo é consolidar a instituição como peça estratégica e integrada no subsistema de segurança pública, otimizando o fluxo de informações com a SESP-MT e garantindo máxima eficiência no controle, na custódia e na governança do sistema prisional estadual. Unidade de inteligência altamente integrada entre a Polícia Civil (por meio do Laboratório de Tecnologia contra Lavagem de Dinheiro - LAB-LD), o setor de inteligência da Polícia Penal e a SEFAZ-MT para identificação, bloqueio e confisco de bens e ativos de facções, com a reversão imediata desses recursos para o reaparelhamento das forças de segurança."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Esse incremento de eficiência e dinamismo econômico provê a sustentabilidade financeira indispensável para o financiamento robusto e contínuo da Saúde com Gestão, da Segurança Pública de controle territorial estrito e de uma Educação voltada à formação técnica, disciplinar e tecnológica das futuras gerações."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 4,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A coordenação das ações ficará a cargo da Secretaria de Estado de Infraestrutura e Logística (SINFRA-MT), em parceria com a Secretaria de Estado de Desenvolvimento Econômico (SEDEC-MT) e a Agência Estadual de Regulação dos Serviços Públicos Delegados (AGER-MT).",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "A coordenação das ações ficará a cargo da Secretaria de Estado de Infraestrutura e Logística (SINFRA-MT), em parceria com a Secretaria de Estado de Desenvolvimento Econômico (SEDEC-MT) e a Agência Estadual de Regulação dos Serviços Públicos Delegados (AGER-MT)."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 15,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Sua fundamentação assenta-se na técnica administrativa, na responsabilidade fiscal, na segurança jurídica e na eficiência operacional, utilizando dados consolidados de órgãos oficiais. Diagnóstico Mato Grosso possui uma situação fiscal controlada, enquadrando-se nos limites da Lei de Responsabilidade Fiscal (LRF) quanto à despesa com pessoal. A Governança Inegociável da Máquina Pública O alicerce que confere viabilidade a todo este ecossistema de metas é o binômio composto pela Responsabilidade Fiscal e pelo Corte de Privilégios.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Sua fundamentação assenta-se na técnica administrativa, na responsabilidade fiscal, na segurança jurídica e na eficiência operacional, utilizando dados consolidados de órgãos oficiais."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Diagnóstico Mato Grosso possui uma situação fiscal controlada, enquadrando-se nos limites da Lei de Responsabilidade Fiscal (LRF) quanto à despesa com pessoal."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "A Governança Inegociável da Máquina Pública O alicerce que confere viabilidade a todo este ecossistema de metas é o binômio composto pela Responsabilidade Fiscal e pelo Corte de Privilégios."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 4,
+          "page_end": 4,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Reestruturação do Sistema Integrado de Monitoramento e Licenciamento Ambiental (SIMLAM) da SEMA-MT, com implantação de inteligência artificial para análise automatizada de processos de baixo risco.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Reestruturação do Sistema Integrado de Monitoramento e Licenciamento Ambiental (SIMLAM) da SEMA-MT, com implantação de inteligência artificial para análise automatizada de processos de baixo risco."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 15,
+          "page_end": 15,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A elaboração destas Diretrizes Estratégicas de Governo para o quadriênio 2027–2030 consolida um novo paradigma para a gestão pública do Estado de Mato Grosso.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "A elaboração destas Diretrizes Estratégicas de Governo para o quadriênio 2027–2030 consolida um novo paradigma para a gestão pública do Estado de Mato Grosso."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002544985",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002544985_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002544985_01.pdf",
+      "sha256": "7fd01763297bbce7ce4bf327d0d896382fa97be7280ff8f5eb1e86641db81ef5",
+      "summary": "O cuidado tem método Plano de Governo 2027 - 2030 diferente Tem que fazer Gente Tem que cuidar de “ Diagnóstico O IDEB de 2025 mostra Mato Grosso acima da meta nos anos iniciais (6,3) e abaixo dela nos anos ﬁnais (5,1) e no ensino médio (4,4). No ensino médio queda do abandono de 10,5% para 0,2% e reprovação de 18,3% para 1% entre 2022 e 2025, porém, esses dados não retratam a realidade conforme denúncias. Exercer plenamente as competências constitucionais do Estado no ensino fundamental e no ensino médio, em regime de colaboração com a União e os municípios, fortalecendo a capacidade pública de planejamento, regulação, produção de tecnologia educacional e formação docente, sem transferência das responsabilidades estatais ao setor privado. A espera por consulta com especialista, exame, cirurgia e vaga para internação é o maior sofrimento da saúde pública mato-grossense — e o estado não a mede: no plano plurianual 2024-2027, o objetivo chamado \"melhorar o acesso da população à atenção especializada\" tem cinco indicadores, e nenhum registra se o paciente conseguiu a consulta ou quanto esperou. Fila que não anda e posto que fecha a porta também são reﬂexo de médico, enfermeiro e agente comunitário que faltam ou adoecem no caminho, e sistema que cobra meta de quem atende sem cuidar de quem atende não se sustenta: plano de carreira do SUS estadual, construído com as entidades representativas da categoria na mesma mesa permanente de negociação prevista para todo o funcionalismo, cumprimento do piso da enfermagem, já garantido por lei federal, em toda a rede, política permanente de saúde mental e prevenção ao esgotamento do trabalhador da saúde, e reposição regular de médicos, enfermeiros e agentes comunitários nas regiões com maior déﬁcit, com prioridade para o interior. Contribuir com os municípios, fortalecendo os serviços de atenção à saúde mental existentes, com número de proﬁssionais (psicólogos, psiquiatras, assisten Plano de Governo 2027 - 2030 Frente III - Cuidado que protege Segurança Pública Diagnóstico A impunidade também tem endereço técnico. E a política para a mulher mato-grossense está hoje espalhada pela saúde, pela segurança, pela assistência social e pelo desenvolvimento econômico, sem que nenhum órgão responda pelo conjunto — por isso este plano reúne, num eixo só, o diagnóstico e o compromisso completo do Estado com a mulher.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "education"
+          ],
+          "summary": "O cuidado tem método Plano de Governo 2027 - 2030 diferente Tem que fazer Gente Tem que cuidar de “ Diagnóstico O IDEB de 2025 mostra Mato Grosso acima da meta nos anos iniciais (6,3) e abaixo dela nos anos ﬁnais (5,1) e no ensino médio (4,4). No ensino médio queda do abandono de 10,5% para 0,2% e reprovação de 18,3% para 1% entre 2022 e 2025, porém, esses dados não retratam a realidade conforme denúncias. Exercer plenamente as competências constitucionais do Estado no ensino fundamental e no ensino médio, em regime de colaboração com a União e os municípios, fortalecendo a capacidade pública de planejamento, regulação, produção de tecnologia educacional e formação docente, sem transferência das responsabilidades estatais ao setor privado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "O cuidado tem método Plano de Governo 2027 - 2030 diferente Tem que fazer Gente Tem que cuidar de “ Diagnóstico O IDEB de 2025 mostra Mato Grosso acima da meta nos anos iniciais (6,3) e abaixo dela nos anos ﬁnais (5,1) e no ensino médio (4,4). No ensino médio queda do abandono de 10,5% para 0,2% e reprovação de 18,3% para 1% entre 2022 e 2025, porém, esses dados não retratam a realidade conforme denúncias."
+            },
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Exercer plenamente as competências constitucionais do Estado no ensino fundamental e no ensino médio, em regime de colaboração com a União e os municípios, fortalecendo a capacidade pública de planejamento, regulação, produção de tecnologia educacional e formação docente, sem transferência das responsabilidades estatais ao setor privado. Ampliar gradualmente as escolas de tempo integral, com currículo atrativo e capaz de promover aprendizagem, convivência, proteção social, cultura, artes, ciência, esporte e desenvolvimento socioemocional."
+            },
+            {
+              "id": "s05",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Ensino Superior, ciência e universidade como motores do desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 26,
+          "topics": [
+            "health"
+          ],
+          "summary": "A espera por consulta com especialista, exame, cirurgia e vaga para internação é o maior sofrimento da saúde pública mato-grossense — e o estado não a mede: no plano plurianual 2024-2027, o objetivo chamado \"melhorar o acesso da população à atenção especializada\" tem cinco indicadores, e nenhum registra se o paciente conseguiu a consulta ou quanto esperou. Fila que não anda e posto que fecha a porta também são reﬂexo de médico, enfermeiro e agente comunitário que faltam ou adoecem no caminho, e sistema que cobra meta de quem atende sem cuidar de quem atende não se sustenta: plano de carreira do SUS estadual, construído com as entidades representativas da categoria na mesma mesa permanente de negociação prevista para todo o funcionalismo, cumprimento do piso da enfermagem, já garantido por lei federal, em toda a rede, política permanente de saúde mental e prevenção ao esgotamento do trabalhador da saúde, e reposição regular de médicos, enfermeiros e agentes comunitários nas regiões com maior déﬁcit, com prioridade para o interior. Contribuir com os municípios, fortalecendo os serviços de atenção à saúde mental existentes, com número de proﬁssionais (psicólogos, psiquiatras, assisten",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "A espera por consulta com especialista, exame, cirurgia e vaga para internação é o maior sofrimento da saúde pública mato-grossense — e o estado não a mede: no plano plurianual 2024-2027, o objetivo chamado \"melhorar o acesso da população à atenção especializada\" tem cinco indicadores, e nenhum registra se o paciente conseguiu a consulta ou quanto esperou."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "Fila que não anda e posto que fecha a porta também são reﬂexo de médico, enfermeiro e agente comunitário que faltam ou adoecem no caminho, e sistema que cobra meta de quem atende sem cuidar de quem atende não se sustenta: plano de carreira do SUS estadual, construído com as entidades representativas da categoria na mesma mesa permanente de negociação prevista para todo o funcionalismo, cumprimento do piso da enfermagem, já garantido por lei federal, em toda a rede, política permanente de saúde mental e prevenção ao esgotamento do trabalhador da saúde, e reposição regular de médicos, enfermeiros e agentes comunitários nas regiões com maior déﬁcit, com prioridade para o interior. Contribuir com os municípios, fortalecendo os serviços de atenção à saúde mental existentes, com número de proﬁssionais (psicólogos, psiquiatras, assistentes sociais, dentre outros) na rede de atenção psicossocial, incluindo Centros de Especialidades Médicas e Centros de Atenção Psicossocial (CAPS)."
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "política permanente de capacitação, apoio psicossocial e cuidado com a saúde mental dos proﬁssionais das forças estaduais, com carreira valorizada e compatível com a função em cada força — Polícia Militar, Polícia Judiciária Civil, Corpo de Bombeiros, Politec e Polícia Penal —, construída na mesma mesa permanente de negociação prevista para todo o funcionalismo, porque agente adoecido e sem formação continuada custa caro ao cidadão — em erro, em afastamento e em conﬁança perdida."
+            },
+            {
+              "id": "s08",
+              "page_start": 21,
+              "page_end": 26,
+              "text": "Gestante que não é acompanhada é mãe e ﬁlho em risco, e a mulher do interior descobre tarde o que a da capital descobre cedo — o que acontece do pré-natal à hora do parto ainda depende de onde ela teve a sorte de ser atendida: o estado pactua com os municípios a busca ativa e o acompanhamento de cada gestante do território, para reverter a mortalidade materno-infantil acima da média nacional; mutirões de exames e cirurgias femininas, rastreamento do câncer de mama e do colo do útero, atendimento para endometriose e climatério, unidades móveis onde não há serviço próprio, centros de referência em saúde da mulher por região e protocolo de parto humanizado em toda a rede — com acompanhante garantido, respeito às práticas culturais das mulheres indígenas e do campo e revisão obrigatória de cada morte materna. Autonomia econômica para quem precisa romper o ciclo da violência."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 14,
+          "page_end": 26,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Plano de Governo 2027 - 2030 Frente III - Cuidado que protege Segurança Pública Diagnóstico A impunidade também tem endereço técnico. enfrentamento do déﬁcit de vagas priorizando mutirão permanente de revisão de situação processual, para reduzir o excesso de presos provisórios, e alternativas penais para crime sem violência, com ampliação da capacidade apenas onde a superlotação persistir mesmo após essas medidas, para que a unidade prisional deixe de ser escola de recrutamento do crime organizado. integração entre meio ambiente e segurança pública contra o desmatamento criminoso, o garimpo e a extração de minerais ilegais, com o produtor regularizado como parceiro da ﬁscalização, universalização do cadastro ambiental rural digital e revisão do ICMS Ecológico para remunerar quem protege o território.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "Plano de Governo 2027 - 2030 Frente III - Cuidado que protege Segurança Pública Diagnóstico A impunidade também tem endereço técnico. enfrentamento do déﬁcit de vagas priorizando mutirão permanente de revisão de situação processual, para reduzir o excesso de presos provisórios, e alternativas penais para crime sem violência, com ampliação da capacidade apenas onde a superlotação persistir mesmo após essas medidas, para que a unidade prisional deixe de ser escola de recrutamento do crime organizado."
+            },
+            {
+              "id": "s08",
+              "page_start": 21,
+              "page_end": 26,
+              "text": "integração entre meio ambiente e segurança pública contra o desmatamento criminoso, o garimpo e a extração de minerais ilegais, com o produtor regularizado como parceiro da ﬁscalização, universalização do cadastro ambiental rural digital e revisão do ICMS Ecológico para remunerar quem protege o território."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 19,
+          "page_end": 29,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "E a política para a mulher mato-grossense está hoje espalhada pela saúde, pela segurança, pela assistência social e pelo desenvolvimento econômico, sem que nenhum órgão responda pelo conjunto — por isso este plano reúne, num eixo só, o diagnóstico e o compromisso completo do Estado com a mulher. programa de desburocratização e crédito para a pequena e a média empresa, com a geração de emprego formal no interior acompanhada por indicador próprio de distribuição regional.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "E a política para a mulher mato-grossense está hoje espalhada pela saúde, pela segurança, pela assistência social e pelo desenvolvimento econômico, sem que nenhum órgão responda pelo conjunto — por isso este plano reúne, num eixo só, o diagnóstico e o compromisso completo do Estado com a mulher."
+            },
+            {
+              "id": "s09",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "programa de desburocratização e crédito para a pequena e a média empresa, com a geração de emprego formal no interior acompanhada por indicador próprio de distribuição regional."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 26,
+          "page_end": 29,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "programa estadual de devolução do ICMS às famílias do Cadastro Único com renda de até três salários-mínimos, antecipando em Mato Grosso o que a reforma tributária federal só entrega no ﬁm da década, com impacto ﬁscal estimado e compensado na forma da Lei de Responsabilidade Fiscal. Valorizar o servidor por meio de mesa permanente de negociação com as entidades representativas, tratando de carreira, remuneração e condições de trabalho, dentro da responsabilidade ﬁscal do Estado.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "programa estadual de devolução do ICMS às famílias do Cadastro Único com renda de até três salários-mínimos, antecipando em Mato Grosso o que a reforma tributária federal só entrega no ﬁm da década, com impacto ﬁscal estimado e compensado na forma da Lei de Responsabilidade Fiscal. Valorizar o servidor por meio de mesa permanente de negociação com as entidades representativas, tratando de carreira, remuneração e condições de trabalho, dentro da responsabilidade ﬁscal do Estado."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 21,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Embora a educação infantil seja de competência prioritária dos municípios, o Estado criará linha orçamentária especíﬁca e fortalecerá a atuação intersetorial das secretarias de Educação, Saúde e Assistência Social. Ampliar gradualmente as escolas de tempo integral, com currículo atrativo e capaz de promover aprendizagem, convivência, proteção social, cultura, artes, ciência, esporte e desenvolvimento socioemocional. programas permanentes de prevenção nos bairros mais vulneráveis — esporte, cultura, escola e enfrentamento ao álcool e às drogas —, conselhos de segurança com poder real de propor e cobrar ações, e atuação integrada da segurança com educação, saúde e assistência social, porque a violência não nasce dentro da delegacia.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "Embora a educação infantil seja de competência prioritária dos municípios, o Estado criará linha orçamentária especíﬁca e fortalecerá a atuação intersetorial das secretarias de Educação, Saúde e Assistência Social."
+            },
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Ampliar gradualmente as escolas de tempo integral, com currículo atrativo e capaz de promover aprendizagem, convivência, proteção social, cultura, artes, ciência, esporte e desenvolvimento socioemocional."
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "programas permanentes de prevenção nos bairros mais vulneráveis — esporte, cultura, escola e enfrentamento ao álcool e às drogas —, conselhos de segurança com poder real de propor e cobrar ações, e atuação integrada da segurança com educação, saúde e assistência social, porque a violência não nasce dentro da delegacia. E a política para a mulher mato-grossense está hoje espalhada pela saúde, pela segurança, pela assistência social e pelo desenvolvimento econômico, sem que nenhum órgão responda pelo conjunto — por isso este plano reúne, num eixo só, o diagnóstico e o compromisso completo do Estado com a mulher."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 21,
+          "page_end": 26,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Plano de Governo 2027 - 2030 Frente VI - Cuidado que desenvolve Economia, Meio Ambiente e Agricultura Diagnóstico Mato Grosso produz quase um terço dos grãos do Brasil, mas distribui muito mal as condições dessa produção: 68,79% dos estabelecimentos agropecuários do estado são de agricultura familiar e ocupam apenas 9,34% da área rural — e, entre eles, só 15,91% acessam crédito, enquanto 87,49% não recebem nenhuma assistência técnica.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 21,
+              "page_end": 26,
+              "text": "Plano de Governo 2027 - 2030 Frente VI - Cuidado que desenvolve Economia, Meio Ambiente e Agricultura Diagnóstico Mato Grosso produz quase um terço dos grãos do Brasil, mas distribui muito mal as condições dessa produção: 68,79% dos estabelecimentos agropecuários do estado são de agricultura familiar e ocupam apenas 9,34% da área rural — e, entre eles, só 15,91% acessam crédito, enquanto 87,49% não recebem nenhuma assistência técnica. No meio ambiente está o dado mais grave do eixo."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 21,
+          "page_end": 26,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Plano de Governo 2027 - 2030 Frente VI - Cuidado que desenvolve Economia, Meio Ambiente e Agricultura Diagnóstico Mato Grosso produz quase um terço dos grãos do Brasil, mas distribui muito mal as condições dessa produção: 68,79% dos estabelecimentos agropecuários do estado são de agricultura familiar e ocupam apenas 9,34% da área rural — e, entre eles, só 15,91% acessam crédito, enquanto 87,49% não recebem nenhuma assistência técnica.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 21,
+              "page_end": 26,
+              "text": "Plano de Governo 2027 - 2030 Frente VI - Cuidado que desenvolve Economia, Meio Ambiente e Agricultura Diagnóstico Mato Grosso produz quase um terço dos grãos do Brasil, mas distribui muito mal as condições dessa produção: 68,79% dos estabelecimentos agropecuários do estado são de agricultura familiar e ocupam apenas 9,34% da área rural — e, entre eles, só 15,91% acessam crédito, enquanto 87,49% não recebem nenhuma assistência técnica. Crédito e assistência técnica para a agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 11,
+          "page_end": 11,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Promover Programa estadual de formação de diretores e coordenadores, mais autonomia de gestão para o diretor, com suporte técnico da Secretaria, não isolamento na responsabilidade pelo resultado, e corte da papelada que tira o gestor da sala de aula; plataforma estadual de aprendizagem e uso de inteligência artiﬁcial como apoio ao planejamento e à correção do professor — nunca no lugar dele —, com formação digital docente e regras claras de uso responsável pelos estudantes. Promover formação ética e capacitação técnica em inteligência artiﬁcial, proteção de dados, tecnologias digitais e robótica para os proﬁssionais da educação.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Promover Programa estadual de formação de diretores e coordenadores, mais autonomia de gestão para o diretor, com suporte técnico da Secretaria, não isolamento na responsabilidade pelo resultado, e corte da papelada que tira o gestor da sala de aula; plataforma estadual de aprendizagem e uso de inteligência artiﬁcial como apoio ao planejamento e à correção do professor — nunca no lugar dele —, com formação digital docente e regras claras de uso responsável pelos estudantes. Promover formação ética e capacitação técnica em inteligência artiﬁcial, proteção de dados, tecnologias digitais e robótica para os proﬁssionais da educação."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 26,
+          "page_end": 29,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "fomento à lapidação de gemas e pedras preciosas como economia criativa e apoio a outras cadeias produtivas nos municípios de atividade mineral, para que a riqueza do subsolo deixe alguma coisa em cima dele.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "fomento à lapidação de gemas e pedras preciosas como economia criativa e apoio a outras cadeias produtivas nos municípios de atividade mineral, para que a riqueza do subsolo deixe alguma coisa em cima dele."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 19,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "A população que mais depende do Estado, pessoas com deﬁciência, idosos, população LGBTQIA+, povos indígenas e comunidades tradicionais, é atendida por ações espalhadas em várias secretarias, sem que ninguém acompanhe num lugar só se a política está de fato chegando até ela e o que não se acompanha, não vira prioridade. Garantir formação continuada e especíﬁca aos proﬁssionais da educação para o atendimento de estudantes autistas, com deﬁciência intelectual, física, sensorial ou múltipla, contemplando comunicação alternativa, tecnologia assistiva, acessibilidade pedagógica e apoio comportamental positivo, não coercitivo, baseado em evidências e nos direitos da pessoa com deﬁciência. 12.Centros Regionais de Habilitação, Reabilitação e Apoio à Pessoa com Deﬁciência.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "A população que mais depende do Estado, pessoas com deﬁciência, idosos, população LGBTQIA+, povos indígenas e comunidades tradicionais, é atendida por ações espalhadas em várias secretarias, sem que ninguém acompanhe num lugar só se a política está de fato chegando até ela e o que não se acompanha, não vira prioridade."
+            },
+            {
+              "id": "s02",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "Garantir formação continuada e especíﬁca aos proﬁssionais da educação para o atendimento de estudantes autistas, com deﬁciência intelectual, física, sensorial ou múltipla, contemplando comunicação alternativa, tecnologia assistiva, acessibilidade pedagógica e apoio comportamental positivo, não coercitivo, baseado em evidências e nos direitos da pessoa com deﬁciência."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "12.Centros Regionais de Habilitação, Reabilitação e Apoio à Pessoa com Deﬁciência."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 11,
+          "page_end": 29,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A educação integral deverá ampliar as oportunidades das crianças e dos adolescentes, fortalecer seus vínculos comunitários e apoiar as famílias, sem transformar a escola em espaço de vigilância ou controle social. O plano não se propõe a criar componentes inexistentes, mas a dar coerência estratégica, orientação por evidências e propósito de desenvolvimento ao que já existe — transformando o que hoje é setorial e fragmentado em um sistema uniﬁcado de inteligência e gestão pública, no qual cada real investido na universidade produz retorno social, econômico, ambiental e tecnológico mensurável. Plano de Governo 2027 - 2030 Frente VII - Cuidado com responsabilidade Gestão Pública, Fiscal e Governo Digital Diagnóstico O problema ﬁscal de Mato Grosso não é falta de arrecadação — é a distância entre o que se orça e o que se entrega.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "A educação integral deverá ampliar as oportunidades das crianças e dos adolescentes, fortalecer seus vínculos comunitários e apoiar as famílias, sem transformar a escola em espaço de vigilância ou controle social."
+            },
+            {
+              "id": "s05",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "O plano não se propõe a criar componentes inexistentes, mas a dar coerência estratégica, orientação por evidências e propósito de desenvolvimento ao que já existe — transformando o que hoje é setorial e fragmentado em um sistema uniﬁcado de inteligência e gestão pública, no qual cada real investido na universidade produz retorno social, econômico, ambiental e tecnológico mensurável."
+            },
+            {
+              "id": "s09",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Plano de Governo 2027 - 2030 Frente VII - Cuidado com responsabilidade Gestão Pública, Fiscal e Governo Digital Diagnóstico O problema ﬁscal de Mato Grosso não é falta de arrecadação — é a distância entre o que se orça e o que se entrega. volta o indicador de transparência comparável com outros estados, com portal único trazendo as metas de cada eixo de governo — e não só a execução do orçamento —, canal de controle social com poder real de acompanhar obras e contratos, integração concluída das bases entre os órgãos estaduais e serviços do estado disponíveis do começo ao ﬁm em canal digital único, com indicador público de adesão por secretaria."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002551480",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002551480_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002551480_01.pdf",
+      "sha256": "0be1d52602122bfbc44f6a0a8908b61b5e7db96524f6212b532fe93fc8039aec",
+      "summary": "o asfalto garantido na porta da sua casa; a escola pública que ensina e exige de verdade; a consulta ou cirurgia sem fila e perto de casa; a segurança que devolve a paz às nossas famílias. Essas conquistas são percebidas no dia a dia, seja na oferta de empregos, no salto de qualidade da educação pública, no volume recorde de investimentos em infraestrutura e logística, na entrega de títulos de regularização fundiária e no apoio direto à agricultura familiar. Concessão de bolsas de ação afirmativa para acesso de estudantes quilombolas ao ensino superior via UFMT. pela eliminação do tempo de espera para cirurgias e exames; pelo combate às facções criminosas; pelo fortalecimento da atenção básica e especializada nos polos municipais; pela ampliação de vagas na educação infantil e nas creches; pelo apoio continuado à infraestrutura rural e vicinal para o escoamento da pequena e média produção; pelo acesso contínuo ao saneamento básico e água tratada; e pela ampliação das políticas de proteção e autonomia financeira das mulheres e populações vulneráveis. Diante desse cenário, a administração estadual organizou as contas e colocou em prática a diretriz de descentralizar e regionalizar os serviços, garantindo que a saúde pública funcione com alta qualidade e esteja cada vez mais perto de onde o cidadão vive. E também fez o retrofit de unidades especializadas como a Escola de Saúde Pública, o Centro Logístico de Abastecimento (CELAD), o MT Hemocentro, o CERMAC, o CRIDAC, o Centro de Atenção Psiquiátrica Adauto Botelho e a Santa Casa e o Hospital Metropolitano. consolidar a saúde mais perto das pessoas; combater o crime organizado com tolerância zero; garantir que as nossas mulheres sejam respeitadas e protegidas e assegurar que a nossa juventude aprenda uma profissão e encontre oportunidade de trabalho. Se o primeiro ciclo de gestão foi dedicado a arrumar a casa, quitar dívidas antigas, resgatar as finanças e erguer grandes obras, o próximo passo é garantir que toda essa estrutura funcione com excelência na vida do cidadão: usar a tecnologia, a inovação e o planejamento integrado para cortar burocracias, acabar de vez com as filas na saúde, modernizar a segurança pública e fazer com que os serviços do Estado cheguem com agilidade, facilidade e qualidade real na ponta.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 48,
+          "topics": [
+            "education"
+          ],
+          "summary": "o asfalto garantido na porta da sua casa; a escola pública que ensina e exige de verdade; a consulta ou cirurgia sem fila e perto de casa; a segurança que devolve a paz às nossas famílias. Essas conquistas são percebidas no dia a dia, seja na oferta de empregos, no salto de qualidade da educação pública, no volume recorde de investimentos em infraestrutura e logística, na entrega de títulos de regularização fundiária e no apoio direto à agricultura familiar. Bolsas PROINQ: Concessão de bolsas de ação afirmativa para acesso de estudantes quilombolas ao ensino superior via UFMT.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "o asfalto garantido na porta da sua casa; a escola pública que ensina e exige de verdade; a consulta ou cirurgia sem fila e perto de casa; a segurança que devolve a paz às nossas famílias. Essas conquistas são percebidas no dia a dia, seja na oferta de empregos, no salto de qualidade da educação pública, no volume recorde de investimentos em infraestrutura e logística, na entrega de títulos de regularização fundiária e no apoio direto à agricultura familiar."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Bolsas PROINQ: Concessão de bolsas de ação afirmativa para acesso de estudantes quilombolas ao ensino superior via UFMT. Gestão Pedagógica, Recomposição e Avaliação (Programas de recomposição da aprendizagem, inteligência artificial pedagógica e preparação para o ensino superior) Plataformas de Aprendizagem e IA: Recomposição via IA (Plataforma LETRUS): Correção de redação e escrita guiada por Inteligência Artificial para estudantes do Ensino Fundamental e Médio."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 27,
+              "text": "Regime de colaboração com municípios para ampliação de vagas em creches de tempo integral e pré-escolas, permitindo a conciliação entre maternidade, estudos e trabalho."
+            },
+            {
+              "id": "s15",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "O diagnóstico das demandas identificadas nas diferentes regiões do Estado revela que os gargalos de infraestrutura, saúde, saneamento e educação infantil só puderam ser enfrentados - e continuarão a ser equacionados - porque o governo manteve a capacidade financeira de investir com recursos próprios."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "Além disso, aportes financeiros estaduais permitiram a construção e ampliação de creches e Centros Municipais de Educação Infantil em dezenas de cidades."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 48,
+          "topics": [
+            "health"
+          ],
+          "summary": "pela eliminação do tempo de espera para cirurgias e exames; pelo combate às facções criminosas; pelo fortalecimento da atenção básica e especializada nos polos municipais; pela ampliação de vagas na educação infantil e nas creches; pelo apoio continuado à infraestrutura rural e vicinal para o escoamento da pequena e média produção; pelo acesso contínuo ao saneamento básico e água tratada; e pela ampliação das políticas de proteção e autonomia financeira das mulheres e populações vulneráveis. Diante desse cenário, a administração estadual organizou as contas e colocou em prática a diretriz de descentralizar e regionalizar os serviços, garantindo que a saúde pública funcione com alta qualidade e esteja cada vez mais perto de onde o cidadão vive. E também fez o retrofit de unidades especializadas como a Escola de Saúde Pública, o Centro Logístico de Abastecimento (CELAD), o MT Hemocentro, o CERMAC, o CRIDAC, o Centro de Atenção Psiquiátrica Adauto Botelho e a Santa Casa e o Hospital Metropolitano.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "pela eliminação do tempo de espera para cirurgias e exames; pelo combate às facções criminosas; pelo fortalecimento da atenção básica e especializada nos polos municipais; pela ampliação de vagas na educação infantil e nas creches; pelo apoio continuado à infraestrutura rural e vicinal para o escoamento da pequena e média produção; pelo acesso contínuo ao saneamento básico e água tratada; e pela ampliação das políticas de proteção e autonomia financeira das mulheres e populações vulneráveis."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "Diante desse cenário, a administração estadual organizou as contas e colocou em prática a diretriz de descentralizar e regionalizar os serviços, garantindo que a saúde pública funcione com alta qualidade e esteja cada vez mais perto de onde o cidadão vive. E também fez o retrofit de unidades especializadas como a Escola de Saúde Pública, o Centro Logístico de Abastecimento (CELAD), o MT Hemocentro, o CERMAC, o CRIDAC, o Centro de Atenção Psiquiátrica Adauto Botelho e a Santa Casa e o Hospital Metropolitano."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 27,
+              "text": "Expansão dos atendimentos em saúde mental para mães atípicas, cuidadoras e mulheres em situação de vulnerabilidade/violência."
+            },
+            {
+              "id": "s13",
+              "page_start": 33,
+              "page_end": 36,
+              "text": "Mais do que números, esse asfalto novo aproximou a saúde pública do interior, permitiu que o transporte escolar e as ambulâncias circulassem sem interrupções e reduziu o custo do frete."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "A parceria com os municípios foi expandida com a mesma intensidade para a saúde pública. Ao mesmo tempo, o programa Fila Zero e as ferramentas de Saúde Digital ampliaram consultas especializadas, exames e cirurgias eletivas das unidades municipais, descentralizando a regulação médica e devolvendo a dignidade ao atendimento de saúde da população."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 48,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "consolidar a saúde mais perto das pessoas; combater o crime organizado com tolerância zero; garantir que as nossas mulheres sejam respeitadas e protegidas e assegurar que a nossa juventude aprenda uma profissão e encontre oportunidade de trabalho. Se o primeiro ciclo de gestão foi dedicado a arrumar a casa, quitar dívidas antigas, resgatar as finanças e erguer grandes obras, o próximo passo é garantir que toda essa estrutura funcione com excelência na vida do cidadão: usar a tecnologia, a inovação e o planejamento integrado para cortar burocracias, acabar de vez com as filas na saúde, modernizar a segurança pública e fazer com que os serviços do Estado cheguem com agilidade, facilidade e qualidade real na ponta. Ampliação das Centrais de Regulação de Urgência (CRU) – SAMU e/ ou CIOSP (Centro Integrado de Operações de Segurança Pública), fortalecendo a rede já estruturada.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "consolidar a saúde mais perto das pessoas; combater o crime organizado com tolerância zero; garantir que as nossas mulheres sejam respeitadas e protegidas e assegurar que a nossa juventude aprenda uma profissão e encontre oportunidade de trabalho. Se o primeiro ciclo de gestão foi dedicado a arrumar a casa, quitar dívidas antigas, resgatar as finanças e erguer grandes obras, o próximo passo é garantir que toda essa estrutura funcione com excelência na vida do cidadão: usar a tecnologia, a inovação e o planejamento integrado para cortar burocracias, acabar de vez com as filas na saúde, modernizar a segurança pública e fazer com que os serviços do Estado cheguem com agilidade, facilidade e qualidade real na ponta."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "Ampliação das Centrais de Regulação de Urgência (CRU) – SAMU e/ ou CIOSP (Centro Integrado de Operações de Segurança Pública), fortalecendo a rede já estruturada."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Integração efetiva das políticas públicas e ocupação qualificada do contraturno escolar; Redução da evasão escolar, diminuição do recrutamento pelo crime organizado e fortalecimento dos vínculos familiares e comunitários."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Paralelamente, na faixa de fronteira com a Bolívia, os investimentos estaduais contínuos garantiram um prejuízo acumulado bilionário ao crime organizado. Ampliação da Força Tática e do Batalhão ROTAM em todas as Regiões Integradas de Segurança Pública como primeira resposta contra facções."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "A gestão estadual assumiu o controle do sistema prisional, transformando a realidade de unidades que antes sofriam com a superpopulação e a interferência externa."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 27,
+              "text": "O enfrentamento à violência contra a mulher não pode mais ser tratado de forma dispersa, como uma pauta menor e genérica diluída entre a segurança pública e a assistência social. Fiscalização eletrônica de agressores/vítimas sob medidas protetivas e inteligência da Segurança Pública para monitorar chamadas sem BO formalizado para prevenção de reincidências."
+            },
+            {
+              "id": "s10",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "A atuação integrada e estratégica entre a SEMA-MT, o Batalhão de Emergências Ambientais do Corpo de Bombeiros Militar, a Defesa Civil, a Polícia Militar e a Polícia Civil culminou na redução de 78,15% nos focos de calor."
+            },
+            {
+              "id": "s16",
+              "page_start": 41,
+              "page_end": 45,
+              "text": "E também houve a concessão de incentivos específicos, a exemplo dos auxílios de alimentação, fardamento, internet e aquisição de computadores para os profissionais da segurança pública e da educação. Na Segurança Pública, experiência e a prontidão das forças policiais foi valorizada com a regulamentação de jornadas extraordinárias, gratificações, abono de permanência e a criação da Atividade Voluntária de Natureza Militar e da Prestação por Tarefa por Tempo Certo, que permitem o aproveitamento temporário e voluntário da experiência de militares da reserva remunerada."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "Na segurança pública, a presença do Estado nas cidades deu um salto tecnológico com o programa Vigia Mais MT, que repassou milhares de câmeras de videomonitoramento aos municípios. Integrar o volume de dados do cercamento digital e das câmeras a algoritmos preditivos de inteligência fiscal e combate ao crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 38,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "No mercado de trabalho, Mato Grosso alcançou a condição de pleno emprego, registrando uma das menores taxas de desocupação do país, situada em torno de 2,3% a 3,0%. Embora o Estado já atue ativamente no enfrentamento de cada uma dessas pautas, a dimensão territorial e a velocidade do crescimento econômico mato-grossense exigem a evolução permanente das respostas governamentais. Articulação do Ensino Médio técnico da SEDUC com o Ensino Superior (cursos de tecnologia e outras áreas), permitindo o aproveitamento de créditos e uma formação mais rápida para o mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "No mercado de trabalho, Mato Grosso alcançou a condição de pleno emprego, registrando uma das menores taxas de desocupação do país, situada em torno de 2,3% a 3,0%. Embora o Estado já atue ativamente no enfrentamento de cada uma dessas pautas, a dimensão territorial e a velocidade do crescimento econômico mato-grossense exigem a evolução permanente das respostas governamentais."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Articulação do Ensino Médio técnico da SEDUC com o Ensino Superior (cursos de tecnologia e outras áreas), permitindo o aproveitamento de créditos e uma formação mais rápida para o mercado de trabalho."
+            },
+            {
+              "id": "s04",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "Esse calendário contínuo tem dinamizado o comércio local, a rede hoteleira e o setor de gastronomia, provando que o investimento em esporte e cultura não é apenas uma entrega social, mas uma engrenagem eficaz de geração de emprego, renda e desenvolvimento regional."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Essa articulação entre acolhimento e inserção produtiva acelerou a emancipação socioeconômica das famílias em um contexto regional de mercado de trabalho aquecido. Oferta compulsória/direcionada de cursos de capacitação técnica, qualificação profissional e encaminhamento prioritário ao mercado de trabalho formal."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 27,
+              "text": "Para assegurar a permanência das mães no mercado de trabalho, firmamos a cooperação e o cofinanciamento direto com os municípios para a ampliação e construção de creches."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "No entanto, sabendo que a verdadeira prosperidade não se mede Plano de Governo 2027 - 2030 Plano de Governo 2027 - 2030 apenas por indicadores, mas pela efetiva melhoria da qualidade de vida nos municípios, a administração estadual estruturou frentes decisivas para garantir que o desenvolvimento econômico se traduzisse em inclusão, autonomia e elevação da renda das famílias mato-grossenses. O resultado combinado do crescimento econômico, da capacitação profissional e do apoio direto aos produtores rurais refletiu-se em uma redução histórica da pobreza e da desigualdade."
+            },
+            {
+              "id": "s14",
+              "page_start": 36,
+              "page_end": 38,
+              "text": "O resultado direto desse ecossistema desburocratizado foi a atração de 2.727 novas indústrias, apenas entre janeiro e outubro de 2025, e a manutenção do estado no patamar do pleno emprego formal. Fortalecer a governança estadual de dados, implantar serviços proativos e assegurar uso responsável de inteligência artificial no governo Ambiente de Negócios e Incentivos Fiscais: Consolidação do PRODEIC, PRODER e PROALMAT: Manter e aprimorar os incentivos tributários atrelados à geração de empregos, investimentos e processamento industrial no estado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 49,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Arrumamos a casa e provamos que é possível governar com responsabilidade fiscal e olhar humano. Como resultado desse esforço integrado entre responsabilidade fiscal, presença estatal e fomento ao desenvolvimento, dados do IBGE apontam que aproximadamente 309 mil mato-grossenses deixaram a condição de pobreza entre 2019 e 2024, demonstrando a efetividade de um governo parceiro que ampara os vulneráveis e cria caminhos reais para a prosperidade de toda a sociedade. Ao projetar os rumos de Mato Grosso para o período de 2027 a 2030, este plano de governo parte exatamente da sólida linha de base construída pela cultura do Fazimento e pela responsabilidade fiscal.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Arrumamos a casa e provamos que é possível governar com responsabilidade fiscal e olhar humano."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Como resultado desse esforço integrado entre responsabilidade fiscal, presença estatal e fomento ao desenvolvimento, dados do IBGE apontam que aproximadamente 309 mil mato-grossenses deixaram a condição de pobreza entre 2019 e 2024, demonstrando a efetividade de um governo parceiro que ampara os vulneráveis e cria caminhos reais para a prosperidade de toda a sociedade."
+            },
+            {
+              "id": "s15",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "Ao projetar os rumos de Mato Grosso para o período de 2027 a 2030, este plano de governo parte exatamente da sólida linha de base construída pela cultura do Fazimento e pela responsabilidade fiscal."
+            },
+            {
+              "id": "s18",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "Ao selar este pacto, reafirma-se que a responsabilidade fiscal, o rigor administrativo e a sobriedade na condução das ações estaduais serão os pilares garantidores da sustentabilidade de Mato Grosso."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 48,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Mobilização de alunos e professores das áreas de saúde e ciências humanas em mutirões de atendimento preventivo, apoio psicológico e assistência jurídica em periferias e no interior. Agora ele garante transferência direta de renda via cartão magnético, vinculada ao acompanhamento técnico contínuo nos Centros de Referência de Assistência Social (CRAS). Para garantir que a proteção pública funcione como uma ponte para a autonomia e a dignidade humana, o Estado associou as ações de transferência de renda à qualificação profissional por meio do Programa SER Família Capacita.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Mobilização de alunos e professores das áreas de saúde e ciências humanas em mutirões de atendimento preventivo, apoio psicológico e assistência jurídica em periferias e no interior."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Agora ele garante transferência direta de renda via cartão magnético, vinculada ao acompanhamento técnico contínuo nos Centros de Referência de Assistência Social (CRAS). Para garantir que a proteção pública funcione como uma ponte para a autonomia e a dignidade humana, o Estado associou as ações de transferência de renda à qualificação profissional por meio do Programa SER Família Capacita."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Essa mesma firmeza na repressão foi combinada com a responsabilidade social no sistema socioeducativo, que teve seu quadro profissional ampliado e infraestruturas totalmente reformadas com atendimento multidisciplinar e qualificação de jovens, além do fortalecimento das redes de proteção à mulher e combate à violência doméstica de forma transversal entre segurança e assistência social."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 27,
+              "text": "O enfrentamento à violência contra a mulher não pode mais ser tratado de forma dispersa, como uma pauta menor e genérica diluída entre a segurança pública e a assistência social."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "Para vencer o gargalo da escassez de mão de obra, o Governo do Estado integrou a Secretaria de Estado de Assistência Social e Cidadania (SETASC), a Secretaria de Estado de Ciência, Tecnologia e Inovação (SECITECI) e o SENAI-MT no lançamento do programa SER Família Capacita."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "No âmbito social, garantimos o cofinanciamento anual contínuo de R$101 milhões repassados pelo Fundo Estadual de Assistência Social aos 142 municípios, além de apoios estruturais para o fortalecimento das redes físicas dos CRAS e CREAS."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 21,
+          "page_end": 38,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Instituir um protocolo integrado de fiscalização e combate à poluição sonora urbana, articulando a Polícia Militar, o Corpo de Bombeiros, a Polícia Civil e as fiscalizações de meio ambiente/posturas dos municípios. Operada pela Secretaria de Estado de Meio Ambiente, a transição das análises manuais para fluxos de dados integrados promoveu um avanço histórico na celeridade processual.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Instituir um protocolo integrado de fiscalização e combate à poluição sonora urbana, articulando a Polícia Militar, o Corpo de Bombeiros, a Polícia Civil e as fiscalizações de meio ambiente/posturas dos municípios."
+            },
+            {
+              "id": "s14",
+              "page_start": 36,
+              "page_end": 38,
+              "text": "Operada pela Secretaria de Estado de Meio Ambiente, a transição das análises manuais para fluxos de dados integrados promoveu um avanço histórico na celeridade processual."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 36,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Essas conquistas são percebidas no dia a dia, seja na oferta de empregos, no salto de qualidade da educação pública, no volume recorde de investimentos em infraestrutura e logística, na entrega de títulos de regularização fundiária e no apoio direto à agricultura familiar. Apoio e acesso facilitado da agricultura familiar e negócios verdes às tecnologias desenvolvidas pela universidade. Essa mesma visão de inclusão produtiva e fortalecimento da economia local impulsionou o maior volume de investimento público da história de Mato Grosso direcionado à agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Essas conquistas são percebidas no dia a dia, seja na oferta de empregos, no salto de qualidade da educação pública, no volume recorde de investimentos em infraestrutura e logística, na entrega de títulos de regularização fundiária e no apoio direto à agricultura familiar."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Apoio e acesso facilitado da agricultura familiar e negócios verdes às tecnologias desenvolvidas pela universidade."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "Essa mesma visão de inclusão produtiva e fortalecimento da economia local impulsionou o maior volume de investimento público da história de Mato Grosso direcionado à agricultura familiar. Por meio da Secretaria de Estado de Agricultura Familiar (SEAF-MT) e da EMPAER-MT, foram aplicados R$ 817 milhões para modernizar o trabalho no campo e garantir renda diária a quem produz alimentos."
+            },
+            {
+              "id": "s13",
+              "page_start": 33,
+              "page_end": 36,
+              "text": "Estradas de terra atoladas na chuva e centenas de pontes precárias de madeira colocavam em risco o transporte de passageiros, o direito de ir e vir das famílias e o escoamento da produção rural."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 6,
+          "page_end": 48,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Gestão Pedagógica, Recomposição e Avaliação (Programas de recomposição da aprendizagem, inteligência artificial pedagógica e preparação para o ensino superior) Plataformas de Aprendizagem e IA: Recomposição via IA (Plataforma LETRUS): Correção de redação e escrita guiada por Inteligência Artificial para estudantes do Ensino Fundamental e Médio. Plataforma de Inteligência Artificial para análise preditiva de evasão e desempenho estudantil. Inteligência artificial a serviço da otimização do policiamento ostensivo.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Gestão Pedagógica, Recomposição e Avaliação (Programas de recomposição da aprendizagem, inteligência artificial pedagógica e preparação para o ensino superior) Plataformas de Aprendizagem e IA: Recomposição via IA (Plataforma LETRUS): Correção de redação e escrita guiada por Inteligência Artificial para estudantes do Ensino Fundamental e Médio. Plataforma de Inteligência Artificial para análise preditiva de evasão e desempenho estudantil."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Inteligência artificial a serviço da otimização do policiamento ostensivo."
+            },
+            {
+              "id": "s10",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Ampliar a digitalização, automação e uso de novas tecnologias para reduzir a burocracia, custos e tempo de resposta aos processos ambientais para o cidadão e o empreendedor."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "Inclusão de Inteligência Artificial, Automação, Empreendedorismo e Educação Financeira no currículo dos cursos. Formação da juventude em Inteligência Artificial, programação e tecnologias digitais."
+            },
+            {
+              "id": "s14",
+              "page_start": 36,
+              "page_end": 38,
+              "text": "É com base nessa realidade que o Plano de Governo 2027-2030 estabelece a expansão da transformação digital integrada entre todas as secretarias e autarquias estaduais. Princípio “O Estado não pede duas vezes”: Impedir que órgãos estaduais solicitem documentos, certidões ou laudos que o próprio Poder Executivo já possui em seus bancos de dados e possam ser legalmente compartilhados."
+            },
+            {
+              "id": "s16",
+              "page_start": 41,
+              "page_end": 45,
+              "text": "Por fim, a transformação digital da administração estadual modernizou a gestão de pessoas e desburocratizou a vida funcional do servidor. Ampliar, Plano de Governo 2027 - 2030 Plano de Governo 2027 - 2030 no Portal do Servidor, a oferta de serviços e informações sobre a vida funcional, com automação de processos, acompanhamento de solicitações e atendimento digital apoiado por Inteligência Artificial."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "A presença do Estado nos municípios também avançou por meio da transformação digital."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 15,
+          "page_end": 32,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Linha de crédito com juros subsidiados, via DesenvolveMT, voltada especificamente para pequenos empreendedores do setor cultural (artesãos, designers, produtores de eventos, músicos e desenvolvedores de mídias digitais). Foco estratégico nas demandas locais de Agricultura/Agronegócio, Comércio, Inovação, Tecnologia, Serviços e Economia Criativa.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "Linha de crédito com juros subsidiados, via DesenvolveMT, voltada especificamente para pequenos empreendedores do setor cultural (artesãos, designers, produtores de eventos, músicos e desenvolvedores de mídias digitais)."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "Foco estratégico nas demandas locais de Agricultura/Agronegócio, Comércio, Inovação, Tecnologia, Serviços e Economia Criativa."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 6,
+          "page_end": 32,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Ampliação dos programas de educação específicos para povos indígenas (formação de professores e cursos de graduação específicos. A descentralização foi fixada como compromisso ético, assegurando a cota de 60% dos recursos para os municípios do interior e 40% para a Região Metropolitana, além da destinação de verbas exclusivas para a preservação de culturas tradicionais, povos indígenas, quilombolas, matriz africana, grupos urbanos e populações vulneráveis. Programa específico de fomento e proteção para as manifestações culturais de povos indígenas, quilombolas e comunidades ribeirinhas do Pantanal, Araguaia e Amazônia mato-grossense, garantindo a preservação da memória e a geração de renda através do artesanato e do turismo de base comunitária.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Ampliação dos programas de educação específicos para povos indígenas (formação de professores e cursos de graduação específicos."
+            },
+            {
+              "id": "s04",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "A descentralização foi fixada como compromisso ético, assegurando a cota de 60% dos recursos para os municípios do interior e 40% para a Região Metropolitana, além da destinação de verbas exclusivas para a preservação de culturas tradicionais, povos indígenas, quilombolas, matriz africana, grupos urbanos e populações vulneráveis. Programa específico de fomento e proteção para as manifestações culturais de povos indígenas, quilombolas e comunidades ribeirinhas do Pantanal, Araguaia e Amazônia mato-grossense, garantindo a preservação da memória e a geração de renda através do artesanato e do turismo de base comunitária."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Fortalecimento dos Conselhos Tutelares, Conselhos de Direitos da Criança e do Adolescente e ampliação dos Centros de Referência em Direitos Humanos (CRDH)."
+            },
+            {
+              "id": "s11",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "Linha de fomento a pesquisas com povos indígenas, quilombolas e comunidades tradicionais com repartição de benefícios."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 6,
+          "page_end": 49,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Criação Plano de Governo 2027 - 2030 Plano de Governo 2027 - 2030 de mestrados e doutorados profissionais focados nas necessidades estratégicas do Estado (logística, biotecnologia, gestão pública e agregação de valor à produção primária). Reforçar a atuação das agências reguladoras estaduais (AGER-MT) com participação e controle social, estabelecendo metas rigorosas de qualidade, transparência em reajustes e canais diretos de reclamação para os usuários do transporte intermunicipal, energia e saneamento Ciente de que nenhuma política pública, obra estruturante ou transformação social se viabiliza sem o empenho direto dos homens e mulheres que dedicam suas vidas ao serviço público, a reorganização fiscal do Estado teve como prioridade imediata o resgate do respeito, da previsibilidade e da dignidade do servidor. A primeira especialização em Gestão Pública com foco na Eficiência formou 38 servidores em 2024.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Criação Plano de Governo 2027 - 2030 Plano de Governo 2027 - 2030 de mestrados e doutorados profissionais focados nas necessidades estratégicas do Estado (logística, biotecnologia, gestão pública e agregação de valor à produção primária)."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Reforçar a atuação das agências reguladoras estaduais (AGER-MT) com participação e controle social, estabelecendo metas rigorosas de qualidade, transparência em reajustes e canais diretos de reclamação para os usuários do transporte intermunicipal, energia e saneamento"
+            },
+            {
+              "id": "s16",
+              "page_start": 41,
+              "page_end": 45,
+              "text": "Ciente de que nenhuma política pública, obra estruturante ou transformação social se viabiliza sem o empenho direto dos homens e mulheres que dedicam suas vidas ao serviço público, a reorganização fiscal do Estado teve como prioridade imediata o resgate do respeito, da previsibilidade e da dignidade do servidor. A primeira especialização em Gestão Pública com foco na Eficiência formou 38 servidores em 2024."
+            },
+            {
+              "id": "s17",
+              "page_start": 45,
+              "page_end": 48,
+              "text": "Essa presença constante demonstrou que a eficiência administrativa e a austeridade fiscal não são fins em si mesmas, mas ferramentas indispensáveis para fazer o serviço público funcionar onde a vida acontece: dentro dos municípios."
+            },
+            {
+              "id": "s18",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "Mais do que divulgar atos oficiais, a gestão pública assumirá o dever de franquear ao cidadão o acompanhamento direto, em tempo real e via plataformas digitais integradas, de cada etapa física, orçamentária e financeira dos investimentos estaduais."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 6,
+          "page_end": 33,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Oferta de especializações e projetos de extensão voltados a energias renováveis (solar, biomassa e biogás) para a zona rural e distritos industriais. O maior símbolo dessa transformação agroindustrial é a consolidação de Mato Grosso como o polo líder nacional em etanol de milho e transição energética. Incentivo à ampliação de usinas para transformação do grão em etanol, biogás, óleo e ração proteica de alta qualidade (DDGS).",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 12,
+              "text": "Oferta de especializações e projetos de extensão voltados a energias renováveis (solar, biomassa e biogás) para a zona rural e distritos industriais."
+            },
+            {
+              "id": "s12",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "O maior símbolo dessa transformação agroindustrial é a consolidação de Mato Grosso como o polo líder nacional em etanol de milho e transição energética. Incentivo à ampliação de usinas para transformação do grão em etanol, biogás, óleo e ração proteica de alta qualidade (DDGS)."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002551737",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002551737_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002551737_01.pdf",
+      "sha256": "2224b04d7501d27b9b0965e3f07d27aa7498d0dd1a4d59e0fe5937d19b85e584",
+      "summary": "Hospitais Universitários Fomentar a implantação de hospitais universitários em Sinop e Rondonópolis. Reestruturação da Escola de Saúde Pública Reestruturar a Escola de Saúde Pública para atuar fortemente na educação continuada e no treinamento de servidores. Reestruturação do CEFAPRO Reabilitar os Centros de Formação e Atualização dos Profissionais da Educação Básica (CEFAPRO) e ampliar a oferta de formação em parceria com instituições acadêmicas, qualificando o suporte técnico-pedagógico nos polos regionais. no atendimento de saúde que chega a tempo, na escola que prepara nossos jovens, na estrada que aproxima as cidades, na segurança que protege as famílias, no emprego que oferece futuro, na infraestrutura que distribui nossas riquezas e no serviço público que respeita o cidadão. Valorização dos Profissionais da Segurança Pública, Sistema Penitenciário e Sócioeducativo Instituir política permanente de valorização dos profissionais da Segurança Pública, com especial atenção à saúde mental dos servidores A saúde pública precisa funcionar para o paciente, com atendimento oportuno, cuidado humano e presença regional. Saúde Mental e Rede de Atenção Psicossocial Promover a modernização do atendimento aos pacientes com transtornos mentais, Transtorno do Espectro Autista (TEA) e dependência química. Vamos valorizar nossas forças, fortalecer a investigação, combater o crime organizado e proteger as cidades, o campo e as nossas fronteiras. A segurança pública precisa ser tratada como política permanente de Estado, com autoridade, presença territorial e resposta rápida. Programa Estadual de Combate ao Crime Organizado Estruturar programa estadual integrado de enfrentamento ao crime organizado. O governo não precisa escolher entre o desenvolvimento econômico e o cuidado com as pessoas. Nosso compromisso é transformar o planejamento em ferramenta efetiva de gestão, integrando orçamento, monitoramento e transparência para que cada decisão seja orientada por prioridades claras e dados confiáveis, garantindo que Mato Grosso entregue serviços públicos de qualidade à população, com responsabilidade fiscal e eficiência administrativa. Política Estadual de Educação Inclusiva Instituir política estruturada para pessoas com deficiência e transtornos psicossociais integrando educação, saúde e assistência social.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 23,
+          "page_end": 28,
+          "topics": [
+            "education"
+          ],
+          "summary": "Hospitais Universitários Fomentar a implantação de hospitais universitários em Sinop e Rondonópolis. Reestruturação da Escola de Saúde Pública Reestruturar a Escola de Saúde Pública para atuar fortemente na educação continuada e no treinamento de servidores. Reestruturação do CEFAPRO Reabilitar os Centros de Formação e Atualização dos Profissionais da Educação Básica (CEFAPRO) e ampliar a oferta de formação em parceria com instituições acadêmicas, qualificando o suporte técnico-pedagógico nos polos regionais.",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Hospitais Universitários Fomentar a implantação de hospitais universitários em Sinop e Rondonópolis. Reestruturação da Escola de Saúde Pública Reestruturar a Escola de Saúde Pública para atuar fortemente na educação continuada e no treinamento de servidores."
+            },
+            {
+              "id": "s28",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Reestruturação do CEFAPRO Reabilitar os Centros de Formação e Atualização dos Profissionais da Educação Básica (CEFAPRO) e ampliar a oferta de formação em parceria com instituições acadêmicas, qualificando o suporte técnico-pedagógico nos polos regionais."
+            },
+            {
+              "id": "s29",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Avaliação e Gestão por Resultados Aperfeiçoar, em conjunto com os professores, as avaliações contínuas da aprendizagem dos estudantes com metas preestabelecidas para o Índice de Desenvolvimento da Educação Básica (IDEB)."
+            },
+            {
+              "id": "s31",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Política Estadual de Educação Inclusiva Instituir política estruturada para pessoas com deficiência e transtornos psicossociais integrando educação, saúde e assistência social. Identificação Precoce e Atendimento Individualizado Implantar protocolos de triagem e Planos Educacionais Individualizados (PEI) em todas as unidades."
+            },
+            {
+              "id": "s32",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "Educação em Tempo Integral Ampliar a educação em tempo integral na rede estadual, com planejamento regional e prioridade para municípios e escolas com maiores desafios de aprendizagem, permanência e vulnerabilidade social."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 26,
+          "topics": [
+            "health"
+          ],
+          "summary": "no atendimento de saúde que chega a tempo, na escola que prepara nossos jovens, na estrada que aproxima as cidades, na segurança que protege as famílias, no emprego que oferece futuro, na infraestrutura que distribui nossas riquezas e no serviço público que respeita o cidadão. Valorização dos Profissionais da Segurança Pública, Sistema Penitenciário e Sócioeducativo Instituir política permanente de valorização dos profissionais da Segurança Pública, com especial atenção à saúde mental dos servidores • A saúde pública precisa funcionar para o paciente, com atendimento oportuno, cuidado humano e presença regional. Saúde Mental e Rede de Atenção Psicossocial Promover a modernização do atendimento aos pacientes com transtornos mentais, Transtorno do Espectro Autista (TEA) e dependência química.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "no atendimento de saúde que chega a tempo, na escola que prepara nossos jovens, na estrada que aproxima as cidades, na segurança que protege as famílias, no emprego que oferece futuro, na infraestrutura que distribui nossas riquezas e no serviço público que respeita o cidadão."
+            },
+            {
+              "id": "s11",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Valorização dos Profissionais da Segurança Pública, Sistema Penitenciário e Sócioeducativo Instituir política permanente de valorização dos profissionais da Segurança Pública, com especial atenção à saúde mental dos servidores •"
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "A saúde pública precisa funcionar para o paciente, com atendimento oportuno, cuidado humano e presença regional."
+            },
+            {
+              "id": "s23",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Saúde Mental e Rede de Atenção Psicossocial Promover a modernização do atendimento aos pacientes com transtornos mentais, Transtorno do Espectro Autista (TEA) e dependência química. Saúde Animal Apoiar os municípios na realização de atendimento médico veterinário destinado a animais de estimação da população de baixa renda."
+            },
+            {
+              "id": "s26",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Dimensionamento dos Recursos Humanos Promover a valorização dos profissionais da saúde e o dimensionamento da força de trabalho, em conformidade com as normativas do Ministério da Saúde. Aumento do Faturamento da Saúde Promover a habilitação e homologação de todos os serviços disponibilizados pela Secretaria de Saúde de maneira a garantir o recebimento de recursos do Governo Federal pelos serviços prestados."
+            },
+            {
+              "id": "s27",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Reestruturação da Escola de Saúde Pública Reestruturar a Escola de Saúde Pública para atuar fortemente na educação continuada e no treinamento de servidores."
+            },
+            {
+              "id": "s31",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Cultura Inclusiva e Bem-Estar Escolar Promover ações de combate ao estigma e suporte à saúde mental da comunidade escolar, fortalecendo o vínculo entre escola e família."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 17,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Vamos valorizar nossas forças, fortalecer a investigação, combater o crime organizado e proteger as cidades, o campo e as nossas fronteiras. A segurança pública precisa ser tratada como política permanente de Estado, com autoridade, presença territorial e resposta rápida. Programa Estadual de Combate ao Crime Organizado Estruturar programa estadual integrado de enfrentamento ao crime organizado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Vamos valorizar nossas forças, fortalecer a investigação, combater o crime organizado e proteger as cidades, o campo e as nossas fronteiras."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "A segurança pública precisa ser tratada como política permanente de Estado, com autoridade, presença territorial e resposta rápida."
+            },
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Programa Estadual de Combate ao Crime Organizado Estruturar programa estadual integrado de enfrentamento ao crime organizado."
+            },
+            {
+              "id": "s11",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Política MT Seguro Instituir a Política de Gestão por Resultados denominada MT Seguro como modelo estadual permanente de gestão por resultados na segurança pública. Valorização dos Profissionais da Segurança Pública, Sistema Penitenciário e Sócioeducativo Instituir política permanente de valorização dos profissionais da Segurança Pública, com especial atenção à saúde mental dos servidores •"
+            },
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Videomonitoramento e Sensoriamento no Campo Incentivar a instalação de sistemas de videomonitoramento, drones e sensores em áreas estratégicas, integrados a centrais de comando e controle da Segurança Pública."
+            },
+            {
+              "id": "s16",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Ressocialização pelo Trabalho Implementar política integrada de ressocialização no sistema prisional."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 21,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O governo não precisa escolher entre o desenvolvimento econômico e o cuidado com as pessoas. Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa Recomeço com Trabalho e Proteção Instituir programa de recomeço para mulheres acolhidas com apoio intensivo à empregabilidade e inserção protegida no mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "O governo não precisa escolher entre o desenvolvimento econômico e o cuidado com as pessoas. Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa"
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Recomeço com Trabalho e Proteção Instituir programa de recomeço para mulheres acolhidas com apoio intensivo à empregabilidade e inserção protegida no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 9,
+          "page_end": 12,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Nosso compromisso é transformar o planejamento em ferramenta efetiva de gestão, integrando orçamento, monitoramento e transparência para que cada decisão seja orientada por prioridades claras e dados confiáveis, garantindo que Mato Grosso entregue serviços públicos de qualidade à população, com responsabilidade fiscal e eficiência administrativa. Vamos modernizar a administração tributária, simplificar a relação entre Estado e contribuinte, fortalecer a gestão fiscal e apoiar os municípios, transformando responsabilidade fiscal, eficiência e transparência em desenvolvimento, geração de oportunidades e melhores serviços para a população. Gestão Fiscal Equilibrada Adotar política austera de responsabilidade fiscal, com sistema de projeções de receitas orçamentárias atrelado à arrecadação tributária do Estado.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Nosso compromisso é transformar o planejamento em ferramenta efetiva de gestão, integrando orçamento, monitoramento e transparência para que cada decisão seja orientada por prioridades claras e dados confiáveis, garantindo que Mato Grosso entregue serviços públicos de qualidade à população, com responsabilidade fiscal e eficiência administrativa."
+            },
+            {
+              "id": "s08",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "Vamos modernizar a administração tributária, simplificar a relação entre Estado e contribuinte, fortalecer a gestão fiscal e apoiar os municípios, transformando responsabilidade fiscal, eficiência e transparência em desenvolvimento, geração de oportunidades e melhores serviços para a população. Gestão Fiscal Equilibrada Adotar política austera de responsabilidade fiscal, com sistema de projeções de receitas orçamentárias atrelado à arrecadação tributária do Estado."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 26,
+          "page_end": 28,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Política Estadual de Educação Inclusiva Instituir política estruturada para pessoas com deficiência e transtornos psicossociais integrando educação, saúde e assistência social. Segurança Alimentar no Ambiente Escolar Fortalecer a política de alimentação escolar com qualidade nutricional e produtos da agricultura familiar local.",
+          "excerpts": [
+            {
+              "id": "s31",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Política Estadual de Educação Inclusiva Instituir política estruturada para pessoas com deficiência e transtornos psicossociais integrando educação, saúde e assistência social."
+            },
+            {
+              "id": "s32",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "Segurança Alimentar no Ambiente Escolar Fortalecer a política de alimentação escolar com qualidade nutricional e produtos da agricultura familiar local."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "• proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "• proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 28,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa Segurança Alimentar no Ambiente Escolar Fortalecer a política de alimentação escolar com qualidade nutricional e produtos da agricultura familiar local.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa"
+            },
+            {
+              "id": "s32",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "Segurança Alimentar no Ambiente Escolar Fortalecer a política de alimentação escolar com qualidade nutricional e produtos da agricultura familiar local."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 10,
+          "page_end": 26,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Sefaz Digital Modernizar a infraestrutura tecnológica da Secretaria de Fazenda com o uso de inteligência artificial para detecção de fraudes e oferta de canais de autorregularização aos contribuintes. Saúde na Ponta do Dedo Implementar a digitalização da rede de saúde por meio da criação de aplicativo, integrando prontuários, documentos médicos, histórico clínico e resultados, com uso de Inteligência Artificial. Educação com Inteligência Artificial Promover o uso responsável de tecnologia e inteligência artificial nas escolas estaduais, preparando educadores, gestores e estudantes para utilizar novas tecnologias.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "Sefaz Digital Modernizar a infraestrutura tecnológica da Secretaria de Fazenda com o uso de inteligência artificial para detecção de fraudes e oferta de canais de autorregularização aos contribuintes."
+            },
+            {
+              "id": "s26",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Saúde na Ponta do Dedo Implementar a digitalização da rede de saúde por meio da criação de aplicativo, integrando prontuários, documentos médicos, histórico clínico e resultados, com uso de Inteligência Artificial."
+            },
+            {
+              "id": "s30",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "Educação com Inteligência Artificial Promover o uso responsável de tecnologia e inteligência artificial nas escolas estaduais, preparando educadores, gestores e estudantes para utilizar novas tecnologias."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Mato Grosso continuará forte no campo, mas avançará também na indústria, na tecnologia, na inovação, no turismo e na economia criativa. Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Mato Grosso continuará forte no campo, mas avançará também na indústria, na tecnologia, na inovação, no turismo e na economia criativa. Wellington Fagundes Candidato a Governador de Mato Grosso ECONOMIA crescer mais, agregar valor e gerar empregos desenvolvimento econômico agronegócio agricultura familiar indústria e comércio economia solidária juventude inteligência econômica TURISMO experiências únicas, desenvolvimento em todas as regiões infraestrutura turística segmentos estratégicos CULTURA cultura que preserva identidade e movimenta a economia infraestrutura e fomento cultural formação e economia criativa"
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 18,
+          "topics": [
+            "governance"
+          ],
+          "summary": "no atendimento de saúde que chega a tempo, na escola que prepara nossos jovens, na estrada que aproxima as cidades, na segurança que protege as famílias, no emprego que oferece futuro, na infraestrutura que distribui nossas riquezas e no serviço público que respeita o cidadão. • proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA Rede de dados do Serviço Público Implantar rede de dados de alta velocidade, de uso privativo do governo estadual. Participação Social e Controle Democrático Fortalecer o Conselho Estadual dos Direitos da Mulher, as conferências estaduais e regionais de políticas para mulheres e os canais de escuta qualificada.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "no atendimento de saúde que chega a tempo, na escola que prepara nossos jovens, na estrada que aproxima as cidades, na segurança que protege as famílias, no emprego que oferece futuro, na infraestrutura que distribui nossas riquezas e no serviço público que respeita o cidadão."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "• proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA"
+            },
+            {
+              "id": "s07",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Rede de dados do Serviço Público Implantar rede de dados de alta velocidade, de uso privativo do governo estadual."
+            },
+            {
+              "id": "s18",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Participação Social e Controle Democrático Fortalecer o Conselho Estadual dos Direitos da Mulher, as conferências estaduais e regionais de políticas para mulheres e os canais de escuta qualificada."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "energy"
+          ],
+          "summary": "• proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "• proteger riquezas e gerar desenvolvimento sustentável regularização, licenciamento e fiscalização inteligente economia verde e transição energética segurança hídrica e proteção de ecossistemas pantanal, cerrado e amazônia mato-grossense adaptação climática e resiliência urbana GESTÃO PÚBLICA"
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002553058",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002553058_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002553058_01.pdf",
+      "sha256": "314c2f4752c7d64a79bac72c6fe8bec47176353e6ba0c7f0a9b785b108da053d",
+      "summary": "Formação para serviços complexos, ensino técnico e trabalho O Ensino Médio não pode ser apenas a etapa final de um sistema que não prepara para o trabalho. Educação Profissionais com ensino técnico ganham, em média, 32% a mais do que aqueles que possuem apenas ensino médio, e 85,6% dos alunos de cursos técnicos do SENAI conseguiram emprego nos últimos dois anos O Estado oferecerá cursos técnicos integrados ao Ensino Médio, com foco em competências digitais e demandas reais do mercado. Ainda assim, o CNJ registrou cerca de mil novos processos de Reversão das Renúncias Fiscais Desnecessárias judicialização da saúde pública entre janeiro de 2024 e agosto de 2025. Em Mato Grosso, mais de 80% das liminares de saúde pública foram deferidas, indicando que o paciente tinha direito de acessar o tratamento que o Estado se nega a entregar. Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial. O crime organizado cresce quando o homem comum precisa pedir licença para circular, trabalhar, falar e viver no próprio território. Quando o crime organizado declara guerra ao cidadão, a resposta precisa ser rápida, especializada e permanente. Em Mato Grosso, a contribuição previdenciária dos aposentados e pensionistas civis é de 14% sobre a parcela que excede um salário mínimo enquanto persistir o déficit atuarial. O Movimento Empresa Júnior já impactou mais de R$ 70 milhões na economia brasileira desde 2010, integralmente reinvestidos na educação empreendedora dos estudantes. O objetivo é que, ao concluir o Ensino Médio, o jovem mato-grossense tenha não apenas um diploma, mas um portfólio de projetos e experiência prática que o qualifique para o mercado de trabalho. o Estado gasta 37,78% da Receita Corrente Líquida com pessoal, quando o limite de alerta da Lei de Responsabilidade Fiscal é 44,10%. Mas o incentivo que vai para quem já é grande, que já está instalado, que não gera emprego novo e que ainda leva o dinheiro para fora do estado não é política de desenvolvimento — é transferência de renda de baixo para cima. A medida exige alteração na Lei 7.263/2000, que hoje distribui o fundo entre obras de infraestrutura, MT PAR, agricultura familiar e assistência social. O Estado pactuará com os municípios a recuperação dos espaços e integrará urbanismo, segurança, cultura, esporte, educação, saúde e assistência social.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "education"
+          ],
+          "summary": "Formação para serviços complexos, ensino técnico e trabalho O Ensino Médio não pode ser apenas a etapa final de um sistema que não prepara para o trabalho. Educação Profissionais com ensino técnico ganham, em média, 32% a mais do que aqueles que possuem apenas ensino médio, e 85,6% dos alunos de cursos técnicos do SENAI conseguiram emprego nos últimos dois anos O Estado oferecerá cursos técnicos integrados ao Ensino Médio, com foco em competências digitais e demandas reais do mercado.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "Formação para serviços complexos, ensino técnico e trabalho O Ensino Médio não pode ser apenas a etapa final de um sistema que não prepara para o trabalho. Educação Profissionais com ensino técnico ganham, em média, 32% a mais do que aqueles que possuem apenas ensino médio, e 85,6% dos alunos de cursos técnicos do SENAI conseguiram emprego nos últimos dois anos O Estado oferecerá cursos técnicos integrados ao Ensino Médio, com foco em competências digitais e demandas reais do mercado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 120,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ainda assim, o CNJ registrou cerca de mil novos processos de Reversão das Renúncias Fiscais Desnecessárias judicialização da saúde pública entre janeiro de 2024 e agosto de 2025. Em Mato Grosso, mais de 80% das liminares de saúde pública foram deferidas, indicando que o paciente tinha direito de acessar o tratamento que o Estado se nega a entregar. Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 25,
+              "text": "Ainda assim, o CNJ registrou cerca de mil novos processos de Reversão das Renúncias Fiscais Desnecessárias judicialização da saúde pública entre janeiro de 2024 e agosto de 2025. Em Mato Grosso, mais de 80% das liminares de saúde pública foram deferidas, indicando que o paciente tinha direito de acessar o tratamento que o Estado se nega a entregar."
+            },
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial. Saúde Atender para valer Saúde O Sistema Único de Saúde funciona em sua complexidade, mas a porta de entrada para o cidadão comum permanece fechada."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O crime organizado cresce quando o homem comum precisa pedir licença para circular, trabalhar, falar e viver no próprio território. Quando o crime organizado declara guerra ao cidadão, a resposta precisa ser rápida, especializada e permanente.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "O crime organizado cresce quando o homem comum precisa pedir licença para circular, trabalhar, falar e viver no próprio território. Quando o crime organizado declara guerra ao cidadão, a resposta precisa ser rápida, especializada e permanente."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 120,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Em Mato Grosso, a contribuição previdenciária dos aposentados e pensionistas civis é de 14% sobre a parcela que excede um salário mínimo enquanto persistir o déficit atuarial. O Movimento Empresa Júnior já impactou mais de R$ 70 milhões na economia brasileira desde 2010, integralmente reinvestidos na educação empreendedora dos estudantes. O objetivo é que, ao concluir o Ensino Médio, o jovem mato-grossense tenha não apenas um diploma, mas um portfólio de projetos e experiência prática que o qualifique para o mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 25,
+              "text": "Em Mato Grosso, a contribuição previdenciária dos aposentados e pensionistas civis é de 14% sobre a parcela que excede um salário mínimo enquanto persistir o déficit atuarial."
+            },
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "O Movimento Empresa Júnior já impactou mais de R$ 70 milhões na economia brasileira desde 2010, integralmente reinvestidos na educação empreendedora dos estudantes. O objetivo é que, ao concluir o Ensino Médio, o jovem mato-grossense tenha não apenas um diploma, mas um portfólio de projetos e experiência prática que o qualifique para o mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 25,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "o Estado gasta 37,78% da Receita Corrente Líquida com pessoal, quando o limite de alerta da Lei de Responsabilidade Fiscal é 44,10%.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 25,
+              "text": "o Estado gasta 37,78% da Receita Corrente Líquida com pessoal, quando o limite de alerta da Lei de Responsabilidade Fiscal é 44,10%."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 120,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Mas o incentivo que vai para quem já é grande, que já está instalado, que não gera emprego novo e que ainda leva o dinheiro para fora do estado não é política de desenvolvimento — é transferência de renda de baixo para cima. A medida exige alteração na Lei 7.263/2000, que hoje distribui o fundo entre obras de infraestrutura, MT PAR, agricultura familiar e assistência social. O Estado pactuará com os municípios a recuperação dos espaços e integrará urbanismo, segurança, cultura, esporte, educação, saúde e assistência social.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 25,
+              "text": "Mas o incentivo que vai para quem já é grande, que já está instalado, que não gera emprego novo e que ainda leva o dinheiro para fora do estado não é política de desenvolvimento — é transferência de renda de baixo para cima."
+            },
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "A medida exige alteração na Lei 7.263/2000, que hoje distribui o fundo entre obras de infraestrutura, MT PAR, agricultura familiar e assistência social. O Estado pactuará com os municípios a recuperação dos espaços e integrará urbanismo, segurança, cultura, esporte, educação, saúde e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 120,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "tive sede, e me destes de beber; era forasteiro, e me hospedastes; estava nu, e me vestistes; enfermo, e me visitastes; preso, e fostes ver-me” – Mateus 25:35-36 A Máquina de Guerra Segurança Orientada por Projeto (SOP) Segurança por Design Urbano Polícia por Desempenho A Devolução do Espaço Público Turismo Crédito de Juro Zero — Fundo Mato-Grossense de Inovação Turística (FIT) Comercialização Global do Turismo Mato-Grossense Qualificação de Produtos Turísticos de Alto Valor Cuiabá: Centro de Negócios da América do Sul Meio Ambiente Produzir mais sem abrir novas áreas Água e território vivos Estado Ambiental Inteligente Cidades limpas: resíduos que viram renda Infraestrutura Mato Grosso Multimodal Infraestrutura para a vida regional O Outro Destino de Mato Grosso MANIFESTO Por que os barões exportadores não devem decidir políticas públicas Não deveríamos querer os barões mato-grossenses tomando as decisões políticas do nosso Estado. Meio Ambiente Desenvolvimento que recupera Meio Ambiente Mato Grosso não precisa escolher entre produzir e preservar. O Estado deixará de tratar o meio ambiente apenas como uma sucessão de proibições e autos de infração.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 25,
+              "text": "tive sede, e me destes de beber; era forasteiro, e me hospedastes; estava nu, e me vestistes; enfermo, e me visitastes; preso, e fostes ver-me” – Mateus 25:35-36 A Máquina de Guerra Segurança Orientada por Projeto (SOP) Segurança por Design Urbano Polícia por Desempenho A Devolução do Espaço Público Turismo Crédito de Juro Zero — Fundo Mato-Grossense de Inovação Turística (FIT) Comercialização Global do Turismo Mato-Grossense Qualificação de Produtos Turísticos de Alto Valor Cuiabá: Centro de Negócios da América do Sul Meio Ambiente Produzir mais sem abrir novas áreas Água e território vivos Estado Ambiental Inteligente Cidades limpas: resíduos que viram renda Infraestrutura Mato Grosso Multimodal Infraestrutura para a vida regional O Outro Destino de Mato Grosso MANIFESTO Por que os barões exportadores não devem decidir políticas públicas Não deveríamos querer os barões mato-grossenses tomando as decisões políticas do nosso Estado."
+            },
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "Meio Ambiente Desenvolvimento que recupera Meio Ambiente Mato Grosso não precisa escolher entre produzir e preservar. O Estado deixará de tratar o meio ambiente apenas como uma sucessão de proibições e autos de infração."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "A medida exige alteração na Lei 7.263/2000, que hoje distribui o fundo entre obras de infraestrutura, MT PAR, agricultura familiar e assistência social.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "A medida exige alteração na Lei 7.263/2000, que hoje distribui o fundo entre obras de infraestrutura, MT PAR, agricultura familiar e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial. inteligência artificial, programação, edição de vídeo, design gráfico, redação técnica e BPO.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial. inteligência artificial, programação, edição de vídeo, design gráfico, redação técnica e BPO."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "O servidor bem cuidado reflete em serviço público de qualidade. Oferece cursos de licitação, direito administrativo, gestão pública, saúde mental, inteligência artificial."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 25,
+          "page_end": 120,
+          "topics": [
+            "energy"
+          ],
+          "summary": "O gás natural é a principal matéria-prima da amônia e da ureia.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 25,
+              "page_end": 120,
+              "text": "O gás natural é a principal matéria-prima da amônia e da ureia."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002553937",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002553937_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002553937_01.pdf",
+      "sha256": "2ddc780d3188ec24b464ad5ef45526797936cf4f0791ed7981aae6e835053212",
+      "summary": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso. de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade. A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025). proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança. A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica. Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população. patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos. O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios. novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira. Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco. Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 15,
+          "topics": [
+            "education"
+          ],
+          "summary": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso. de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso."
+            },
+            {
+              "id": "s10",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Tempo integral Expansão anual da cobertura com qualidade. Evasão e abandono Redução contínua, especialmente no ensino médio."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Educação, Defesa Civil e Corpo de Bombeiros, ações educativas sobre prevenção de acidentes, primeiros cuidados em emergências, riscos ambientais e cultura de autoproteção, com conteúdo adequado às faixas etárias e aos protocolos oficiais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 13,
+          "page_end": 18,
+          "topics": [
+            "health"
+          ],
+          "summary": "A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025). proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança. A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025)."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança."
+            },
+            {
+              "id": "s30",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica."
+            },
+            {
+              "id": "s31",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "O objetivo é resolver mais casos no interior, diminuir a dependência da capital e organizar fluxos entre atenção básica, hospitais municipais, regionais e serviços de alta complexidade."
+            },
+            {
+              "id": "s32",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "expansão e qualificação da Estratégia Saúde da Família, das Unidades Básicas de Saúde e das equipes multiprofissionais, com prevenção, promoção da saúde, visitas domiciliares, acompanhamento de doenças crônicas, saúde bucal e integração do prontuário."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população. patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "A segurança pública será tratada como política de Estado."
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "penitenciária, classificação de risco, controle de comunicações ilícitas, educação e trabalho prisional nos termos da legislação, reduzindo a capacidade de comando externo das organizações criminosas."
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Programa Estadual de Prevenção ao Aliciamento de Adolescentes e Jovens pelo Crime Organizado."
+            },
+            {
+              "id": "s25",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "de unidades e capacidade de resposta conforme risco territorial, tempo de deslocamento, crescimento urbano, corredores rodoviários e exposição a incêndios e desastres, integrando prevenção, educação comunitária e apoio aos municípios."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Educação, Defesa Civil e Corpo de Bombeiros, ações educativas sobre prevenção de acidentes, primeiros cuidados em emergências, riscos ambientais e cultura de autoproteção, com conteúdo adequado às faixas etárias e aos protocolos oficiais."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco. Integrar Educação, Assistência Social, Esporte, Cultura, Trabalho e Segurança para identificar fatores de risco e ampliar fatores de proteção, com permanência escolar, qualificação, primeiro emprego, esporte, cultura, apoio familiar e atuação territorial.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco."
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Integrar Educação, Assistência Social, Esporte, Cultura, Trabalho e Segurança para identificar fatores de risco e ampliar fatores de proteção, com permanência escolar, qualificação, primeiro emprego, esporte, cultura, apoio familiar e atuação territorial."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 4,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Planejamento, metas, dados, IA responsável, integridade, avaliação e participação social. O plano combina políticas sociais, valorização do serviço público, ambiente favorável ao investimento e uma agenda de infraestrutura e agregação de valor à produção mato-grossense. o serviço público e a segurança, representados por Sargento Laudicério; a iniciativa privada e o empreendedorismo, representados por Alex Pucineli; e a força produtiva do campo, da indústria, do comércio e dos serviços representados pelos demais amigos que trouxeram suas experiências para a construção deste programa.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Planejamento, metas, dados, IA responsável, integridade, avaliação e participação social. O plano combina políticas sociais, valorização do serviço público, ambiente favorável ao investimento e uma agenda de infraestrutura e agregação de valor à produção mato-grossense."
+            },
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "o serviço público e a segurança, representados por Sargento Laudicério; a iniciativa privada e o empreendedorismo, representados por Alex Pucineli; e a força produtiva do campo, da indústria, do comércio e dos serviços representados pelos demais amigos que trouxeram suas experiências para a construção deste programa."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O plano adota um ciclo permanente de gestão pública baseado em evidências."
+            },
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "canais permanentes de consulta, ouvidoria e prestação de contas."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Estudos sobre segurança cidadã e governança da segurança indicam a importância de combinar integração institucional, formação e valorização profissional, prevenção, gestão do conhecimento e participação social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "110002554073",
+      "state_code": "MT",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MT110002554073_01.pdf",
+      "public_path": "/propostas/2026/MT/2026MT110002554073_01.pdf",
+      "sha256": "6ad5fa42a5f1527b9fe80ae793cc5dc19ae292ea312f759fdcec8d9083559bde",
+      "summary": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso. de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade. A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025). proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança. A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica. Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população. patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos. O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios. novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira. Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco. Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 15,
+          "topics": [
+            "education"
+          ],
+          "summary": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso. de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Entre as metas de 2027 constam alfabetização da população de 15 anos ou mais em 97,44%, abandono no ensino médio em 4,08%, IDEB do ensino médio em 4,8, IDEB dos anos finais do ensino fundamental em 5,5, IDEB dos anos iniciais em 6,49 e matrículas em educação integral em 8,98%. O foco será reduzir defasagens, fortalecer a alfabetização em colaboração com os municípios, ampliar gradualmente o ensino integral e conectar o ensino médio às vocações econômicas e tecnológicas de Mato Grosso."
+            },
+            {
+              "id": "s10",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "de tempo integral, com esporte, cultura, ciência, tecnologia, reforço e formação para a vida, priorizando unidades com estrutura adequada e regiões de maior vulnerabilidade."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Tempo integral Expansão anual da cobertura com qualidade. Evasão e abandono Redução contínua, especialmente no ensino médio."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Educação, Defesa Civil e Corpo de Bombeiros, ações educativas sobre prevenção de acidentes, primeiros cuidados em emergências, riscos ambientais e cultura de autoproteção, com conteúdo adequado às faixas etárias e aos protocolos oficiais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 13,
+          "page_end": 18,
+          "topics": [
+            "health"
+          ],
+          "summary": "A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025). proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança. A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A literatura analisada trata a violência contra a mulher como problema simultaneamente social, de saúde pública e de segurança, exigindo rede articulada e abordagem multidisciplinar (CHAVES; PONTES, 2024; BELLÓLI; SANTOS; DE BORTOLI, 2024; LIMA; RODRIGUES, 2022; FERNANDES et al., 2025)."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "proteção, assistência jurídica institucional nos atos funcionais regulares e política de saúde física e mental do trabalhador da segurança."
+            },
+            {
+              "id": "s30",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A organização proposta parte da Atenção Primária como coordenadora do cuidado e da rede regionalizada, com integração entre Saúde da Família, atenção especializada, saúde mental e assistência farmacêutica."
+            },
+            {
+              "id": "s31",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "O objetivo é resolver mais casos no interior, diminuir a dependência da capital e organizar fluxos entre atenção básica, hospitais municipais, regionais e serviços de alta complexidade."
+            },
+            {
+              "id": "s32",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "expansão e qualificação da Estratégia Saúde da Família, das Unidades Básicas de Saúde e das equipes multiprofissionais, com prevenção, promoção da saúde, visitas domiciliares, acompanhamento de doenças crônicas, saúde bucal e integração do prontuário."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população. patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Proteção significa segurança pública, saúde, educação, assistência e valorização de quem presta serviço à população."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "A segurança pública será tratada como política de Estado."
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "patrimonial e financeira para localizar ativos ilícitos e apoiar medidas judiciais de bloqueio e perda de bens. Recompor quadros da Politec, modernizar laboratórios, digitalizar fluxos e estabelecer plano para reduzir passivos de laudos."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "penitenciária, classificação de risco, controle de comunicações ilícitas, educação e trabalho prisional nos termos da legislação, reduzindo a capacidade de comando externo das organizações criminosas."
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Programa Estadual de Prevenção ao Aliciamento de Adolescentes e Jovens pelo Crime Organizado."
+            },
+            {
+              "id": "s25",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "de unidades e capacidade de resposta conforme risco territorial, tempo de deslocamento, crescimento urbano, corredores rodoviários e exposição a incêndios e desastres, integrando prevenção, educação comunitária e apoio aos municípios."
+            },
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Educação, Defesa Civil e Corpo de Bombeiros, ações educativas sobre prevenção de acidentes, primeiros cuidados em emergências, riscos ambientais e cultura de autoproteção, com conteúdo adequado às faixas etárias e aos protocolos oficiais."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O desafio do próximo ciclo de governo é transformar crescimento econômico em qualidade de vida, segurança, oportunidades e desenvolvimento equilibrado nos 142 municípios."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "novas despesas permanentes deverão observar disponibilidade orçamentária, limites legais e sustentabilidade financeira."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco. Integrar Educação, Assistência Social, Esporte, Cultura, Trabalho e Segurança para identificar fatores de risco e ampliar fatores de proteção, com permanência escolar, qualificação, primeiro emprego, esporte, cultura, apoio familiar e atuação territorial.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Ampliar Patrulha Maria da Penha, atendimento especializado e humanizado, integração entre Segurança, Saúde, Assistência Social, Educação, Ministério Público, Defensoria e Judiciário, além de mecanismos de resposta rápida em situações de risco."
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Integrar Educação, Assistência Social, Esporte, Cultura, Trabalho e Segurança para identificar fatores de risco e ampliar fatores de proteção, com permanência escolar, qualificação, primeiro emprego, esporte, cultura, apoio familiar e atuação territorial."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Produção significa agro forte, agricultura familiar, indústria, infraestrutura, tecnologia, energia e sustentabilidade."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 4,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Planejamento, metas, dados, IA responsável, integridade, avaliação e participação social. O plano combina políticas sociais, valorização do serviço público, ambiente favorável ao investimento e uma agenda de infraestrutura e agregação de valor à produção mato-grossense. o serviço público e a segurança, representados por Sargento Laudicério; a iniciativa privada e o empreendedorismo, representados por Alex Pucineli; e a força produtiva do campo, da indústria, do comércio e dos serviços representados pelos demais amigos que trouxeram suas experiências para a construção deste programa.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Planejamento, metas, dados, IA responsável, integridade, avaliação e participação social. O plano combina políticas sociais, valorização do serviço público, ambiente favorável ao investimento e uma agenda de infraestrutura e agregação de valor à produção mato-grossense."
+            },
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "o serviço público e a segurança, representados por Sargento Laudicério; a iniciativa privada e o empreendedorismo, representados por Alex Pucineli; e a força produtiva do campo, da indústria, do comércio e dos serviços representados pelos demais amigos que trouxeram suas experiências para a construção deste programa."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O plano adota um ciclo permanente de gestão pública baseado em evidências."
+            },
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "canais permanentes de consulta, ouvidoria e prestação de contas."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Estudos sobre segurança cidadã e governança da segurança indicam a importância de combinar integração institucional, formação e valorização profissional, prevenção, gestão do conhecimento e participação social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

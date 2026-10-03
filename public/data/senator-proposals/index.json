@@ -1,0 +1,208 @@
+{
+  "year": 2026,
+  "source": "URLs declaradas pelo candidato no recurso Redes sociais de candidatos do TSE; somente sites/documentos, sem extração de redes sociais ou atribuição de programa partidário.",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "generated_at": "2026-10-03T13:24:46+00:00",
+  "partitions": {
+    "AC": {
+      "path": "/data/senator-proposals/AC.json",
+      "candidates": 8,
+      "with_proposals": 1
+    },
+    "AL": {
+      "path": "/data/senator-proposals/AL.json",
+      "candidates": 7,
+      "with_proposals": 1
+    },
+    "AM": {
+      "path": "/data/senator-proposals/AM.json",
+      "candidates": 9,
+      "with_proposals": 1
+    },
+    "AP": {
+      "path": "/data/senator-proposals/AP.json",
+      "candidates": 9,
+      "with_proposals": 1
+    },
+    "BA": {
+      "path": "/data/senator-proposals/BA.json",
+      "candidates": 10,
+      "with_proposals": 1
+    },
+    "CE": {
+      "path": "/data/senator-proposals/CE.json",
+      "candidates": 8,
+      "with_proposals": 2
+    },
+    "DF": {
+      "path": "/data/senator-proposals/DF.json",
+      "candidates": 13,
+      "with_proposals": 5
+    },
+    "ES": {
+      "path": "/data/senator-proposals/ES.json",
+      "candidates": 11,
+      "with_proposals": 1
+    },
+    "GO": {
+      "path": "/data/senator-proposals/GO.json",
+      "candidates": 11,
+      "with_proposals": 3
+    },
+    "MA": {
+      "path": "/data/senator-proposals/MA.json",
+      "candidates": 11,
+      "with_proposals": 0
+    },
+    "MG": {
+      "path": "/data/senator-proposals/MG.json",
+      "candidates": 18,
+      "with_proposals": 0
+    },
+    "MS": {
+      "path": "/data/senator-proposals/MS.json",
+      "candidates": 10,
+      "with_proposals": 3
+    },
+    "MT": {
+      "path": "/data/senator-proposals/MT.json",
+      "candidates": 10,
+      "with_proposals": 1
+    },
+    "PA": {
+      "path": "/data/senator-proposals/PA.json",
+      "candidates": 13,
+      "with_proposals": 1
+    },
+    "PB": {
+      "path": "/data/senator-proposals/PB.json",
+      "candidates": 10,
+      "with_proposals": 0
+    },
+    "PE": {
+      "path": "/data/senator-proposals/PE.json",
+      "candidates": 12,
+      "with_proposals": 1
+    },
+    "PI": {
+      "path": "/data/senator-proposals/PI.json",
+      "candidates": 20,
+      "with_proposals": 2
+    },
+    "PR": {
+      "path": "/data/senator-proposals/PR.json",
+      "candidates": 9,
+      "with_proposals": 4
+    },
+    "RJ": {
+      "path": "/data/senator-proposals/RJ.json",
+      "candidates": 17,
+      "with_proposals": 1
+    },
+    "RN": {
+      "path": "/data/senator-proposals/RN.json",
+      "candidates": 14,
+      "with_proposals": 1
+    },
+    "RO": {
+      "path": "/data/senator-proposals/RO.json",
+      "candidates": 10,
+      "with_proposals": 1
+    },
+    "RR": {
+      "path": "/data/senator-proposals/RR.json",
+      "candidates": 13,
+      "with_proposals": 1
+    },
+    "RS": {
+      "path": "/data/senator-proposals/RS.json",
+      "candidates": 13,
+      "with_proposals": 3
+    },
+    "SC": {
+      "path": "/data/senator-proposals/SC.json",
+      "candidates": 13,
+      "with_proposals": 1
+    },
+    "SE": {
+      "path": "/data/senator-proposals/SE.json",
+      "candidates": 11,
+      "with_proposals": 0
+    },
+    "SP": {
+      "path": "/data/senator-proposals/SP.json",
+      "candidates": 16,
+      "with_proposals": 1
+    },
+    "TO": {
+      "path": "/data/senator-proposals/TO.json",
+      "candidates": 13,
+      "with_proposals": 0
+    }
+  }
+}

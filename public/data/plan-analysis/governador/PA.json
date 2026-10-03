@@ -1,0 +1,2896 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "PA",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "140002538631",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002538631_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002538631_01.pdf",
+      "sha256": "5d33c3d22959b0ef2443f4b37c6af475e33356ec5a620f76a5ef00b4c16954fe",
+      "summary": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil. E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria. Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados. SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade. Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 20,
+          "page_end": 36,
+          "topics": [
+            "education"
+          ],
+          "summary": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil. E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil."
+            },
+            {
+              "id": "s07",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria. Além disso, ainda têm que lutar pela Adoção do Piso Salarial Profissional Nacional para os profissionais do Magistério Público da Educação Básica (PSPNM) como referência para o vencimento base."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 30,
+              "text": "Garantir educação pública, laica, democrática e de qualidade para a classe trabalhadora Um dos piores índices da educação paraense é o abandona escolar. Apesar da ampliação do número de matrículas, milhares de estudantes deixam escola antes de concluir o ensino médio."
+            },
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "A cultura deve caminhar junto com a educação pública. Defendemos a ampliação do ensino de música, teatro, dança, literatura, artes visuais e audiovisual nas escolas públicas, bem como políticas de incentivo à leitura, fortalecimento das bibliotecas e apoio às editoras independentes, escritores, grupos de pesquisa e coletivos culturais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 34,
+          "topics": [
+            "health"
+          ],
+          "summary": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. — Fortalecimento do Sistema Único de Saúde como sistema universal; — Atendimento integral, gratuito e de qualidade; — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "— Fortalecimento do Sistema Único de Saúde como sistema universal; — Atendimento integral, gratuito e de qualidade; — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade. Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade."
+            },
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais. Defendemos uma política de segurança comprometida com os direitos humanos, a mediação dos conflitos e a proteção das comunidades, rompendo com a lógica de repressão que historicamente favorece os grandes proprietários de terra."
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "Negros e Negras A juventude negra é vítima do encarceramento em massa, da violência policial e da ausência de perspectivas, sendo empurrada para o trabalho precário, para o tráfico ou para a morte precoce. Contra a violência policial e o crime organizado."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "Essa percepção é sentida em todo o estado, e podemos afirmar que os jovens são as principais vítimas dessa violência, nas periferias essa realidade é sentida com mais intensidade onde os jovens são alvos tanto da violência policial quanto do recrutamento do tráfico para vida sem perspectivas, a realidade é que se não houver oportunidades e políticas públicas efetivas a juventude não terá direito à vida. — Fim do genocídio da juventude negra, a violência policial deve acabar!"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 13,
+          "page_end": 40,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d"
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "A maioria das vítimas são identificadas como trabalhadoras sexuais, devido às dificuldades de acesso aos estudos, mercado de trabalho e novas oportunidades. A população LGBTI+ sofre com a discriminação, a violência e a exclusão do mercado de trabalho, sobretudo as pessoas trans que são, por conta disso, jogadas, em particular as mulheres trans, para a prostituição."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "— Fim da escala 6x1 sem redução de salários e direitos, sem pejotização e sem demissões; — É preciso ter um programa do estado que ofereça treinamento para os mais diversos setores produtivos, com estágio remunerado no valor de um salário-mínimo e garantia de inserção no mercado de trabalho para todos os jovens; — Fim do assédio moral e qualquer forma de preconceito no ambiente de trabalho, a juventude que produz riqueza precisa ter seus direitos garantidos."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "O turismo é um importante instrumento de geração de emprego, renda, desenvolvimento regional e inclusão social. O PSTU defende um modelo de turismo comprometido com a preservação ambiental, a valorização da cultura popular, o respeito aos povos da Amazônia e a geração de trabalho digno para a população."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "— Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilização do mercúrio depositado no fundo do rio; — O derrocamento do Pedral do Lourenço, no rio Tocantins, que pretende remover e fragmentar formações rochosas para permitir a navegação de grandes embarcações comerciais durante todo o ano. 1 https://cptnacional.org.br/caderno/conflitos-no-campo-brasil-2025/ 2 https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "— Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilização do mercúrio depositado no fundo do rio; — O derrocamento do Pedral do Lourenço, no rio Tocantins, que pretende remover e fragmentar formações rochosas para permitir a navegação de grandes embarcações comerciais durante todo o ano. 1 https://cptnacional.org.br/caderno/conflitos-no-campo-brasil-2025/ 2 https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 7,
+          "page_end": 34,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. Há, portanto, grande distância entre a realidade atual e as metas estabelecidas pelo Novo Marco Legal do Saneamento, que prevê cobertura de 99% da população com água potável, 90% com coleta de esgoto e 80% de tratamento do esgoto até 2033. O PSTU defende um amplo programa público de universalização do abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado dos resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. Há, portanto, grande distância entre a realidade atual e as metas estabelecidas pelo Novo Marco Legal do Saneamento, que prevê cobertura de 99% da população com água potável, 90% com coleta de esgoto e 80% de tratamento do esgoto até 2033."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "O PSTU defende um amplo programa público de universalização do abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado dos resíduos sólidos."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "— Ampliação das unidades básicas nas comunidades; — Equipes permanentes de saúde; — Transporte sanitário fluvial; — Fortalecimento das ações de vigilância em saúde; — Acesso à água potável e saneamento como política de prevenção; — Respeito às especificidades culturais dessas populações."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 13,
+          "page_end": 40,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Em defesa do meio ambiente, dos povos e populações tradicionais e contra os megaempreendimentos que devastam o Pará e a Amazônia O Pará é um estado rico com seus povos, florestas e rios, porém com muitas contradições. Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Em defesa do meio ambiente, dos povos e populações tradicionais e contra os megaempreendimentos que devastam o Pará e a Amazônia O Pará é um estado rico com seus povos, florestas e rios, porém com muitas contradições. Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará"
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "Turismo e meio ambiente A Amazônia não pode ser transformada em mercadoria."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Sem reforma agrária o Brasil segue com grande concentração fundiária. Em 2025, foi anunciado R$ 508,59bilhões para incentivar o agronegócio, enquanto a agricultura familiar receberá menos de 90 bilhões, ou seja, um punhado de produtores fica com todo recurso, destinado pelo governo.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Sem reforma agrária o Brasil segue com grande concentração fundiária. Em 2025, foi anunciado R$ 508,59bilhões para incentivar o agronegócio, enquanto a agricultura familiar receberá menos de 90 bilhões, ou seja, um punhado de produtores fica com todo recurso, destinado pelo governo."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 34,
+          "page_end": 40,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Nosso programa também reconhece os saberes tradicionais como parte fundamental do patrimônio cultural do Pará. Cultura como eixo do turismo O patrimônio cultural do Pará deve permanecer sob controle da população.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Nosso programa também reconhece os saberes tradicionais como parte fundamental do patrimônio cultural do Pará."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "Cultura como eixo do turismo O patrimônio cultural do Pará deve permanecer sob controle da população."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 10,
+          "page_end": 40,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Povos indígenas Os povos indígenas possuem formas próprias de ocupação do território que devem ser respeitadas. O governo apresenta os grandes projetos econômicos como símbolo de desenvolvimento, modernização ou sustentabilidade, porém escondem graves impactos ambientais e sociais e vêm sendo decididos sem que a população trabalhadora, os povos indígenas, quilombolas, ribeirinhos, pescadores artesanais e demais comunidades tradicionais tenham poder real de decisão sobre o futuro de seus territórios. — Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de rep",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "Povos indígenas Os povos indígenas possuem formas próprias de ocupação do território que devem ser respeitadas."
+            },
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "O governo apresenta os grandes projetos econômicos como símbolo de desenvolvimento, modernização ou sustentabilidade, porém escondem graves impactos ambientais e sociais e vêm sendo decididos sem que a população trabalhadora, os povos indígenas, quilombolas, ribeirinhos, pescadores artesanais e demais comunidades tradicionais tenham poder real de decisão sobre o futuro de seus territórios. — Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilizaçã"
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "A violência se expressa em homicídios, suicídios, violações de direitos humanos e tentativas de homicídio. Em defesa dos povos indígenas e quilombolas O grande Agronegócio nas mãos das multinacionais capitalistas persegue os povos indígenas e quilombolas não garantindo saúde, educação, emprego, condições básicas e dignas."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 30,
+              "text": "Quando para estudantes do campo, das ilhas, das comunidades ribeirinhas, quilombolas e dos povos indígenas, a realidade é ainda mais dura: dificuldades de acesso, falta de infraestrutura, ausência de profissionais e desrespeito às suas especificidades culturais e linguísticas. O governo estadual deve cumprir integralmente a Lei nº 10.639/2003, que tornou obrigatório o ensino de História e Cultura Afro-Brasileira, e a Lei nº 11.645/2008, que ampliou essa obrigatoriedade para incluir a História e Cultura dos Povos Indígenas."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "Saúde dos povos indígenas Os povos indígenas devem participar da construção das políticas que lhes dizem respeito. — Respeito à autonomia dos povos indígenas; — Fortalecimento dos Distritos Sanitários Especiais Indígenas (DSEIs); — Ampliação das equipes multiprofissionais; — Contratação de profissionais indígenas; — Valorização da medicina tradicional; — Transporte sanitário adequado; — Garantia de atendimento em todos os territórios indígenas."
+            },
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "A cultura paraense é construída pelos povos indígenas, quilombolas, ribeirinhos, pescadores, agricultores, trabalhadores urbanos, artistas populares, mestres e mestras da cultura, comunidades tradicionais, juventudes das periferias e todos aqueles que fazem da Amazônia um espaço vivo de criação e resistência. Defendemos uma revolução no Programa Semear, com ampliação e a democratização de todas as políticas estaduais de fomento, com critérios transparentes e participação efetiva dos trabalhadores da cultura, das universidades, dos movimentos sociais, dos povos indígenas, quilombolas, ribeirinhos, povos da floresta e demais comunidades tradicionais na definição das políticas culturais."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "A Amazônia, a Ilha do Marajó, o arquipélago do Marajó, Alter do Chão, o rio Tapajós, o rio Amazonas, o patrimônio histórico de Belém, a gastronomia amazônica, as manifestações culturais, o Círio de Nazaré, os povos indígenas, quilombolas, ribeirinhos e as diversas expressões culturais fazem do estado um dos principais destinos turísticos brasileiros. Povos indígenas Os povos indígenas não podem ser tratados como atrações turísticas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 7,
+          "page_end": 40,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Quanto as camadas populares da classe trabalhadora, defendemos uma Além disso, a tarifa deve refletir apenas o custo real da prestação do serviço público, sem a incorporação de margens destinadas à distribuição de lucros privados. O controle social deve assegurar que trabalhadores do saneamento, usuários do sistema e representantes da sociedade participem das decisões estratégicas sobre investimentos, qualidade do atendimento e fiscalização. Defendemos a criação de conselhos populares de habitação, com participação dos movimentos de moradia, sindicatos, associações comunitárias e entidades populares, garantindo controle social sobre os recursos públicos e sobre os projetos urbanos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Quanto as camadas populares da classe trabalhadora, defendemos uma Além disso, a tarifa deve refletir apenas o custo real da prestação do serviço público, sem a incorporação de margens destinadas à distribuição de lucros privados. O controle social deve assegurar que trabalhadores do saneamento, usuários do sistema e representantes da sociedade participem das decisões estratégicas sobre investimentos, qualidade do atendimento e fiscalização."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "Defendemos a criação de conselhos populares de habitação, com participação dos movimentos de moradia, sindicatos, associações comunitárias e entidades populares, garantindo controle social sobre os recursos públicos e sobre os projetos urbanos."
+            },
+            {
+              "id": "s07",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "O combate ao assédio moral e sexual é uma das demandas do movimento docente na UEPA, onde está presente com nas mais diversas instituições do serviço público."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "— Planejamento público e democrático da política estadual de turismo; — Fortalecimento da gestão pública do turismo; — Participação das comunidades locais na definição das políticas públicas; — Transparência na aplicação dos recursos destinados ao setor."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d"
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002542386",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002542386_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002542386_01.pdf",
+      "sha256": "0bd6598fc5116dc93055b6a00867a1072b7af36fce4841273acd4913a96ba86a",
+      "summary": "INDÍGENAS E COM DEFICIÊNCIA EM TODOS OS CERTAMES ESTADUAIS, COM BANCA DE HETEROIDENTIFICAÇÃO, COMISSÃO DE VERIFICAÇÃO E PUBLICAÇÃO ANUAL DO RESULTADO DAS COTAS. DE GOVERNO, CONSTRUÍDO COM O MOVIMENTO NEGRO, AS COMUNIDADES QUILOMBOLAS E AS COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA DO PARÁ. 21 - QUALIFICAÇÃO OBRIGATÓRIA DE DELEGADOS, ESCRIVÃES, PERITOS E AGENTES DAS A secretaria terá status de órgão de planejamento estratégico, liderando a transição ecológica justa e integrando de forma compulsória as políticas de infraestrutura, habitação, defesa civil e meio ambiente. Essa agenda deve proteger o meio ambiente da Amazônia paraense, a fauna e as pessoas, especialmente nos centros urbanos, que enfrentam desafios diários com enchentes, ilhas de calor e eventos climáticos extremos. E a agricultura familiar como prioridade nas compras públicas — pra baratear a cesta básica e fazer o dinheiro do Estado ficar aqui, na mão de quem planta. 10 - IMPLANTAÇÃO DE UM PLANO DE DESENVOLVIMENTO TERRITORIAL PARA O ARQUIPÉLAGO DE MARAJÓ, PARA ACABAR COM A FOME E OS PÉSSIMOS INDICADORES SOCIAIS QUE MARCAM ESSA REGIÃO PARAENSE; Apoio de verdade à bioeconomia, ao turismo de base comunitária, à economia dos povos indígenas, ribeirinhos e quilombolas. 20 - CRIAÇÃO DA SECRETARIA DE ESTADO DE IGUALDADE RACIAL, COM ORÇAMENTO Nós vamos criar um processo permanente de participação social, em cada município e em cada macrorregião, para definir o orçamento do Estado e o plano plurianual. Nossa visão estratégica integra a conservação da Amazônia à adaptação e mitigação nas cidades, estabelecendo as Soluções Baseadas na Natureza (SbN) como eixo central do planejamento urbano e a Justiça Climática como princípio inegociável da gestão pública. 28 - REVISÃO, COM TRANSPARÊNCIA E CONTROLE SOCIAL, DA POLÍTICA DE INCENTIVO FISCAL E DE QUALQUER NATUREZA AOS PROJETOS DE MINERAÇÃO, PRODUÇÃO DE ENERGIA, LOGÍSTICA, AGROPECUÁRIOS E DE QUALQUER NATUREZA CAPAZES DE PROVOCAR IMPACTOS RELEVANTES. Lideraremos a transição energética nas cidades paraenses, em parceria com os municípios.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 16,
+          "page_end": 18,
+          "topics": [
+            "education"
+          ],
+          "summary": "INDÍGENAS E COM DEFICIÊNCIA EM TODOS OS CERTAMES ESTADUAIS, COM BANCA DE HETEROIDENTIFICAÇÃO, COMISSÃO DE VERIFICAÇÃO E PUBLICAÇÃO ANUAL DO RESULTADO DAS COTAS. DE GOVERNO, CONSTRUÍDO COM O MOVIMENTO NEGRO, AS COMUNIDADES QUILOMBOLAS E AS COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA DO PARÁ. 21 - QUALIFICAÇÃO OBRIGATÓRIA DE DELEGADOS, ESCRIVÃES, PERITOS E AGENTES DAS",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "INDÍGENAS E COM DEFICIÊNCIA EM TODOS OS CERTAMES ESTADUAIS, COM BANCA DE HETEROIDENTIFICAÇÃO, COMISSÃO DE VERIFICAÇÃO E PUBLICAÇÃO ANUAL DO RESULTADO DAS COTAS."
+            },
+            {
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "DE GOVERNO, CONSTRUÍDO COM O MOVIMENTO NEGRO, AS COMUNIDADES QUILOMBOLAS E AS COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA DO PARÁ. 21 - QUALIFICAÇÃO OBRIGATÓRIA DE DELEGADOS, ESCRIVÃES, PERITOS E AGENTES DAS"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 16,
+          "page_end": 18,
+          "topics": [
+            "health"
+          ],
+          "summary": "INDÍGENAS E COM DEFICIÊNCIA EM TODOS OS CERTAMES ESTADUAIS, COM BANCA DE HETEROIDENTIFICAÇÃO, COMISSÃO DE VERIFICAÇÃO E PUBLICAÇÃO ANUAL DO RESULTADO DAS COTAS. DE GOVERNO, CONSTRUÍDO COM O MOVIMENTO NEGRO, AS COMUNIDADES QUILOMBOLAS E AS COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA DO PARÁ. 21 - QUALIFICAÇÃO OBRIGATÓRIA DE DELEGADOS, ESCRIVÃES, PERITOS E AGENTES DAS",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "INDÍGENAS E COM DEFICIÊNCIA EM TODOS OS CERTAMES ESTADUAIS, COM BANCA DE HETEROIDENTIFICAÇÃO, COMISSÃO DE VERIFICAÇÃO E PUBLICAÇÃO ANUAL DO RESULTADO DAS COTAS."
+            },
+            {
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "DE GOVERNO, CONSTRUÍDO COM O MOVIMENTO NEGRO, AS COMUNIDADES QUILOMBOLAS E AS COMUNIDADES TRADICIONAIS DE MATRIZ AFRICANA DO PARÁ. 21 - QUALIFICAÇÃO OBRIGATÓRIA DE DELEGADOS, ESCRIVÃES, PERITOS E AGENTES DAS"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 13,
+          "page_end": 13,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A secretaria terá status de órgão de planejamento estratégico, liderando a transição ecológica justa e integrando de forma compulsória as políticas de infraestrutura, habitação, defesa civil e meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A secretaria terá status de órgão de planejamento estratégico, liderando a transição ecológica justa e integrando de forma compulsória as políticas de infraestrutura, habitação, defesa civil e meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 9,
+          "page_end": 13,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Essa agenda deve proteger o meio ambiente da Amazônia paraense, a fauna e as pessoas, especialmente nos centros urbanos, que enfrentam desafios diários com enchentes, ilhas de calor e eventos climáticos extremos. A secretaria terá status de órgão de planejamento estratégico, liderando a transição ecológica justa e integrando de forma compulsória as políticas de infraestrutura, habitação, defesa civil e meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 13,
+              "text": "Essa agenda deve proteger o meio ambiente da Amazônia paraense, a fauna e as pessoas, especialmente nos centros urbanos, que enfrentam desafios diários com enchentes, ilhas de calor e eventos climáticos extremos."
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A secretaria terá status de órgão de planejamento estratégico, liderando a transição ecológica justa e integrando de forma compulsória as políticas de infraestrutura, habitação, defesa civil e meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 5,
+          "page_end": 17,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "E a agricultura familiar como prioridade nas compras públicas — pra baratear a cesta básica e fazer o dinheiro do Estado ficar aqui, na mão de quem planta. 10 - IMPLANTAÇÃO DE UM PLANO DE DESENVOLVIMENTO TERRITORIAL PARA O ARQUIPÉLAGO DE MARAJÓ, PARA ACABAR COM A FOME E OS PÉSSIMOS INDICADORES SOCIAIS QUE MARCAM ESSA REGIÃO PARAENSE;",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "E a agricultura familiar como prioridade nas compras públicas — pra baratear a cesta básica e fazer o dinheiro do Estado ficar aqui, na mão de quem planta."
+            },
+            {
+              "id": "s20",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "10 - IMPLANTAÇÃO DE UM PLANO DE DESENVOLVIMENTO TERRITORIAL PARA O ARQUIPÉLAGO DE MARAJÓ, PARA ACABAR COM A FOME E OS PÉSSIMOS INDICADORES SOCIAIS QUE MARCAM ESSA REGIÃO PARAENSE;"
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 18,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Apoio de verdade à bioeconomia, ao turismo de base comunitária, à economia dos povos indígenas, ribeirinhos e quilombolas. 19 - PLENA GARANTIA DA CONSULTA PRÉVIA, LIVRE E INFORMADA, CONFORME ESTABELECIDO PELA CONVENÇÃO 169 DA OIT; 20 - CRIAÇÃO DA SECRETARIA DE ESTADO DE IGUALDADE RACIAL, COM ORÇAMENTO",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "Apoio de verdade à bioeconomia, ao turismo de base comunitária, à economia dos povos indígenas, ribeirinhos e quilombolas."
+            },
+            {
+              "id": "s24",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "19 - PLENA GARANTIA DA CONSULTA PRÉVIA, LIVRE E INFORMADA, CONFORME ESTABELECIDO PELA CONVENÇÃO 169 DA OIT; 20 - CRIAÇÃO DA SECRETARIA DE ESTADO DE IGUALDADE RACIAL, COM ORÇAMENTO"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 8,
+          "page_end": 19,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Nós vamos criar um processo permanente de participação social, em cada município e em cada macrorregião, para definir o orçamento do Estado e o plano plurianual. Nossa visão estratégica integra a conservação da Amazônia à adaptação e mitigação nas cidades, estabelecendo as Soluções Baseadas na Natureza (SbN) como eixo central do planejamento urbano e a Justiça Climática como princípio inegociável da gestão pública. 28 - REVISÃO, COM TRANSPARÊNCIA E CONTROLE SOCIAL, DA POLÍTICA DE INCENTIVO FISCAL E DE QUALQUER NATUREZA AOS PROJETOS DE MINERAÇÃO, PRODUÇÃO DE ENERGIA, LOGÍSTICA, AGROPECUÁRIOS E DE QUALQUER NATUREZA CAPAZES DE PROVOCAR IMPACTOS RELEVANTES.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Nós vamos criar um processo permanente de participação social, em cada município e em cada macrorregião, para definir o orçamento do Estado e o plano plurianual."
+            },
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 13,
+              "text": "Nossa visão estratégica integra a conservação da Amazônia à adaptação e mitigação nas cidades, estabelecendo as Soluções Baseadas na Natureza (SbN) como eixo central do planejamento urbano e a Justiça Climática como princípio inegociável da gestão pública."
+            },
+            {
+              "id": "s32",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "28 - REVISÃO, COM TRANSPARÊNCIA E CONTROLE SOCIAL, DA POLÍTICA DE INCENTIVO FISCAL E DE QUALQUER NATUREZA AOS PROJETOS DE MINERAÇÃO, PRODUÇÃO DE ENERGIA, LOGÍSTICA, AGROPECUÁRIOS E DE QUALQUER NATUREZA CAPAZES DE PROVOCAR IMPACTOS RELEVANTES."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Lideraremos a transição energética nas cidades paraenses, em parceria com os municípios.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Lideraremos a transição energética nas cidades paraenses, em parceria com os municípios."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002549930",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002549930_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002549930_01.pdf",
+      "sha256": "ad78f36906862eed33fd0017200f93ca1706fc9ae47cf305fb5342f2238d6e82",
+      "summary": "Cada política educacional deverá preparar nossos jovens para uma economia baseada no conhecimento, na inovação e na tecnologia. 41 SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA............................................. Essa presença será construída por meio da infraestrutura, da conectividade digital, da regionalização da saúde, da valorização da educação, da segurança pública, do fortalecimento da economia local e da aproximação permanente entre Governo e municípios. O crescimento do Produto Interno Bruto, a expansão da arrecadação ou o aumento das exportações somente representarão verdadeiro desenvolvimento se forem acompanhados por mais empregos, melhor educação, saúde eficiente, segurança pública, mobilidade, renda e oportunidades para todos os paraenses. Regiões inteiras convivem com profundas desigualdades sociais, apesar de contribuírem decisivamente para o desenvolvimento econômico do Brasil. Cada iniciativa de desenvolvimento econômico deverá gerar emprego, renda e oportunidades para quem vive e produz no Pará. Com mais de um milhão e duzentos mil quilômetros quadrados, cortado por alguns dos maiores rios do mundo e detentor de uma das maiores reservas de biodiversidade da Terra, nosso Estado reúne condições singulares para liderar um novo ciclo de desenvolvimento econômico, social e ambiental. governar com responsabilidade fiscal, planejar com visão de longo prazo, executar com eficiência, dialogar com a sociedade e medir cada ação pelos resultados entregues à população. Um ciclo marcado pela responsabilidade fiscal, pela eficiência administrativa, pela redução das desigualdades, pela geração de oportunidades e pela construção de um Estado mais forte. Doutor Daniel Santos - PODEMOS O quarto princípio será a responsabilidade fiscal. O Guamá, o Rio Caeté e o Tocantins preservam forte tradição agrícola, pesqueira e comercial, desempenhando papel fundamental na segurança alimentar e no abastecimento regional. Saúde atuará de forma articulada com assistência social, saneamento e tecnologia. A agricultura familiar receberá atenção especial por seu papel na segurança alimentar, na geração de empregos e no desenvolvimento dos municípios. produzir mais, produzir melhor e gerar renda O desenvolvimento do Pará passa necessariamente pelo fortalecimento de sua produção rural.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "Cada política educacional deverá preparar nossos jovens para uma economia baseada no conhecimento, na inovação e na tecnologia.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Cada política educacional deverá preparar nossos jovens para uma economia baseada no conhecimento, na inovação e na tecnologia."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "health"
+          ],
+          "summary": "41 SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA.............................................",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "41 SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA............................................."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 24,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "41 SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA............................................. Essa presença será construída por meio da infraestrutura, da conectividade digital, da regionalização da saúde, da valorização da educação, da segurança pública, do fortalecimento da economia local e da aproximação permanente entre Governo e municípios. O crescimento do Produto Interno Bruto, a expansão da arrecadação ou o aumento das exportações somente representarão verdadeiro desenvolvimento se forem acompanhados por mais empregos, melhor educação, saúde eficiente, segurança pública, mobilidade, renda e oportunidades para todos os paraenses.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "41 SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA............................................."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Essa presença será construída por meio da infraestrutura, da conectividade digital, da regionalização da saúde, da valorização da educação, da segurança pública, do fortalecimento da economia local e da aproximação permanente entre Governo e municípios."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "O crescimento do Produto Interno Bruto, a expansão da arrecadação ou o aumento das exportações somente representarão verdadeiro desenvolvimento se forem acompanhados por mais empregos, melhor educação, saúde eficiente, segurança pública, mobilidade, renda e oportunidades para todos os paraenses."
+            },
+            {
+              "id": "s21",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "A inovação estará presente não apenas na economia, mas também na educação, na saúde, na segurança pública, na gestão administrativa e na prestação dos serviços públicos."
+            },
+            {
+              "id": "s23",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Segurança Pública compartilhará informações com inteligência, justiça, educação e políticas de prevenção."
+            },
+            {
+              "id": "s26",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Exige compreender que educação, saúde, infraestrutura, desenvolvimento econômico, segurança pública, sustentabilidade e inclusão social não são políticas independentes."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 30,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Regiões inteiras convivem com profundas desigualdades sociais, apesar de contribuírem decisivamente para o desenvolvimento econômico do Brasil. Cada iniciativa de desenvolvimento econômico deverá gerar emprego, renda e oportunidades para quem vive e produz no Pará. Com mais de um milhão e duzentos mil quilômetros quadrados, cortado por alguns dos maiores rios do mundo e detentor de uma das maiores reservas de biodiversidade da Terra, nosso Estado reúne condições singulares para liderar um novo ciclo de desenvolvimento econômico, social e ambiental.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Regiões inteiras convivem com profundas desigualdades sociais, apesar de contribuírem decisivamente para o desenvolvimento econômico do Brasil."
+            },
+            {
+              "id": "s08",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Cada iniciativa de desenvolvimento econômico deverá gerar emprego, renda e oportunidades para quem vive e produz no Pará."
+            },
+            {
+              "id": "s13",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Com mais de um milhão e duzentos mil quilômetros quadrados, cortado por alguns dos maiores rios do mundo e detentor de uma das maiores reservas de biodiversidade da Terra, nosso Estado reúne condições singulares para liderar um novo ciclo de desenvolvimento econômico, social e ambiental."
+            },
+            {
+              "id": "s14",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Enquanto algumas regiões apresentam elevado dinamismo econômico, outras ainda enfrentam limitações de infraestrutura, acesso à saúde especializada, qualidade da educação, saneamento básico, mobilidade, conectividade digital e geração de empregos."
+            },
+            {
+              "id": "s15",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Doutor Daniel Santos - PODEMOS Em muitos municípios, o crescimento econômico ainda não se converteu em desenvolvimento humano. O grande desafio do Pará é transformar crescimento econômico em prosperidade compartilhada."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Cada grande investimento estará inserido em um projeto de desenvolvimento de longo prazo, articulando infraestrutura, educação, saúde, segurança, desenvolvimento econômico e sustentabilidade ambiental."
+            },
+            {
+              "id": "s21",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Nosso compromisso será promover crescimento econômico com responsabilidade ambiental, ampliando a bioeconomia, fortalecendo a pesquisa científica, incentivando atividades produtivas sustentáveis e combatendo todas as formas de ilegalidade ambiental."
+            },
+            {
+              "id": "s23",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Educação dialogará permanentemente com desenvolvimento econômico."
+            },
+            {
+              "id": "s26",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Exige compreender que educação, saúde, infraestrutura, desenvolvimento econômico, segurança pública, sustentabilidade e inclusão social não são políticas independentes."
+            },
+            {
+              "id": "s30",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Doutor Daniel Santos - PODEMOS EIXO II DESENVOLVIMENTO ECONÔMICO, INDUSTRIALIZAÇÃO, SEGURANÇA JURÍDICA E GERAÇÃO DE EMPREGOS O Pará que produz riqueza deve produzir prosperidade para o seu povo O Pará reúne condições únicas para liderar um novo ciclo de desenvolvimento econômico no Brasil. Queremos uma economia dinâmica, competitiva, diversificada e comprometida com a geração de empregos de qualidade em todas as Regiões de Integração."
+            },
+            {
+              "id": "s31",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "A regularização fundiária constitui um dos principais instrumentos para promover investimentos, reduzir conflitos, ampliar o acesso ao crédito rural, estimular a produção e assegurar desenvolvimento econômico com responsabilidade ambiental."
+            },
+            {
+              "id": "s32",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Doutor Daniel Santos - PODEMOS A regularização fundiária será conduzida com absoluto respeito à legislação, aos direitos das comunidades indígenas, quilombolas, ribeirinhas e tradicionais, conciliando segurança jurídica, proteção ambiental e desenvolvimento econômico. A agricultura familiar receberá atenção especial por seu papel na segurança alimentar, na geração de empregos e no desenvolvimento dos municípios."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "governar com responsabilidade fiscal, planejar com visão de longo prazo, executar com eficiência, dialogar com a sociedade e medir cada ação pelos resultados entregues à população. Um ciclo marcado pela responsabilidade fiscal, pela eficiência administrativa, pela redução das desigualdades, pela geração de oportunidades e pela construção de um Estado mais forte. Doutor Daniel Santos - PODEMOS O quarto princípio será a responsabilidade fiscal.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "governar com responsabilidade fiscal, planejar com visão de longo prazo, executar com eficiência, dialogar com a sociedade e medir cada ação pelos resultados entregues à população."
+            },
+            {
+              "id": "s12",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Um ciclo marcado pela responsabilidade fiscal, pela eficiência administrativa, pela redução das desigualdades, pela geração de oportunidades e pela construção de um Estado mais forte."
+            },
+            {
+              "id": "s20",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Doutor Daniel Santos - PODEMOS O quarto princípio será a responsabilidade fiscal. não será vista como limitação ao desenvolvimento, mas como seu principal alicerce."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 11,
+          "page_end": 30,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "O Guamá, o Rio Caeté e o Tocantins preservam forte tradição agrícola, pesqueira e comercial, desempenhando papel fundamental na segurança alimentar e no abastecimento regional. Saúde atuará de forma articulada com assistência social, saneamento e tecnologia. A agricultura familiar receberá atenção especial por seu papel na segurança alimentar, na geração de empregos e no desenvolvimento dos municípios.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "O Guamá, o Rio Caeté e o Tocantins preservam forte tradição agrícola, pesqueira e comercial, desempenhando papel fundamental na segurança alimentar e no abastecimento regional."
+            },
+            {
+              "id": "s23",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Saúde atuará de forma articulada com assistência social, saneamento e tecnologia."
+            },
+            {
+              "id": "s32",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "A agricultura familiar receberá atenção especial por seu papel na segurança alimentar, na geração de empregos e no desenvolvimento dos municípios."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 29,
+          "page_end": 30,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "produzir mais, produzir melhor e gerar renda O desenvolvimento do Pará passa necessariamente pelo fortalecimento de sua produção rural. O campo paraense reúne enorme diversidade produtiva, que vai da agricultura familiar às grandes cadeias do agronegócio, passando pela pesca, aquicultura, pecuária, extrativismo sustentável e produção florestal.",
+          "excerpts": [
+            {
+              "id": "s32",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "produzir mais, produzir melhor e gerar renda O desenvolvimento do Pará passa necessariamente pelo fortalecimento de sua produção rural. O campo paraense reúne enorme diversidade produtiva, que vai da agricultura familiar às grandes cadeias do agronegócio, passando pela pesca, aquicultura, pecuária, extrativismo sustentável e produção florestal."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 17,
+          "page_end": 26,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Por isso, construiremos uma administração orientada por metas, indicadores de desempenho, inovação, transformação digital e avaliação permanente das políticas públicas. O Pará precisa preparar-se para uma economia cada vez mais baseada em tecnologia, inteligência artificial, ciência, transformação digital e conhecimento. A transformação digital será outro instrumento essencial dessa nova governança.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Por isso, construiremos uma administração orientada por metas, indicadores de desempenho, inovação, transformação digital e avaliação permanente das políticas públicas."
+            },
+            {
+              "id": "s21",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "O Pará precisa preparar-se para uma economia cada vez mais baseada em tecnologia, inteligência artificial, ciência, transformação digital e conhecimento."
+            },
+            {
+              "id": "s24",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "A transformação digital será outro instrumento essencial dessa nova governança. Implantaremos um amplo programa de Governo Digital, ampliando significativamente a oferta de serviços públicos eletrônicos, integrando bases de dados estaduais, reduzindo burocracias, simplificando procedimentos administrativos e utilizando inteligência artificial e análise de dados para apoiar a tomada de decisões."
+            },
+            {
+              "id": "s28",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "A transformação digital será uma das principais ferramentas dessa mudança."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 8,
+          "page_end": 12,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Queremos desenvolver a Região Metropolitana de Belém, consolidando-a como centro de serviços, inovação e economia criativa. O Marajó representa um patrimônio cultural e ambiental único, com enorme vocação para o turismo, a pesca, a pecuária e a economia da sociobiodiversidade. A Região Metropolitana de Belém concentra serviços, comércio, universidades, centros de pesquisa, atividades portuárias, economia criativa e a maior parte da estrutura administrativa do Estado, constituindo um polo estratégico para inovação, turismo e desenvolvimento tecnológico.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Queremos desenvolver a Região Metropolitana de Belém, consolidando-a como centro de serviços, inovação e economia criativa."
+            },
+            {
+              "id": "s13",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "O Marajó representa um patrimônio cultural e ambiental único, com enorme vocação para o turismo, a pesca, a pecuária e a economia da sociobiodiversidade."
+            },
+            {
+              "id": "s14",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "A Região Metropolitana de Belém concentra serviços, comércio, universidades, centros de pesquisa, atividades portuárias, economia criativa e a maior parte da estrutura administrativa do Estado, constituindo um polo estratégico para inovação, turismo e desenvolvimento tecnológico. Poucos territórios brasileiros possuem uma combinação tão expressiva de recursos minerais, potencial agropecuário, disponibilidade hídrica, capacidade energética, riqueza florestal, patrimônio cultural e localização geográfica estratégica."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 10,
+          "page_end": 11,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "A Amazônia dos povos indígenas, quilombolas e comunidades tradicionais.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "A Amazônia dos povos indígenas, quilombolas e comunidades tradicionais."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 7,
+          "page_end": 26,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Foi essa experiência que moldou a forma como enxergo o serviço público. Ele nasce da escuta da sociedade, das contribuições de especialistas, das experiências exitosas de gestão pública e do diálogo com representantes dos diversos setores econômicos e sociais do Pará. A boa gestão pública permite que todas essas políticas alcancem melhores resultados.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Foi essa experiência que moldou a forma como enxergo o serviço público."
+            },
+            {
+              "id": "s11",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Ele nasce da escuta da sociedade, das contribuições de especialistas, das experiências exitosas de gestão pública e do diálogo com representantes dos diversos setores econômicos e sociais do Pará."
+            },
+            {
+              "id": "s20",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "O quinto princípio será a eficiência da gestão pública."
+            },
+            {
+              "id": "s26",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "A boa gestão pública permite que todas essas políticas alcancem melhores resultados."
+            },
+            {
+              "id": "s28",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "É preciso construir um novo padrão de gestão pública. A gestão pública será organizada em torno de planejamento estratégico, metas claras, avaliação permanente e foco absoluto na entrega de resultados."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002551357",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002551357_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002551357_01.pdf",
+      "sha256": "0f178c87c8f689c1333b8c6c661802188f8d759866505ed223e5bdaaf268a8f8",
+      "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens. Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico. ~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "health"
+          ],
+          "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 1,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo"
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 1,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002551598",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002551598_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002551598_01.pdf",
+      "sha256": "3feb4edbe2b82e1fecf48ac9c3474d97bfd5de8f193b764d50d3859f7a6ca09f",
+      "summary": "Nosso compromisso é garantir uma educação pública de qualidade, inclusiva e inovadora, que acompanhe o estudante desde a primeira infância, assegure aprendizagem e permanência na escola e prepare crianças e jovens para construir seus projetos de vida e aproveitar as oportunidades de um mundo em transformação. Avançamos nos indicadores de aprendizagem, ampliamos a educação em tempo integral, modernizamos escolas, expandimos creches, fortalecemos a educação proﬁ ssional e levamos tecnologia, conectividade, robótica e inovação para dentro da rede pública. • O Pará foi o estado que mais avançou na avaliação do IDEB do Ensino Médio, desde 2017, sendo o líder da região norte. Nosso compromisso é fortalecer o Sistema Único de Saúde (SUS) no Pará, ampliando o acesso, reduzindo desigualdades regionais e garantindo um atendimento mais humanizado, eﬁ ciente e resolutivo em todas as regiões do estado. • Combater a mortalidade materno e infantil Expandir a rede de saúde mental. • Fortalecer a Atenção Básica integrada à Média e Alta Complexidade. A segurança pública continuará sendo uma das principais prioridades do nosso governo. Nosso compromisso é consolidar uma política de segurança cada vez mais moderna, integrada e eﬁ ciente, fortalecendo a presença do Estado em todas as regiões e ampliando a proteção das famílias paraenses. • Incorporação de mais de 14 mil novos agentes de segurança pública. Um estado onde o desenvolvimento econômico se transforme em mais empregos, mais renda e mais oportunidades para quem quer trabalhar, empreender e construir um futuro melhor. O trabalho digno é o caminho para reduzir desigualdades e transformar vidas. Sua construção parte do entendimento de que os desaﬁ os do estado exigem políticas públicas integradas, capazes de promover crescimento econômico, reduzir desigualdades, ampliar oportunidades e garantir qualidade de vida para toda a população. Este pilar reúne as políticas públicas voltadas à promoção da qualidade de vida, da proteção social e da cidadania. Vamos fortalecer a rede de prevenção e enfrentamento à violência contra a mulher, ampliando o acesso aos serviços especializados, à tecnologia de proteção, ao acolhimento humanizado e às ações integradas entre segurança pública, justiça e assistência social.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 19,
+          "page_end": 24,
+          "topics": [
+            "education"
+          ],
+          "summary": "Nosso compromisso é garantir uma educação pública de qualidade, inclusiva e inovadora, que acompanhe o estudante desde a primeira infância, assegure aprendizagem e permanência na escola e prepare crianças e jovens para construir seus projetos de vida e aproveitar as oportunidades de um mundo em transformação. Avançamos nos indicadores de aprendizagem, ampliamos a educação em tempo integral, modernizamos escolas, expandimos creches, fortalecemos a educação proﬁ ssional e levamos tecnologia, conectividade, robótica e inovação para dentro da rede pública. • O Pará foi o estado que mais avançou na avaliação do IDEB do Ensino Médio, desde 2017, sendo o líder da região norte.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Nosso compromisso é garantir uma educação pública de qualidade, inclusiva e inovadora, que acompanhe o estudante desde a primeira infância, assegure aprendizagem e permanência na escola e prepare crianças e jovens para construir seus projetos de vida e aproveitar as oportunidades de um mundo em transformação. Avançamos nos indicadores de aprendizagem, ampliamos a educação em tempo integral, modernizamos escolas, expandimos creches, fortalecemos a educação proﬁ ssional e levamos tecnologia, conectividade, robótica e inovação para dentro da rede pública."
+            },
+            {
+              "id": "s18",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "• O Pará foi o estado que mais avançou na avaliação do IDEB do Ensino Médio, desde 2017, sendo o líder da região norte. • Educação em tempo integral em mais de 199 escolas."
+            },
+            {
+              "id": "s20",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "• Implantar programa de estágio remunerado, com concessão de bolsa e qualiﬁ cação proﬁ ssional de estudantes do ensino médio e Educação de Jovem e Adulto (EJA), promovendo a permanência escolar e a preparação para o mundo do trabalho. • Criar o Programa Bora Estudar pelo Mundo, oferecendo intercâmbio internacional para estudantes do Ensino Médio da rede estadual."
+            },
+            {
+              "id": "s21",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "• Implantar mais 50 Centros de Robótica da Educação Básica do Pará. • Expandir o Programa Forma Pará, ampliando vagas, cursos e parcerias para fortalecer a interiorização do ensino superior."
+            },
+            {
+              "id": "s22",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "• Reduzir a distorção idade-série no Ensino Médio."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 8,
+          "page_end": 24,
+          "topics": [
+            "health"
+          ],
+          "summary": "Nosso compromisso é fortalecer o Sistema Único de Saúde (SUS) no Pará, ampliando o acesso, reduzindo desigualdades regionais e garantindo um atendimento mais humanizado, eﬁ ciente e resolutivo em todas as regiões do estado. • Combater a mortalidade materno e infantil Expandir a rede de saúde mental. • Fortalecer a Atenção Básica integrada à Média e Alta Complexidade.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 10,
+              "text": "Nosso compromisso é fortalecer o Sistema Único de Saúde (SUS) no Pará, ampliando o acesso, reduzindo desigualdades regionais e garantindo um atendimento mais humanizado, eﬁ ciente e resolutivo em todas as regiões do estado."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "• Combater a mortalidade materno e infantil Expandir a rede de saúde mental."
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "• Fortalecer a Atenção Básica integrada à Média e Alta Complexidade."
+            },
+            {
+              "id": "s22",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "• Ampliar as ações voltadas à saúde mental e o apoio socioemocional nas escolas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 14,
+          "page_end": 32,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública continuará sendo uma das principais prioridades do nosso governo. Nosso compromisso é consolidar uma política de segurança cada vez mais moderna, integrada e eﬁ ciente, fortalecendo a presença do Estado em todas as regiões e ampliando a proteção das famílias paraenses. • Incorporação de mais de 14 mil novos agentes de segurança pública.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "A segurança pública continuará sendo uma das principais prioridades do nosso governo. Nosso compromisso é consolidar uma política de segurança cada vez mais moderna, integrada e eﬁ ciente, fortalecendo a presença do Estado em todas as regiões e ampliando a proteção das famílias paraenses."
+            },
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "• Ampliação de 103% nos investimentos em segurança pública. • Incorporação de mais de 14 mil novos agentes de segurança pública."
+            },
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "• Promover a capacitação contínua do efetivo de segurança pública para o acolhimento humanizado de mulheres vítimas de violência."
+            },
+            {
+              "id": "s15",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "• Realizar concurso público para área da Segurança Pública. • Fortalecer o combate ao crime organizado no Pará, com integração entre as forças de segurança, uso de inteligência avançada e ﬁ nanceira, e monitoramento ampliado em todo o estado."
+            },
+            {
+              "id": "s16",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "• Fortalecer os serviços de atendimento biopsicossocial na segurança pública."
+            },
+            {
+              "id": "s26",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "• Promover a capacitação contínua do efetivo de segurança pública para o acolhimento humanizado de mulheres vítimas de violência."
+            },
+            {
+              "id": "s31",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "• Incentivar a política de segurança alimentar e nutricional."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 30,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Um estado onde o desenvolvimento econômico se transforme em mais empregos, mais renda e mais oportunidades para quem quer trabalhar, empreender e construir um futuro melhor. O trabalho digno é o caminho para reduzir desigualdades e transformar vidas. Sua construção parte do entendimento de que os desaﬁ os do estado exigem políticas públicas integradas, capazes de promover crescimento econômico, reduzir desigualdades, ampliar oportunidades e garantir qualidade de vida para toda a população.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Um estado onde o desenvolvimento econômico se transforme em mais empregos, mais renda e mais oportunidades para quem quer trabalhar, empreender e construir um futuro melhor. O trabalho digno é o caminho para reduzir desigualdades e transformar vidas."
+            },
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Sua construção parte do entendimento de que os desaﬁ os do estado exigem políticas públicas integradas, capazes de promover crescimento econômico, reduzir desigualdades, ampliar oportunidades e garantir qualidade de vida para toda a população. Eles expressam uma lógica de atuação em que o cuidado com as pessoas, o desenvolvimento econômico e a preparação para o futuro caminham de forma integrada."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Cuidar das pessoas é investir no presente e construir um estado mais justo, humano e inclusivo, onde o crescimento econômico se traduza em bem-estar, dignidade e melhores oportunidades para todos."
+            },
+            {
+              "id": "s28",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Vamos ampliar as oportunidades de qualiﬁ cação, inclusão produtiva, esporte, cultura, inovação e participação cidadã, criando caminhos para que nossos jovens desenvolvam seus talentos, ingressem no mercado de trabalho e construam seus projetos de vida com autonomia e esperança."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 32,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Este pilar reúne as políticas públicas voltadas à promoção da qualidade de vida, da proteção social e da cidadania. Vamos fortalecer a rede de prevenção e enfrentamento à violência contra a mulher, ampliando o acesso aos serviços especializados, à tecnologia de proteção, ao acolhimento humanizado e às ações integradas entre segurança pública, justiça e assistência social. Vamos fortalecer a rede de proteção, ampliar o acesso aos serviços especializados, integrar as políticas de segurança, saúde, assistência social e justiça e investir em tecnologia, prevenção e atendimento humanizado, garantindo respostas rápidas, acolhimento qualiﬁ cado e proteção para mulheres em situação de violência.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Este pilar reúne as políticas públicas voltadas à promoção da qualidade de vida, da proteção social e da cidadania."
+            },
+            {
+              "id": "s11",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Vamos fortalecer a rede de prevenção e enfrentamento à violência contra a mulher, ampliando o acesso aos serviços especializados, à tecnologia de proteção, ao acolhimento humanizado e às ações integradas entre segurança pública, justiça e assistência social."
+            },
+            {
+              "id": "s23",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Vamos fortalecer a rede de proteção, ampliar o acesso aos serviços especializados, integrar as políticas de segurança, saúde, assistência social e justiça e investir em tecnologia, prevenção e atendimento humanizado, garantindo respostas rápidas, acolhimento qualiﬁ cado e proteção para mulheres em situação de violência."
+            },
+            {
+              "id": "s28",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Nosso compromisso é fortalecer uma ampla rede de proteção social, assegurando direitos, ampliando oportunidades e promovendo inclusão para crianças, jovens, idosos, pessoas com deﬁ ciência, povos tradicionais e famílias em situação de vulnerabilidade em todas as regiões do Pará."
+            },
+            {
+              "id": "s29",
+              "page_start": 30,
+              "page_end": 30,
+              "text": "• Implantação do Programa Territórios Pela Paz voltado para inclusão, assistência à população vulnerável. • Regularização dos repasses aos municípios para proteção social básica e especial."
+            },
+            {
+              "id": "s31",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "• Incentivar a política de segurança alimentar e nutricional."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 18,
+          "page_end": 19,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "• Fortalecer a Política Estadual de Trânsito, ampliando e modernizando a gestão através da transformação digital e inteligência artiﬁ cial.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "• Fortalecer a Política Estadual de Trânsito, ampliando e modernizando a gestão através da transformação digital e inteligência artiﬁ cial."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 30,
+          "page_end": 30,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "• Realização da Semana dos Povos Indígenas, Seminário Estadual de Políticas Públicas para os Povos Indígenas e Caravana dos Povos Indígenas rumo à COP.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 30,
+              "page_end": 30,
+              "text": "• Criação da Secretaria Estadual dos Povos Indígenas. • Realização da Semana dos Povos Indígenas, Seminário Estadual de Políticas Públicas para os Povos Indígenas e Caravana dos Povos Indígenas rumo à COP."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Minha trajetória na gestão pública sempre foi marcada pela responsabilidade com o dinheiro do cidadão.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Minha trajetória na gestão pública sempre foi marcada pela responsabilidade com o dinheiro do cidadão."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002551943",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002551943_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002551943_01.pdf",
+      "sha256": "456493d79251836437029bd18083a4274e3d2189e9644d167a081c4bb965f388",
+      "summary": "Enquanto as elites podem comprar educação, tecnologia, cursos e preparação para disputar as melhores oportunidades, os filhos da classe trabalhadora dependem da educação pública, que é sistematicamente precarizada pelos governos. ​ Ademais, não existe educação pública de qualidade sem valorização de quem trabalha nela. 9)​ Garantir uma educação pública estadual livre de LGBTfobia, com protocolos de prevenção e enfrentamento à discriminação e à violência, acolhimento e acompanhamento pedagógico e psicossocial de estudantes LGBT, especialmente em situações de vulnerabilidade e evasão escolar, além de formação permanente de professores, gestores e equipes pedagógicas para promoção dos direitos humanos e da permanência estudantil. Saúde pública, com controle popular ​ A saúde pública no Pará não atende às necessidades da população, é marcada pela insuficiência de profissionais, pelas dificuldades de acesso à atenção especializada, entrega da administração às Organizações Sociais (OS), e desigualdade entre a capital e o interior. Isso exige o combate às Organizações Sociais (OSs), às Parcerias Público-Privadas (PPPs), às terceirizações e às demais formas de privatização da saúde pública. Garantindo atendimento humanizado e livre de discriminação, formação permanente dos trabalhadores da saúde e fortalecimento da atenção à saúde mental, com acompanhamento psicológico e psiquiátrico, especialmente para jovens expulsos de casa e vítimas de violência. Existe, portanto, uma dimensão econômica do crime que precisa ser enfrentada, pois o crime organizado não se sustenta apenas na pobreza: ele movimenta mercados muito lucrativos, como o tráfico de drogas e armas, garimpo ilegal, exploração ilegal de madeira, grilagem, contrabando e lavagem de dinheiro. Por isso, uma política de segurança que atue somente sobre aqueles que estão na ponta do crime jamais atingirá toda a estrutura que o mantém funcionando. MULHERES Pela igualdade de gênero e pelo fim da violência contra as mulheres Desde a tipificação da Lei do Feminicídio, em março de 2015, ao menos 13.703 mulheres foram assassinadas só pelo fato de serem mulheres, segundo o último relatório do Fórum Brasileiro de Segurança Pública (FBSP) de 2026.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 11,
+          "page_end": 56,
+          "topics": [
+            "education"
+          ],
+          "summary": "Enquanto as elites podem comprar educação, tecnologia, cursos e preparação para disputar as melhores oportunidades, os filhos da classe trabalhadora dependem da educação pública, que é sistematicamente precarizada pelos governos. ​ Ademais, não existe educação pública de qualidade sem valorização de quem trabalha nela. 9)​ Garantir uma educação pública estadual livre de LGBTfobia, com protocolos de prevenção e enfrentamento à discriminação e à violência, acolhimento e acompanhamento pedagógico e psicossocial de estudantes LGBT, especialmente em situações de vulnerabilidade e evasão escolar, além de formação permanente de professores, gestores e equipes pedagógicas para promoção dos direitos humanos e da permanência estudantil.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "Enquanto as elites podem comprar educação, tecnologia, cursos e preparação para disputar as melhores oportunidades, os filhos da classe trabalhadora dependem da educação pública, que é sistematicamente precarizada pelos governos. ​ Ademais, não existe educação pública de qualidade sem valorização de quem trabalha nela."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "9)​ Garantir uma educação pública estadual livre de LGBTfobia, com protocolos de prevenção e enfrentamento à discriminação e à violência, acolhimento e acompanhamento pedagógico e psicossocial de estudantes LGBT, especialmente em situações de vulnerabilidade e evasão escolar, além de formação permanente de professores, gestores e equipes pedagógicas para promoção dos direitos humanos e da permanência estudantil."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "6.​ Implementação da disciplina de Estudos Sobre a Cultura Afro-Brasileira e Africana e Cultura dos Povos Indígenas em todas as escolas estaduais a partir do 5º ano do ensino fundamental até o 3º ano do ensino médio, conforme a legislação federal; 7.​ Realizar cursos de formação periódicos para profissionais da área de segurança pública, a fim de especializar e assegurar profissionalismo no momento do registro das ocorrências ligadas a crimes de cunho racial; 8.​ Realizar cursos de letramento racial nos órgãos públicos, promovidos e pensados pela SEIRDH junto ao CONEPPIRD; 9.​ Valorizar centros culturais, museus populares e manifestações e saberes ancestrais dos povos e comunidades através da promoção de políticas públicas que insiram essas manifestações e espaços de cultura no roteiro turístico e educacional do estado."
+            },
+            {
+              "id": "s11",
+              "page_start": 53,
+              "page_end": 56,
+              "text": "Esse acesso também deve ser construído dentro das escolas públicas, com boas estruturas de quadras esportivas, interligação entre o espaço e a comunidade do entorno, tendo a possibilidade de uso nos períodos em que não haja atividades escolares."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 24,
+          "page_end": 43,
+          "topics": [
+            "health"
+          ],
+          "summary": "Saúde pública, com controle popular ​ A saúde pública no Pará não atende às necessidades da população, é marcada pela insuficiência de profissionais, pelas dificuldades de acesso à atenção especializada, entrega da administração às Organizações Sociais (OS), e desigualdade entre a capital e o interior. Isso exige o combate às Organizações Sociais (OSs), às Parcerias Público-Privadas (PPPs), às terceirizações e às demais formas de privatização da saúde pública. Garantindo atendimento humanizado e livre de discriminação, formação permanente dos trabalhadores da saúde e fortalecimento da atenção à saúde mental, com acompanhamento psicológico e psiquiátrico, especialmente para jovens expulsos de casa e vítimas de violência.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 30,
+              "text": "Saúde pública, com controle popular ​ A saúde pública no Pará não atende às necessidades da população, é marcada pela insuficiência de profissionais, pelas dificuldades de acesso à atenção especializada, entrega da administração às Organizações Sociais (OS), e desigualdade entre a capital e o interior. Isso exige o combate às Organizações Sociais (OSs), às Parcerias Público-Privadas (PPPs), às terceirizações e às demais formas de privatização da saúde pública."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "Garantindo atendimento humanizado e livre de discriminação, formação permanente dos trabalhadores da saúde e fortalecimento da atenção à saúde mental, com acompanhamento psicológico e psiquiátrico, especialmente para jovens expulsos de casa e vítimas de violência."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 53,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Existe, portanto, uma dimensão econômica do crime que precisa ser enfrentada, pois o crime organizado não se sustenta apenas na pobreza: ele movimenta mercados muito lucrativos, como o tráfico de drogas e armas, garimpo ilegal, exploração ilegal de madeira, grilagem, contrabando e lavagem de dinheiro. Por isso, uma política de segurança que atue somente sobre aqueles que estão na ponta do crime jamais atingirá toda a estrutura que o mantém funcionando. MULHERES Pela igualdade de gênero e pelo fim da violência contra as mulheres Desde a tipificação da Lei do Feminicídio, em março de 2015, ao menos 13.703 mulheres foram assassinadas só pelo fato de serem mulheres, segundo o último relatório do Fórum Brasileiro de Segurança Pública (FBSP) de 2026.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Existe, portanto, uma dimensão econômica do crime que precisa ser enfrentada, pois o crime organizado não se sustenta apenas na pobreza: ele movimenta mercados muito lucrativos, como o tráfico de drogas e armas, garimpo ilegal, exploração ilegal de madeira, grilagem, contrabando e lavagem de dinheiro. Por isso, uma política de segurança que atue somente sobre aqueles que estão na ponta do crime jamais atingirá toda a estrutura que o mantém funcionando."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "MULHERES Pela igualdade de gênero e pelo fim da violência contra as mulheres Desde a tipificação da Lei do Feminicídio, em março de 2015, ao menos 13.703 mulheres foram assassinadas só pelo fato de serem mulheres, segundo o último relatório do Fórum Brasileiro de Segurança Pública (FBSP) de 2026. Vamos dialogar com essas mulheres, entender suas necessidades, atuando em conjunto com outras secretarias (saúde, educação, habitação, segurança pública) para que os nossos objetivos comuns sejam alcançados, ou seja, a promoção da igualdade entre mulheres e homens."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Elaborar planos regionais de adaptação para secas, enchentes, ondas de calor, incêndios e outros eventos extremos, fortalecendo a Defesa Civil, sistemas de alerta e infraestrutura urbana, com prioridade para periferias, populações pobres e comunidades tradicionais. No Pará, segundo a Secretaria de Segurança Pública, foram registrados 611 casos de injúria racial e racismo em 2025, um relativo crescimento com relação ao ano anterior, que registrou 583 casos."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 53,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A desigualdade social não pode ser compreendida como consequência de escolhas individuais ou como um problema que será resolvido apenas pelo crescimento econômico. bem como proibir a diferença de salários, de exercício de funções e de critério de admissão por motivo de gênero, maternidade, idade, cor, orientação sexual ou estado civil. Dessa maneira, desenvolver ações e programas permanentes de combate à discriminação de mulheres negras, trans, indígenas, quilombolas, ciganas, imigrantes e de pessoas com deficiência no mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "A desigualdade social não pode ser compreendida como consequência de escolhas individuais ou como um problema que será resolvido apenas pelo crescimento econômico."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "bem como proibir a diferença de salários, de exercício de funções e de critério de admissão por motivo de gênero, maternidade, idade, cor, orientação sexual ou estado civil. Dessa maneira, desenvolver ações e programas permanentes de combate à discriminação de mulheres negras, trans, indígenas, quilombolas, ciganas, imigrantes e de pessoas com deficiência no mercado de trabalho."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Criar um grande programa estadual de recuperação de áreas degradadas, nascentes, matas ciliares e Áreas de Preservação Permanente, com espécies nativas e geração de empregos públicos, cooperativos e comunitários na produção de mudas, reflorestamento e fortalecimento de agroflorestas."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 8,
+          "page_end": 11,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "1)​ Auditoria da Dívida Pública do Pará: Revisão dos contratos financeiros que sangram o orçamento para enriquecer bancos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "1)​ Auditoria da Dívida Pública do Pará: Revisão dos contratos financeiros que sangram o orçamento para enriquecer bancos."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 53,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Saúde, educação, assistência social, segurança, saneamento e demais serviços fundamentais devem ser fortalecidos como um dever do Estado. Ampliar alimentação escolar, transporte terrestre e fluvial, assistência estudantil e políticas articuladas de proteção social. precisam ter políticas permanentes de financiamento, formação e proteção social para continuarem contribuindo com a cultura paraense.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "Saúde, educação, assistência social, segurança, saneamento e demais serviços fundamentais devem ser fortalecidos como um dever do Estado."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "Ampliar alimentação escolar, transporte terrestre e fluvial, assistência estudantil e políticas articuladas de proteção social."
+            },
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 30,
+              "text": "precisam ter políticas permanentes de financiamento, formação e proteção social para continuarem contribuindo com a cultura paraense."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "Implantar serviços regionalizados de orientação, assistência social, apoio às famílias, encaminhamento para saúde, educação, trabalho, tecnologias assistivas e garantia de direitos. Capacitar policiais civis, militares, profissionais da saúde, educação e assistência social para atendimento adequado e criar protocolos estaduais para identificação, registro e encaminhamento de situações de violência contra PcDs."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Garantindo que comunidades indígenas e quilombolas, em contexto urbano ou rural, possam ter suas demandas atendidas de forma especializada, com orientações jurídicas e assistência social, além de garantir a ouvidoria com os povos para demandas de saúde e educacionais."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 3,
+          "page_end": 53,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Instalar centros de apoio com infraestrutura básica (banheiros, água potável, área de descanso e carregamento de veículos elétricos) para motoristas e entregadores. Realizar diagnóstico público da situação de todas as unidades e executar um programa estadual de recuperação das escolas, garantindo salas climatizadas onde necessário, água potável, saneamento, bibliotecas, laboratórios, quadras, espaços culturais, acessibilidade, internet de qualidade e condições adequadas de alimentação escolar. Universalizar água potável, coleta e tratamento de esgoto e manejo adequado de resíduos, priorizando periferias, comunidades rurais e municípios com os piores indicadores sociais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "Instalar centros de apoio com infraestrutura básica (banheiros, água potável, área de descanso e carregamento de veículos elétricos) para motoristas e entregadores."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "Realizar diagnóstico público da situação de todas as unidades e executar um programa estadual de recuperação das escolas, garantindo salas climatizadas onde necessário, água potável, saneamento, bibliotecas, laboratórios, quadras, espaços culturais, acessibilidade, internet de qualidade e condições adequadas de alimentação escolar."
+            },
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 30,
+              "text": "Universalizar água potável, coleta e tratamento de esgoto e manejo adequado de resíduos, priorizando periferias, comunidades rurais e municípios com os piores indicadores sociais."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Enquanto grandes empreendimentos retiram de forma violenta e predatória enormes riquezas do território paraense, comunidades inteiras ainda convivem com pobreza, ausência de saneamento, dificuldade de acesso à água potável e insegurança."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 43,
+          "page_end": 53,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Defender o meio ambiente é enfrentar o modelo de exploração capitalista ​ O Pará está no centro de uma das maiores contradições do nosso tempo. ​ Durante o último governo do Pará, Helder Barbalho vendeu sua imagem como defensor do meio ambiente, sobretudo, por conta do Pará sediar a COP-30, porém, a prática política de sua gestão demonstrou o contrário, pois realizou obras como a Avenida Liberdade em Belém, que cortou áreas de proteção ambiental, gerando desmatamento e perda da biodiversidade, poluição de bacias hidrográficas além de prejudicar comunidades quilombolas e ribeirinhas que foram atingidas pela obra.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Defender o meio ambiente é enfrentar o modelo de exploração capitalista ​ O Pará está no centro de uma das maiores contradições do nosso tempo. ​ Durante o último governo do Pará, Helder Barbalho vendeu sua imagem como defensor do meio ambiente, sobretudo, por conta do Pará sediar a COP-30, porém, a prática política de sua gestão demonstrou o contrário, pois realizou obras como a Avenida Liberdade em Belém, que cortou áreas de proteção ambiental, gerando desmatamento e perda da biodiversidade, poluição de bacias hidrográficas além de prejudicar comunidades quilombolas e ribeirinhas que foram atingidas pela obra."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 53,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "8)​ Viabilizar incentivos econômicos à produção e escoamento de alimentos de origem vegetal, de agricultura familiar, economia solidária e agroecológica/agroflorestal, facilitando sua certificação, fomentando a comercialização em feiras e possibilitando, assim, o acesso da população aos produtos. Utilizar o poder de compra do governo para fortalecer agricultura familiar, cooperativas, pequenos produtores e empreendimentos da economia solidária, dentro dos instrumentos permitidos pela legislação. A agricultura familiar produz a maior parte dos grãos que chegam às mesas dos paraenses, mesmo que o agronegócio se venda como a grande salvação do país.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "8)​ Viabilizar incentivos econômicos à produção e escoamento de alimentos de origem vegetal, de agricultura familiar, economia solidária e agroecológica/agroflorestal, facilitando sua certificação, fomentando a comercialização em feiras e possibilitando, assim, o acesso da população aos produtos."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "Utilizar o poder de compra do governo para fortalecer agricultura familiar, cooperativas, pequenos produtores e empreendimentos da economia solidária, dentro dos instrumentos permitidos pela legislação."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "A agricultura familiar produz a maior parte dos grãos que chegam às mesas dos paraenses, mesmo que o agronegócio se venda como a grande salvação do país. Por isso, defendemos a agricultura familiar, seja ela urbana ou campesina, como estratégia de enfrentamento à fome e como forma de enfrentamento às mudanças climáticas, tendo em vista que a crise climática também é fortalecida pelos grandes projetos de exploração econômica."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 3,
+          "page_end": 53,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "1)​ Criar mecanismos de participação dos trabalhadores no planejamento econômico: Instituir conselhos regionais e setoriais com participação de sindicatos, movimentos populares, povos indígenas, quilombolas, agricultores familiares, universidades e comunidades para discutir prioridades de investimento e desenvolvimento. Defendemos uma segurança pública comunitária, orientada pela proteção da vida, pelo respeito aos direitos humanos e pelo controle democrático das forças de segurança. com 50% de representantes da sociedade civil (movimentos negros, favelas, direitos humanos) para fiscalizar e propor políticas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "1)​ Criar mecanismos de participação dos trabalhadores no planejamento econômico: Instituir conselhos regionais e setoriais com participação de sindicatos, movimentos populares, povos indígenas, quilombolas, agricultores familiares, universidades e comunidades para discutir prioridades de investimento e desenvolvimento."
+            },
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Defendemos uma segurança pública comunitária, orientada pela proteção da vida, pelo respeito aos direitos humanos e pelo controle democrático das forças de segurança. com 50% de representantes da sociedade civil (movimentos negros, favelas, direitos humanos) para fiscalizar e propor políticas."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "Em resposta a esse ataque, os povos indígenas ocuparam a SEDUC durante um mês, luta que foi fortalecida pela greve dos professores e o grande apoio popular, obrigando o governo a recuar, impondo uma vitória histórica dos povos contra os interesses dos monopólios da educação privada e das oligarquias locais. Fortalecer o SOME, o SOMEI e as modalidades específicas de educação, rejeitando a substituição indiscriminada de professores presenciais por ensino remoto ou televisionado como política de redução de custos."
+            },
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 30,
+              "text": "Garantir estruturas e equipes adequadas às particularidades territoriais e culturais da Amazônia, ampliando unidades fluviais, equipes itinerantes e atendimento permanente às comunidades mais distantes. dos povos indígenas às comunidades tradicionais, do carimbó ao tecnomelody, dos mestres e mestras de cultura popular às aparelhagens, a cultura paraense foi construída fundamentalmente pela criatividade e resistência do nosso povo."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "De acordo com o Observatório de Direitos Humanos do Pará, a população de pessoas com deficiência é estimada em 813 mil, equivalente a 9,5% da população estadual. 1.​ Garantir orçamento permanente para as políticas das pessoas com deficiência: Assegurar recursos próprios e crescentes no orçamento estadual e efetivar o Fundo Estadual dos Direitos da Pessoa com Deficiência."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Os povos indígenas e quilombolas possuem outra relação com a natureza, sendo exemplos de bem-viver e de uma relação harmônica com a natureza, pois conseguem conviver em consonância com ela, sem tentar explorar, mas sim, entendendo-a como parte fundamental de sua existência, e demonstram para toda a sociedade que é possível construir uma outra relação com o meio ambiente. Garantir autonomia técnica, transparência e participação social nos processos de licenciamento, impedindo flexibilizações para favorecer grandes empreendimentos e assegurando consulta livre, prévia e informada aos povos indígenas, quilombolas e comunidades tradicionais afetadas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 56,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Com a ampliação dos concursos públicos substituindo gradativamente as contratações temporárias, inclusive em cargos públicos colocados em extinção, mas necessários para uma adequada prestação de serviços à população (auxiliar de copa e cozinha, auxiliar de serviços gerais, agentes de portaria etc.), parando de terceirizar esse serviço para as empresas privadas que lucram em cima do serviço público. Realizar auditoria imediata das operações do Banpará, especialmente em casos de aportes em um fundo de investimento administrado por uma empresa investigada no caso Banco Master, adotando medidas de controle social sobre a gestão financeira para garantir que o patrimônio público não seja usado para favorecer elites. 6)​ Ouvidoria Única Independente: Órgão externo para fiscalizar a conduta de agentes de segurança com participação popular; ​ Isso exige também valorizar quem faz o serviço público funcionar.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "Com a ampliação dos concursos públicos substituindo gradativamente as contratações temporárias, inclusive em cargos públicos colocados em extinção, mas necessários para uma adequada prestação de serviços à população (auxiliar de copa e cozinha, auxiliar de serviços gerais, agentes de portaria etc.), parando de terceirizar esse serviço para as empresas privadas que lucram em cima do serviço público. Realizar auditoria imediata das operações do Banpará, especialmente em casos de aportes em um fundo de investimento administrado por uma empresa investigada no caso Banco Master, adotando medidas de controle social sobre a gestão financeira para garantir que o patrimônio público não seja usado para favorecer elites."
+            },
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "6)​ Ouvidoria Única Independente: Órgão externo para fiscalizar a conduta de agentes de segurança com participação popular;"
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "​ Isso exige também valorizar quem faz o serviço público funcionar. ​ É necessário enfrentar privilégios, corrupção e desperdícios dentro do Estado entendendo que defender o serviço público não significa defender uma administração sem controle mas, pelo contrário, significa ampliar a transparência, fortalecer os mecanismos de fiscalização e garantir que cada recurso público seja utilizado em benefício da coletividade."
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "Tratar o transporte como serviço público essencial, fortalecendo o planejamento, financiamento e prestação direta dos serviços pelo poder público, reduzindo a dependência de operadores privados."
+            },
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 30,
+              "text": "1)​ Combate às Organizações Sociais e retomada da gestão pública direta da saúde: Romper com o modelo de gestão da saúde por Organizações Sociais (OS) e estabelecer um processo de retomada, pelo Estado, da administração direta dos hospitais e demais unidades públicas hoje entregues a essas entidades."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 43,
+              "text": "Fiscalizar rigorosamente o cumprimento das cotas nos concursos, garantir provas acessíveis, adaptações razoáveis e condições adequadas de trabalho após a posse. 2)​ Criação de Centros Estaduais de Referência LGBTIA+, que sejam espaços voltados para o acolhimento psicossocial, habitacional, serviços de saúde, orientações jurídicas e direcionamentos para o serviço público, instituindo pelo menos um Centro de Referência por regiões geográficas imediatas e intermediárias do Estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 43,
+              "page_end": 53,
+              "text": "Garantir autonomia técnica, transparência e participação social nos processos de licenciamento, impedindo flexibilizações para favorecer grandes empreendimentos e assegurando consulta livre, prévia e informada aos povos indígenas, quilombolas e comunidades tradicionais afetadas."
+            },
+            {
+              "id": "s11",
+              "page_start": 53,
+              "page_end": 56,
+              "text": "Garantir recursos permanentes no orçamento estadual para esporte de base, comunitário, escolar, amador, feminino, paralímpico e de alto rendimento, com transparência e controle social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002554108",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002554108_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002554108_01.pdf",
+      "sha256": "5d33c3d22959b0ef2443f4b37c6af475e33356ec5a620f76a5ef00b4c16954fe",
+      "summary": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil. E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria. Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados. SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade. Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 20,
+          "page_end": 36,
+          "topics": [
+            "education"
+          ],
+          "summary": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil. E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "Antes a promessa era que bastava estudar para ter uma vida melhor, mas falta emprego para os jovens que estão concluindo o ensino médio e mesmo para os que conseguem ter acesso ao ensino superior, o desemprego atinge com particular força a juventude. Educação, ciência e tecnologia de qualidade são direitos fundamentais da juventude O principal índice da qualidade da educação básica no Brasil é o Ideb (Índice de Desenvolvimento da Educação Básica), e o estado Pará tinha um dos piores resultados nesse quesito, ocupava o penúltimo lugar no Brasil."
+            },
+            {
+              "id": "s07",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "E hoje a categoria tem que lutar pela atualização do valor do vencimento básico para docentes em início de carreira em regime de tempo integral (40h), conforme o atual Plano de Carreira; pela recomposição salarial a todos os docentes ativos e inativos (aposentados); reivindicam 20% de reajuste imediato, para recuperar as perdas inflacionárias e garantir aumento real à categoria. Além disso, ainda têm que lutar pela Adoção do Piso Salarial Profissional Nacional para os profissionais do Magistério Público da Educação Básica (PSPNM) como referência para o vencimento base."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 30,
+              "text": "Garantir educação pública, laica, democrática e de qualidade para a classe trabalhadora Um dos piores índices da educação paraense é o abandona escolar. Apesar da ampliação do número de matrículas, milhares de estudantes deixam escola antes de concluir o ensino médio."
+            },
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "A cultura deve caminhar junto com a educação pública. Defendemos a ampliação do ensino de música, teatro, dança, literatura, artes visuais e audiovisual nas escolas públicas, bem como políticas de incentivo à leitura, fortalecimento das bibliotecas e apoio às editoras independentes, escritores, grupos de pesquisa e coletivos culturais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 34,
+          "topics": [
+            "health"
+          ],
+          "summary": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. — Fortalecimento do Sistema Único de Saúde como sistema universal; — Atendimento integral, gratuito e de qualidade; — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "— Fortalecimento do Sistema Único de Saúde como sistema universal; — Atendimento integral, gratuito e de qualidade; — Fim das privatizações, terceirizações, OSs, OSCIPs e PPPs na saúde; — Dinheiro público exclusivamente para a saúde pública; — Ampliação do financiamento estadual para o SUS; —Transparência na aplicação dos recursos públicos. Valorização dos trabalhadores da saúde Não existe saúde pública de qualidade sem trabalhadores valorizados."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade. Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "SEGURANÇA PÚBLICA A segurança pública no Brasil é determinada pela Constituição Federal de 1988 como direito a ser garantido pelo Estado a todos os cidadãos brasileiros e estrangeiros aqui residentes. Quanto ao perfil das vítimas, o Anuário Brasileiro de Segurança Pública 20202024 revela que no Pará de 2021 a 2023 as vítimas foram majoritariamente do sexo masculino (cerca de 92%), negros, com variações de 60,9% (2021), 85,35% (2022) e 19,02% (2023) e com faixa etária de 18 a 34 anos (58%), de cor preta ou parda, com baixa escolaridade."
+            },
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Entende-se que a segurança pública deve estar a serviço da proteção da vida e dos direitos das populações do campo, e não da defesa dos interesses do latifúndio e da criminalização dos movimentos sociais. Defendemos uma política de segurança comprometida com os direitos humanos, a mediação dos conflitos e a proteção das comunidades, rompendo com a lógica de repressão que historicamente favorece os grandes proprietários de terra."
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "Negros e Negras A juventude negra é vítima do encarceramento em massa, da violência policial e da ausência de perspectivas, sendo empurrada para o trabalho precário, para o tráfico ou para a morte precoce. Contra a violência policial e o crime organizado."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "Essa percepção é sentida em todo o estado, e podemos afirmar que os jovens são as principais vítimas dessa violência, nas periferias essa realidade é sentida com mais intensidade onde os jovens são alvos tanto da violência policial quanto do recrutamento do tráfico para vida sem perspectivas, a realidade é que se não houver oportunidades e políticas públicas efetivas a juventude não terá direito à vida. — Fim do genocídio da juventude negra, a violência policial deve acabar!"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 13,
+          "page_end": 40,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d"
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "A maioria das vítimas são identificadas como trabalhadoras sexuais, devido às dificuldades de acesso aos estudos, mercado de trabalho e novas oportunidades. A população LGBTI+ sofre com a discriminação, a violência e a exclusão do mercado de trabalho, sobretudo as pessoas trans que são, por conta disso, jogadas, em particular as mulheres trans, para a prostituição."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "— Fim da escala 6x1 sem redução de salários e direitos, sem pejotização e sem demissões; — É preciso ter um programa do estado que ofereça treinamento para os mais diversos setores produtivos, com estágio remunerado no valor de um salário-mínimo e garantia de inserção no mercado de trabalho para todos os jovens; — Fim do assédio moral e qualquer forma de preconceito no ambiente de trabalho, a juventude que produz riqueza precisa ter seus direitos garantidos."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "O turismo é um importante instrumento de geração de emprego, renda, desenvolvimento regional e inclusão social. O PSTU defende um modelo de turismo comprometido com a preservação ambiental, a valorização da cultura popular, o respeito aos povos da Amazônia e a geração de trabalho digno para a população."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "— Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilização do mercúrio depositado no fundo do rio; — O derrocamento do Pedral do Lourenço, no rio Tocantins, que pretende remover e fragmentar formações rochosas para permitir a navegação de grandes embarcações comerciais durante todo o ano. 1 https://cptnacional.org.br/caderno/conflitos-no-campo-brasil-2025/ 2 https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "— Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilização do mercúrio depositado no fundo do rio; — O derrocamento do Pedral do Lourenço, no rio Tocantins, que pretende remover e fragmentar formações rochosas para permitir a navegação de grandes embarcações comerciais durante todo o ano. 1 https://cptnacional.org.br/caderno/conflitos-no-campo-brasil-2025/ 2 https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 7,
+          "page_end": 34,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. Há, portanto, grande distância entre a realidade atual e as metas estabelecidas pelo Novo Marco Legal do Saneamento, que prevê cobertura de 99% da população com água potável, 90% com coleta de esgoto e 80% de tratamento do esgoto até 2033. O PSTU defende um amplo programa público de universalização do abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado dos resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Água é direito, não mercadoria O acesso à água potável e ao saneamento básico é um direito humano reconhecido internacionalmente e um dever do Estado brasileiro, estando diretamente relacionado à dignidade da pessoa humana, à saúde pública, à redução das desigualdades sociais e à proteção ambiental. Há, portanto, grande distância entre a realidade atual e as metas estabelecidas pelo Novo Marco Legal do Saneamento, que prevê cobertura de 99% da população com água potável, 90% com coleta de esgoto e 80% de tratamento do esgoto até 2033."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "O PSTU defende um amplo programa público de universalização do abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado dos resíduos sólidos."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "— Ampliação das unidades básicas nas comunidades; — Equipes permanentes de saúde; — Transporte sanitário fluvial; — Fortalecimento das ações de vigilância em saúde; — Acesso à água potável e saneamento como política de prevenção; — Respeito às especificidades culturais dessas populações."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 13,
+          "page_end": 40,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Em defesa do meio ambiente, dos povos e populações tradicionais e contra os megaempreendimentos que devastam o Pará e a Amazônia O Pará é um estado rico com seus povos, florestas e rios, porém com muitas contradições. Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Em defesa do meio ambiente, dos povos e populações tradicionais e contra os megaempreendimentos que devastam o Pará e a Amazônia O Pará é um estado rico com seus povos, florestas e rios, porém com muitas contradições. Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará"
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "Turismo e meio ambiente A Amazônia não pode ser transformada em mercadoria."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Sem reforma agrária o Brasil segue com grande concentração fundiária. Em 2025, foi anunciado R$ 508,59bilhões para incentivar o agronegócio, enquanto a agricultura familiar receberá menos de 90 bilhões, ou seja, um punhado de produtores fica com todo recurso, destinado pelo governo.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Sem reforma agrária o Brasil segue com grande concentração fundiária. Em 2025, foi anunciado R$ 508,59bilhões para incentivar o agronegócio, enquanto a agricultura familiar receberá menos de 90 bilhões, ou seja, um punhado de produtores fica com todo recurso, destinado pelo governo."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 34,
+          "page_end": 40,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Nosso programa também reconhece os saberes tradicionais como parte fundamental do patrimônio cultural do Pará. Cultura como eixo do turismo O patrimônio cultural do Pará deve permanecer sob controle da população.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Nosso programa também reconhece os saberes tradicionais como parte fundamental do patrimônio cultural do Pará."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "Cultura como eixo do turismo O patrimônio cultural do Pará deve permanecer sob controle da população."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 10,
+          "page_end": 40,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Povos indígenas Os povos indígenas possuem formas próprias de ocupação do território que devem ser respeitadas. O governo apresenta os grandes projetos econômicos como símbolo de desenvolvimento, modernização ou sustentabilidade, porém escondem graves impactos ambientais e sociais e vêm sendo decididos sem que a população trabalhadora, os povos indígenas, quilombolas, ribeirinhos, pescadores artesanais e demais comunidades tradicionais tenham poder real de decisão sobre o futuro de seus territórios. — Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de rep",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "Povos indígenas Os povos indígenas possuem formas próprias de ocupação do território que devem ser respeitadas."
+            },
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "O governo apresenta os grandes projetos econômicos como símbolo de desenvolvimento, modernização ou sustentabilidade, porém escondem graves impactos ambientais e sociais e vêm sendo decididos sem que a população trabalhadora, os povos indígenas, quilombolas, ribeirinhos, pescadores artesanais e demais comunidades tradicionais tenham poder real de decisão sobre o futuro de seus territórios. — Construção da Ferrogrão que é uma ferrovia projetada para ligar o norte de Mato Grosso aos portos de Miritituba, no Pará, que atravessa territórios indígenas, impactando e poderá ampliar o desmatamento indireto, a grilagem de terras, a especulação fundiária e a pressão do agronegócio sobre unidades de conservação e territórios indígenas; — As dragagens dos rios e a transformação do Tapajós em uma grande hidrovia para o transporte de commodities, já foi questionada pelos povos indígenas, especialmente os Munduruku, que irão arcar com todo impacto e risco apontados pela alteração da dinâmica natural dos sedimentos, a destruição de bancos de areia e praias, os impactos sobre áreas de reprodução dos peixes, a ameaça à pesca artesanal e à segurança alimentar das comunidades e o risco de remobilizaçã"
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 20,
+              "text": "A violência se expressa em homicídios, suicídios, violações de direitos humanos e tentativas de homicídio. Em defesa dos povos indígenas e quilombolas O grande Agronegócio nas mãos das multinacionais capitalistas persegue os povos indígenas e quilombolas não garantindo saúde, educação, emprego, condições básicas e dignas."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 30,
+              "text": "Quando para estudantes do campo, das ilhas, das comunidades ribeirinhas, quilombolas e dos povos indígenas, a realidade é ainda mais dura: dificuldades de acesso, falta de infraestrutura, ausência de profissionais e desrespeito às suas especificidades culturais e linguísticas. O governo estadual deve cumprir integralmente a Lei nº 10.639/2003, que tornou obrigatório o ensino de História e Cultura Afro-Brasileira, e a Lei nº 11.645/2008, que ampliou essa obrigatoriedade para incluir a História e Cultura dos Povos Indígenas."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 34,
+              "text": "Saúde dos povos indígenas Os povos indígenas devem participar da construção das políticas que lhes dizem respeito. — Respeito à autonomia dos povos indígenas; — Fortalecimento dos Distritos Sanitários Especiais Indígenas (DSEIs); — Ampliação das equipes multiprofissionais; — Contratação de profissionais indígenas; — Valorização da medicina tradicional; — Transporte sanitário adequado; — Garantia de atendimento em todos os territórios indígenas."
+            },
+            {
+              "id": "s10",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "A cultura paraense é construída pelos povos indígenas, quilombolas, ribeirinhos, pescadores, agricultores, trabalhadores urbanos, artistas populares, mestres e mestras da cultura, comunidades tradicionais, juventudes das periferias e todos aqueles que fazem da Amazônia um espaço vivo de criação e resistência. Defendemos uma revolução no Programa Semear, com ampliação e a democratização de todas as políticas estaduais de fomento, com critérios transparentes e participação efetiva dos trabalhadores da cultura, das universidades, dos movimentos sociais, dos povos indígenas, quilombolas, ribeirinhos, povos da floresta e demais comunidades tradicionais na definição das políticas culturais."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "A Amazônia, a Ilha do Marajó, o arquipélago do Marajó, Alter do Chão, o rio Tapajós, o rio Amazonas, o patrimônio histórico de Belém, a gastronomia amazônica, as manifestações culturais, o Círio de Nazaré, os povos indígenas, quilombolas, ribeirinhos e as diversas expressões culturais fazem do estado um dos principais destinos turísticos brasileiros. Povos indígenas Os povos indígenas não podem ser tratados como atrações turísticas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 7,
+          "page_end": 40,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Quanto as camadas populares da classe trabalhadora, defendemos uma Além disso, a tarifa deve refletir apenas o custo real da prestação do serviço público, sem a incorporação de margens destinadas à distribuição de lucros privados. O controle social deve assegurar que trabalhadores do saneamento, usuários do sistema e representantes da sociedade participem das decisões estratégicas sobre investimentos, qualidade do atendimento e fiscalização. Defendemos a criação de conselhos populares de habitação, com participação dos movimentos de moradia, sindicatos, associações comunitárias e entidades populares, garantindo controle social sobre os recursos públicos e sobre os projetos urbanos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Quanto as camadas populares da classe trabalhadora, defendemos uma Além disso, a tarifa deve refletir apenas o custo real da prestação do serviço público, sem a incorporação de margens destinadas à distribuição de lucros privados. O controle social deve assegurar que trabalhadores do saneamento, usuários do sistema e representantes da sociedade participem das decisões estratégicas sobre investimentos, qualidade do atendimento e fiscalização."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 13,
+              "text": "Defendemos a criação de conselhos populares de habitação, com participação dos movimentos de moradia, sindicatos, associações comunitárias e entidades populares, garantindo controle social sobre os recursos públicos e sobre os projetos urbanos."
+            },
+            {
+              "id": "s07",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "O combate ao assédio moral e sexual é uma das demandas do movimento docente na UEPA, onde está presente com nas mais diversas instituições do serviço público."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 40,
+              "text": "— Planejamento público e democrático da política estadual de turismo; — Fortalecimento da gestão pública do turismo; — Participação das comunidades locais na definição das políticas públicas; — Transparência na aplicação dos recursos destinados ao setor."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Apoio financeiro e técnico à agricultura familiar, à agroecologia e à produção de alimentos para a população, em oposição à expansão da monocultura para exportação; — Criação de um grande plano público de recuperação de áreas degradadas, nascentes, matas ciliares e bacias hidrográficas, realizado diretamente pelo Estado, pelas universidades públicas, institutos de pesquisa e comunidades locais, com geração de emprego e renda; — Fortalecimento dos órgãos públicos estaduais: Universidade do Estado do Pará (UEPA), Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet), Secretaria de Desenvolvimento de Agricultura e Pesca do Pará (Sedap), Instituto de desenvolvimento Florestal e da Biodiversidade (Ideflor-Bio), Instituto de Terras do Pará (Iterpa), Agência de Defesa Agropecuária do Estado do Pará (Adepará), Secretaria de Meio Ambiente e Sustentabilidade (Semas), Empresa de Assistência Técnica e Extensão Rural do Estado do Pará (Emater), com concursos públicos, orçamento e independência diante das grandes empresas; — Proteção dos rios amazônicos e proibição de intervenções que ameacem a reprodução dos peixes, a pesca artesanal, a qualidade d"
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "140002554434",
+      "state_code": "PA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PA140002554434_01.pdf",
+      "public_path": "/propostas/2026/PA/2026PA140002554434_01.pdf",
+      "sha256": "258bc9c4268c10894c57114747f2f6204c4a73b3897d928ff822851aafbe67e4",
+      "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens. Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico. ~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "health"
+          ],
+          "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Segurança Pública Taxa de Mortes Violentas Intencionais (MVI) Em redução progressiva < 20 por 100 mil habitantes Saúde Cobertura de Telessaúde e Atenção Básica Parcial 100% das UBSs conectadas / ESF ≥ 88% Educação Alfabetização ao final do 2º ano do Ens."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 1,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo"
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "~50% ≥ 90% das crianças alfabetizadas Emprego e Renda Empregos Formais Gerados (CAGED) Variação sazonal +200.000 novos postos formais Meio Ambiente Desmatamento Ilegal no Estado Em desaceleração Redução de 100% do Desmatamento Ilegal Regularização Títulos Fundiários Registrados (ITERPA) Baseline atual +50.000 títulos entregues Infraestrutura Pontes de Madeira em Rodovias Estaduais Múltiplas estruturas 0% (Substituição 100% por concreto/aço) Área Estratégica Indicador de Desempenho Situação Atual (Estimada) Meta Final até 2030 Saneamento Acesso à Água Potável na População Abaixo da média nacional ≥ 90% de cobertura urbana/polo"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 1,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Com dimensões continentais, riqueza socioambiental inestimável e uma população vocacionada ao trabalho, o nosso Estado exige um modelo de gestão pública moderno, íntegro e eficiente, capaz de unir a responsabilidade fiscal ao desenvolvimento humano e econômico."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

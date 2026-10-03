@@ -1,0 +1,2701 @@
+{
+  "state_code": "DF",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "70002553859",
+      "state_code": "DF",
+      "ballot_name": "AVENIR ROSA",
+      "party_code": "DEMOCRATA",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002552934",
+      "state_code": "DF",
+      "ballot_name": "BIA KICIS",
+      "party_code": "PL",
+      "sources": [
+        {
+          "url": "https://rendanobairro.com.br/",
+          "title": "Renda no Bairro — Cadastro de associações do DF",
+          "sha256": "1692e650d78e6fb4424a216b154a518fd1fbc738300b07964c125ab6d42ab334",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:06+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "http://www.biakicis.com.br/",
+        "https://rendanobairro.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002551426",
+      "state_code": "DF",
+      "ballot_name": "DAVID HORN",
+      "party_code": "PCO",
+      "sources": [],
+      "statements": [],
+      "status": "shared-site-without-individual-profile",
+      "declared_sites": [
+        "https://candidatos.pco.org.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002552490",
+      "state_code": "DF",
+      "ballot_name": "ERIKA KOKAY",
+      "party_code": "PT",
+      "sources": [
+        {
+          "url": "https://erikakokay.com.br/",
+          "title": "Erika Kokay – A deputada de todas as lutas",
+          "sha256": "5b0cab84237ad93e592a7b8f6944908ddb57028e5d5cf4e1b82325cae11d6fdc",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:12+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Erika Kokay nasceu para a vida pública na resistência. Bancária de origem, formou-se na luta sindical e nas ruas, num tempo em que defender a democracia custava caro. Desde os anos 1970, ela faz a mesma escolha todos os dias: estar ao lado de quem o poder costuma deixar para trás. Essa coerência, rara na política brasileira, é o fio que atravessa toda a sua trajetória.",
+          "section_title": "Uma vida inteira de luta por Brasília e pelo Brasil",
+          "topics": [],
+          "source_url": "https://erikakokay.com.br/",
+          "source_title": "Erika Kokay – A deputada de todas as lutas",
+          "source_sha256": "5b0cab84237ad93e592a7b8f6944908ddb57028e5d5cf4e1b82325cae11d6fdc",
+          "collected_at": "2026-10-03T13:08:12+00:00"
+        },
+        {
+          "text": "Defender a democracia, para Erika, nunca foi retórica. Foi enfrentar o golpismo de cara limpa e proteger as instituições quando muitos calaram. Essa firmeza contrasta com um projeto que, no Distrito Federal, governa de costas para o povo: que privatiza o que é de todos, abre mão da arrecadação pública e trata a cidade como negócio, não como direito. Brasília merece quem a represente pelo que ela é de verdade, e não pelos interesses de poucos.",
+          "section_title": "Uma vida inteira de luta por Brasília e pelo Brasil",
+          "topics": [],
+          "source_url": "https://erikakokay.com.br/",
+          "source_title": "Erika Kokay – A deputada de todas as lutas",
+          "source_sha256": "5b0cab84237ad93e592a7b8f6944908ddb57028e5d5cf4e1b82325cae11d6fdc",
+          "collected_at": "2026-10-03T13:08:12+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://erikakokay.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002553296",
+      "state_code": "DF",
+      "ballot_name": "GUTO FELÍCIO DOS SANTOS",
+      "party_code": "PSDB",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002552492",
+      "state_code": "DF",
+      "ballot_name": "LEILA DO VÔLEI",
+      "party_code": "PDT",
+      "sources": [
+        {
+          "url": "https://leiladovolei.com/",
+          "title": "LEILA DO VÔLEI CANDIDATA AO SENADO FEDERAL 123",
+          "sha256": "9600184d6f6a1c811f7b1b8225a6e5c30514f8ff135dcc2e9fb51840041c67b9",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:15+00:00"
+        },
+        {
+          "url": "https://leiladovolei.com/maus-tratos-contra-animais/",
+          "title": "Avança à Câmara projeto que pune maus-tratos contra animais - LEILA DO VÔLEI",
+          "sha256": "8b5f0aa3e04a9621c2ca3bdd82d99af0e5ab6640033381a81980c04a28cdfbf9",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:15+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Ao defender o texto na CCJ, Leila afirmou que “a proposta combina medidas penais, educativas e preventivas”. Segundo a senadora, “o projeto estrutura uma resposta normativa contra os maus-tratos aos animais, com mecanismos de prevenção e responsabilização”.",
+          "section_title": "Avança à Câmara projeto que pune maus-tratos contra animais",
+          "topics": [],
+          "source_url": "https://leiladovolei.com/maus-tratos-contra-animais/",
+          "source_title": "Avança à Câmara projeto que pune maus-tratos contra animais - LEILA DO VÔLEI",
+          "source_sha256": "8b5f0aa3e04a9621c2ca3bdd82d99af0e5ab6640033381a81980c04a28cdfbf9",
+          "collected_at": "2026-10-03T13:08:15+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://leiladovolei.com/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002552582",
+      "state_code": "DF",
+      "ballot_name": "MARLEY",
+      "party_code": "AVANTE",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002552936",
+      "state_code": "DF",
+      "ballot_name": "MICHELLE BOLSONARO",
+      "party_code": "PL",
+      "sources": [
+        {
+          "url": "https://michellebolsonaro222.com.br/",
+          "title": "Michelle Bolsonaro 222 — Candidata a Senadora Plataforma de Compromissos — Michelle Bolsonaro 222",
+          "sha256": "eba36eb72b924f44d467022b28d13a5812dd6aa83fd511790c9d73fa786f7572",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:16+00:00"
+        },
+        {
+          "url": "https://michellebolsonaro222.com.br/propostas/",
+          "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "url": "https://michellebolsonaro222.com.br/propostas/#categorias",
+          "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "url": "https://michellebolsonaro222.com.br/propostas/#prop-01",
+          "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:18+00:00"
+        },
+        {
+          "url": "https://michellebolsonaro222.com.br/propostas/#prop-02",
+          "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:18+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Vou buscar recursos para prevenir doenças, fortalecer os postos de saúde, as UPAs e os hospitais e reduzir as filas de consultas, exames e cirurgias.",
+          "section_title": "Saúde que previne, atende e respeita",
+          "topics": [
+            "health"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Organizar as filas com regras claras e prioridade para quem mais precisa de atendimento.",
+          "section_title": "Saúde que previne, atende e respeita",
+          "topics": [
+            "health"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender recursos federais e destinar emendas parlamentares que realmente melhorem a vida do povo.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento.",
+          "section_title": "Inclusão, autonomia e apoio a quem cuida - A pauta do coração de Michelle",
+          "topics": [
+            "economy-jobs",
+            "rights-inclusion"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou atuar nas leis nacionais e na defesa e ampliação dos direitos já previstos. Buscarei recursos para diagnóstico, reabilitação, acessibilidade e apoio aos cuidadores.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias.",
+          "section_title": "Segurança para viver em liberdade",
+          "topics": [
+            "health",
+            "public-safety",
+            "science-digital"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Proteger os investimentos e apoiar a contratação de profissionais dentro das regras, com formação e boas condições de trabalho.",
+          "section_title": "Segurança para viver em liberdade",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender o Fundo Constitucional do DF, que ajuda a financiar serviços do Distrito Federal. Também atuarei nas leis federais, na valorização das forças de segurança e na integração de informações.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia.",
+          "section_title": "Educação que ensina e prepara para a vida",
+          "topics": [
+            "education",
+            "science-digital"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Apoiar escolas inclusivas, com estrutura e profissionais preparados para atender estudantes e famílias.",
+          "section_title": "Educação que ensina e prepara para a vida",
+          "topics": [
+            "education"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "science-digital",
+            "education",
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vamos facilitar a vida de quem empreende e aproximar os cursos das vagas de trabalho. Jovens e trabalhadores precisam de preparo para as oportunidades e mudanças trazidas pela tecnologia.",
+          "section_title": "Trabalho, empreendedorismo e futuro",
+          "topics": [
+            "economy-jobs",
+            "science-digital"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender a simplificação de normas federais, proteção ao pequeno negócio e formação profissional. Buscarei recursos e parcerias para preparar trabalhadores.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Promover o acesso a documentos, saúde, cursos, vínculos familiares e trabalho, conforme a situação de cada pessoa.",
+          "section_title": "Uma rede de proteção que acolhe e devolve autonomia",
+          "topics": [
+            "health",
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender recursos para a assistência social, aperfeiçoar as políticas nacionais de proteção social e fiscalizar programas e repasses.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "social-protection",
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vamos unir voluntários e projetos sérios para apoiar jovens, idosos, pessoas com deficiência e famílias que precisam de ajuda. O trabalho voluntário aumenta o alcance do bem e soma forças ao dever do governo.",
+          "section_title": "Voluntariado que transforma solidariedade em ação",
+          "topics": [
+            "economy-jobs",
+            "science-digital"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
+          "section_title": "Voluntariado que transforma solidariedade em ação",
+          "topics": [
+            "public-safety",
+            "rights-inclusion"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou apoiar melhorias nas leis do voluntariado, a formação de voluntários e regras claras organizações relacionadas a essa área.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vamos oferecer cursos, orientação e apoio para mulheres que querem liderar ou abrir um negócio, fortalecer o combate à violência e ampliar sua presença nos espaços de decisão.",
+          "section_title": "Mulheres presentes nas decisões e na construção do futuro",
+          "topics": [
+            "rights-inclusion",
+            "public-safety"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou defender proteção contra violência e assédio, apoio ao empreendedorismo, qualificação e formação de lideranças, ampliando condições de participação na política e na economia.",
+          "section_title": "Meu trabalho no Senado",
+          "topics": [
+            "economy-jobs",
+            "public-safety"
+          ],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Vou trabalhar com a governadora e sua equipe para tirar as propostas do papel, transformando em realidade os sonhos da população.",
+          "section_title": "Cada um faz a sua parte. O DF avança junto.",
+          "topics": [],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Fiscalizar o dinheiro federal, combater a corrupção e apoiar a proteção de quem denuncia irregularidades.",
+          "section_title": "O que foi entregue",
+          "topics": [],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        },
+        {
+          "text": "Defender novas despesas com planejamento, fonte de recursos e formas de medir os resultados.",
+          "section_title": "O que foi entregue",
+          "topics": [],
+          "source_url": "https://michellebolsonaro222.com.br/propostas/",
+          "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+          "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+          "collected_at": "2026-10-03T13:08:17+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://michellebolsonaro222.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia. Apoiar escolas inclusivas, com estrutura e profissionais preparados para atender estudantes e famílias.",
+          "excerpts": [
+            {
+              "text": "Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia.",
+              "section_title": "Educação que ensina e prepara para a vida",
+              "topics": [
+                "education",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Apoiar escolas inclusivas, com estrutura e profissionais preparados para atender estudantes e famílias.",
+              "section_title": "Educação que ensina e prepara para a vida",
+              "topics": [
+                "education"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "science-digital",
+                "education",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Vou buscar recursos para prevenir doenças, fortalecer os postos de saúde, as UPAs e os hospitais e reduzir as filas de consultas, exames e cirurgias. Organizar as filas com regras claras e prioridade para quem mais precisa de atendimento.",
+          "excerpts": [
+            {
+              "text": "Vou buscar recursos para prevenir doenças, fortalecer os postos de saúde, as UPAs e os hospitais e reduzir as filas de consultas, exames e cirurgias.",
+              "section_title": "Saúde que previne, atende e respeita",
+              "topics": [
+                "health"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Organizar as filas com regras claras e prioridade para quem mais precisa de atendimento.",
+              "section_title": "Saúde que previne, atende e respeita",
+              "topics": [
+                "health"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias.",
+              "section_title": "Segurança para viver em liberdade",
+              "topics": [
+                "health",
+                "public-safety",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Promover o acesso a documentos, saúde, cursos, vínculos familiares e trabalho, conforme a situação de cada pessoa.",
+              "section_title": "Uma rede de proteção que acolhe e devolve autonomia",
+              "topics": [
+                "health",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias. Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
+          "excerpts": [
+            {
+              "text": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias.",
+              "section_title": "Segurança para viver em liberdade",
+              "topics": [
+                "health",
+                "public-safety",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
+              "section_title": "Voluntariado que transforma solidariedade em ação",
+              "topics": [
+                "public-safety",
+                "rights-inclusion"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos oferecer cursos, orientação e apoio para mulheres que querem liderar ou abrir um negócio, fortalecer o combate à violência e ampliar sua presença nos espaços de decisão.",
+              "section_title": "Mulheres presentes nas decisões e na construção do futuro",
+              "topics": [
+                "rights-inclusion",
+                "public-safety"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender proteção contra violência e assédio, apoio ao empreendedorismo, qualificação e formação de lideranças, ampliando condições de participação na política e na economia.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs",
+                "public-safety"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Vou defender recursos federais e destinar emendas parlamentares que realmente melhorem a vida do povo. Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento.",
+          "excerpts": [
+            {
+              "text": "Vou defender recursos federais e destinar emendas parlamentares que realmente melhorem a vida do povo.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento.",
+              "section_title": "Inclusão, autonomia e apoio a quem cuida - A pauta do coração de Michelle",
+              "topics": [
+                "economy-jobs",
+                "rights-inclusion"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou atuar nas leis nacionais e na defesa e ampliação dos direitos já previstos. Buscarei recursos para diagnóstico, reabilitação, acessibilidade e apoio aos cuidadores.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Proteger os investimentos e apoiar a contratação de profissionais dentro das regras, com formação e boas condições de trabalho.",
+              "section_title": "Segurança para viver em liberdade",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender o Fundo Constitucional do DF, que ajuda a financiar serviços do Distrito Federal. Também atuarei nas leis federais, na valorização das forças de segurança e na integração de informações.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "science-digital",
+                "education",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos facilitar a vida de quem empreende e aproximar os cursos das vagas de trabalho. Jovens e trabalhadores precisam de preparo para as oportunidades e mudanças trazidas pela tecnologia.",
+              "section_title": "Trabalho, empreendedorismo e futuro",
+              "topics": [
+                "economy-jobs",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender a simplificação de normas federais, proteção ao pequeno negócio e formação profissional. Buscarei recursos e parcerias para preparar trabalhadores.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Promover o acesso a documentos, saúde, cursos, vínculos familiares e trabalho, conforme a situação de cada pessoa.",
+              "section_title": "Uma rede de proteção que acolhe e devolve autonomia",
+              "topics": [
+                "health",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender recursos para a assistência social, aperfeiçoar as políticas nacionais de proteção social e fiscalizar programas e repasses.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "social-protection",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos unir voluntários e projetos sérios para apoiar jovens, idosos, pessoas com deficiência e famílias que precisam de ajuda. O trabalho voluntário aumenta o alcance do bem e soma forças ao dever do governo.",
+              "section_title": "Voluntariado que transforma solidariedade em ação",
+              "topics": [
+                "economy-jobs",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou apoiar melhorias nas leis do voluntariado, a formação de voluntários e regras claras organizações relacionadas a essa área.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou defender proteção contra violência e assédio, apoio ao empreendedorismo, qualificação e formação de lideranças, ampliando condições de participação na política e na economia.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "economy-jobs",
+                "public-safety"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Vou defender recursos para a assistência social, aperfeiçoar as políticas nacionais de proteção social e fiscalizar programas e repasses.",
+          "excerpts": [
+            {
+              "text": "Vou defender recursos para a assistência social, aperfeiçoar as políticas nacionais de proteção social e fiscalizar programas e repasses.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "social-protection",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias. Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia.",
+          "excerpts": [
+            {
+              "text": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias.",
+              "section_title": "Segurança para viver em liberdade",
+              "topics": [
+                "health",
+                "public-safety",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia.",
+              "section_title": "Educação que ensina e prepara para a vida",
+              "topics": [
+                "education",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
+              "section_title": "Meu trabalho no Senado",
+              "topics": [
+                "science-digital",
+                "education",
+                "economy-jobs"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos facilitar a vida de quem empreende e aproximar os cursos das vagas de trabalho. Jovens e trabalhadores precisam de preparo para as oportunidades e mudanças trazidas pela tecnologia.",
+              "section_title": "Trabalho, empreendedorismo e futuro",
+              "topics": [
+                "economy-jobs",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos unir voluntários e projetos sérios para apoiar jovens, idosos, pessoas com deficiência e famílias que precisam de ajuda. O trabalho voluntário aumenta o alcance do bem e soma forças ao dever do governo.",
+              "section_title": "Voluntariado que transforma solidariedade em ação",
+              "topics": [
+                "economy-jobs",
+                "science-digital"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento. Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
+          "excerpts": [
+            {
+              "text": "Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento.",
+              "section_title": "Inclusão, autonomia e apoio a quem cuida - A pauta do coração de Michelle",
+              "topics": [
+                "economy-jobs",
+                "rights-inclusion"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
+              "section_title": "Voluntariado que transforma solidariedade em ação",
+              "topics": [
+                "public-safety",
+                "rights-inclusion"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            },
+            {
+              "text": "Vamos oferecer cursos, orientação e apoio para mulheres que querem liderar ou abrir um negócio, fortalecer o combate à violência e ampliar sua presença nos espaços de decisão.",
+              "section_title": "Mulheres presentes nas decisões e na construção do futuro",
+              "topics": [
+                "rights-inclusion",
+                "public-safety"
+              ],
+              "source_url": "https://michellebolsonaro222.com.br/propostas/",
+              "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
+              "source_sha256": "a24856b09e799b7cd6b1be126f1a4d1467040edc35b0e02cbf06eb35b497c1e5",
+              "collected_at": "2026-10-03T13:08:17+00:00"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002537112",
+      "state_code": "DF",
+      "ballot_name": "PROFESSOR GUILHERME AMORIM",
+      "party_code": "UP",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002553751",
+      "state_code": "DF",
+      "ballot_name": "RONALDO FONSECA",
+      "party_code": "PSD",
+      "sources": [
+        {
+          "url": "https://www.ronaldofonseca.com.br/",
+          "title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+          "sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:19+00:00"
+        },
+        {
+          "url": "https://www.ronaldofonseca.com.br/propostas",
+          "title": "Compromisso 555 — Ronaldo Fonseca",
+          "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        },
+        {
+          "url": "https://www.ronaldofonseca.com.br/propostas#familia",
+          "title": "Compromisso 555 — Ronaldo Fonseca",
+          "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        },
+        {
+          "url": "https://www.ronaldofonseca.com.br/propostas#trabalho",
+          "title": "Compromisso 555 — Ronaldo Fonseca",
+          "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        },
+        {
+          "url": "https://www.ronaldofonseca.com.br/propostas#cidade",
+          "title": "Compromisso 555 — Ronaldo Fonseca",
+          "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:21+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Cinco compromissos para cada uma dessas três frentes. Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal.",
+          "section_title": "Família cuidada. Trabalho na mesa. Cidade que funciona.",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/",
+          "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+          "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+          "collected_at": "2026-10-03T13:08:19+00:00"
+        },
+        {
+          "text": "Não quero enfraquecer o STF. Quero fortalecer a democracia.",
+          "section_title": "Reforma do Judiciário já!",
+          "topics": [
+            "justice-defense"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/",
+          "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+          "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+          "collected_at": "2026-10-03T13:08:19+00:00"
+        },
+        {
+          "text": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
+          "section_title": "Reforma do Judiciário já!",
+          "topics": [
+            "governance",
+            "justice-defense"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/",
+          "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+          "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+          "collected_at": "2026-10-03T13:08:19+00:00"
+        },
+        {
+          "text": "Cinco compromissos pela Família, cinco pelo Trabalho e cinco pela sua Cidade. Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal.",
+          "section_title": "Família cuidada. Trabalho na mesa. Cidade que funciona.",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/propostas",
+          "source_title": "Compromisso 555 — Ronaldo Fonseca",
+          "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        },
+        {
+          "text": "“ O Entorno depende de Brasília pra tudo. Vou trabalhar pra gerar emprego lá, perto de casa. ”",
+          "section_title": "Emprego perto de casa e crédito para quem produz.",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/propostas",
+          "source_title": "Compromisso 555 — Ronaldo Fonseca",
+          "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        },
+        {
+          "text": "Defender e fiscalizar o crédito do FCO, fundo federal que financia empresas no DF, para quem gera emprego nas cidades.",
+          "section_title": "Emprego perto de casa e crédito para quem produz.",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "https://www.ronaldofonseca.com.br/propostas",
+          "source_title": "Compromisso 555 — Ronaldo Fonseca",
+          "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+          "collected_at": "2026-10-03T13:08:20+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://www.ronaldofonseca.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal. Cinco compromissos pela Família, cinco pelo Trabalho e cinco pela sua Cidade.",
+          "excerpts": [
+            {
+              "text": "Cinco compromissos para cada uma dessas três frentes. Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal.",
+              "section_title": "Família cuidada. Trabalho na mesa. Cidade que funciona.",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/",
+              "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+              "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+              "collected_at": "2026-10-03T13:08:19+00:00"
+            },
+            {
+              "text": "Cinco compromissos pela Família, cinco pelo Trabalho e cinco pela sua Cidade. Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal.",
+              "section_title": "Família cuidada. Trabalho na mesa. Cidade que funciona.",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/propostas",
+              "source_title": "Compromisso 555 — Ronaldo Fonseca",
+              "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+              "collected_at": "2026-10-03T13:08:20+00:00"
+            },
+            {
+              "text": "“ O Entorno depende de Brasília pra tudo. Vou trabalhar pra gerar emprego lá, perto de casa. ”",
+              "section_title": "Emprego perto de casa e crédito para quem produz.",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/propostas",
+              "source_title": "Compromisso 555 — Ronaldo Fonseca",
+              "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+              "collected_at": "2026-10-03T13:08:20+00:00"
+            },
+            {
+              "text": "Defender e fiscalizar o crédito do FCO, fundo federal que financia empresas no DF, para quem gera emprego nas cidades.",
+              "section_title": "Emprego perto de casa e crédito para quem produz.",
+              "topics": [
+                "economy-jobs"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/propostas",
+              "source_title": "Compromisso 555 — Ronaldo Fonseca",
+              "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
+              "collected_at": "2026-10-03T13:08:20+00:00"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
+          "excerpts": [
+            {
+              "text": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
+              "section_title": "Reforma do Judiciário já!",
+              "topics": [
+                "governance",
+                "justice-defense"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/",
+              "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+              "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+              "collected_at": "2026-10-03T13:08:19+00:00"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
+          "excerpts": [
+            {
+              "text": "Não quero enfraquecer o STF. Quero fortalecer a democracia.",
+              "section_title": "Reforma do Judiciário já!",
+              "topics": [
+                "justice-defense"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/",
+              "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+              "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+              "collected_at": "2026-10-03T13:08:19+00:00"
+            },
+            {
+              "text": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
+              "section_title": "Reforma do Judiciário já!",
+              "topics": [
+                "governance",
+                "justice-defense"
+              ],
+              "source_url": "https://www.ronaldofonseca.com.br/",
+              "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
+              "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
+              "collected_at": "2026-10-03T13:08:19+00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002548624",
+      "state_code": "DF",
+      "ballot_name": "SEBASTIÃO COELHO",
+      "party_code": "NOVO",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "https://WWW.SEBASTIAOCOELHO.COM/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002551323",
+      "state_code": "DF",
+      "ballot_name": "TIAGO",
+      "party_code": "AGIR",
+      "sources": [
+        {
+          "url": "http://TIAGO360.COM.BR/",
+          "title": "Tiago",
+          "sha256": "05e22023ac2f9930b6997824d2223d78c973018c8441c3bdc251578566ea8268",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "url": "https://tiago360.com.br/propostas/",
+          "title": "propostas – Tiago",
+          "sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "url": "https://tiago360.com.br/propostas/#wp--skip-link--target",
+          "title": "propostas – Tiago",
+          "sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:26+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Sempre que posso, vou pra “roça”, na nossa chácara no Curralinho, em Brazlândia, cidade onde iniciei minha trajetória pública, trabalhando na Administração Regional entre 2007 e 2010.",
+          "section_title": "Minha vida",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Vou exercer um mandato independente, técnico e voltado a resultados, com transparência, fiscalização e controle da administração pública.",
+          "section_title": "Como pretendo exercer o mandato de senador",
+          "topics": [
+            "governance"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Pretendo defender os interesses do Distrito Federal no Congresso Nacional, participar dos debates nacionais e buscar soluções sem transformar o mandato em disputa política ou “lacração” na internet.",
+          "section_title": "Como pretendo exercer o mandato de senador",
+          "topics": [
+            "science-digital"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+          "section_title": "Segurança Pública",
+          "topics": [
+            "public-safety",
+            "education",
+            "economy-jobs",
+            "infrastructure-mobility"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Quero utilizar minha experiência no SINPOL-DF e a dos meus suplentes, policiais militares, para articular soluções concretas para os problemas do DF.",
+          "section_title": "Segurança Pública",
+          "topics": [
+            "public-safety"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Tenho princípios que podem coincidir com diferentes correntes políticas, mas não defenderei pessoas ou partidos quando estiverem errados.",
+          "section_title": "Meu lado político",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Não ter dinheiro envolvido na campanha pode parecer um problema — na verdade é independência no futuro, pois, com a permissão de Deus, quando for eleito não vou “dever” o mandato a empresários ou a grupos.",
+          "section_title": "Por que disputar o Senado aos 39 anos, sem ser de família política, sem ser milionário e sem partido grande por trás?",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "O poder deve emanar do povo, e quando os eleitores descobrirem o que pensamos e como vamos resolver os problemas do DF, faremos a diferença.",
+          "section_title": "Por que disputar o Senado aos 39 anos, sem ser de família política, sem ser milionário e sem partido grande por trás?",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Vou lutar para ser eleito no lugar de quem enganam o povo com ideologias e cortes na internet, mas não se preocupam com o DF nem com o Brasil, só pensam em eleição e poder.",
+          "section_title": "Por que ser candidato a senador?",
+          "topics": [
+            "science-digital"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Eleito, não terei lado ou partido — vou dialogar com o GDF e o Governo Federal para resolver os problemas do DF, independente de quem seja eleito governador ou presidente.",
+          "section_title": "Tem experiência em qual área da política?",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "Não tenho político de estimação nem bandido preferido. Se houver condenação ou investigação com provas de ilícitos, vou votar a favor de afastamento, suspensão ou cassação, e não vou aprovar quem é corrupto ou despreparado.",
+          "section_title": "Qual é o lado político ou a ideologia?",
+          "topics": [
+            "health"
+          ],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        },
+        {
+          "text": "“Eu vou estar na frente da minha campanha nas ruas, olhando nos olhos das pessoas e falando a verdade, doa a quem doer.”",
+          "section_title": "Qual é o lado político ou a ideologia?",
+          "topics": [],
+          "source_url": "https://tiago360.com.br/propostas/",
+          "source_title": "propostas – Tiago",
+          "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+          "collected_at": "2026-10-03T13:08:25+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://TIAGOTARSIS.COM.BR/",
+        "http://TIAGOSENADOR.COM.BR/",
+        "http://TIAGO360.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+          "excerpts": [
+            {
+              "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+              "section_title": "Segurança Pública",
+              "topics": [
+                "public-safety",
+                "education",
+                "economy-jobs",
+                "infrastructure-mobility"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Se houver condenação ou investigação com provas de ilícitos, vou votar a favor de afastamento, suspensão ou cassação, e não vou aprovar quem é corrupto ou despreparado.",
+          "excerpts": [
+            {
+              "text": "Não tenho político de estimação nem bandido preferido. Se houver condenação ou investigação com provas de ilícitos, vou votar a favor de afastamento, suspensão ou cassação, e não vou aprovar quem é corrupto ou despreparado.",
+              "section_title": "Qual é o lado político ou a ideologia?",
+              "topics": [
+                "health"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança. Quero utilizar minha experiência no SINPOL-DF e a dos meus suplentes, policiais militares, para articular soluções concretas para os problemas do DF.",
+          "excerpts": [
+            {
+              "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+              "section_title": "Segurança Pública",
+              "topics": [
+                "public-safety",
+                "education",
+                "economy-jobs",
+                "infrastructure-mobility"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            },
+            {
+              "text": "Quero utilizar minha experiência no SINPOL-DF e a dos meus suplentes, policiais militares, para articular soluções concretas para os problemas do DF.",
+              "section_title": "Segurança Pública",
+              "topics": [
+                "public-safety"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+          "excerpts": [
+            {
+              "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+              "section_title": "Segurança Pública",
+              "topics": [
+                "public-safety",
+                "education",
+                "economy-jobs",
+                "infrastructure-mobility"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+          "excerpts": [
+            {
+              "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
+              "section_title": "Segurança Pública",
+              "topics": [
+                "public-safety",
+                "education",
+                "economy-jobs",
+                "infrastructure-mobility"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Pretendo defender os interesses do Distrito Federal no Congresso Nacional, participar dos debates nacionais e buscar soluções sem transformar o mandato em disputa política ou “lacração” na internet. Vou lutar para ser eleito no lugar de quem enganam o povo com ideologias e cortes na internet, mas não se preocupam com o DF nem com o Brasil, só pensam em eleição e poder.",
+          "excerpts": [
+            {
+              "text": "Pretendo defender os interesses do Distrito Federal no Congresso Nacional, participar dos debates nacionais e buscar soluções sem transformar o mandato em disputa política ou “lacração” na internet.",
+              "section_title": "Como pretendo exercer o mandato de senador",
+              "topics": [
+                "science-digital"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            },
+            {
+              "text": "Vou lutar para ser eleito no lugar de quem enganam o povo com ideologias e cortes na internet, mas não se preocupam com o DF nem com o Brasil, só pensam em eleição e poder.",
+              "section_title": "Por que ser candidato a senador?",
+              "topics": [
+                "science-digital"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Vou exercer um mandato independente, técnico e voltado a resultados, com transparência, fiscalização e controle da administração pública.",
+          "excerpts": [
+            {
+              "text": "Vou exercer um mandato independente, técnico e voltado a resultados, com transparência, fiscalização e controle da administração pública.",
+              "section_title": "Como pretendo exercer o mandato de senador",
+              "topics": [
+                "governance"
+              ],
+              "source_url": "https://tiago360.com.br/propostas/",
+              "source_title": "propostas – Tiago",
+              "source_sha256": "a24eae728b4f43168cda0cbb9d6f838e9a9243fb185191edd373ac96cd092031",
+              "collected_at": "2026-10-03T13:08:25+00:00"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "70002536445",
+      "state_code": "DF",
+      "ballot_name": "ZANATA",
+      "party_code": "PSTU",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2477 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "ES",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "80002541012",
+      "state_code": "ES",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026ES80002541012_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002541012_01.pdf",
+      "sha256": "aa288d9a332f2e7aeec90ceab6b82b80c07cf288011ae59b3f1607aa2cbff972",
+      "summary": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S. Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado. Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego. Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população. A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil. o avanço do crime organizado, cada vez mais consolidado no território capixaba. A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania. Outro objetivo é garantir o desenvolvimento econômico dessas regiões. Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas. Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 35,
+          "page_end": 61,
+          "topics": [
+            "education"
+          ],
+          "summary": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S. Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 32,
+          "page_end": 61,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego. Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 32,
+              "page_end": 34,
+              "text": "Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 42,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil. o avanço do crime organizado, cada vez mais consolidado no território capixaba.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil."
+            },
+            {
+              "id": "s02",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "o avanço do crime organizado, cada vez mais consolidado no território capixaba. Isso, porém, não significa uma melhora na segurança pública, mas, sim, que cada vez mais capixabas têm suas vidas influenciadas pelas decisões e pelas ações do crime organizado."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A vida, a propriedade e o direito de ir e vir são apenas alguns dos direitos fundamentais violados pela inação do governo, a qual condena milhares de capixabas a viverem sob o jugo do mais bárbaro dos regimes: o do crime organizado. O Bairro da Penha, o Flexal II, o São Torquato, a Grande Santa Rita e a Grande São Pedro são apenas alguns exemplos de bairros e favelas tomados pelo crime organizado, onde a lei brasileira não impera totalmente."
+            },
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "prender criminosos é necessário, mas retirar seus recursos financeiros é indispensável."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "No entanto, essas iniciativas ainda não ocupam a posição estratégica que deveriam dentro da política estadual de segurança pública. (I) a recuperação de ativos como indicador estratégico, com metas permanentes de identificação, bloqueio e recuperação de patrimônio vinculado ao crime organizado; (II) o fortalecimento da inteligência patrimonial, criando-se maior integração entre Polícia Civil, Polícia Militar, Receita Estadual, Ministério Público e demais órgãos competentes; (III) o combate à infiltração econômica, política e institucional das facções no Estado e na economia formal; e (IV) o reinvestimento dos recursos recuperados, prioritariamente, na segurança pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Construção de um presídio para membros de facções criminosas Há, atualmente, um déficit no sistema prisional capixaba de cerca de dez mil vagas — conforme apontado pelo próprio Poder Judiciário —, situação que tende a se agravar no momento em que começarmos as operações de reocupação territorial. Dessa forma, não só garantiremos o isolamento desses indivíduos de alta periculosidade, evitando que continuem praticando crimes a partir do interior do sistema prisional, como os afastaremos por completo do convívio com detentos comuns."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Atuação junto à bancada capixaba no Congresso Nacional para reformar as leis penais e de execução penal do país Boa parte dos problemas de segurança pública enfrentados no Brasil encontra origem nas leis penais e de execução penal, excessivamente lenientes para com os criminosos. Valorização da carreira militar Nenhuma política de segurança pública é capaz de produzir resultados duradouros sem profissionais motivados, valorizados e conscientes da importância da missão que desempenham."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Apesar disso, a estrutura remuneratória dessas carreiras tem se tornado cada vez mais complexa ao longo dos anos, dificultando a compreensão da progressão funcional e criando distorções que comprometem a previsibilidade da carreira. Defendemos a criação de uma política permanente de valorização das forças militares estaduais, baseada na transparência, na previsibilidade e na proporcionalidade remuneratória entre postos e graduações."
+            },
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas. Nosso compromisso é garantir que a valorização da carreira militar deixe de depender exclusivamente de negociações pontuais e passe a integrar uma política permanente de Estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Cooperação com outros estados em matéria de segurança pública Atuaremos em conjunto com o máximo de estados possíveis no compartilhamento de inteligência relativo às organizações criminosas."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Ademais, são terrenos férteis para o crime organizado, que se aproveita da infraestrutura urbana precária e da falta de perspectiva para expandir seus quadros e atividades, bem como para se blindar da repressão do Estado. Tornar cidadãos plenos os habitantes desses locais e destruir o crime organizado requerem, pois, a destruição da própria ideia de favela."
+            },
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "Somado à erradicação do crime organizado e ao processo de desfavelização, garantiremos, assim, a inserção dos jovens das comunidades à sociedade brasileira de fato, por meio da disciplina rígida."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 42,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania. Outro objetivo é garantir o desenvolvimento econômico dessas regiões. Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Outro objetivo é garantir o desenvolvimento econômico dessas regiões."
+            },
+            {
+              "id": "s17",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas."
+            },
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. O objetivo é assegurar que esses estudantes materializem suas potencialidades, equiparando-lhes as oportunidades às daqueles de maior renda, o que lhes permitirá concorrer de igual para igual tanto nos processos seletivos e vestibulares quanto no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 42,
+          "page_end": 61,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A não resolução dos problemas de indisciplina no ambiente escolar implicará no acionamento de uma Rede de Proteção Externa, como o Conselho Tutelar, o Ministério Público e os órgãos de assistência social do município, para a aplicação das medidas protetivas e de responsabilização cabíveis fora o ambiente escolar.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "A não resolução dos problemas de indisciplina no ambiente escolar implicará no acionamento de uma Rede de Proteção Externa, como o Conselho Tutelar, o Ministério Público e os órgãos de assistência social do município, para a aplicação das medidas protetivas e de responsabilização cabíveis fora o ambiente escolar."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 16,
+          "page_end": 17,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Por sua vez, a função do Corpo de Bombeiros Militar é a proteção da vida, do patrimônio e do meio ambiente por meio de atividades operacionais especializadas.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Por sua vez, a função do Corpo de Bombeiros Militar é a proteção da vida, do patrimônio e do meio ambiente por meio de atividades operacionais especializadas."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 13,
+          "page_end": 61,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Trata-se de um sistema que conecta milhares de câmeras públicas e privadas a uma central de controle unificada, que utiliza inteligência artificial para identificar crimes, capturar foragidos e localizar pessoas desaparecidas em tempo real. Propomos a criação de um Sistema Estadual de Monitoramento Territorial Permanente, integrado aos municípios e apoiado em ferramentas modernas de georreferenciamento, inteligência artificial, sensoriamento remoto por satélite e monitoramento por drones. Telas e inteligência artificial Implementaremos políticas de desestímulo ao uso de telas, incluindo a proibição completa do uso de aparelhos celulares em sala de aula por parte dos alunos, com punições claras para quem descumprir as regras.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Trata-se de um sistema que conecta milhares de câmeras públicas e privadas a uma central de controle unificada, que utiliza inteligência artificial para identificar crimes, capturar foragidos e localizar pessoas desaparecidas em tempo real."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Propomos a criação de um Sistema Estadual de Monitoramento Territorial Permanente, integrado aos municípios e apoiado em ferramentas modernas de georreferenciamento, inteligência artificial, sensoriamento remoto por satélite e monitoramento por drones."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Telas e inteligência artificial Implementaremos políticas de desestímulo ao uso de telas, incluindo a proibição completa do uso de aparelhos celulares em sala de aula por parte dos alunos, com punições claras para quem descumprir as regras."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 35,
+          "page_end": 61,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A gestão das escolas se submete cada vez mais aos interesses políticos de ocasião, mais interessados em maquiar dados do que em entregar um serviço público de qualidade. Racionalização e controle social das emendas parlamentarem em saúde SAÚDE Como parte central dessa reversão, condicionaremos a habilitação dos repasses e a aprovação dos planos de trabalho de emendas parlamentares estaduais em saúde à apresentação de manifestação prévia de conformidade emitida pelo respectivo Conselho Municipal de Saúde do ente beneficiário, garantindo transparência, participação social e o estrito alinhamento dos recursos com as necessidades prioritárias identificadas nos instrumentos de planejamento do SUS. A proposta é desenhada para produzir controle social real dentro desse limite, e não contra ele: como isso é competência plena do Poder Executivo, o Estado assume o compromisso de estruturar e ampliar os mecanismos ordinários de repasse e cofinanciamento estadual, reduzindo a dependência de municípios e unidades de saúde de recursos discricionários e imprevisíveis vindos de emendas.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "A gestão das escolas se submete cada vez mais aos interesses políticos de ocasião, mais interessados em maquiar dados do que em entregar um serviço público de qualidade."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Racionalização e controle social das emendas parlamentarem em saúde SAÚDE Como parte central dessa reversão, condicionaremos a habilitação dos repasses e a aprovação dos planos de trabalho de emendas parlamentares estaduais em saúde à apresentação de manifestação prévia de conformidade emitida pelo respectivo Conselho Municipal de Saúde do ente beneficiário, garantindo transparência, participação social e o estrito alinhamento dos recursos com as necessidades prioritárias identificadas nos instrumentos de planejamento do SUS. A proposta é desenhada para produzir controle social real dentro desse limite, e não contra ele: como isso é competência plena do Poder Executivo, o Estado assume o compromisso de estruturar e ampliar os mecanismos ordinários de repasse e cofinanciamento estadual, reduzindo a dependência de municípios e unidades de saúde de recursos discricionários e imprevisíveis vindos de emendas."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "a volta da prisão em segunda instância; o fim do auxílio-reclusão, da progressão de regime, das audiências de custódia e do juiz de garantias; e a implantação do direito penal do inimigo contra faccionados.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "a volta da prisão em segunda instância; o fim do auxílio-reclusão, da progressão de regime, das audiências de custódia e do juiz de garantias; e a implantação do direito penal do inimigo contra faccionados."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "80002550832",
+      "state_code": "ES",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026ES80002550832_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002550832_01.pdf",
+      "sha256": "fdb7dcc3ff7e430894465a9b1e4a68e16442552da4682f7c796b44229a3e0aef",
+      "summary": "Centenas de jovens abandonam o ensino médio todos os anos em razão das dificuldades econômicas e da necessidade de trabalhar precocemente. Apenas uma pequena parcela da juventude capixaba consegue acessar o ensino superior, e um número ainda menor permanece nas instituições públicas, enfrentando o alto custo da moradia, a insuficiência da assistência estudantil e a necessidade de conciliar trabalho e estudo. fim do vestibular, vestibulinho ou qualquer processo seletivo; Esgotamento da lista de espera por vagas em creches públicas em todos os municípios do Espírito Santo, priorizando as regiões de maior vulnerabilidade social e as famílias inscritas no Cadastro Único, garantindo o direito de todas as crianças à educação infantil. Uma dessas conquistas é o Sistema Único de Saúde (SUS), o maior sistema público e universal de saúde no mundo que, ao invés de ser protegido e aprimorado, vem sofrendo com a sua precarização, através das privatizações e dos cortes e limitações orçamentárias de investimento em saúde realizados pelos governos a serviço da burguesia. ● Garantia de equipes multiprofissionais nas escolas públicas, com psicólogos, assistentes sociais e demais profissionais necessários ao acompanhamento pedagógico, social e da saúde mental dos estudantes. permita o funcionamento de 100% da saúde pública (SUS) e obrigatoriedade de todos os políticos usarem o SUS e a Educação públicas. Enquanto existirem salários baixos, desemprego e empregos precários, o crime organizado sempre irá existir. ● Estruturar uma rede estadual integrada de enfrentamento à violência contra as mulheres, articulando saúde, assistência social, educação, segurança pública, justiça, além das universidades e participação dos movimentos populares, com atendimento territorializado e humanizado. ● Reorganização da política estadual de segurança pública com participação popular. No Espírito Santo, somente o sistema Transcol transporta cerca de 14 milhões de passageiros por mês, mas o gasto com transporte consome até 18% do salário mínimo, chegando ao custo anual de R$ 3.120 com passagens. ● Política estadual de geração de emprego para a juventude, com formação profissional e integração às frentes de trabalho. ● Fortalecimento do Banestes como instrumento de desenvolvimento econômico estadual, e não apenas como banco comercial.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "education"
+          ],
+          "summary": "Centenas de jovens abandonam o ensino médio todos os anos em razão das dificuldades econômicas e da necessidade de trabalhar precocemente. Apenas uma pequena parcela da juventude capixaba consegue acessar o ensino superior, e um número ainda menor permanece nas instituições públicas, enfrentando o alto custo da moradia, a insuficiência da assistência estudantil e a necessidade de conciliar trabalho e estudo. fim do vestibular, vestibulinho ou qualquer processo seletivo; Esgotamento da lista de espera por vagas em creches públicas em todos os municípios do Espírito Santo, priorizando as regiões de maior vulnerabilidade social e as famílias inscritas no Cadastro Único, garantindo o direito de todas as crianças à educação infantil.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Centenas de jovens abandonam o ensino médio todos os anos em razão das dificuldades econômicas e da necessidade de trabalhar precocemente. Apenas uma pequena parcela da juventude capixaba consegue acessar o ensino superior, e um número ainda menor permanece nas instituições públicas, enfrentando o alto custo da moradia, a insuficiência da assistência estudantil e a necessidade de conciliar trabalho e estudo."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "fim do vestibular, vestibulinho ou qualquer processo seletivo; Esgotamento da lista de espera por vagas em creches públicas em todos os municípios do Espírito Santo, priorizando as regiões de maior vulnerabilidade social e as famílias inscritas no Cadastro Único, garantindo o direito de todas as crianças à educação infantil. ● Garantia de atendimento em período integral nas creches e escolas de educação infantil, incluindo atendimento noturno para filhos de trabalhadores e estudantes."
+            },
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "permita o funcionamento de 100% da saúde pública (SUS) e obrigatoriedade de todos os políticos usarem o SUS e a Educação públicas."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 19,
+          "topics": [
+            "health"
+          ],
+          "summary": "Uma dessas conquistas é o Sistema Único de Saúde (SUS), o maior sistema público e universal de saúde no mundo que, ao invés de ser protegido e aprimorado, vem sofrendo com a sua precarização, através das privatizações e dos cortes e limitações orçamentárias de investimento em saúde realizados pelos governos a serviço da burguesia. ● Garantia de equipes multiprofissionais nas escolas públicas, com psicólogos, assistentes sociais e demais profissionais necessários ao acompanhamento pedagógico, social e da saúde mental dos estudantes. permita o funcionamento de 100% da saúde pública (SUS) e obrigatoriedade de todos os políticos usarem o SUS e a Educação públicas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Uma dessas conquistas é o Sistema Único de Saúde (SUS), o maior sistema público e universal de saúde no mundo que, ao invés de ser protegido e aprimorado, vem sofrendo com a sua precarização, através das privatizações e dos cortes e limitações orçamentárias de investimento em saúde realizados pelos governos a serviço da burguesia."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "● Garantia de equipes multiprofissionais nas escolas públicas, com psicólogos, assistentes sociais e demais profissionais necessários ao acompanhamento pedagógico, social e da saúde mental dos estudantes."
+            },
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "permita o funcionamento de 100% da saúde pública (SUS) e obrigatoriedade de todos os políticos usarem o SUS e a Educação públicas."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "● Garantir atenção integral à saúde das populações atingidas pela mineração, com acompanhamento permanente pelo SUS, vigilância epidemiológica e ambiental e políticas específicas de saúde mental para trabalhadores, famílias e comunidades afetadas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 23,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Enquanto existirem salários baixos, desemprego e empregos precários, o crime organizado sempre irá existir. ● Estruturar uma rede estadual integrada de enfrentamento à violência contra as mulheres, articulando saúde, assistência social, educação, segurança pública, justiça, além das universidades e participação dos movimentos populares, com atendimento territorializado e humanizado. ● Reorganização da política estadual de segurança pública com participação popular.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Enquanto existirem salários baixos, desemprego e empregos precários, o crime organizado sempre irá existir."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "● Estruturar uma rede estadual integrada de enfrentamento à violência contra as mulheres, articulando saúde, assistência social, educação, segurança pública, justiça, além das universidades e participação dos movimentos populares, com atendimento territorializado e humanizado."
+            },
+            {
+              "id": "s24",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Formação dos órgãos de segurança pública sobre o tema."
+            },
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 23,
+              "text": "● Reorganização da política estadual de segurança pública com participação popular. ● Aumento da eficiência do aparato de inteligência para combate ao crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 7,
+          "page_end": 17,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "No Espírito Santo, somente o sistema Transcol transporta cerca de 14 milhões de passageiros por mês, mas o gasto com transporte consome até 18% do salário mínimo, chegando ao custo anual de R$ 3.120 com passagens. ● Política estadual de geração de emprego para a juventude, com formação profissional e integração às frentes de trabalho. ● Fortalecimento do Banestes como instrumento de desenvolvimento econômico estadual, e não apenas como banco comercial.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "No Espírito Santo, somente o sistema Transcol transporta cerca de 14 milhões de passageiros por mês, mas o gasto com transporte consome até 18% do salário mínimo, chegando ao custo anual de R$ 3.120 com passagens."
+            },
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "● Política estadual de geração de emprego para a juventude, com formação profissional e integração às frentes de trabalho."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "● Fortalecimento do Banestes como instrumento de desenvolvimento econômico estadual, e não apenas como banco comercial."
+            },
+            {
+              "id": "s18",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "● Defesa de uma política econômica, inclusive cambial, voltada aos interesses e necessidades da população e à soberania nacional."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 16,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "● Estruturar uma rede estadual integrada de enfrentamento à violência contra as mulheres, articulando saúde, assistência social, educação, segurança pública, justiça, além das universidades e participação dos movimentos populares, com atendimento territorializado e humanizado. ● Garantir auxílio financeiro emergencial, acesso prioritário à moradia, alimentação, assistência social, qualificação profissional e emprego às mulheres vítimas de violência, assegurando condições materiais para romper o ciclo de violência. ● Fortalecimento da agricultura familiar para controlar os preços dos alimentos básicos e abastecer as famílias em situação de insegurança alimentar.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "● Estruturar uma rede estadual integrada de enfrentamento à violência contra as mulheres, articulando saúde, assistência social, educação, segurança pública, justiça, além das universidades e participação dos movimentos populares, com atendimento territorializado e humanizado. ● Garantir auxílio financeiro emergencial, acesso prioritário à moradia, alimentação, assistência social, qualificação profissional e emprego às mulheres vítimas de violência, assegurando condições materiais para romper o ciclo de violência."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "● Fortalecimento da agricultura familiar para controlar os preços dos alimentos básicos e abastecer as famílias em situação de insegurança alimentar."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "● Integração entre educação, saúde, assistência social e demais serviços públicos, fortalecendo o trabalho conjunto entre escolas, Unidades Básicas de Saúde, CRAS, Programa da Unidade Popular pelo Socialismo para o governo do estado do Espírito Santo (ES)."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 14,
+          "page_end": 16,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "posteriormente às escolas sem quadras, bibliotecas, espaços de convivência e laboratórios.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "posteriormente às escolas sem quadras, bibliotecas, espaços de convivência e laboratórios."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 19,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "A discussão acerca do meio ambiente está interligada à discussão sobre a saúde. ● Realização de concursos públicos e valorização dos trabalhadores dos setores de água, esgoto e meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A discussão acerca do meio ambiente está interligada à discussão sobre a saúde."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "● Realização de concursos públicos e valorização dos trabalhadores dos setores de água, esgoto e meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 13,
+          "page_end": 20,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "● Garantia de acesso à terra e crédito para aqueles que nela trabalham, com fomento às pequenas culturas, agricultura urbana e agricultura familiar. ● Fortalecimento da agricultura familiar para controlar os preços dos alimentos básicos e abastecer as famílias em situação de insegurança alimentar. Fortalecimento das parcerias com a agricultura familiar local para o fornecimento de alimentos às escolas.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "● Garantia de acesso à terra e crédito para aqueles que nela trabalham, com fomento às pequenas culturas, agricultura urbana e agricultura familiar. ● Fortalecimento da agricultura familiar para controlar os preços dos alimentos básicos e abastecer as famílias em situação de insegurança alimentar."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Fortalecimento das parcerias com a agricultura familiar local para o fornecimento de alimentos às escolas. ● Programa Estadual de Soberania Alimentar da Família na Escola, com entrega de cesta básica mensal a famílias de estudantes em situação de desemprego, com alimentos adquiridos da agricultura familiar local."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "● Fortalecimento da agricultura familiar e das produções orgânicas."
+            },
+            {
+              "id": "s22",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "● Desenvolvimento das políticas de Reforma Agrária e Reforma Urbana sob a ótica da reparação da população negra."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 18,
+          "page_end": 23,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "● Enfrentar o racismo ambiental, assegurando proteção especial aos povos indígenas, comunidades quilombolas, tradicionais, periféricas e demais populações que historicamente concentram os impactos da mineração e de grandes empreendimentos. ● Reformulação da formação e do currículo das academias militares e das forças de segurança, incorporando o ensino da Constituição, dos direitos humanos e da história da ditadura empresarial-militar de 1964, reafirmando seu caráter golpista e combatendo o revisionismo histórico promovido pela extrema direita.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "● Enfrentar o racismo ambiental, assegurando proteção especial aos povos indígenas, comunidades quilombolas, tradicionais, periféricas e demais populações que historicamente concentram os impactos da mineração e de grandes empreendimentos."
+            },
+            {
+              "id": "s22",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "● Garantia de escolas diferenciadas para os povos indígenas."
+            },
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 23,
+              "text": "● Reformulação da formação e do currículo das academias militares e das forças de segurança, incorporando o ensino da Constituição, dos direitos humanos e da história da ditadura empresarial-militar de 1964, reafirmando seu caráter golpista e combatendo o revisionismo histórico promovido pela extrema direita."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 19,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Ao invés de melhorar o serviço público, a escolha política dos governantes tem sido entregar o SUS para a péssima gestão privada, que não enxerga a saúde como um direito de todos. O transporte coletivo, mais do que apenas um serviço público, deve ser entendido como um direito fundamental. ● Plebiscito popular obrigatório antes de qualquer nova privatização de empresa ou serviço público estadual.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Ao invés de melhorar o serviço público, a escolha política dos governantes tem sido entregar o SUS para a péssima gestão privada, que não enxerga a saúde como um direito de todos."
+            },
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "O transporte coletivo, mais do que apenas um serviço público, deve ser entendido como um direito fundamental."
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "● Plebiscito popular obrigatório antes de qualquer nova privatização de empresa ou serviço público estadual."
+            },
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "● Fortalecimento do controle social sobre a saúde por meio dos Conselhos Populares."
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Expropriação das empresas que têm trabalho análogo à escravidão. ● Confisco dos bens e cassação dos direitos políticos de corruptos e corruptores após condenação."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 18,
+          "page_end": 19,
+          "topics": [
+            "energy"
+          ],
+          "summary": "● Combater a falsa ideia de “mineração sustentável”, denunciando projetos apresentados como parte da transição energética quando reproduzem destruição ambiental, exploração do trabalho e apropriação privada dos recursos naturais.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "● Combater a falsa ideia de “mineração sustentável”, denunciando projetos apresentados como parte da transição energética quando reproduzem destruição ambiental, exploração do trabalho e apropriação privada dos recursos naturais."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "80002551833",
+      "state_code": "ES",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026ES80002551833_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002551833_01.pdf",
+      "sha256": "d25cb154f8de6276c82f504c81ca3b0ec7f6925625a53788ba1bf77c4d628989",
+      "summary": "䬌Ampliar e fortalecer a política de proteção e bem-estar animal, em parceria com os municípios e demais órgãos públicos das diferentes esferas governamentais, iniciativa privada, instituições de ensino superior e ONGs que atuam nessa área. No Espírito Santo, a rede estadual de ensino público é composta por mais de 370 escolas, atende a mais de 180 mil alunos, segundo o Censo Escolar, e conta com cerca de 21 mil servidores. É uma organização educacional de grande porte, mas que ainda enfrenta desafios estruturais que afetam prejudicialmente a população estudantil que depende integralmente da educação pública. 䬌Fortalecer o programa de saúde e segurança do servidor, com foco nas condições de trabalho, ambientes insalubres e acolhimento em saúde mental do servidor. 䬌Atuar junto ao Governo Federal na formalização de parceria para pesquisa e tecnologia em saúde, assegurando titularidade pública das tecnologias desenvolvidas, com vistas à criação do Instituto de Tecnologia e Patentes em Saúde no ES, projeto estratégico de geração de empregos qualificados e atração de investimentos, alinhado à retomada nacional da soberania tecnológica do Sistema único de Saúde (SUS). 䬌Estruturar a rede de saúde mental, incluindo a construção de Centro de Atenção Psicossocial (CAPS). 䬌Fortalecer, valorizar e ampliar os recursos financeiros e humanos para garantir presença e atuação da Defesa Civil Estadual, bem como apoiar estruturação das defesas nos municípios. Em 2024, o Espírito Santo esteve entre os 11 estados em que os casos de feminicídio cresceram, segundo o Fórum Brasileiro de Segurança Pública. O desenvolvimento com justiça social propõe conciliar crescimento econômico com redução das desigualdades sociais e regionais. O novo ciclo de desenvolvimento econômico e social, que terá início em 2027, precisa ser conduzido por uma liderança política com capacidade de diálogo, articulação e equilíbrio para estabelecer parcerias com o governo federal, os municípios, os poderes constituídos e, sobretudo, com as forças vivas da sociedade. 䬌Manter o Banestes e a Cesan como empresas públicas estratégicos para o desenvolvimento econômico e social do Estado. A assistência social é direito de quem vive em situação de vulnerabilidade. A proteção social é o compromisso do Estado em garantir a dignidade e a segurança de seus cidadãos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 46,
+          "topics": [
+            "education"
+          ],
+          "summary": "䬌Ampliar e fortalecer a política de proteção e bem-estar animal, em parceria com os municípios e demais órgãos públicos das diferentes esferas governamentais, iniciativa privada, instituições de ensino superior e ONGs que atuam nessa área. No Espírito Santo, a rede estadual de ensino público é composta por mais de 370 escolas, atende a mais de 180 mil alunos, segundo o Censo Escolar, e conta com cerca de 21 mil servidores. É uma organização educacional de grande porte, mas que ainda enfrenta desafios estruturais que afetam prejudicialmente a população estudantil que depende integralmente da educação pública.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "䬌Ampliar e fortalecer a política de proteção e bem-estar animal, em parceria com os municípios e demais órgãos públicos das diferentes esferas governamentais, iniciativa privada, instituições de ensino superior e ONGs que atuam nessa área."
+            },
+            {
+              "id": "s06",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "No Espírito Santo, a rede estadual de ensino público é composta por mais de 370 escolas, atende a mais de 180 mil alunos, segundo o Censo Escolar, e conta com cerca de 21 mil servidores. É uma organização educacional de grande porte, mas que ainda enfrenta desafios estruturais que afetam prejudicialmente a população estudantil que depende integralmente da educação pública."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 24,
+              "text": "䬌Fortalecer a oferta de bolsas para Jovens Talentos na educação básica. 䬌Expandir e qualificar a política de EDUCAÇÃO INTEGRAL EM TEMPO INTEGRAL, viabilizando recursos para garantir o aumento da jornada, seja com foco na equidade (direcionamento de recursos, priorizando estudantes em situação de vulnerabilidade socioeconômica e nas populações negras, indígenas, quilombolas e do campo); financiamento (com base no que prevê o aumento gradual consonante ao Plano Nacional de Educação (PNE)); valorização profissional com garantia de condições de trabalho adequadas e de tempo remunerado reservado para a formação continuada e para o planejamento dos professores; infraestrutura – adequação e construção de novas unidades escolares que atendam qualitativamente aos estudantes e profissionais para esta oferta educacional."
+            },
+            {
+              "id": "s13",
+              "page_start": 45,
+              "page_end": 46,
+              "text": "䬌Articular segurança e educação no combate à evasão escolar, principal porta de entrada para a violência, com busca ativa e ampliação da escola em tempo integral."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 46,
+          "topics": [
+            "health"
+          ],
+          "summary": "䬌Fortalecer o programa de saúde e segurança do servidor, com foco nas condições de trabalho, ambientes insalubres e acolhimento em saúde mental do servidor. 䬌Atuar junto ao Governo Federal na formalização de parceria para pesquisa e tecnologia em saúde, assegurando titularidade pública das tecnologias desenvolvidas, com vistas à criação do Instituto de Tecnologia e Patentes em Saúde no ES, projeto estratégico de geração de empregos qualificados e atração de investimentos, alinhado à retomada nacional da soberania tecnológica do Sistema único de Saúde (SUS). 䬌Estruturar a rede de saúde mental, incluindo a construção de Centro de Atenção Psicossocial (CAPS).",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "䬌Fortalecer o programa de saúde e segurança do servidor, com foco nas condições de trabalho, ambientes insalubres e acolhimento em saúde mental do servidor."
+            },
+            {
+              "id": "s05",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "䬌Atuar junto ao Governo Federal na formalização de parceria para pesquisa e tecnologia em saúde, assegurando titularidade pública das tecnologias desenvolvidas, com vistas à criação do Instituto de Tecnologia e Patentes em Saúde no ES, projeto estratégico de geração de empregos qualificados e atração de investimentos, alinhado à retomada nacional da soberania tecnológica do Sistema único de Saúde (SUS). 䬌Estruturar a rede de saúde mental, incluindo a construção de Centro de Atenção Psicossocial (CAPS)."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 24,
+              "text": "䬌Criar política estadual de cuidado com a saúde mental dos profissionais, com apoio psicossocial, prevenção ao adoecimento e valorização do bem-estar do docente."
+            },
+            {
+              "id": "s10",
+              "page_start": 33,
+              "page_end": 36,
+              "text": "䬌Criar o Programa Juventude Viva Bem, de promoção da saúde mental e do bem-estar das juventudes."
+            },
+            {
+              "id": "s14",
+              "page_start": 46,
+              "page_end": 46,
+              "text": "䬌Fortalecer o Programa de Saúde Mental para assistir os policiais do início ao fim da carreira, coordenado por profissionais sem vínculos com as corporações."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 29,
+          "page_end": 50,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "䬌Fortalecer, valorizar e ampliar os recursos financeiros e humanos para garantir presença e atuação da Defesa Civil Estadual, bem como apoiar estruturação das defesas nos municípios. 䬌Fortalecer, valorizar e ampliar os recursos financeiros e humanos para garantir presença e atuação da Defesa Civil Estadual, bem como apoiar estruturação das defesas nos municípios. Em 2024, o Espírito Santo esteve entre os 11 estados em que os casos de feminicídio cresceram, segundo o Fórum Brasileiro de Segurança Pública.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 29,
+              "page_end": 33,
+              "text": "䬌Fortalecer, valorizar e ampliar os recursos financeiros e humanos para garantir presença e atuação da Defesa Civil Estadual, bem como apoiar estruturação das defesas nos municípios. 䬌Fortalecer, valorizar e ampliar os recursos financeiros e humanos para garantir presença e atuação da Defesa Civil Estadual, bem como apoiar estruturação das defesas nos municípios."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 42,
+              "text": "Em 2024, o Espírito Santo esteve entre os 11 estados em que os casos de feminicídio cresceram, segundo o Fórum Brasileiro de Segurança Pública. O racismo estrutural aparece na violência policial, no encarceramento em massa da juventude negra e no acesso desigual à saúde, à educação e ao trabalho."
+            },
+            {
+              "id": "s12",
+              "page_start": 42,
+              "page_end": 45,
+              "text": "Inserir a população, os movimentos sociais e trabalhadores da segurança na formulação e no controle permanente da política de segurança e nos abusos por ela cometidos. Esse é o sentido da segurança pública cidadã e da garantia dos direitos humanos que orienta o governo Lula e que nos orientará."
+            },
+            {
+              "id": "s13",
+              "page_start": 45,
+              "page_end": 46,
+              "text": "䬌Incorporar e implementar as tarefas de competência estadual previstas no Sistema Único de Segurança Pública (SUSP), por meio da Secretaria de Segurança Pública e Defesa Social."
+            },
+            {
+              "id": "s15",
+              "page_start": 46,
+              "page_end": 47,
+              "text": "䬌Intensificar as ações da Força Tarefa Permanente de Enfrentamento às Organizações Criminosas, mirando a base financeira do crime organizado, não apenas o varejo."
+            },
+            {
+              "id": "s16",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos. 䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos."
+            },
+            {
+              "id": "s17",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "䬌Fortalecer a fiscalização regular do cumprimento da execução penal, separando presos provisórios de condenados e ampliando as penas alternativas para crimes de menor potencial ofensivo. 䬌Garantir educação, trabalho, saúde e assistência jurídica nas unidades prisionais com política de atenção ao egresso articulada ao Emprega 347, reduzindo a reincidência, destacando orientação para organização do trabalho através da Economia Solidária."
+            },
+            {
+              "id": "s19",
+              "page_start": 49,
+              "page_end": 50,
+              "text": "䬌Retomar os Gabinetes de Gestão Integrada criados no âmbito do Programa Nacional de Segurança Pública com Cidadania – PRONASCI, para integrar ações das agências de segurança nas esferas federal, estadual e municipal e as secretarias sociais, das gestões que sejam relacionadas à prevenção das violências. 䬌Estruturar uma Coordenadoria de Análise e Planejamento da Segurança Pública que será o órgão responsável por acompanhar as estatísticas criminais e monitorar o plano de metas da Segurança Pública."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 57,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O desenvolvimento com justiça social propõe conciliar crescimento econômico com redução das desigualdades sociais e regionais. O novo ciclo de desenvolvimento econômico e social, que terá início em 2027, precisa ser conduzido por uma liderança política com capacidade de diálogo, articulação e equilíbrio para estabelecer parcerias com o governo federal, os municípios, os poderes constituídos e, sobretudo, com as forças vivas da sociedade. 䬌Manter o Banestes e a Cesan como empresas públicas estratégicos para o desenvolvimento econômico e social do Estado.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 5,
+              "text": "O desenvolvimento com justiça social propõe conciliar crescimento econômico com redução das desigualdades sociais e regionais. O novo ciclo de desenvolvimento econômico e social, que terá início em 2027, precisa ser conduzido por uma liderança política com capacidade de diálogo, articulação e equilíbrio para estabelecer parcerias com o governo federal, os municípios, os poderes constituídos e, sobretudo, com as forças vivas da sociedade."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "䬌Manter o Banestes e a Cesan como empresas públicas estratégicos para o desenvolvimento econômico e social do Estado."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "Isso significa fortalecer os órgãos ambientais do Estado, restaurar sua capacidade de escuta, informação, formação e ação, e reafirmar que preservação ambiental e desenvolvimento econômico são objetivos complementares."
+            },
+            {
+              "id": "s05",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "䬌Atuar junto ao Governo Federal na formalização de parceria para pesquisa e tecnologia em saúde, assegurando titularidade pública das tecnologias desenvolvidas, com vistas à criação do Instituto de Tecnologia e Patentes em Saúde no ES, projeto estratégico de geração de empregos qualificados e atração de investimentos, alinhado à retomada nacional da soberania tecnológica do Sistema único de Saúde (SUS)."
+            },
+            {
+              "id": "s06",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Integra educação ao desenvolvimento econômico regional inclusivo e sustentável."
+            },
+            {
+              "id": "s10",
+              "page_start": 33,
+              "page_end": 36,
+              "text": "Em sintonia com o Plano Nacional Juventude Negra Viva, nosso compromisso é com a redução da mortalidade juvenil negra e a ampliação do acesso dos jovens pretos e pardos à educação, à qualificação e ao trabalho digno."
+            },
+            {
+              "id": "s22",
+              "page_start": 51,
+              "page_end": 53,
+              "text": "O novo ciclo capixaba deve aliar o crescimento econômico com o desenvolvimento humano e social, a fim de que o futuro do Espírito Santo seja de prosperidade para todos os capixabas e nenhuma família fique para trás. Apresentamos a seguir os nossos compromissos com o desenvolvimento econômico que prioriza o apoio aos pequenos negócios tradicionais, mas também aqueles potencialmente intensivos em conhecimento e inovação, que propicie melhor distribuição de renda à toda sociedade, reduza as desigualdades sociais e regionais e seja alavanca para a construção de uma sociedade livre, igualitária, justa e democrática."
+            },
+            {
+              "id": "s23",
+              "page_start": 53,
+              "page_end": 54,
+              "text": "䬌Criar o Conselho de Desenvolvimento Econômico Social Sustentável garantindo a ampla participação da sociedade capixaba (segmento empresarial, trabalhadores, organizações sociais e territoriais), para a formulação e construção do desenvolvimento capixaba a partir do conhecimento científico e dos saberes tradicionais, com o caráter de assessoramento permanente, reunindo-se periodicamente."
+            },
+            {
+              "id": "s26",
+              "page_start": 55,
+              "page_end": 55,
+              "text": "䬌Ampliar e fortalecer os programas voltados à inserção de jovens no mercado de trabalho (Primeiro Emprego), criando formas de incentivo e de qualificação de jovens para que acessem o mercado de trabalho e de forma digna e com direitos respeitados."
+            },
+            {
+              "id": "s30",
+              "page_start": 57,
+              "page_end": 57,
+              "text": "䬌Estimular a modernização e a expansão da pequena agroindústria por meio da transformação digital, integrando o produtor rural ao e-commerce e canais de comercialização direta para agregar valor à produção e ampliar a geração de emprego e renda no campo."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 5,
+          "page_end": 63,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A implantação e o aprimoramento de políticas públicas que possibilitem o avanço e a democratização do Espírito Santo dependem, obrigatoriamente, do fortalecimento da sua máquina pública, que deverá ser colocada a serviço dos cidadãos para que seja assegurado um atendimento de qualidade, eficaz e com responsabilidade fiscal. realizar uma gestão pública eficiente, democrática e voltada para as pessoas, com responsabilidade fiscal, gestão orçamentária eficaz e justiça social em todo o território capixaba. Compromisso de Gestão e Responsabilidade Fiscal Este Programa assume publicamente que toda proposta com impacto orçamentário recorrente terá curva de implementação escalonada ao longo dos quatro anos de mandato — nenhum compromisso estrutural será lançado de uma só vez no primeiro ano, de modo a preservar a capacidade fiscal do governo para responder a emergências e a outras prioridades.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "A implantação e o aprimoramento de políticas públicas que possibilitem o avanço e a democratização do Espírito Santo dependem, obrigatoriamente, do fortalecimento da sua máquina pública, que deverá ser colocada a serviço dos cidadãos para que seja assegurado um atendimento de qualidade, eficaz e com responsabilidade fiscal. realizar uma gestão pública eficiente, democrática e voltada para as pessoas, com responsabilidade fiscal, gestão orçamentária eficaz e justiça social em todo o território capixaba."
+            },
+            {
+              "id": "s32",
+              "page_start": 59,
+              "page_end": 63,
+              "text": "Compromisso de Gestão e Responsabilidade Fiscal Este Programa assume publicamente que toda proposta com impacto orçamentário recorrente terá curva de implementação escalonada ao longo dos quatro anos de mandato — nenhum compromisso estrutural será lançado de uma só vez no primeiro ano, de modo a preservar a capacidade fiscal do governo para responder a emergências e a outras prioridades."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 14,
+          "page_end": 42,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A assistência social é direito de quem vive em situação de vulnerabilidade. A proteção social é o compromisso do Estado em garantir a dignidade e a segurança de seus cidadãos. 䬌Ampliar o atendimento integrado (psicológico, social e jurídico) nos Centros Regionais de Atendimento à Mulher, com protocolos regionais entre polícia, assistência social e saúde.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "A assistência social é direito de quem vive em situação de vulnerabilidade. A proteção social é o compromisso do Estado em garantir a dignidade e a segurança de seus cidadãos."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 42,
+              "text": "䬌Ampliar o atendimento integrado (psicológico, social e jurídico) nos Centros Regionais de Atendimento à Mulher, com protocolos regionais entre polícia, assistência social e saúde. 䬌Formar forças de segurança e capacitar profissionais de saúde, educação e assistência social para aplicação da Lei Maria da Penha e identificação precoce da violência."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 8,
+          "page_end": 14,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Entretanto, as pesquisas apontam que num futuro já presente, teremos escassez de água e, dentro de 20 anos, teremos falta de água potável nos grandes centros urbanos e na malha rural.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "Entretanto, as pesquisas apontam que num futuro já presente, teremos escassez de água e, dentro de 20 anos, teremos falta de água potável nos grandes centros urbanos e na malha rural."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 8,
+          "page_end": 14,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "As áreas suscetíveis à desertificação avançam no Norte do Estado, comprometendo a produção, o meio ambiente e a qualidade de vida das comunidades. 䬌Aperfeiçoar o funcionamento do Sistema Estadual de Meio Ambiente, com revisão da Lei Complementar nº 1.073/2023, visando o fortalecimento e integração dos órgãos ambientais (Instituto Estadual de Meio Ambiente (IEMA), Agência Estadual de Recursos Hídricos (AGERH) e IDAF), na perspectiva da superação dos gargalos existentes e dos desafios operacionais (dificuldades na regularização ambiental e déficit de pessoal, além de conflitos de competências) que precisam ser resolvidos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "As áreas suscetíveis à desertificação avançam no Norte do Estado, comprometendo a produção, o meio ambiente e a qualidade de vida das comunidades. 䬌Aperfeiçoar o funcionamento do Sistema Estadual de Meio Ambiente, com revisão da Lei Complementar nº 1.073/2023, visando o fortalecimento e integração dos órgãos ambientais (Instituto Estadual de Meio Ambiente (IEMA), Agência Estadual de Recursos Hídricos (AGERH) e IDAF), na perspectiva da superação dos gargalos existentes e dos desafios operacionais (dificuldades na regularização ambiental e déficit de pessoal, além de conflitos de competências) que precisam ser resolvidos."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 8,
+          "page_end": 14,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O Instituto de Defesa Agropecuária e Florestal do Espírito Santo (IDAF) já mapeou 133 mil produtores da agricultura familiar em nosso território, demonstrando sua magnitude e complexidade. Os dados do Censo 2017, do Instituto Brasileiro de Geografia e Estatística (IBGE), afirmam que no Espírito Santo tem de 108 a 130 mil estabelecimentos rurais, sendo 75 % desses estabelecimentos da agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "O Instituto de Defesa Agropecuária e Florestal do Espírito Santo (IDAF) já mapeou 133 mil produtores da agricultura familiar em nosso território, demonstrando sua magnitude e complexidade. Os dados do Censo 2017, do Instituto Brasileiro de Geografia e Estatística (IBGE), afirmam que no Espírito Santo tem de 108 a 130 mil estabelecimentos rurais, sendo 75 % desses estabelecimentos da agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 57,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "A reforma tributária, o fim gradual dos incentivos fiscais até 2033, a reconfiguração do comércio internacional, a precarização do trabalho e os impactos da inteligência artificial, impõem ao Estado a necessidade de se reinventar. 䬌Modernizar e ampliar a utilização de plataforma e aplicativos públicos com uso de inteligência artificial. O esgotamento do projeto político e econômico que hegemonizou o Estado nas últimas décadas se explica tanto pelas suas concepções, quanto pela incapacidade dos seus detentores de perceberem o alcance e as mudanças em curso, ou seja, a reforma tributária que altera profundamente a lógica competitiva baseada em incentivos fiscais; a transição energética que modifica progressivamente o papel do petróleo; a digitalização que transforma empresas e profissões; a inteligência artificial que modifica produtividade, trabalho e conhecimento; as mudanças climáticas que aumentam riscos territoriais e as novas gerações que apresentam demandas sociais, culturais e profissionais distintas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "A reforma tributária, o fim gradual dos incentivos fiscais até 2033, a reconfiguração do comércio internacional, a precarização do trabalho e os impactos da inteligência artificial, impõem ao Estado a necessidade de se reinventar."
+            },
+            {
+              "id": "s05",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "䬌Modernizar e ampliar a utilização de plataforma e aplicativos públicos com uso de inteligência artificial."
+            },
+            {
+              "id": "s22",
+              "page_start": 51,
+              "page_end": 53,
+              "text": "O esgotamento do projeto político e econômico que hegemonizou o Estado nas últimas décadas se explica tanto pelas suas concepções, quanto pela incapacidade dos seus detentores de perceberem o alcance e as mudanças em curso, ou seja, a reforma tributária que altera profundamente a lógica competitiva baseada em incentivos fiscais; a transição energética que modifica progressivamente o papel do petróleo; a digitalização que transforma empresas e profissões; a inteligência artificial que modifica produtividade, trabalho e conhecimento; as mudanças climáticas que aumentam riscos territoriais e as novas gerações que apresentam demandas sociais, culturais e profissionais distintas."
+            },
+            {
+              "id": "s26",
+              "page_start": 55,
+              "page_end": 55,
+              "text": "䬌Expandir os programas de qualificação profissional através da constituição de consórcios estratégicos (Senai, Senac, Ifes e Ufes), garantindo bolsa-qualificação para desempregado(a)s, com foco na transição digital, mitigação dos impactos da inteligência artificial e atendimento às demandas socioeconômicas regionais."
+            },
+            {
+              "id": "s30",
+              "page_start": 57,
+              "page_end": 57,
+              "text": "䬌Estimular a modernização e a expansão da pequena agroindústria por meio da transformação digital, integrando o produtor rural ao e-commerce e canais de comercialização direta para agregar valor à produção e ampliar a geração de emprego e renda no campo."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 24,
+          "page_end": 29,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "garantir recursos para a circulação da produção cultural; transformar os espaços culturais em multiplicadores de ativos culturais; formar artistas, produtores e gestores culturais; construir programas e projetos que contribuam para a formação de público e salvaguardar nosso patrimônio cultural material e imaterial fomentando as ações de preservação da memória, história e tradições. 䬌Fortalecer uma rede de equipamentos turísticos no Espírito Santo, criando incentivo ao deslocamento e rotas que conectem estrategicamente vários equipamentos turísticos e culturais e da economia criativa capixaba.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 29,
+              "text": "garantir recursos para a circulação da produção cultural; transformar os espaços culturais em multiplicadores de ativos culturais; formar artistas, produtores e gestores culturais; construir programas e projetos que contribuam para a formação de público e salvaguardar nosso patrimônio cultural material e imaterial fomentando as ações de preservação da memória, história e tradições. 䬌Fortalecer uma rede de equipamentos turísticos no Espírito Santo, criando incentivo ao deslocamento e rotas que conectem estrategicamente vários equipamentos turísticos e culturais e da economia criativa capixaba."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 2,
+          "page_end": 51,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Defender os direitos humanos e o direito à vida, sem preconceitos, injustiças e exclusão social. O princípio da vida digna de paz está relacionado à segurança cidadã e ao respeito aos direitos humanos. Interiorizar a proteção à mulher, com delegacias, casas-abrigo e atendimento integrado em todas as regiões, criar a estrutura estadual de equidade racial e cumprir o Estatuto da Igualdade Racial; criar novos espaços de acolhimento para a população LGBTQIAPN+; garantir envelhecimento digno e atenção integral à pessoa idosa; e tornar a acessibilidade regra, e não exceção, para as pessoas com deficiência.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 5,
+              "text": "Defender os direitos humanos e o direito à vida, sem preconceitos, injustiças e exclusão social. O princípio da vida digna de paz está relacionado à segurança cidadã e ao respeito aos direitos humanos."
+            },
+            {
+              "id": "s11",
+              "page_start": 36,
+              "page_end": 42,
+              "text": "Interiorizar a proteção à mulher, com delegacias, casas-abrigo e atendimento integrado em todas as regiões, criar a estrutura estadual de equidade racial e cumprir o Estatuto da Igualdade Racial; criar novos espaços de acolhimento para a população LGBTQIAPN+; garantir envelhecimento digno e atenção integral à pessoa idosa; e tornar a acessibilidade regra, e não exceção, para as pessoas com deficiência. 䬌Defender a aprovação e a implementação do que está previsto na PEC 27/2024, que é a inclusão na Constituição Federal da igualdade racial e instituir o Fundo de Reparação Econômica e de Promoção da Igualdade Racial."
+            },
+            {
+              "id": "s12",
+              "page_start": 42,
+              "page_end": 45,
+              "text": "Garantir e proteger os direitos humanos, referenciados nos valores e princípios da universalidade, transversalidade, interdependência e intersetorialidade, tendo como centralidade a pessoa humana e a defesa da vida, da liberdade e da dignidade de todas as pessoas. Esse é o sentido da segurança pública cidadã e da garantia dos direitos humanos que orienta o governo Lula e que nos orientará."
+            },
+            {
+              "id": "s14",
+              "page_start": 46,
+              "page_end": 46,
+              "text": "䬌Reformular a formação policial a partir de uma matriz estadual unificada, com forte conteúdo em direitos humanos, mediação de conflitos, uso proporcional da força e abordagem antirracista, voltada ao policiamento cidadão."
+            },
+            {
+              "id": "s16",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos. 䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos."
+            },
+            {
+              "id": "s21",
+              "page_start": 50,
+              "page_end": 51,
+              "text": "䬌Fortalecer o Sistema Estadual de Direitos Humanos integrando-o ao Sistema Nacional conforme definido pela Conferência Nacional de Direitos Humanos. 䬌Fortalecer a Secretaria de Estado dos Direitos Humanos, estruturalmente, financeiramente e com protagonismo, para implantar políticas efetivas para a garantia de direitos humanos."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 5,
+          "page_end": 54,
+          "topics": [
+            "governance"
+          ],
+          "summary": "É essencial reafirmar a visão de que a gestão pública não é um fim em si mesma, mas o instrumento fundamental para o acesso e a garantia de direitos, a promoção da justiça social e para o desenvolvimento de forma sustentável. Neste contexto, será necessária a valorização do serviço público, que no Estado tem cerca de 92 mil servidores(as) entre ativos(as) e aposentados(as), com a promoção de concursos públicos, revisão de planos de carreira, recomposição salarial e formação continuada. 䬌Revisar a Política Estadual de Recursos Hídricos com participação e controle social.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "É essencial reafirmar a visão de que a gestão pública não é um fim em si mesma, mas o instrumento fundamental para o acesso e a garantia de direitos, a promoção da justiça social e para o desenvolvimento de forma sustentável. Neste contexto, será necessária a valorização do serviço público, que no Estado tem cerca de 92 mil servidores(as) entre ativos(as) e aposentados(as), com a promoção de concursos públicos, revisão de planos de carreira, recomposição salarial e formação continuada."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 14,
+              "text": "䬌Revisar a Política Estadual de Recursos Hídricos com participação e controle social."
+            },
+            {
+              "id": "s05",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "Na assistência social, a transferência de renda precisa ser direito garantido, com participação social fortalecida e sem interferência política nos atendimentos. 䬌Ativar os mecanismos de transparência e participação social com Conselhos Estadual, Municipais e Locais fortes, Ouvidoria Ativa e Portal de Transparência da Saúde."
+            },
+            {
+              "id": "s08",
+              "page_start": 24,
+              "page_end": 29,
+              "text": "Adotar políticas destinadas ao fortalecimento de atividades, à valorização dos seus produtores e dos seus espaços de realização, à interlocução e debates com os representantes dos movimentos culturais, garantindo a participação social e a democratização da gestão. 䬌Revisar e implementar o Plano Estadual do Esporte (PEEL), com suas 72 metas e 63 projetos já formulados, garantindo monitoramento contínuo, participação social e cumprimento do cronograma decenal já pactuado."
+            },
+            {
+              "id": "s12",
+              "page_start": 42,
+              "page_end": 45,
+              "text": "As mortes e o medo se concentram justamente onde o Estado se ausentou, nos territórios sem serviço público e sem oportunidade para as pessoas. a valorização da vida, o antirracismo e a participação social."
+            },
+            {
+              "id": "s16",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos. 䬌Criar a Ouvidoria Externa de Segurança Pública e Defesa Social com autonomia e independência administrativa e financeira, como órgão de controle social da atividade policial e de monitoramento da defesa dos direitos humanos."
+            },
+            {
+              "id": "s19",
+              "page_start": 49,
+              "page_end": 50,
+              "text": "䬌Fortalecer os conselhos comunitários e o controle social na formulação e na fiscalização da política de segurança."
+            },
+            {
+              "id": "s24",
+              "page_start": 54,
+              "page_end": 54,
+              "text": "䬌Gerir com transparência e controle social os fundos estaduais de combate à pobreza e desenvolvimento regional criados no âmbito da reforma tributária."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 29,
+          "page_end": 63,
+          "topics": [
+            "energy"
+          ],
+          "summary": "䬌Instituir o Programa Capixaba de Transição Energética no Transporte Público com o objetivo de corrigir a rota da transição do transporte no Espírito Santo, que fortalece o individual e o privado sem a consolidação de uma estratégia pública de transição no transporte coletivo. O esgotamento do projeto político e econômico que hegemonizou o Estado nas últimas décadas se explica tanto pelas suas concepções, quanto pela incapacidade dos seus detentores de perceberem o alcance e as mudanças em curso, ou seja, a reforma tributária que altera profundamente a lógica competitiva baseada em incentivos fiscais; a transição energética que modifica progressivamente o papel do petróleo; a digitalização que transforma empresas e profissões; a inteligência artificial que modifica produtividade, trabalho e conhecimento; as mudanças climáticas que aumentam riscos territoriais e as novas gerações que apresentam demandas sociais, culturais e profissionais distintas. 䬌Aprimorar o Sistema Estadual de Ciência e Tecnologia e Inovação integrado e orientado para o desenvolvimento sustentável do Espírito Santo para transformar a economia capixaba por meio do conhecimento, descentralizar oportunidades e resp",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 29,
+              "page_end": 33,
+              "text": "䬌Instituir o Programa Capixaba de Transição Energética no Transporte Público com o objetivo de corrigir a rota da transição do transporte no Espírito Santo, que fortalece o individual e o privado sem a consolidação de uma estratégia pública de transição no transporte coletivo."
+            },
+            {
+              "id": "s22",
+              "page_start": 51,
+              "page_end": 53,
+              "text": "O esgotamento do projeto político e econômico que hegemonizou o Estado nas últimas décadas se explica tanto pelas suas concepções, quanto pela incapacidade dos seus detentores de perceberem o alcance e as mudanças em curso, ou seja, a reforma tributária que altera profundamente a lógica competitiva baseada em incentivos fiscais; a transição energética que modifica progressivamente o papel do petróleo; a digitalização que transforma empresas e profissões; a inteligência artificial que modifica produtividade, trabalho e conhecimento; as mudanças climáticas que aumentam riscos territoriais e as novas gerações que apresentam demandas sociais, culturais e profissionais distintas."
+            },
+            {
+              "id": "s27",
+              "page_start": 55,
+              "page_end": 56,
+              "text": "䬌Aprimorar o Sistema Estadual de Ciência e Tecnologia e Inovação integrado e orientado para o desenvolvimento sustentável do Espírito Santo para transformar a economia capixaba por meio do conhecimento, descentralizar oportunidades e responder aos desafios climáticos e socioambientais do século XXI 䬌Aprimorar e ampliar programas estruturados de CT&I para a transição energética, economia azul e bioeconomia visando apoiar pesquisas, startups e projetos tecnológicos de alto impacto sustentável."
+            },
+            {
+              "id": "s28",
+              "page_start": 56,
+              "page_end": 56,
+              "text": "䬌Impulsionar a descarbonização das cadeias produtivas e a transição energética justa, consolidando a economia verde como vetor de neoindustrialização, inovação tecnológica e ampliação da competitividade da economia estadual."
+            },
+            {
+              "id": "s32",
+              "page_start": 59,
+              "page_end": 63,
+              "text": "A retomada dos investimentos em petróleo e gás, as descobertas em águas profundas como o poço Monai e as oportunidades da transição energética podem inaugurar um novo ciclo de industrialização, desde que orientados por um projeto público de desenvolvimento. Um desenvolvimento que gere emprego e renda, diversifique a economia, prepare o Espírito Santo para a transição energética e para o fim dos incentivos fiscais, até o ano de 2033 e que pense o Estado para as próximas décadas."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "80002552172",
+      "state_code": "ES",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026ES80002552172_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002552172_01.pdf",
+      "sha256": "5b1bf276f82a0f7b410e0506ffef4577770673d4f7736d456583b5b81c652cc3",
+      "summary": "A educação e a qualificação profissional são pilares centrais e forças motriz para o desenvolvimento sustentável e soberano do Espírito Santo. Para o quadriênio 2027-2030, o Espírito Santo consagrará a visão de “educação sem muros” que transcende o espaço físico da sala de aula para integrar escola, comunidade, setor produtivo e inovação tecnológica. O Ensino em Tempo Integral deixou de ser exceção e virou direito ampliado. Nos últimos anos, o Espírito Santo promoveu uma profunda transformação na saúde pública. A oferta de leitos do Sistema Único de Saúde (SUS) aumentou de 5.851 para 7.111. Preparar a saúde para os desafios do futuro Fortaleceremos a saúde mental, ampliaremos a política estadual de atenção ao envelhecimento saudável, consolidaremos uma rede inteligente de vigilância em saúde e desenvolveremos estratégias permanentes para enfrentar epidemias, eventos climáticos extremos e novas emergências sanitárias. A segurança pública continuará exigindo integração, inteligência, tecnologia e prevenção social, enquanto as mudanças climáticas tornam indispensável fortalecer a 1- Investimentos Anunciados e Concluídos no Espírito Santo 2024-2029 | Instituto Jones dos Santos Neves (IJSN) 2027 — 2030 adaptação, a resiliência territorial e a transição para uma economia de baixo carbono. Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento. O Espírito Santo transformou sua política de segurança pública em uma referência nacional. equilíbrio fiscal, a capacidade de investimento e o planejamento de longo prazo, conciliando crescimento econômico, responsabilidade social e sustentabilidade. à proteção ambiental, segurança hídrica, adaptação às mudanças climáticas e fortalecimento da capacidade de prevenção e resposta a desastres. Diálogo, transparência e participação — manter uma administração aberta à sociedade, com transparência, escuta, participação social e cooperação com os diferentes setores.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 13,
+          "page_end": 23,
+          "topics": [
+            "education"
+          ],
+          "summary": "A educação e a qualificação profissional são pilares centrais e forças motriz para o desenvolvimento sustentável e soberano do Espírito Santo. Para o quadriênio 2027-2030, o Espírito Santo consagrará a visão de “educação sem muros” que transcende o espaço físico da sala de aula para integrar escola, comunidade, setor produtivo e inovação tecnológica. O Ensino em Tempo Integral deixou de ser exceção e virou direito ampliado.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A educação e a qualificação profissional são pilares centrais e forças motriz para o desenvolvimento sustentável e soberano do Espírito Santo. Para o quadriênio 2027-2030, o Espírito Santo consagrará a visão de “educação sem muros” que transcende o espaço físico da sala de aula para integrar escola, comunidade, setor produtivo e inovação tecnológica."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "O Ensino em Tempo Integral deixou de ser exceção e virou direito ampliado. Além disso, a criação do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral (PROETI) foi pioneiro no Brasil e permitiu que os 78 municípios passassem a oferecer essa modalidade, com aporte de quase R$ 260 milhões."
+            },
+            {
+              "id": "s12",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Integração total entre educação básica, ensino superior, centros de pesquisa e o mercado de trabalho. • Atuação sistêmica voltada à recomposição das aprendizagens, com foco nos estudantes com maiores defasagens, garantindo apoio pedagógico intensivo, materiais adequados e acompanhamento contínuo ao longo de toda a educação básica."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "Educação em Tempo Integral Universalizar a oferta de matrículas em tempo integral nas escolas da Rede Estadual, ampliando o número de escolas e vagas por todo o estado. • Aprimorar os sistemas de monitoramento e avaliação (Programa de Avaliação da Educação Básica do Espírito Santo - PAEBES e indicadores locais), mantendo a cultura de gestão por evidências em todos os níveis da rede."
+            },
+            {
+              "id": "s14",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Até o início do último governo, a rede de educação profissional e os programas de qualificação do estado eram fragmentadas, com baixa capilaridade no interior e pouca integração com o ensino superior, resultando em um descompasso entre a formação oferecida e as competências exigidas pela Indústria 4.0. O fortalecimento do Sistema UniversidadES consolidou a “universidade sem muros”, democratizando o acesso ao ensino superior e técnico por meio de parcerias globais e integrações locais."
+            },
+            {
+              "id": "s16",
+              "page_start": 21,
+              "page_end": 23,
+              "text": "Expandir as matrículas em cursos de qualificação profissional possibilitando a integração entre Ensino Médio regular, EJA e cursos técnicos e alinhando a formação às demandas dos arranjos produtivos locais, com foco nos 17 setores estratégicos identificados no Plano ES 500 Anos. Fortalecer o Sistema UniversidadES e conectar os programas QualificarESNossa Bolsa-UNAC: Garantir que a formação técnica tenha continuidade no ensino superior e na pesquisa aplicada, consolidando um percurso formativo unificado 2027 — 2030 que permite ao cidadão progredir da qualificação básica até o doutorado profissional."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 23,
+          "page_end": 29,
+          "topics": [
+            "health"
+          ],
+          "summary": "Nos últimos anos, o Espírito Santo promoveu uma profunda transformação na saúde pública. A oferta de leitos do Sistema Único de Saúde (SUS) aumentou de 5.851 para 7.111. Preparar a saúde para os desafios do futuro Fortaleceremos a saúde mental, ampliaremos a política estadual de atenção ao envelhecimento saudável, consolidaremos uma rede inteligente de vigilância em saúde e desenvolveremos estratégias permanentes para enfrentar epidemias, eventos climáticos extremos e novas emergências sanitárias.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Nos últimos anos, o Espírito Santo promoveu uma profunda transformação na saúde pública. A oferta de leitos do Sistema Único de Saúde (SUS) aumentou de 5.851 para 7.111."
+            },
+            {
+              "id": "s18",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "Preparar a saúde para os desafios do futuro Fortaleceremos a saúde mental, ampliaremos a política estadual de atenção ao envelhecimento saudável, consolidaremos uma rede inteligente de vigilância em saúde e desenvolveremos estratégias permanentes para enfrentar epidemias, eventos climáticos extremos e novas emergências sanitárias."
+            },
+            {
+              "id": "s19",
+              "page_start": 27,
+              "page_end": 29,
+              "text": "Os compromissos assumidos para a saúde pública serão materializados por meio de um conjunto de projetos estruturantes capazes de ampliar a capacidade de atendimento do Sistema Único de Saúde, incorporar inovação, fortalecer a regionalização e preparar o Espírito Santo para os desafios das próximas décadas. Complexo Hospitalar de Cariacica Concluir e colocar em funcionamento o Hospital Geral de Cariacica, o maior hospital público da história do Espírito Santo, com mais de 400 leitos, ampliando significativamente a capacidade da rede própria estadual em diversas especialidades de média e alta complexidade."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 7,
+          "page_end": 48,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública continuará exigindo integração, inteligência, tecnologia e prevenção social, enquanto as mudanças climáticas tornam indispensável fortalecer a 1- Investimentos Anunciados e Concluídos no Espírito Santo 2024-2029 | Instituto Jones dos Santos Neves (IJSN) 2027 — 2030 adaptação, a resiliência territorial e a transição para uma economia de baixo carbono. Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento. O Espírito Santo transformou sua política de segurança pública em uma referência nacional.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "A segurança pública continuará exigindo integração, inteligência, tecnologia e prevenção social, enquanto as mudanças climáticas tornam indispensável fortalecer a 1- Investimentos Anunciados e Concluídos no Espírito Santo 2024-2029 | Instituto Jones dos Santos Neves (IJSN) 2027 — 2030 adaptação, a resiliência territorial e a transição para uma economia de baixo carbono."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento."
+            },
+            {
+              "id": "s20",
+              "page_start": 29,
+              "page_end": 34,
+              "text": "O Espírito Santo transformou sua política de segurança pública em uma referência nacional. Por isso, a segurança pública permanecerá como prioridade absoluta do Governo do Espírito Santo."
+            },
+            {
+              "id": "s21",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Modernizar a Segurança Pública Expandir o uso de inteligência artificial, análise preditiva, ciência de dados, reconhecimento biométrico, monitoramento inteligente e automação das atividades policiais, consolidando o Espírito Santo como referência nacional em tecnologia aplicada à segurança pública. O Governo instituirá uma Política Estadual Permanente de Enfrentamento ao Crime Organizado, integrando inteligência, investigação, descapitalização financeira, recuperação de ativos e coordenação estratégica entre as instituições responsáveis pela segurança pública e pelo sistema de justiça."
+            },
+            {
+              "id": "s22",
+              "page_start": 36,
+              "page_end": 39,
+              "text": "O futuro da segurança pública passa pelo uso intensivo de tecnologia, inteligência e integração de informações. O Centro será referência nacional na integração entre dados, inovação e operações, fortalecendo a coordenação das ações de segurança pública e defesa social."
+            },
+            {
+              "id": "s23",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "Nesse modelo, saúde, educação, assistência social, trabalho, habitação, direitos humanos, segurança pública, cultura, esporte e desenvolvimento econômico deixam de atuar isoladamente e passam a constituir uma única estratégia de desenvolvimento humano."
+            },
+            {
+              "id": "s26",
+              "page_start": 43,
+              "page_end": 44,
+              "text": "• Desenvolver Programas Permanentes de Formação em Direitos Humanos para profissionais das áreas da saúde, educação, assistência social, segurança pública, sistema socioeducativo e administração pública."
+            },
+            {
+              "id": "s32",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "• Instituir uma Coordenação Estadual de Apoio aos Conselhos Tutelares e criar uma Plataforma Integrada de Proteção à Primeira Infância, interoperável com sistemas de saúde, educação, assistência social, segurança pública e justiça, permitindo acompanhamento em tempo real de situações de violência, negligência e vulnerabilidade."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 10,
+          "page_end": 47,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "equilíbrio fiscal, a capacidade de investimento e o planejamento de longo prazo, conciliando crescimento econômico, responsabilidade social e sustentabilidade. à proteção ambiental, segurança hídrica, adaptação às mudanças climáticas e fortalecimento da capacidade de prevenção e resposta a desastres. Diálogo, transparência e participação — manter uma administração aberta à sociedade, com transparência, escuta, participação social e cooperação com os diferentes setores.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "equilíbrio fiscal, a capacidade de investimento e o planejamento de longo prazo, conciliando crescimento econômico, responsabilidade social e sustentabilidade."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "à proteção ambiental, segurança hídrica, adaptação às mudanças climáticas e fortalecimento da capacidade de prevenção e resposta a desastres. Diálogo, transparência e participação — manter uma administração aberta à sociedade, com transparência, escuta, participação social e cooperação com os diferentes setores."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "desenvolvimento econômico só se sustenta quando caminha junto com desenvolvimento humano."
+            },
+            {
+              "id": "s12",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Integração total entre educação básica, ensino superior, centros de pesquisa e o mercado de trabalho."
+            },
+            {
+              "id": "s14",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "2027 — 2030 O Estado reconhece a qualificação profissional como indutor e condição para o desenvolvimento econômico e social do Espírito Santo."
+            },
+            {
+              "id": "s20",
+              "page_start": 29,
+              "page_end": 34,
+              "text": "Não há desenvolvimento econômico, justiça social ou qualidade de vida onde a violência impõe medo, restringe a liberdade e compromete o futuro das comunidades."
+            },
+            {
+              "id": "s23",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "Estado do Cuidado é um modelo de governança pública que organiza a ação do Estado para proteger as pessoas ao longo de todo o ciclo da vida, integrar políticas públicas, reduzir desigualdades, promover autonomia e transformar desenvolvimento econômico em desenvolvimento humano. O Estado do Cuidado compreende que desenvolvimento econômico e desenvolvimento humano são dimensões inseparáveis."
+            },
+            {
+              "id": "s24",
+              "page_start": 41,
+              "page_end": 43,
+              "text": "Transformar proteção social em autonomia Integrar assistência social, saúde, educação, trabalho, habitação e desenvolvimento econômico para que as políticas públicas promovam emancipação, inclusão produtiva e mobilidade social. Fazer do trabalho o principal instrumento de inclusão Conectar qualificação profissional, inovação, empreendedorismo e desenvolvimento econômico às oportunidades reais de trabalho, renda e inclusão produtiva para toda a população."
+            },
+            {
+              "id": "s29",
+              "page_start": 46,
+              "page_end": 46,
+              "text": "O Espírito Santo reúne condições para liderar uma nova geração de políticas públicas que articulem qualificação profissional, inovação, empreendedorismo, economia do cuidado e inclusão produtiva, conectando pessoas às oportunidades geradas pelo desenvolvimento econômico do Estado."
+            },
+            {
+              "id": "s30",
+              "page_start": 46,
+              "page_end": 47,
+              "text": "• Implantar o Mapa Capixaba das Profissões do Futuro, identificando demandas regionais de mão de obra para orientar as políticas de formação profissional conectadas às demandas reais das empresas, reduzindo o descompasso entre formação profissional e mercado de trabalho. • Transformar a economia do cuidado em um novo vetor de geração de emprego, formando cuidadores de pessoas idosas, pessoas com deficiência, crianças e famílias."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 43,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "que ela existe para garantir escolas melhores, hospitais mais eficientes, cidades mais seguras, mais oportunidades para jovens e trabalhadores e mais qualidade de vida para as famílias. Com planejamento, responsabilidade fiscal e gestão orientada por resultados, o Estado ampliou investimentos, fortaleceu a regionalização da assistência, modernizou hospitais, expandiu a atenção especializada e incorporou inovação e tecnologia em todas as etapas do cuidado. Transformar o cuidado em estratégia de desenvolvimento Reconhecer que investir em proteção social, educação, saúde, habitação, cultura, trabalho e inclusão não representa apenas gasto público, mas investimento na produtividade, na coesão social, na redução das desigualdades e na construção de um Espírito Santo mais justo, inovador e sustentável.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "que ela existe para garantir escolas melhores, hospitais mais eficientes, cidades mais seguras, mais oportunidades para jovens e trabalhadores e mais qualidade de vida para as famílias."
+            },
+            {
+              "id": "s17",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Com planejamento, responsabilidade fiscal e gestão orientada por resultados, o Estado ampliou investimentos, fortaleceu a regionalização da assistência, modernizou hospitais, expandiu a atenção especializada e incorporou inovação e tecnologia em todas as etapas do cuidado."
+            },
+            {
+              "id": "s24",
+              "page_start": 41,
+              "page_end": 43,
+              "text": "Transformar o cuidado em estratégia de desenvolvimento Reconhecer que investir em proteção social, educação, saúde, habitação, cultura, trabalho e inclusão não representa apenas gasto público, mas investimento na produtividade, na coesão social, na redução das desigualdades e na construção de um Espírito Santo mais justo, inovador e sustentável."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 12,
+          "page_end": 48,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento. O Estado ampliou investimentos, incorporou novas tecnologias, valorizou seus profissionais e consolidou uma atuação integrada entre as instituições de segurança, justiça e proteção social. A segurança escolar consolidou-se como uma política permanente de governo, integrando educação, assistência social e segurança pública.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento."
+            },
+            {
+              "id": "s20",
+              "page_start": 29,
+              "page_end": 34,
+              "text": "O Estado ampliou investimentos, incorporou novas tecnologias, valorizou seus profissionais e consolidou uma atuação integrada entre as instituições de segurança, justiça e proteção social. A segurança escolar consolidou-se como uma política permanente de governo, integrando educação, assistência social e segurança pública."
+            },
+            {
+              "id": "s21",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "O Governo ampliará as políticas integradas de prevenção social, fortalecendo a proteção das meninas e das mulheres, das juventudes e das comunidades prioritárias, expandindo programas de desenvolvimento social, oportunidades para os jovens e ações articuladas entre segurança pública, educação, assistência social, cultura e esporte."
+            },
+            {
+              "id": "s23",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "a proteção social deve acompanhar as pessoas em suas diferentes fases da vida, reconhecendo que vulnerabilidades não são isoladas. A proteção social do século XXI exige uma atuação integrada do Estado."
+            },
+            {
+              "id": "s24",
+              "page_start": 41,
+              "page_end": 43,
+              "text": "Transformar proteção social em autonomia Integrar assistência social, saúde, educação, trabalho, habitação e desenvolvimento econômico para que as políticas públicas promovam emancipação, inclusão produtiva e mobilidade social. Construir territórios protetores Fortalecer a presença do Estado nos territórios por meio de redes integradas de proteção social, prevenção às violências, equipamentos públicos qualificados e participação comunitária."
+            },
+            {
+              "id": "s26",
+              "page_start": 43,
+              "page_end": 44,
+              "text": "• Desenvolver Programas Permanentes de Formação em Direitos Humanos para profissionais das áreas da saúde, educação, assistência social, segurança pública, sistema socioeducativo e administração pública."
+            },
+            {
+              "id": "s27",
+              "page_start": 44,
+              "page_end": 45,
+              "text": "A assistência social representa a principal política pública de proteção às famílias em situação de vulnerabilidade e constitui um dos pilares do desenvolvimento humano. Nos últimos anos, o Espírito Santo tornou-se referência nacional ao ampliar significativamente os investimentos no Sistema Único de Assistência Social (SUAS), fortalecendo o cofinanciamento estadual, qualificando equipamentos públicos e expandindo benefícios sociais."
+            },
+            {
+              "id": "s28",
+              "page_start": 45,
+              "page_end": 46,
+              "text": "• Manter e ampliar o Cofinanciamento Estadual para construção, reforma, ampliação, mobília e modernização de Centros de Referência de Assistência Social (CRAS), Centro de Referência Especializado de Assistência Social (CREAS), Centros de Referência Especializado para a População em Situação de Rua (Centros POP), unidades de acolhimento e demais equipamentos socioassistenciais. • Fortalecer o Programa Compra Direta de Alimentos, ampliando sua cobertura, garantindo reajustes periódicos e fortalecendo simultaneamente a agricultura familiar e a segurança alimentar."
+            },
+            {
+              "id": "s32",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "• Instituir uma Coordenação Estadual de Apoio aos Conselhos Tutelares e criar uma Plataforma Integrada de Proteção à Primeira Infância, interoperável com sistemas de saúde, educação, assistência social, segurança pública e justiça, permitindo acompanhamento em tempo real de situações de violência, negligência e vulnerabilidade."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "100 2.5 Meio Ambiente e Desenvolvimento Sustentável ……………….........….…………..",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "100 2.5 Meio Ambiente e Desenvolvimento Sustentável ……………….........….………….."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 45,
+          "page_end": 46,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "• Fortalecer o Programa Compra Direta de Alimentos, ampliando sua cobertura, garantindo reajustes periódicos e fortalecendo simultaneamente a agricultura familiar e a segurança alimentar.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 45,
+              "page_end": 46,
+              "text": "• Fortalecer o Programa Compra Direta de Alimentos, ampliando sua cobertura, garantindo reajustes periódicos e fortalecendo simultaneamente a agricultura familiar e a segurança alimentar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 6,
+          "page_end": 39,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Queremos um estado inteligente, que utilize inovação, transformação digital e inteligência artificial para eliminar filas, reduzir burocracia e aproximar o governo dos cidadãos e cidadãs. As transformações tecnológicas, a automação e a inteligência artificial demandarão maior integração entre educação, qualificação profissional, inovação e setor produtivo. Inovação como instrumento de transformação — incorporar tecnologia, inteligência artificial, digitalização, ciência e inovação para melhorar serviços públicos, aumentar a produtividade e gerar novas oportunidades.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Queremos um estado inteligente, que utilize inovação, transformação digital e inteligência artificial para eliminar filas, reduzir burocracia e aproximar o governo dos cidadãos e cidadãs."
+            },
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "As transformações tecnológicas, a automação e a inteligência artificial demandarão maior integração entre educação, qualificação profissional, inovação e setor produtivo."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Inovação como instrumento de transformação — incorporar tecnologia, inteligência artificial, digitalização, ciência e inovação para melhorar serviços públicos, aumentar a produtividade e gerar novas oportunidades."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 16,
+              "text": "Prepararemos os estudantes para as transformações tecnológicas e climáticas incorporando a Inteligência Artificial de forma ética e crítica e a formação para a cidadania planetária, com educação ambiental e climática, nos currículos."
+            },
+            {
+              "id": "s12",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "• Preparação dos estudantes para as transformações tecnológicas (Inteligência Artificial) e climáticas."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "• Preparar estudantes e professores para o uso ético e crítico da Inteligência Artificial, evitando que a tecnologia se torne novo fator de exclusão social e laboral."
+            },
+            {
+              "id": "s14",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "O QualificarES tornou-se um sucesso absoluto e a principal porta de entrada para a cidadania digital, com 1 milhão de inscrições, enorme participação feminina e foco em territórios vulneráveis, além de trilhas de Inteligência Artificial (IA) abertas a toda a sociedade."
+            },
+            {
+              "id": "s17",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "que integre todas as informações do cidadão em um prontuário eletrônico único; que utilize análise de dados para antecipar riscos e prevenir doenças; que reduza deslocamentos por meio da telessaúde; que fortaleça a atenção primária como coordenadora do cuidado e que ofereça atendimento cada vez mais humanizado, resolutivo e próximo das pessoas."
+            },
+            {
+              "id": "s18",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "Liderar a transformação digital do SUS Implantaremos o programa Minha Saúde ES, com prontuário eletrônico integrado, inteligência artificial aplicada à gestão e ao apoio diagnóstico, ampliação da telessaúde, centros inteligentes de regulação e plataformas digitais para acompanhamento do cidadão."
+            },
+            {
+              "id": "s19",
+              "page_start": 27,
+              "page_end": 29,
+              "text": "Rede Inteligente de Regulação e Telessaúde Implantar uma nova geração da Central Estadual de Regulação, apoiada por inteligência artificial, análise preditiva e monitoramento em tempo real da ocupação hospitalar, integrada a uma ampla rede estadual de telemedicina e teleconsultoria para ampliar o acesso da população às especialidades médicas. Rede Estadual Inteligente de Vigilância em Saúde Consolidar uma rede integrada de vigilância epidemiológica, laboratorial e ambiental, utilizando ciência de dados, inteligência artificial e monitoramento em tempo real para antecipar surtos, responder rapidamente às emergências sanitárias e fortalecer a preparação do Estado diante dos impactos das mudanças climáticas."
+            },
+            {
+              "id": "s21",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Modernizar a Segurança Pública Expandir o uso de inteligência artificial, análise preditiva, ciência de dados, reconhecimento biométrico, monitoramento inteligente e automação das atividades policiais, consolidando o Espírito Santo como referência nacional em tecnologia aplicada à segurança pública."
+            },
+            {
+              "id": "s22",
+              "page_start": 36,
+              "page_end": 39,
+              "text": "Nos últimos anos, o Espírito Santo incorporou soluções inovadoras como o Cerco Inteligente, o reconhecimento facial, os totens de segurança, a inteligência artificial, a análise preditiva, a ciência de dados e a automação de processos, ampliando significativamente a capacidade de prevenção e resposta das forças de segurança."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 12,
+          "page_end": 44,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento. A criança em situação de pobreza, a mulher vítima de violência, o jovem sem oportunidades, a pessoa idosa sem rede de cuidado, a pessoa com deficiência sem acessibilidade, a população em situação de rua, a família sem moradia ou o trabalhador desempregado não podem ser atendidos por políticas fragmentadas e desconectadas, pois suas necessidades atravessam diferentes políticas públicas. Por isso, o programa propõe a construção de um Sistema Estadual de Proteção Social, Cuidado e Inclusão, capaz de integrar assistência social, saúde, educação, trabalho, habitação, direitos humanos, segurança alimentar, políticas para mulheres, juventudes, pessoas com deficiência, população idosa, população em situação de rua e políticas sobre drogas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Depois de avanços importantes produzidos entre 2019 e 2026 em áreas como saúde, educação, segurança pública, mobilidade, cultura, assistência social, direitos humanos, emprego e renda, políticas para mulheres, proteção animal, entre outros campos, o desafio para o ciclo 2027–2030 é transformar conquistas setoriais em uma política integrada de proteção social, cuidado, oportunidade e acolhimento."
+            },
+            {
+              "id": "s23",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "A criança em situação de pobreza, a mulher vítima de violência, o jovem sem oportunidades, a pessoa idosa sem rede de cuidado, a pessoa com deficiência sem acessibilidade, a população em situação de rua, a família sem moradia ou o trabalhador desempregado não podem ser atendidos por políticas fragmentadas e desconectadas, pois suas necessidades atravessam diferentes políticas públicas. Por isso, o programa propõe a construção de um Sistema Estadual de Proteção Social, Cuidado e Inclusão, capaz de integrar assistência social, saúde, educação, trabalho, habitação, direitos humanos, segurança alimentar, políticas para mulheres, juventudes, pessoas com deficiência, população idosa, população em situação de rua e políticas sobre drogas."
+            },
+            {
+              "id": "s24",
+              "page_start": 41,
+              "page_end": 43,
+              "text": "Promover equidade e combater desigualdades Reduzir desigualdades sociais e territoriais e ampliar a igualdade de oportunidades, fortalecendo políticas de proteção às mulheres, de promoção da igualdade racial, de inclusão das pessoas com deficiência e de atenção às comunidades em situação de vulnerabilidade."
+            },
+            {
+              "id": "s25",
+              "page_start": 43,
+              "page_end": 43,
+              "text": "Os direitos humanos constituem um compromisso permanente do Estado Democrático de Direito e devem orientar todas as políticas públicas. Promover direitos humanos significa ampliar cidadania, fortalecer a democracia, proteger vidas, prevenir violências e garantir que todas as pessoas sejam tratadas com dignidade."
+            },
+            {
+              "id": "s26",
+              "page_start": 43,
+              "page_end": 44,
+              "text": "• Implementar o Plano Estadual de Educação em Direitos Humanos, em parceria com a Secretaria da Educação, universidades, escolas, serviços públicos e organizações da sociedade civil. • Desenvolver Programas Permanentes de Formação em Direitos Humanos para profissionais das áreas da saúde, educação, assistência social, segurança pública, sistema socioeducativo e administração pública."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 6,
+          "page_end": 25,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Porque eficiência na gestão pública é respeito ao esforço de quem trabalha e paga seus impostos. Diálogo, transparência e participação — manter uma administração aberta à sociedade, com transparência, escuta, participação social e cooperação com os diferentes setores.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Porque eficiência na gestão pública é respeito ao esforço de quem trabalha e paga seus impostos."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Diálogo, transparência e participação — manter uma administração aberta à sociedade, com transparência, escuta, participação social e cooperação com os diferentes setores."
+            },
+            {
+              "id": "s17",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Ao mesmo tempo, a gestão pública foi profundamente modernizada."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 34,
+          "page_end": 36,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "O Governo instituirá uma Política Estadual Permanente de Enfrentamento ao Crime Organizado, integrando inteligência, investigação, descapitalização financeira, recuperação de ativos e coordenação estratégica entre as instituições responsáveis pela segurança pública e pelo sistema de justiça. O Espírito Santo ampliará a integração operacional e o compartilhamento de informações de inteligência com a Polícia Federal, a Polícia Rodoviária Federal, a Agência Brasileira de Inteligência (ABIN) e as forças de segurança dos estados vizinhos e demais instituições do sistema de justiça criminal, fortalecendo operações conjuntas e ações integradas de combate à criminalidade.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "O Governo instituirá uma Política Estadual Permanente de Enfrentamento ao Crime Organizado, integrando inteligência, investigação, descapitalização financeira, recuperação de ativos e coordenação estratégica entre as instituições responsáveis pela segurança pública e pelo sistema de justiça. O Espírito Santo ampliará a integração operacional e o compartilhamento de informações de inteligência com a Polícia Federal, a Polícia Rodoviária Federal, a Agência Brasileira de Inteligência (ABIN) e as forças de segurança dos estados vizinhos e demais instituições do sistema de justiça criminal, fortalecendo operações conjuntas e ações integradas de combate à criminalidade."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "80002552682",
+      "state_code": "ES",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026ES80002552682_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002552682_01.pdf",
+      "sha256": "c1e92e41340af2f42a7d4d1945ca88a1664f5d603f21c91116b34381b78965d4",
+      "summary": "Desafios A educação capixaba enfrenta hoje um desaﬁo estrutural, já que apenas 8% dos estudantes do Ensino Médio atingem aprendizado adequado em Língua Portuguesa e Matemática, com déﬁcit ainda mais crítico nesta última disciplina. Esse quadro se agrava diante da desigualdade racial, que apresenta um hiato de 8,9 pontos percentuais entre estudantes pretos, pardos e indígenas e seus pares brancos e amarelos, e da desigualdade territorial, considerando que a taxa de conclusão do Ensino Médio no Estado (70%) permanece 10 pontos percentuais abaixo da média do Sudeste (80%). Diretrizes Estratégicas Para transformar o Espírito Santo em referência nacional em aprendizagem com equidade assegurando que toda criança tenha seu direito à aprendizagem garantido desde a primeira infância, todo jovem conclua a trajetória escolar com projeto de vida e toda escola seja um espaço seguro e acolhedor estabelecem-se as seguintes diretrizes: Faremos da alfabetização uma prioridade permanente da política educacional estadual, em colaboração com os municípios, fortalecendo o regime de colaboração para garantir a alfabetização e a aprendizagem com qualidade até o ﬁnal do 2º ano do Ensino Fundamental, envol A esses gargalos somam-se a perda de atratividade da carreira docente entre os jovens e o crescimento dos desaﬁos de saúde mental e violência no ambiente escolar. Fortalecer a formação continuada vinculada às necessidades reais das crianças e dos estudantes e às práticas das escolas, ampliar as condições de planejamento e colaboração entre os proﬁssionais e implementar ações de promoção da saúde mental e do bem-estar. Modernizar a estrutura administrativa, priorizando a atuação policial em atividades ﬁnalísticas, valorizar o proﬁssional de segurança pública e criar um programa de saúde mental dos servidores das forças policiais. Uma das estratégias mais eﬁcazes para garantir a segurança pública de forma sustentável é o investimento em educação. Desafios A despeito da retração no volume absoluto de homicídios obtido pelas forças policiais capixaba, tendência observada desde 2010, o estado enfrenta uma perda de competividade nacional no pilar de Segurança Pública do ranking do Centro de Lideranças Públicas (CLP), onde passou a ocupar a 23ª posição, sendo considerado um dos estados mais violentos do Brasil.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 11,
+          "page_end": 18,
+          "topics": [
+            "education"
+          ],
+          "summary": "Desafios A educação capixaba enfrenta hoje um desaﬁo estrutural, já que apenas 8% dos estudantes do Ensino Médio atingem aprendizado adequado em Língua Portuguesa e Matemática, com déﬁcit ainda mais crítico nesta última disciplina. Esse quadro se agrava diante da desigualdade racial, que apresenta um hiato de 8,9 pontos percentuais entre estudantes pretos, pardos e indígenas e seus pares brancos e amarelos, e da desigualdade territorial, considerando que a taxa de conclusão do Ensino Médio no Estado (70%) permanece 10 pontos percentuais abaixo da média do Sudeste (80%). Diretrizes Estratégicas Para transformar o Espírito Santo em referência nacional em aprendizagem com equidade assegurando que toda criança tenha seu direito à aprendizagem garantido desde a primeira infância, todo jovem conclua a trajetória escolar com projeto de vida e toda escola seja um espaço seguro e acolhedor estabelecem-se as seguintes diretrizes: Faremos da alfabetização uma prioridade permanente da política educacional estadual, em colaboração com os municípios, fortalecendo o regime de colaboração para garantir a alfabetização e a aprendizagem com qualidade até o ﬁnal do 2º ano do Ensino Fundamental, envol",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Em especial, em educação pública de qualidade em tempo integral."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Desafios A educação capixaba enfrenta hoje um desaﬁo estrutural, já que apenas 8% dos estudantes do Ensino Médio atingem aprendizado adequado em Língua Portuguesa e Matemática, com déﬁcit ainda mais crítico nesta última disciplina. Esse quadro se agrava diante da desigualdade racial, que apresenta um hiato de 8,9 pontos percentuais entre estudantes pretos, pardos e indígenas e seus pares brancos e amarelos, e da desigualdade territorial, considerando que a taxa de conclusão do Ensino Médio no Estado (70%) permanece 10 pontos percentuais abaixo da média do Sudeste (80%)."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Diretrizes Estratégicas Para transformar o Espírito Santo em referência nacional em aprendizagem com equidade assegurando que toda criança tenha seu direito à aprendizagem garantido desde a primeira infância, todo jovem conclua a trajetória escolar com projeto de vida e toda escola seja um espaço seguro e acolhedor estabelecem-se as seguintes diretrizes: Faremos da alfabetização uma prioridade permanente da política educacional estadual, em colaboração com os municípios, fortalecendo o regime de colaboração para garantir a alfabetização e a aprendizagem com qualidade até o ﬁnal do 2º ano do Ensino Fundamental, envolvendo suporte ao professor (avaliação da aprendizagem, materiais, jogos pedagógicos e formação continuada) e às equipes gestoras para a aprendizagem; apoio técnico-ﬁnanceiro e formação de alfabetizadores para os municípios; apoio aos municípios para ampliação da oferta de creche e pré-escola com foco nas famílias mais vulneráveis. Garantir que os jovens concluam o Ensino Médio com aprendizagem adequada, consolidando a implementação do “Novo Ensino Médio”; ampliar escolas com educação integral em tempo integral, com qualidade e intencionalidade pedagógica, priorizando ter"
+            },
+            {
+              "id": "s09",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "Integrar ensino médio, tecnologia e formação técnica às vocações econômicas regionais, com trilhas de formação como Programação, Energias Renováveis e Agrotech, ampliando a capacidade de adaptação às transformações do mundo do trabalho e aos desaﬁos das mudanças climáticas. Fortalecer parcerias com instituições de ensino superior, institutos de pesquisa e setor produtivo para o desenvolvimento de pesquisas e projetos envolvendo estudantes da rede estadual, com fornecimento de bolsas de estudo para estimular o engajamento e a iniciação cientíﬁca."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 13,
+          "page_end": 48,
+          "topics": [
+            "health"
+          ],
+          "summary": "A esses gargalos somam-se a perda de atratividade da carreira docente entre os jovens e o crescimento dos desaﬁos de saúde mental e violência no ambiente escolar. Fortalecer a formação continuada vinculada às necessidades reais das crianças e dos estudantes e às práticas das escolas, ampliar as condições de planejamento e colaboração entre os proﬁssionais e implementar ações de promoção da saúde mental e do bem-estar. Modernizar a estrutura administrativa, priorizando a atuação policial em atividades ﬁnalísticas, valorizar o proﬁssional de segurança pública e criar um programa de saúde mental dos servidores das forças policiais.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "A esses gargalos somam-se a perda de atratividade da carreira docente entre os jovens e o crescimento dos desaﬁos de saúde mental e violência no ambiente escolar."
+            },
+            {
+              "id": "s09",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "Fortalecer a formação continuada vinculada às necessidades reais das crianças e dos estudantes e às práticas das escolas, ampliar as condições de planejamento e colaboração entre os proﬁssionais e implementar ações de promoção da saúde mental e do bem-estar."
+            },
+            {
+              "id": "s10",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Modernizar a estrutura administrativa, priorizando a atuação policial em atividades ﬁnalísticas, valorizar o proﬁssional de segurança pública e criar um programa de saúde mental dos servidores das forças policiais."
+            },
+            {
+              "id": "s12",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "A cobertura insuﬁciente da Rede de Atenção Psicossocial (CAPS) e a ausência de equipes de saúde mental na Atenção Primária convivem com o crescimento de suicídios e sofrimento emocional entre jovens e trabalhadores."
+            },
+            {
+              "id": "s13",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Ampliar a Rede de Atenção Psicossocial com CAPS em 100% dos municípios-polo e equipes de saúde mental na Atenção Primária; instituir programa estadual de prevenção ao suicídio, saúde mental nas escolas, telepsicologia e cuidado emocional do trabalhador; aprimorar a política estadual de prevenção e cuidado em álcool, drogas e dependência química visando maior efetividade no acolhimento, tratamento e recuperação dos pacientes."
+            },
+            {
+              "id": "s16",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "proteger, desenvolver e incluir as pessoas, via empreendedorismo e mercado de trabalho, visando a conquista da autonomia e emancipação social; Implementar Moradia Primeiro com acompanhamento intensivo; ampliar documentação civil, atenção à saúde mental, qualiﬁcação proﬁssional ﬂexível para inclusão no mundo do trabalho e locação social/aluguel social; apoio técnico e instrumental aos municípios com integração setorial e federativa."
+            },
+            {
+              "id": "s28",
+              "page_start": 44,
+              "page_end": 46,
+              "text": "Isso passa também por saneamento básico de qualidade, com uma Cesan comprometida com o interesse público, e por centros históricos requaliﬁcados, que preservam a memória e a identidade de cada cidade capixaba, consolidando um modelo de desenvolvimento urbano que une o cuidado com a saúde pública à valorização da nossa cultura."
+            },
+            {
+              "id": "s29",
+              "page_start": 46,
+              "page_end": 48,
+              "text": "restauração da cobertura ﬂorestal com foco nas matas ciliares, mananciais e conectividade de fragmentos; e prestação de serviços ecossistêmicos; Fortalecer o apoio aos municípios para castração, vacinação, prevenção e controle de zoonoses, resgate, acolhimento temporário, adoção responsável e atendimento veterinário voltado especialmente a famílias em situação de vulnerabilidade, articulando meio ambiente, saúde pública e proteção animal; Fortalecer as ações estaduais visando a convivência harmoniosa entre animais domésticos e humanos, como regulamentação, ações educativas, atendimento de urgência e emergência e controle populacional."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 11,
+          "page_end": 49,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Uma das estratégias mais eﬁcazes para garantir a segurança pública de forma sustentável é o investimento em educação. Desafios A despeito da retração no volume absoluto de homicídios obtido pelas forças policiais capixaba, tendência observada desde 2010, o estado enfrenta uma perda de competividade nacional no pilar de Segurança Pública do ranking do Centro de Lideranças Públicas (CLP), onde passou a ocupar a 23ª posição, sendo considerado um dos estados mais violentos do Brasil. Fórum Brasileiro de Segurança Pública (Anuário 2025) | Instituto Sou da Paz (2023) | Ranking de Competitividade dos Estados (CLP, 2025).",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "A segurança pública é uma prioridade inquestionável. Uma das estratégias mais eﬁcazes para garantir a segurança pública de forma sustentável é o investimento em educação."
+            },
+            {
+              "id": "s10",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "1.2 Segurança Pública É TEMPO DE PROTEGER Paz é viver sem medo. Desafios A despeito da retração no volume absoluto de homicídios obtido pelas forças policiais capixaba, tendência observada desde 2010, o estado enfrenta uma perda de competividade nacional no pilar de Segurança Pública do ranking do Centro de Lideranças Públicas (CLP), onde passou a ocupar a 23ª posição, sendo considerado um dos estados mais violentos do Brasil."
+            },
+            {
+              "id": "s11",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Fórum Brasileiro de Segurança Pública (Anuário 2025) | Instituto Sou da Paz (2023) | Ranking de Competitividade dos Estados (CLP, 2025)."
+            },
+            {
+              "id": "s15",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "Estruturar agenda intersetorial de prevenção, identiﬁcação e atendimento a situações de violência sexual, abuso dentro de casa, exploração, desaparecimento, aliciamento digital, cyberbullying, automutilação e riscos no ambiente online, integrando escola, saúde, assistência social, Conselhos Tutelares e segurança pública."
+            },
+            {
+              "id": "s27",
+              "page_start": 42,
+              "page_end": 44,
+              "text": "Entre 2015 e 2024, o Espírito Santo registrou 1.191 desastres, sendo boa parte deles inundações e chuvas intensas responsáveis pela maioria dos óbitos, exigindo defesa civil fortalecida e planejamento de adaptação."
+            },
+            {
+              "id": "s29",
+              "page_start": 46,
+              "page_end": 48,
+              "text": "baixa integração de bases de dados e planejamento territorial; licenciamento burocrático; e gestão desigual das estruturas municipais. Integrar corpo de bombeiros, defesa civil, infraestrutura, drenagem e adaptação climática; implantar sistema integrado de monitoramento climático e hidrológico; Suporte às práticas de cidades sustentáveis e humanas, com obras preventivas à deslizamentos e enchentes e fomento a implantação de soluções baseadas na natureza."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "Criar protocolo permanente El Nino / La Nina e outros eventos relacionados a mudanças climáticas, com níveis de alerta e ações previamente deﬁnidas para agricultura, abastecimento de água, saúde, defesa civil, escolas, infraestrutura e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 9,
+          "page_end": 42,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Por isso, este programa parte da convicção de que crescimento econômico, inclusão social, cuidado ambiental e eﬁciência do Estado não são objetivos concorrentes, mas dimensões de um mesmo projeto de desenvolvimento, interdependentes e igualmente necessárias. proteger, desenvolver e incluir as pessoas, via empreendedorismo e mercado de trabalho, visando a conquista da autonomia e emancipação social; Implementar Moradia Primeiro com acompanhamento intensivo; ampliar documentação civil, atenção à saúde mental, qualiﬁcação proﬁssional ﬂexível para inclusão no mundo do trabalho e locação social/aluguel social; apoio técnico e instrumental aos municípios com integração setorial e federativa. O desenvolvimento econômico começa pela liberdade para empreender e com um ambiente de negócios ético e republicano.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Por isso, este programa parte da convicção de que crescimento econômico, inclusão social, cuidado ambiental e eﬁciência do Estado não são objetivos concorrentes, mas dimensões de um mesmo projeto de desenvolvimento, interdependentes e igualmente necessárias."
+            },
+            {
+              "id": "s16",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "proteger, desenvolver e incluir as pessoas, via empreendedorismo e mercado de trabalho, visando a conquista da autonomia e emancipação social; Implementar Moradia Primeiro com acompanhamento intensivo; ampliar documentação civil, atenção à saúde mental, qualiﬁcação proﬁssional ﬂexível para inclusão no mundo do trabalho e locação social/aluguel social; apoio técnico e instrumental aos municípios com integração setorial e federativa."
+            },
+            {
+              "id": "s20",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "O desenvolvimento econômico começa pela liberdade para empreender e com um ambiente de negócios ético e republicano."
+            },
+            {
+              "id": "s21",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Desafios O desenvolvimento econômico, com geração de emprego e renda, é a base sobre a qual se constroem as demais conquistas de um Estado."
+            },
+            {
+              "id": "s23",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Com forte vocação exportadora e grande relevância no interior capixaba, o setor impulsiona a geração de empregos e o desenvolvimento regional."
+            },
+            {
+              "id": "s24",
+              "page_start": 36,
+              "page_end": 38,
+              "text": "Valorizar o patrimônio material e imaterial, e levar turismo e cultura a todos os municípios do estado é o caminho para transformar nossos ativos naturais e culturais em desenvolvimento econômico e oportunidades de emprego e renda para os capixabas."
+            },
+            {
+              "id": "s26",
+              "page_start": 40,
+              "page_end": 42,
+              "text": "Desafios A modernização da infraestrutura de transportes e a eﬁciência da mobilidade urbana constituem pilares indispensáveis para o desenvolvimento econômico do Espírito Santo, atuando diretamente na atração de investimentos, na competitividade empresarial e na geração de emprego e renda."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 11,
+          "page_end": 49,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A insegurança alimentar, quando uma pessoa acorda de manhã sem saber se terá comida suﬁciente para si ou para seus ﬁlhos é uma dor que atravessa a alma. articulação intersetorial entre Educação, Saúde e Assistência Social e fortalecer a participação das famílias na construção dos percursos educacionais. Isto signiﬁca trabalhar com inteligência policial, câmeras, análise territorial, policiamento baseados em evidências, prevenção juvenil, combate ao crime organizado e integração com educação, assistência social e urbanismo.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "A insegurança alimentar, quando uma pessoa acorda de manhã sem saber se terá comida suﬁciente para si ou para seus ﬁlhos é uma dor que atravessa a alma."
+            },
+            {
+              "id": "s09",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "articulação intersetorial entre Educação, Saúde e Assistência Social e fortalecer a participação das famílias na construção dos percursos educacionais."
+            },
+            {
+              "id": "s10",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Isto signiﬁca trabalhar com inteligência policial, câmeras, análise territorial, policiamento baseados em evidências, prevenção juvenil, combate ao crime organizado e integração com educação, assistência social e urbanismo."
+            },
+            {
+              "id": "s11",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Mapear os crimes eletrônicos que vitimizam, sobretudo, a população vulnerável, como idosos e adolescentes; dotar as forças policiais de ferramentas e tecnologias capazes de identiﬁcar e coibir práticas delituosas por este meio; Estruturação do Centro de Combate aos Crimes Virtuais; realizar operações visando identiﬁcação, busca e captura dos elementos criminosos."
+            },
+            {
+              "id": "s12",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "A integração entre saúde, educação e assistência social é incipiente, com escolas sem suporte multiproﬁssional para bullying, violência e gravidez precoce."
+            },
+            {
+              "id": "s13",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Estruturar rede regional multiproﬁssional para diagnóstico precoce, acompanhamento e terapias de pessoas com TEA e deﬁciência intelectual, integrada à saúde, educação e assistência social; qualiﬁcar proﬁssionais; fortalecer a inclusão escolar; oferecer orientação e apoio às famílias e cuidadores; e organizar a transição para a vida adulta, a qualiﬁcação e a inclusão no trabalho. Implantar equipes multiproﬁssionais itinerantes (psicólogos, assistentes sociais, dentistas) nas escolas estaduais para atendimento psicológico e social, combate ao bullying e violência, prevenção da gravidez precoce, saúde bucal e atualização vacinal, integrando saúde, educação e assistência social."
+            },
+            {
+              "id": "s15",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "Na segurança alimentar, 13,5% dos domicílios enfrentam insegurança (3,5% moderada/ grave), com contingente ainda signiﬁcativo. Diretrizes Estratégicas Para consolidar um modelo de desenvolvimento social integrado, com o objetivo central de reduzir a pobreza e a extrema pobreza, orientado por dados e focalizado nas populações mais vulneráveis, estabelecem-se as seguintes diretrizes: Identiﬁcar famílias vulneráveis com Sistema de Triagem de Risco de Insegurança Alimentar (TRIA-SUAS); estruturar rede de Bancos de Alimentos e Cozinhas Solidárias; ampliar compras diretas da agricultura familiar; apoiar a criação de Restaurante Popular nos Municípios."
+            },
+            {
+              "id": "s16",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "Garantir o acesso a vagas de atendimento e emissão rápida de carteira de identidade para a população; Fontes de Referência: IBGE/PNAD – IJSN (segurança alimentar); MPES (população em situação de rua); dados institucionais da Secretaria de Mulheres e Observatório de Dados; Censo SUAS e registros setoriais."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "Criar protocolo permanente El Nino / La Nina e outros eventos relacionados a mudanças climáticas, com níveis de alerta e ações previamente deﬁnidas para agricultura, abastecimento de água, saúde, defesa civil, escolas, infraestrutura e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 42,
+          "page_end": 44,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Diante desse cenário, o Espírito Santo Sustentável assume como conceito central mobilizar e coordenar governo, municípios, setor privado e sociedade civil para acelerar a transição ecológica e a economia regenerativa, integrando meio ambiente, saneamento, habitação, infraestrutura urbana, resíduos sólidos e economia circular a uma estratégia única de desenvolvimento regional, urbano, rural e da economia do mar.",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 42,
+              "page_end": 44,
+              "text": "Diante desse cenário, o Espírito Santo Sustentável assume como conceito central mobilizar e coordenar governo, municípios, setor privado e sociedade civil para acelerar a transição ecológica e a economia regenerativa, integrando meio ambiente, saneamento, habitação, infraestrutura urbana, resíduos sólidos e economia circular a uma estratégia única de desenvolvimento regional, urbano, rural e da economia do mar."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 42,
+          "page_end": 48,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Diante desse cenário, o Espírito Santo Sustentável assume como conceito central mobilizar e coordenar governo, municípios, setor privado e sociedade civil para acelerar a transição ecológica e a economia regenerativa, integrando meio ambiente, saneamento, habitação, infraestrutura urbana, resíduos sólidos e economia circular a uma estratégia única de desenvolvimento regional, urbano, rural e da economia do mar. 3.2 Meio Ambiente e Sustentabilidade É TEMPO DE PRESERVAR Paz é cuidar da água, da terra, das riquezas naturais e da segurança das famílias diante dos desaﬁos ambientais. a economia verde abre novas frentes de ﬁnanciamento; modernização tecnológica com IA pode reduzir custos e acelerar processos.",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 42,
+              "page_end": 44,
+              "text": "Diante desse cenário, o Espírito Santo Sustentável assume como conceito central mobilizar e coordenar governo, municípios, setor privado e sociedade civil para acelerar a transição ecológica e a economia regenerativa, integrando meio ambiente, saneamento, habitação, infraestrutura urbana, resíduos sólidos e economia circular a uma estratégia única de desenvolvimento regional, urbano, rural e da economia do mar."
+            },
+            {
+              "id": "s29",
+              "page_start": 46,
+              "page_end": 48,
+              "text": "3.2 Meio Ambiente e Sustentabilidade É TEMPO DE PRESERVAR Paz é cuidar da água, da terra, das riquezas naturais e da segurança das famílias diante dos desaﬁos ambientais. a economia verde abre novas frentes de ﬁnanciamento; modernização tecnológica com IA pode reduzir custos e acelerar processos."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 24,
+          "page_end": 36,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Diretrizes Estratégicas Para consolidar um modelo de desenvolvimento social integrado, com o objetivo central de reduzir a pobreza e a extrema pobreza, orientado por dados e focalizado nas populações mais vulneráveis, estabelecem-se as seguintes diretrizes: Identiﬁcar famílias vulneráveis com Sistema de Triagem de Risco de Insegurança Alimentar (TRIA-SUAS); estruturar rede de Bancos de Alimentos e Cozinhas Solidárias; ampliar compras diretas da agricultura familiar; apoiar a criação de Restaurante Popular nos Municípios. Facilitar o Acesso ao crédito; Apoio à estruturação de cooperativas e associações; Ampliar e simpliﬁcar a compra de alimentos da Agricultura Familiar nas diversas secretarias do Governo (Educação, Saúde, Gestão, etc).",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "Diretrizes Estratégicas Para consolidar um modelo de desenvolvimento social integrado, com o objetivo central de reduzir a pobreza e a extrema pobreza, orientado por dados e focalizado nas populações mais vulneráveis, estabelecem-se as seguintes diretrizes: Identiﬁcar famílias vulneráveis com Sistema de Triagem de Risco de Insegurança Alimentar (TRIA-SUAS); estruturar rede de Bancos de Alimentos e Cozinhas Solidárias; ampliar compras diretas da agricultura familiar; apoiar a criação de Restaurante Popular nos Municípios."
+            },
+            {
+              "id": "s23",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Facilitar o Acesso ao crédito; Apoio à estruturação de cooperativas e associações; Ampliar e simpliﬁcar a compra de alimentos da Agricultura Familiar nas diversas secretarias do Governo (Educação, Saúde, Gestão, etc)."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 18,
+          "page_end": 42,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "expandir a rede atual de câmeras públicas e integrar câmeras privadas, com operação apoiada por inteligência artiﬁcial e capacidade de realizar reconhecimento de criminosos e veículos suspeitos em tempo real; integrar ao sistema o monitoramento de tornozeleiras eletrônicas, botões de pânico e outros dispositivos de segurança, permitindo a atuação antecipada e preventiva das forças policiais. O plano prioriza conectar a produção cientíﬁca às cadeias industriais e agroindustriais, estimulando a adoção de tecnologias emergentes, como Inteligência Artiﬁcial, Robótica, Biotecnologia e Internet das Coisas (IoT). fomentar o desenvolvimento de produtos e serviços com base tecnológica, em especial em tecnologias emergentes como Inteligência Artiﬁcial, Robótica, Biotecnologia e Internet das Coisas (IoT’s).",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "expandir a rede atual de câmeras públicas e integrar câmeras privadas, com operação apoiada por inteligência artiﬁcial e capacidade de realizar reconhecimento de criminosos e veículos suspeitos em tempo real; integrar ao sistema o monitoramento de tornozeleiras eletrônicas, botões de pânico e outros dispositivos de segurança, permitindo a atuação antecipada e preventiva das forças policiais."
+            },
+            {
+              "id": "s25",
+              "page_start": 38,
+              "page_end": 40,
+              "text": "O plano prioriza conectar a produção cientíﬁca às cadeias industriais e agroindustriais, estimulando a adoção de tecnologias emergentes, como Inteligência Artiﬁcial, Robótica, Biotecnologia e Internet das Coisas (IoT). fomentar o desenvolvimento de produtos e serviços com base tecnológica, em especial em tecnologias emergentes como Inteligência Artiﬁcial, Robótica, Biotecnologia e Internet das Coisas (IoT’s)."
+            },
+            {
+              "id": "s26",
+              "page_start": 40,
+              "page_end": 42,
+              "text": "Modernizar os terminais do Transcol, dotando-os de infraestrutura adequada para garantia de acessibilidade e conforto aos passageiros, tratando com respeito o usuário e cuidando de sua adequada manutenção; Trabalhar de forma coordenada com TODOS os municípios da Grande Vitória para a melhoria e integração do transporte coletivo, em seus diversos modais, como rodoviário, aquaviário e cicloviário; Avançar na modernização da infraestrutura para a mobilidade metropolitana; aperfeiçoar o monitoramento do transporte coletivo por indicadores de tempo de espera, frequência, lotação, pontualidade, segurança em pontos e terminais, utilizando inteligência artiﬁcial para melhorar o tempo e disponibilidade."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 36,
+          "page_end": 38,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "2.3 Turismo, Cultura e Economia Criativa É TEMPO DE VALORIZAR O QUE É NOSSO Paz também é pertencimento. Desafios O Espírito Santo tem 400 quilômetros de litoral, serras, cachoeiras, patrimônio cultural e uma culinária própria.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 36,
+              "page_end": 38,
+              "text": "2.3 Turismo, Cultura e Economia Criativa É TEMPO DE VALORIZAR O QUE É NOSSO Paz também é pertencimento. Desafios O Espírito Santo tem 400 quilômetros de litoral, serras, cachoeiras, patrimônio cultural e uma culinária própria."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Esse quadro se agrava diante da desigualdade racial, que apresenta um hiato de 8,9 pontos percentuais entre estudantes pretos, pardos e indígenas e seus pares brancos e amarelos, e da desigualdade territorial, considerando que a taxa de conclusão do Ensino Médio no Estado (70%) permanece 10 pontos percentuais abaixo da média do Sudeste (80%).",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Esse quadro se agrava diante da desigualdade racial, que apresenta um hiato de 8,9 pontos percentuais entre estudantes pretos, pardos e indígenas e seus pares brancos e amarelos, e da desigualdade territorial, considerando que a taxa de conclusão do Ensino Médio no Estado (70%) permanece 10 pontos percentuais abaixo da média do Sudeste (80%)."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 12,
+          "page_end": 34,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Colocar o cidadão no centro da gestão pública é unir o uso responsável dos recursos públicos com a empatia e sensibilidade aos problemas reais das pessoas. Posicionar o Espírito Santo como um destino seguro para a terceirização de serviços e produção próxima aos grandes mercados, como Rio de Janeiro, São Paulo, Bahia e Minas Gerais e do Centro-oeste; Consolidar a infraestrutura portuária como uma porta de entrada e saída eﬁciente, reduzindo os custos de transporte e logística; Prospectar parcerias com potências emergentes (como as do bloco BRICS) que buscam alternativas ao domínio das rotas comerciais tradicionais e novas bases de suprimento de alimentos e minerais estratégicos; Estabelecer programa de competitividade para empresas, com especialização inteligente em setores que o Espírito Santo tenha vantagens competitivas; Criar Sandbox regulatório para os setores deﬁnidos; promover o desenvolvimento do mercado de capitais privados; articular a atração de operações âncora com novo mecanismo adequado à reforma tributária; Reduzir o Custo Espírito Santo: Ações integradas para ampliar o respeito aos contratos; modernização legislativa para garantir a liberdade econômica; ampliar tran",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Colocar o cidadão no centro da gestão pública é unir o uso responsável dos recursos públicos com a empatia e sensibilidade aos problemas reais das pessoas."
+            },
+            {
+              "id": "s22",
+              "page_start": 32,
+              "page_end": 34,
+              "text": "Posicionar o Espírito Santo como um destino seguro para a terceirização de serviços e produção próxima aos grandes mercados, como Rio de Janeiro, São Paulo, Bahia e Minas Gerais e do Centro-oeste; Consolidar a infraestrutura portuária como uma porta de entrada e saída eﬁciente, reduzindo os custos de transporte e logística; Prospectar parcerias com potências emergentes (como as do bloco BRICS) que buscam alternativas ao domínio das rotas comerciais tradicionais e novas bases de suprimento de alimentos e minerais estratégicos; Estabelecer programa de competitividade para empresas, com especialização inteligente em setores que o Espírito Santo tenha vantagens competitivas; Criar Sandbox regulatório para os setores deﬁnidos; promover o desenvolvimento do mercado de capitais privados; articular a atração de operações âncora com novo mecanismo adequado à reforma tributária; Reduzir o Custo Espírito Santo: Ações integradas para ampliar o respeito aos contratos; modernização legislativa para garantir a liberdade econômica; ampliar transparência e fortalecer o combate a corrupção; aumentar a eﬁciência da máquina pública; trabalhar em conjunto com os municípios para a simpliﬁcação tributári"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 31,
+          "page_end": 49,
+          "topics": [
+            "energy"
+          ],
+          "summary": "O primeiro é a previsão de queda na produção de petróleo e gás natural, atividade que sustenta parte importante da arrecadação e atividade industrial no estado. Consolidar política para redução de emissões, atração de investimentos sustentáveis e transição energética; estruturar ambiente regulatório para Pagamento por Serviços Ambientais (PSA) e valorização da conservação ﬂorestal; integrar reﬂorestamento, recuperação de nascentes e agricultura regenerativa à geração de créditos e serviços ecossistêmicos.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "O primeiro é a previsão de queda na produção de petróleo e gás natural, atividade que sustenta parte importante da arrecadação e atividade industrial no estado."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 49,
+              "text": "Consolidar política para redução de emissões, atração de investimentos sustentáveis e transição energética; estruturar ambiente regulatório para Pagamento por Serviços Ambientais (PSA) e valorização da conservação ﬂorestal; integrar reﬂorestamento, recuperação de nascentes e agricultura regenerativa à geração de créditos e serviços ecossistêmicos."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

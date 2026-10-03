@@ -1,0 +1,2832 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "RS",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "210002533355",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002533355_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002533355_01.pdf",
+      "sha256": "63661f8ce376bac8b76e986ffe8a2031e25bf1ce078e137bb0686116b63637cc",
+      "summary": "​PROGRAMA DA UNIDADE POPULAR PELO SOCIALISMO (UP) PARA O GOVERNO DO​ ​ESTADO DO RIO GRANDE DO SUL (RS)​ ​A​ ​Unidade​ ​Popular​ ​(UP),​ ​o​ ​partido​ ​antifascista​ ​do​ ​Brasil,​ ​partido​ ​da​ ​esquerda​ ​revolucionária,​​legalmente​​existente​​a​​partir​​de​​dezembro​​de​​2019,​​disputará​​as​​eleições​ ​gerais de 2026, em todos os cargos no Rio Grande do Sul.​ ​A​​UP​​é​​construída​​por​​vários​​movimentos​​sociais,​​como​​o​​Movimento​​de​​Luta​​dos​ ​Bairros,​​Vilas​​e​​Favelas​​(MLB),​​o​​Movimento​​de​​Mulheres​​Olga​​Benario,​​o​​Movimento​​Luta​ ​de​ ​Classes​ ​(MLC),​ ​a​ ​Frente​ ​Negra​ ​Revolucionária​ ​(FNR),​ ​o​ ​Movimento​ ​Correnteza,​​que​ ​organiza​ ​os​ ​estudantes​ ​universitários,​ ​e​ ​o​ ​Movimento​ ​Rebele-se,​ ​que​ ​organiza​ ​os​ ​estudantes​ ​secundaristas,​ ​e​ ​a​ ​União​ ​da​ ​Juventude​ ​Rebelião​ ​(UJR),​ ​que​ ​organiza​ ​a​ ​juventude​ ​para​ ​lutar​ ​pelo​ ​socialismo.​ ​Logo,​ ​é​ ​composta​ ​de​ ​militantes​ ​de​ ​movimentos​ ​populares​ ​e​ ​de​ ​trabalhadores​ ​e​ ​trabalhadoras​ ​de​ ​grande​ ​atuação​ ​nas​ ​suas​ ​respectivas​ ​áreas​ ​e​ ​territórios.​ ​Seus​ ​candidatos​ ​são​ ​desses​​setores​​e​​representarão​​essas​​lutas​​nos​ ​se",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "​PROGRAMA DA UNIDADE POPULAR PELO SOCIALISMO (UP) PARA O GOVERNO DO​ ​ESTADO DO RIO GRANDE DO SUL (RS)​ ​A​ ​Unidade​ ​Popular​ ​(UP),​ ​o​ ​partido​ ​antifascista​ ​do​ ​Brasil,​ ​partido​ ​da​ ​esquerda​ ​revolucionária,​​legalmente​​existente​​a​​partir​​de​​dezembro​​de​​2019,​​disputará​​as​​eleições​ ​gerais de 2026, em todos os cargos no Rio Grande do Sul.​ ​A​​UP​​é​​construída​​por​​vários​​movimentos​​sociais,​​como​​o​​Movimento​​de​​Luta​​dos​ ​Bairros,​​Vilas​​e​​Favelas​​(MLB),​​o​​Movimento​​de​​Mulheres​​Olga​​Benario,​​o​​Movimento​​Luta​ ​de​ ​Classes​ ​(MLC),​ ​a​ ​Frente​ ​Negra​ ​Revolucionária​ ​(FNR),​ ​o​ ​Movimento​ ​Correnteza,​​que​ ​organiza​ ​os​ ​estudantes​ ​universitários,​ ​e​ ​o​ ​Movimento​ ​Rebele-se,​ ​que​ ​organiza​ ​os​ ​estudantes​ ​secundaristas,​ ​e​ ​a​ ​União​ ​da​ ​Juventude​ ​Rebelião​ ​(UJR),​ ​que​ ​organiza​ ​a​ ​juventude​ ​para​ ​lutar​ ​pelo​ ​socialismo.​ ​Logo,​ ​é​ ​composta​ ​de​ ​militantes​ ​de​ ​movimentos​ ​populares​ ​e​ ​de​ ​trabalhadores​ ​e​ ​trabalhadoras​ ​de​ ​grande​ ​atuação​ ​nas​ ​suas​ ​respectivas​ ​áreas​ ​e​ ​territórios.​ ​Seus​ ​candidatos​ ​são​ ​desses​​setores​​e​​representarão​​essas​​lutas​​nos​ ​se",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "​PROGRAMA DA UNIDADE POPULAR PELO SOCIALISMO (UP) PARA O GOVERNO DO​ ​ESTADO DO RIO GRANDE DO SUL (RS)​ ​A​ ​Unidade​ ​Popular​ ​(UP),​ ​o​ ​partido​ ​antifascista​ ​do​ ​Brasil,​ ​partido​ ​da​ ​esquerda​ ​revolucionária,​​legalmente​​existente​​a​​partir​​de​​dezembro​​de​​2019,​​disputará​​as​​eleições​ ​gerais de 2026, em todos os cargos no Rio Grande do Sul.​ ​A​​UP​​é​​construída​​por​​vários​​movimentos​​sociais,​​como​​o​​Movimento​​de​​Luta​​dos​ ​Bairros,​​Vilas​​e​​Favelas​​(MLB),​​o​​Movimento​​de​​Mulheres​​Olga​​Benario,​​o​​Movimento​​Luta​ ​de​ ​Classes​ ​(MLC),​ ​a​ ​Frente​ ​Negra​ ​Revolucionária​ ​(FNR),​ ​o​ ​Movimento​ ​Correnteza,​​que​ ​organiza​ ​os​ ​estudantes​ ​universitários,​ ​e​ ​o​ ​Movimento​ ​Rebele-se,​ ​que​ ​organiza​ ​os​ ​estudantes​ ​secundaristas,​ ​e​ ​a​ ​União​ ​da​ ​Juventude​ ​Rebelião​ ​(UJR),​ ​que​ ​organiza​ ​a​ ​juventude​ ​para​ ​lutar​ ​pelo​ ​socialismo.​ ​Logo,​ ​é​ ​composta​ ​de​ ​militantes​ ​de​ ​movimentos​ ​populares​ ​e​ ​de​ ​trabalhadores​ ​e​ ​trabalhadoras​ ​de​ ​grande​ ​atuação​ ​nas​ ​suas​ ​respectivas​ ​áreas​ ​e​ ​territórios.​ ​Seus​ ​candidatos​ ​são​ ​desses​​setores​​e​​representarão​​essas​​lutas​​nos​ ​se"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "​PROGRAMA DA UNIDADE POPULAR PELO SOCIALISMO (UP) PARA O GOVERNO DO​ ​ESTADO DO RIO GRANDE DO SUL (RS)​ ​A​ ​Unidade​ ​Popular​ ​(UP),​ ​o​ ​partido​ ​antifascista​ ​do​ ​Brasil,​ ​partido​ ​da​ ​esquerda​ ​revolucionária,​​legalmente​​existente​​a​​partir​​de​​dezembro​​de​​2019,​​disputará​​as​​eleições​ ​gerais de 2026, em todos os cargos no Rio Grande do Sul.​ ​A​​UP​​é​​construída​​por​​vários​​movimentos​​sociais,​​como​​o​​Movimento​​de​​Luta​​dos​ ​Bairros,​​Vilas​​e​​Favelas​​(MLB),​​o​​Movimento​​de​​Mulheres​​Olga​​Benario,​​o​​Movimento​​Luta​ ​de​ ​Classes​ ​(MLC),​ ​a​ ​Frente​ ​Negra​ ​Revolucionária​ ​(FNR),​ ​o​ ​Movimento​ ​Correnteza,​​que​ ​organiza​ ​os​ ​estudantes​ ​universitários,​ ​e​ ​o​ ​Movimento​ ​Rebele-se,​ ​que​ ​organiza​ ​os​ ​estudantes​ ​secundaristas,​ ​e​ ​a​ ​União​ ​da​ ​Juventude​ ​Rebelião​ ​(UJR),​ ​que​ ​organiza​ ​a​ ​juventude​ ​para​ ​lutar​ ​pelo​ ​socialismo.​ ​Logo,​ ​é​ ​composta​ ​de​ ​militantes​ ​de​ ​movimentos​ ​populares​ ​e​ ​de​ ​trabalhadores​ ​e​ ​trabalhadoras​ ​de​ ​grande​ ​atuação​ ​nas​ ​suas​ ​respectivas​ ​áreas​ ​e​ ​territórios.​ ​Seus​ ​candidatos​ ​são​ ​desses​​setores​​e​​representarão​​essas​​lutas​​nos​ ​se",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "​PROGRAMA DA UNIDADE POPULAR PELO SOCIALISMO (UP) PARA O GOVERNO DO​ ​ESTADO DO RIO GRANDE DO SUL (RS)​ ​A​ ​Unidade​ ​Popular​ ​(UP),​ ​o​ ​partido​ ​antifascista​ ​do​ ​Brasil,​ ​partido​ ​da​ ​esquerda​ ​revolucionária,​​legalmente​​existente​​a​​partir​​de​​dezembro​​de​​2019,​​disputará​​as​​eleições​ ​gerais de 2026, em todos os cargos no Rio Grande do Sul.​ ​A​​UP​​é​​construída​​por​​vários​​movimentos​​sociais,​​como​​o​​Movimento​​de​​Luta​​dos​ ​Bairros,​​Vilas​​e​​Favelas​​(MLB),​​o​​Movimento​​de​​Mulheres​​Olga​​Benario,​​o​​Movimento​​Luta​ ​de​ ​Classes​ ​(MLC),​ ​a​ ​Frente​ ​Negra​ ​Revolucionária​ ​(FNR),​ ​o​ ​Movimento​ ​Correnteza,​​que​ ​organiza​ ​os​ ​estudantes​ ​universitários,​ ​e​ ​o​ ​Movimento​ ​Rebele-se,​ ​que​ ​organiza​ ​os​ ​estudantes​ ​secundaristas,​ ​e​ ​a​ ​União​ ​da​ ​Juventude​ ​Rebelião​ ​(UJR),​ ​que​ ​organiza​ ​a​ ​juventude​ ​para​ ​lutar​ ​pelo​ ​socialismo.​ ​Logo,​ ​é​ ​composta​ ​de​ ​militantes​ ​de​ ​movimentos​ ​populares​ ​e​ ​de​ ​trabalhadores​ ​e​ ​trabalhadoras​ ​de​ ​grande​ ​atuação​ ​nas​ ​suas​ ​respectivas​ ​áreas​ ​e​ ​territórios.​ ​Seus​ ​candidatos​ ​são​ ​desses​​setores​​e​​representarão​​essas​​lutas​​nos​ ​se"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002535802",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002535802_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002535802_01.pdf",
+      "sha256": "1626de2fb57f28baebf4f3491a4d81a725b130cc84923155d7e3194ab3cf71f5",
+      "summary": "Nossa prioridade social estará concentrada na saúde, na educação básica, na formação profissional, na geração de emprego, na proteção das famílias e na redução das desigualdades regionais. Pessoas aguardam meses ou anos por atendimento médico. Será necessário manter presença permanente em Brasília para defender a renegociação da dívida, buscar recursos para a proteção contra enchentes, revisar valores do SUS, financiar infraestrutura, fortalecer a segurança pública e participar das decisões nacionais que afetam as famílias gaúchas. Que enfrente o crime organizado e a violência contra as mulheres. Segurança pública, inteligência e proteção das famílias — capítulo 20. Ao mesmo tempo, deverá disputar novos investimentos nacionais e internacionais, fortalecer cadeias produtivas regionais e transformar conhecimento científico em desenvolvimento econômico. O desenvolvimento econômico só faz sentido quando melhora a vida das pessoas. A responsabilidade fiscal não é um fim isolado, mas condição para garantir educação, saúde, segurança, infraestrutura e proteção social. Diagnóstico A administração estadual precisa combinar responsabilidade fiscal, capacidade de execução e coordenação entre órgãos. Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas matérias-primas regionais, avaliando custos, disponibilidade de insumos, segurança alimentar e impactos ambientais. Investiremos na modernização de empresas, digitalização de serviços, qualificação profissional, inovação industrial, biotecnologia, inteligência artificial, energias renováveis e integração entre universidades, centros de pesquisa e setor produtivo.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 5,
+          "page_end": 11,
+          "topics": [
+            "education"
+          ],
+          "summary": "Nossa prioridade social estará concentrada na saúde, na educação básica, na formação profissional, na geração de emprego, na proteção das famílias e na redução das desigualdades regionais.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 11,
+              "text": "Nossa prioridade social estará concentrada na saúde, na educação básica, na formação profissional, na geração de emprego, na proteção das famílias e na redução das desigualdades regionais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "health"
+          ],
+          "summary": "Pessoas aguardam meses ou anos por atendimento médico.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Pessoas aguardam meses ou anos por atendimento médico."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Será necessário manter presença permanente em Brasília para defender a renegociação da dívida, buscar recursos para a proteção contra enchentes, revisar valores do SUS, financiar infraestrutura, fortalecer a segurança pública e participar das decisões nacionais que afetam as famílias gaúchas. Que enfrente o crime organizado e a violência contra as mulheres. Segurança pública, inteligência e proteção das famílias — capítulo 20.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Será necessário manter presença permanente em Brasília para defender a renegociação da dívida, buscar recursos para a proteção contra enchentes, revisar valores do SUS, financiar infraestrutura, fortalecer a segurança pública e participar das decisões nacionais que afetam as famílias gaúchas."
+            },
+            {
+              "id": "s16",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Que enfrente o crime organizado e a violência contra as mulheres."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Segurança pública, inteligência e proteção das famílias — capítulo 20."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 5,
+          "page_end": 13,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Ao mesmo tempo, deverá disputar novos investimentos nacionais e internacionais, fortalecer cadeias produtivas regionais e transformar conhecimento científico em desenvolvimento econômico. O desenvolvimento econômico só faz sentido quando melhora a vida das pessoas. Nossa prioridade social estará concentrada na saúde, na educação básica, na formação profissional, na geração de emprego, na proteção das famílias e na redução das desigualdades regionais.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Ao mesmo tempo, deverá disputar novos investimentos nacionais e internacionais, fortalecer cadeias produtivas regionais e transformar conhecimento científico em desenvolvimento econômico."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 11,
+              "text": "O desenvolvimento econômico só faz sentido quando melhora a vida das pessoas. Nossa prioridade social estará concentrada na saúde, na educação básica, na formação profissional, na geração de emprego, na proteção das famílias e na redução das desigualdades regionais."
+            },
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Criar o Gabinete Especial de Desenvolvimento da Zona Sul, vinculada diretamente ao gabinete do governador. Elaborar um plano de diversificação econômica da Metade Sul com metas de investimento, emprego e renda."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "O desenvolvimento econômico será orientado por produtividade, inovação, sustentabilidade, agregação de valor e redução das desigualdades regionais. Desenvolvimento econômico e agronegócio — capítulos 6, 7, 8, 9, 10, 13 e 15."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 13,
+          "page_end": 16,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A responsabilidade fiscal não é um fim isolado, mas condição para garantir educação, saúde, segurança, infraestrutura e proteção social. Diagnóstico A administração estadual precisa combinar responsabilidade fiscal, capacidade de execução e coordenação entre órgãos. Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A responsabilidade fiscal não é um fim isolado, mas condição para garantir educação, saúde, segurança, infraestrutura e proteção social."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Diagnóstico A administração estadual precisa combinar responsabilidade fiscal, capacidade de execução e coordenação entre órgãos. Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas"
+            },
+            {
+              "id": "s28",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Diretrizes planejamento baseado em evidências e avaliação de impacto prioridade a resultados para o cidadão e redução de desigualdades cooperação entre Estado, municípios, União, sociedade e setor produtivo responsabilidade fiscal, transparência e integridade resiliência climática, inovação e sustentabilidade Propostas detalhadas"
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 11,
+          "page_end": 13,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "matérias-primas regionais, avaliando custos, disponibilidade de insumos, segurança alimentar e impactos ambientais. A responsabilidade fiscal não é um fim isolado, mas condição para garantir educação, saúde, segurança, infraestrutura e proteção social.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "matérias-primas regionais, avaliando custos, disponibilidade de insumos, segurança alimentar e impactos ambientais."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A responsabilidade fiscal não é um fim isolado, mas condição para garantir educação, saúde, segurança, infraestrutura e proteção social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Investiremos na modernização de empresas, digitalização de serviços, qualificação profissional, inovação industrial, biotecnologia, inteligência artificial, energias renováveis e integração entre universidades, centros de pesquisa e setor produtivo.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Investiremos na modernização de empresas, digitalização de serviços, qualificação profissional, inovação industrial, biotecnologia, inteligência artificial, energias renováveis e integração entre universidades, centros de pesquisa e setor produtivo."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Avaliar oportunidades relacionadas a petróleo e gás dentro das competências estaduais e das regras federais, sem comprometer a transição energética.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Avaliar oportunidades relacionadas a petróleo e gás dentro das competências estaduais e das regras federais, sem comprometer a transição energética."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002541367",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002541367_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002541367_01.pdf",
+      "sha256": "8fade2d2856fcc33e029fa58c39b71410580e83d2ffaf1c3e88dfd50fde0d3da",
+      "summary": "Os governos neoliberais avançaram no desmonte das escolas públicas, transferindo a gestão para as Organizações Sociais (OSs) e impulsionando as plataformas de aprendizagem. Os grandes grupos empresariais da educação avançam hoje sobre a educação básica. Escola única, pública, gratuita e de qualidade para todos, em todos os níveis do fundamental às universidades. SUS 100% público e estatal, exigindo ampliação dos investimentos pelo governos federal e prioridade para a atenção básica. A mesma Constituição decidiu pela criação de um Sistema Único de Saúde (SUS) e a Emenda Constitucional nº 29, aprovada em 2000, definiu o percentual mínimo de investimento em saúde para a União, para os estados (12% das receitas) e municípios (15% das receitas), além de outras fontes. A Defesa Civil não previa que se ultrapassaria a cota de inundação. O coordenador da Defesa Civil assumiu que “Os modelos hidrológicos subestimaram a resposta dos rios. Rejeitamos qualquer forma de machismo, racismo, LGBTIfobia, xenofobia e a violência policial direcionada à juventude negra. Duplicar o salário dos servidores, rumo ao salário mínimo do DIEESE (hoje em R$ 8.110,92). Houve, então, a criação do BRDE, a criação do Conselho de Desenvolvimento do Extremo Sul (Codesul), a elevação de recursos derivados do então Banco Nacional de Desenvolvimento Econômico (BNDE). Em síntese, as exportações do Rio Grande do Sul, especialmente no setor agrícola e de transformação, são prejudicadas devido à dependência de insumos importados e à alta sensibilidade às variações de câmbio, às variações na taxa de câmbio, às crises externas e à perda de dinamismo da economia brasileira, em comparação com as indústrias dos outros estados da região. Nem RRF, nem Propag – cancelamento da dívida pública do estado com a União. Ademais, esse projeto reproduz, no âmbito dos estados, as restrições do arcabouço fiscal, que privilegia o pagamento dos gastos com a chamada dívida pública. Josué Martins, Auditor Tribunal de Contas do RS, que faz parte da campanha, afirma que a questão da dívida pública não é apenas uma questão técnica ou uma questão econômica, é uma questão também política. Conservação e manutenção predial, Conectividade e infraestrutura digital, Higiene, limpeza e jardinagem, Segurança e vigilância, Gestão de resíduos sólidos e Fornecimento de mobiliário e equipamentos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 51,
+          "page_end": 72,
+          "topics": [
+            "education"
+          ],
+          "summary": "Os governos neoliberais avançaram no desmonte das escolas públicas, transferindo a gestão para as Organizações Sociais (OSs) e impulsionando as plataformas de aprendizagem. Os grandes grupos empresariais da educação avançam hoje sobre a educação básica. Escola única, pública, gratuita e de qualidade para todos, em todos os níveis do fundamental às universidades.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 51,
+              "page_end": 51,
+              "text": "Os governos neoliberais avançaram no desmonte das escolas públicas, transferindo a gestão para as Organizações Sociais (OSs) e impulsionando as plataformas de aprendizagem. Os grandes grupos empresariais da educação avançam hoje sobre a educação básica."
+            },
+            {
+              "id": "s22",
+              "page_start": 51,
+              "page_end": 53,
+              "text": "retração de 14% no ensino médio e 48,5% na EJA. •​ A evasão escolar aumentou, especialmente no ensino médio."
+            },
+            {
+              "id": "s23",
+              "page_start": 53,
+              "page_end": 55,
+              "text": "Escola única, pública, gratuita e de qualidade para todos, em todos os níveis do fundamental às universidades. Universalização do acesso à escola, com ampliação de vagas em creches e escolas públicas."
+            },
+            {
+              "id": "s30",
+              "page_start": 61,
+              "page_end": 65,
+              "text": "A aliança operário-estudantil, por exemplo, busca que estudantes, professores e trabalhadores da educação unifiquem suas lutas parciais por melhores condições de ensino para os primeiros e de trabalho para os últimos em uma única luta em defesa da educação pública, por mais investimentos e contra os cortes orçamentários, reunindo e combinando as forças das três categorias da comunidade escolar/acadêmica. O Censo escolar 2025 apontou uma redução de 38,4 mil matrículas na educação básica do RS."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "No acesso à educação, somente 16% da população negra consegue ingressar no ensino superior, em comparação com 31% da população branca. Essa diferença permanece até mesmo entre pretos e pardos com ensino superior completo, demonstrando que o acesso à escolaridade, embora fundamental, não elimina os efeitos do racismo no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 72,
+          "topics": [
+            "health"
+          ],
+          "summary": "SUS 100% público e estatal, exigindo ampliação dos investimentos pelo governos federal e prioridade para a atenção básica. A mesma Constituição decidiu pela criação de um Sistema Único de Saúde (SUS) e a Emenda Constitucional nº 29, aprovada em 2000, definiu o percentual mínimo de investimento em saúde para a União, para os estados (12% das receitas) e municípios (15% das receitas), além de outras fontes. •​ As Unidades Básicas de Saúde (UBS): Compõem o atendimento primário.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "SUS 100% público e estatal, exigindo ampliação dos investimentos pelo governos federal e prioridade para a atenção básica."
+            },
+            {
+              "id": "s10",
+              "page_start": 30,
+              "page_end": 35,
+              "text": "Tudo isto impacta na saúde mental dos gaúchos."
+            },
+            {
+              "id": "s13",
+              "page_start": 43,
+              "page_end": 44,
+              "text": "A mesma Constituição decidiu pela criação de um Sistema Único de Saúde (SUS) e a Emenda Constitucional nº 29, aprovada em 2000, definiu o percentual mínimo de investimento em saúde para a União, para os estados (12% das receitas) e municípios (15% das receitas), além de outras fontes. •​ As Unidades Básicas de Saúde (UBS): Compõem o atendimento primário."
+            },
+            {
+              "id": "s14",
+              "page_start": 44,
+              "page_end": 44,
+              "text": "Em 2022 foi aprovada no Congresso Nacional a Lei nº 14.434 que estabelece o piso salarial nacional dos profissionais de enfermagem fixados nos seguintes valores: Categoria Piso salarial Jornada Enfermeiros"
+            },
+            {
+              "id": "s16",
+              "page_start": 44,
+              "page_end": 46,
+              "text": "estados, distrito federal e municípios para pagamento do piso nos hospitais públicos e também privados e filantrópicos, que atendam no mínimo 60% dos pacientes pelo SUS. Ainda que UBSs, equipes de Saúde da Família e grande parte dos CAPS sejam administrados pelos municípios, cabe ao estado organizar e financiar a rede regional, manter hospitais e serviços especializados, apoiar técnica e financeiramente as prefeituras e garantir que o acesso a consultas, exames e tratamentos não dependa do município onde a pessoa vive."
+            },
+            {
+              "id": "s17",
+              "page_start": 46,
+              "page_end": 46,
+              "text": "UPA EM PORTO ALEGRE MÉDICOS, MÉDICAS: 37.368 ENFERMEIROS E ENFERMEIRAS: 40.000 TÉCNICOS DE ENFERMAGEM: 90.000 AUXILIARES: 20.000"
+            },
+            {
+              "id": "s18",
+              "page_start": 46,
+              "page_end": 47,
+              "text": "O Rio Grande do Sul possui 379 estabelecimentos hospitalares, dispondo de 23.000 leitos (2,7/1000), sendo 337 privados ou filantrópicos e somente 41 hospitais públicos, assim distribuídos: Porto Alegre: 38 (6.708 leitos) Caxias do Sul: 11 (1.352 leitos) Santa Maria: 9 (1.100 leitos) Pelotas: 8 (1.035 leitos) Canoas: 4 (1.000 leitos) Na maioria das cidades do Rio Grande do Sul a única forma de atendimento são as unidades e postos de saúde."
+            },
+            {
+              "id": "s19",
+              "page_start": 47,
+              "page_end": 48,
+              "text": "O Sistema de Assistência à Saúde dos Servidores Públicos do Estado do Rio Grande do Sul, seus dependentes e pensionistas denomina-se IPE Saúde. O IPE é um sistema de assistência à saúde regido por leis estaduais específicas e, por isso, não está sujeito a normas da Agência Nacional de Saúde Suplementar (ANS)."
+            },
+            {
+              "id": "s20",
+              "page_start": 48,
+              "page_end": 51,
+              "text": "Se a saúde pública enfrenta muitos problemas, as empresas privadas e os planos de saúde vão muito bem. •​ Apoio técnico e financeiro do Estado aos municípios para ampliar UBSs, equipes de Saúde da Família, CAPS, residências terapêuticas, saúde bucal e vacinação."
+            },
+            {
+              "id": "s29",
+              "page_start": 60,
+              "page_end": 61,
+              "text": "O uso de drogas deve ser tratado como caso de saúde pública e não de polícia."
+            },
+            {
+              "id": "s30",
+              "page_start": 61,
+              "page_end": 65,
+              "text": "Segundo um estudo da FIOCRUZ de 2025, a população jovem é a que mais sofre internações relacionadas a problemas de saúde mental no Brasil e é também a que menos busca atendimento na Atenção Primária à Saúde (APS). Homens de 15 a 29 anos representam 61,3% das internações por motivos de saúde mental."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "É obrigação do Estado garantir atendimento de saúde independentemente das circunstâncias em que ocorreu a interrupção da gravidez. Embora o Sistema Único de Saúde possua políticas e normativas específicas para o cuidado da população negra, nem mesmo medidas básicas, como o preenchimento adequado do quesito raça/cor em prontuários e formulários, são garantidas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 30,
+          "page_end": 65,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A Defesa Civil não previa que se ultrapassaria a cota de inundação. O coordenador da Defesa Civil assumiu que “Os modelos hidrológicos subestimaram a resposta dos rios. Rejeitamos qualquer forma de machismo, racismo, LGBTIfobia, xenofobia e a violência policial direcionada à juventude negra.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 30,
+              "page_end": 35,
+              "text": "A Defesa Civil não previa que se ultrapassaria a cota de inundação. O coordenador da Defesa Civil assumiu que “Os modelos hidrológicos subestimaram a resposta dos rios."
+            },
+            {
+              "id": "s23",
+              "page_start": 53,
+              "page_end": 55,
+              "text": "Rejeitamos qualquer forma de machismo, racismo, LGBTIfobia, xenofobia e a violência policial direcionada à juventude negra."
+            },
+            {
+              "id": "s24",
+              "page_start": 55,
+              "page_end": 57,
+              "text": "Além desses crimes individuais ou de grupos, cresceu exponencialmente nos últimos anos o crime organizado, muito ligado ao tráfico de drogas, e também as milícias que surgiram prometendo a segurança não oferecida pelo Estado e tornaram-se verdadeiras organizações criminosas, exercendo poder policial paralelo, extorquindo os moradores das comunidades pobres do país. Antes de apresentar proposta para resolver problemas da segurança pública no Brasil e em nosso estado, é preciso definir o real papel das forças de segurança pública, as Polícias ou Brigadas Militares."
+            },
+            {
+              "id": "s25",
+              "page_start": 57,
+              "page_end": 58,
+              "text": "O combate ao crime organizado e ao tráfico de drogas tem servido de pretexto para um verdadeiro genocídio que se comete contra os pobres, especialmente a população negra do país. O assassinato chocou e revoltou todo o país e a explosão social contra esse tipo de crime se tornou um dos temores daqueles que governam e controlam a segurança pública."
+            },
+            {
+              "id": "s26",
+              "page_start": 58,
+              "page_end": 58,
+              "text": "A atuação violenta das polícias militares é justificada em face da necessidade da segurança pública."
+            },
+            {
+              "id": "s27",
+              "page_start": 58,
+              "page_end": 59,
+              "text": "Essas devem ser as prioridades de um programa de segurança pública e não a defesa da propriedade privada dos meios de produção, reprimindo os movimentos sociais. Além de decidir as ações os trabalhadores e moradores das comunidades devem ter o direito de construir os seus próprios comitês para se defender do crime organizado, das milícias e da própria violência policial."
+            },
+            {
+              "id": "s28",
+              "page_start": 59,
+              "page_end": 60,
+              "text": "No Brasil o conjunto de forças de segurança pública e privadas envolvem milhões de pessoas. Se a segurança pública é garantida pelo Estado, assegurando ao sistema capitalista que não haja questionamento ao seu normal funcionamento, a segurança privada transformou-se num negócio lucrativo no país."
+            },
+            {
+              "id": "s29",
+              "page_start": 60,
+              "page_end": 61,
+              "text": "A descriminalização serve também para combater o crime organizado. •​ Os trabalhadores e a população têm o direito de criar seus próprios comitês para se defender do crime organizado, da violência policial e para proteger suas organizações."
+            },
+            {
+              "id": "s30",
+              "page_start": 61,
+              "page_end": 65,
+              "text": "O racismo e a violência policial vitimam os jovens negros das periferias. De acordo com o atlas de segurança pública de 2026, a taxa de letalidade de jovens no estado é de 30,6 para cada 100 mil habitantes."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 7,
+          "page_end": 72,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Duplicar o salário dos servidores, rumo ao salário mínimo do DIEESE (hoje em R$ 8.110,92). Houve, então, a criação do BRDE, a criação do Conselho de Desenvolvimento do Extremo Sul (Codesul), a elevação de recursos derivados do então Banco Nacional de Desenvolvimento Econômico (BNDE). Em síntese, as exportações do Rio Grande do Sul, especialmente no setor agrícola e de transformação, são prejudicadas devido à dependência de insumos importados e à alta sensibilidade às variações de câmbio, às variações na taxa de câmbio, às crises externas e à perda de dinamismo da economia brasileira, em comparação com as indústrias dos outros estados da região.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Duplicar o salário dos servidores, rumo ao salário mínimo do DIEESE (hoje em R$ 8.110,92)."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 17,
+              "text": "Houve, então, a criação do BRDE, a criação do Conselho de Desenvolvimento do Extremo Sul (Codesul), a elevação de recursos derivados do então Banco Nacional de Desenvolvimento Econômico (BNDE). Em síntese, as exportações do Rio Grande do Sul, especialmente no setor agrícola e de transformação, são prejudicadas devido à dependência de insumos importados e à alta sensibilidade às variações de câmbio, às variações na taxa de câmbio, às crises externas e à perda de dinamismo da economia brasileira, em comparação com as indústrias dos outros estados da região."
+            },
+            {
+              "id": "s04",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Nas últimas décadas a participação do agronegócio empresarial na economia brasileira tem crescido substancialmente, com a estimativa de ter atingido 25,13% do PIB nacional em 2025. Tampouco a geração de empregos corresponde ao crescimento ou a participação do setor no Produto Interno Bruto do país."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Estudos divulgados pelo próprio IPEA confirmam que as renúncias fiscais não têm se refletido no crescimento econômico do RS."
+            },
+            {
+              "id": "s09",
+              "page_start": 25,
+              "page_end": 30,
+              "text": "Neste caso sequer conseguem vir com a desculpa de geração de empregos, pois os pedágios das rodovias privatizadas serão todos no sistema de free flow."
+            },
+            {
+              "id": "s12",
+              "page_start": 38,
+              "page_end": 43,
+              "text": "Esse subsídio é concedido através da Conta de Desenvolvimento Econômico (CDE), paga por todos os consumidores brasileiros por meio da conta de luz."
+            },
+            {
+              "id": "s30",
+              "page_start": 61,
+              "page_end": 65,
+              "text": "Por outro lado, em virtude da precarização tanto da educação quanto do mercado de trabalho promovidas pelos governos em conformidade com as exigências do capitalismo decadente brasileiro, hoje o número de jovens que acumulam uma rotina de trabalho e estudos é maior que no passado. desde cedo precisam ganhar a vida no mercado de trabalho e complementar a renda escassa de suas famílias."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "Essa diferença permanece até mesmo entre pretos e pardos com ensino superior completo, demonstrando que o acesso à escolaridade, embora fundamental, não elimina os efeitos do racismo no mercado de trabalho. Emprego e renda e divisão sexual do trabalho Segundo pesquisa do Instituto Brasileiro de Economia da Fundação Getúlio Vargas, baseado em dados da Pesquisa Nacional por Amostra de Domicílios Contínua, a taxa de participação feminina no mercado de trabalho está estagnada em 53% e não avança há seis anos."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 7,
+          "page_end": 25,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Nem RRF, nem Propag – cancelamento da dívida pública do estado com a União. Ademais, esse projeto reproduz, no âmbito dos estados, as restrições do arcabouço fiscal, que privilegia o pagamento dos gastos com a chamada dívida pública. Josué Martins, Auditor Tribunal de Contas do RS, que faz parte da campanha, afirma que a questão da dívida pública não é apenas uma questão técnica ou uma questão econômica, é uma questão também política.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Nem RRF, nem Propag – cancelamento da dívida pública do estado com a União."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Ademais, esse projeto reproduz, no âmbito dos estados, as restrições do arcabouço fiscal, que privilegia o pagamento dos gastos com a chamada dívida pública. Josué Martins, Auditor Tribunal de Contas do RS, que faz parte da campanha, afirma que a questão da dívida pública não é apenas uma questão técnica ou uma questão econômica, é uma questão também política."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 72,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "•​ 200 mil trabalhadores rurais formalizados com uma renda média de R$ 2.093,00 por mês para uma jornada de 44 horas; •​ 870 mil trabalhadores na indústria com uma renda média de R$ 3.833,80 por mês, abaixo da média nacional porque a indústria de alimentos (que é expressiva em nosso estado) tem uma produtividade bem menor que a metalmecânica. Em síntese, a combinação de desindustrialização, centralidade do agronegócio, com expansão de formas precárias de trabalho, o avanço da terceirização, das plataformas e aplicativos que transferem custos de produção e riscos aos trabalhadores são a base do empobrecimento crescente da população; por isso, a redução da taxa oficial de desemprego não significa o fim da precarização: milhões continuam submetidos à informalidade, à instabilidade, a baixos salários e à ausência de proteção social. Os preços dos alimentos dispararam e a insegurança alimentar cresce.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 17,
+              "text": "•​ 200 mil trabalhadores rurais formalizados com uma renda média de R$ 2.093,00 por mês para uma jornada de 44 horas; •​ 870 mil trabalhadores na indústria com uma renda média de R$ 3.833,80 por mês, abaixo da média nacional porque a indústria de alimentos (que é expressiva em nosso estado) tem uma produtividade bem menor que a metalmecânica. Em síntese, a combinação de desindustrialização, centralidade do agronegócio, com expansão de formas precárias de trabalho, o avanço da terceirização, das plataformas e aplicativos que transferem custos de produção e riscos aos trabalhadores são a base do empobrecimento crescente da população; por isso, a redução da taxa oficial de desemprego não significa o fim da precarização: milhões continuam submetidos à informalidade, à instabilidade, a baixos salários e à ausência de proteção social."
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Os preços dos alimentos dispararam e a insegurança alimentar cresce."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "A chamada “Marcha pelo Lugar da Mulher”, realizada em São Paulo em 31 de maio, reflete um conjunto de articulações políticas que buscam produzir desconfiança em relação à presença de mulheres trans em espaços públicos, tensionar sua circulação na cidade e promover retrocessos no campo dos direitos e das políticas de cidadania e proteção social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 53,
+          "page_end": 55,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Conservação e manutenção predial, Conectividade e infraestrutura digital, Higiene, limpeza e jardinagem, Segurança e vigilância, Gestão de resíduos sólidos e Fornecimento de mobiliário e equipamentos.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 53,
+              "page_end": 55,
+              "text": "Conservação e manutenção predial, Conectividade e infraestrutura digital, Higiene, limpeza e jardinagem, Segurança e vigilância, Gestão de resíduos sólidos e Fornecimento de mobiliário e equipamentos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 7,
+          "page_end": 65,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Reversão da Lei Estadual nº 15.434, que revogou o Código de Meio Ambiente até então vigente e artigos do Código Florestal Estadual. Garantir emprego, salário, terra, serviços públicos, direitos, defesa do meio ambiente e melhores condições de vida exige reindustrialização do estado e soberania, um volume de recursos e de investimentos que entra em choque com a forma atual de organização da economia brasileira. •​ Prioridade à produção de alimentos da cesta básica, com apoio à diversificação agrícola e alimentar voltada ao abastecimento interno, livre de transgênicos e agrotóxicos, preservando a saúde da população e o meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Reversão da Lei Estadual nº 15.434, que revogou o Código de Meio Ambiente até então vigente e artigos do Código Florestal Estadual."
+            },
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 17,
+              "text": "Garantir emprego, salário, terra, serviços públicos, direitos, defesa do meio ambiente e melhores condições de vida exige reindustrialização do estado e soberania, um volume de recursos e de investimentos que entra em choque com a forma atual de organização da economia brasileira."
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "•​ Prioridade à produção de alimentos da cesta básica, com apoio à diversificação agrícola e alimentar voltada ao abastecimento interno, livre de transgênicos e agrotóxicos, preservando a saúde da população e o meio ambiente."
+            },
+            {
+              "id": "s11",
+              "page_start": 35,
+              "page_end": 38,
+              "text": "Nosso programa afirma que qualquer compromisso com a defesa do meio ambiente e do pampa só é real se questionar este sistema capitalista, que ameaça a própria sobrevivência da humanidade devido ao seu avanço, mercantilização e financeirização da natureza. No âmbito estadual, a principal legislação para promover a defesa do meio ambiente é o Código Estadual do Meio Ambiente."
+            },
+            {
+              "id": "s12",
+              "page_start": 38,
+              "page_end": 43,
+              "text": "A construtora paulista DTA Engenharia já apresentou ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) os estudos necessários para iniciar a obra, tendo sido realizadas audiências públicas em Arroio do Sal, Três Cachoeiras e Porto Alegre dentro do processo de licenciamento ambiental onde o Movimento Unificado em Defesa do Litoral Norte, através de seus técnicos apresentou diversos questionamentos ao projeto. A partir da análise das alterações feitas na nossa legislação ambiental e os grandes empreendimentos capitalistas predatórios que querem se instalar aqui no estado, propomos: •​ Revisão do Código Estadual do Meio Ambiente com um amplo debate popular e com participação das entidades ambientalistas."
+            },
+            {
+              "id": "s30",
+              "page_start": 61,
+              "page_end": 65,
+              "text": "Entendemos que todos os problemas que assolam a juventude gaúcha são manifestações particulares de problemas gerais que afetam a classe trabalhadora de conjunto – trabalho, saúde, educação, meio ambiente, cultura e lazer. •​ Medidas concretas de preservação do meio ambiente e prevenção de novas catástrofes ambientais (apresentadas no tópico sobre meio ambiente)."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 7,
+          "page_end": 72,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Direcionar, para a agricultura familiar, as terras que não produzem e as grandes propriedades ocupadas pelas monoculturas de soja, fumo e criação de gado, a fim de produzir comida barata para o mercado interno. Lutar pelo redirecionamento dos recursos do plano safra que hoje vai para os agrobilionários – que subsidie a pequena agricultura familiar. Para se ter uma ideia, no Plano safra 2025/2026 divulgado foram anunciados R$ 516,2 bilhões para agricultura empresarial e R$ 89 bilhões para agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "Direcionar, para a agricultura familiar, as terras que não produzem e as grandes propriedades ocupadas pelas monoculturas de soja, fumo e criação de gado, a fim de produzir comida barata para o mercado interno. Lutar pelo redirecionamento dos recursos do plano safra que hoje vai para os agrobilionários – que subsidie a pequena agricultura familiar."
+            },
+            {
+              "id": "s04",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Para se ter uma ideia, no Plano safra 2025/2026 divulgado foram anunciados R$ 516,2 bilhões para agricultura empresarial e R$ 89 bilhões para agricultura familiar."
+            },
+            {
+              "id": "s06",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "É a agricultura familiar, voltada para o mercado interno, que fornece os alimentos consumidos pelos gaúchos. Mas a agricultura familiar ou as pequenas propriedades em geral, não conseguem competir em lucratividade e em investimentos com o agronegócio empresarial."
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Quem acaba fornecendo os alimentos que direta ou indiretamente alimentam os gaúchos são os pequenos produtores, ligados à agricultura familiar. A reforma agrária continua uma necessidade essencial para redistribuir as terras e acabar com o processo de concentração nas mãos do latifúndio."
+            },
+            {
+              "id": "s12",
+              "page_start": 38,
+              "page_end": 43,
+              "text": "Segundo a Aneel, os subsídios para a exploração foram de cerca de R$ 1,2 bilhão em 2025 (em torno de 238 milhões de dólares), recursos que poderiam ter sido utilizados no incentivo à outras alternativas econômicas e de reconversão dos trabalhadores do setor carvoeiro, como a agroecologia, já que existem muitos assentamentos de reforma agrária em Candiota."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "Taxação progressiva e expropriação das grandes fortunas de famílias herdeiras do escravismo gaúcho, direcionando esses recursos para o financiamento da agricultura familiar, indígena e quilombola."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 43,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Criar um polo estadual de tecnologia, semicondutores e inteligência artificial 100% público, vinculado às universidades públicas. Data Centers Assim como no caso da exploração das terras raras, o debate sobre a implantação de data centers no Brasil e em nosso estado, deve envolver todo um debate sobre o avanço inteligência artificial e de como não nos inserir de forma subordinada, mas soberana, nas principais cadeias de valor que emergiram nas últimas décadas, que concentram tecnologia, escala e o controle efetivo das cadeias globais de produção – indústria digital, semicondutores, eletrônicos de ponta, inteligência artificial, biotecnologia e novos materiais. A Scala AI City (Cidade da Inteligência Artificial) seria o maior complexo de data centers da América do Sul, com um investimento bilionário (estimados em até US$ 300 bilhões a longo prazo), dedicando-se ao treinamento de modelos de inteligência artificial.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Criar um polo estadual de tecnologia, semicondutores e inteligência artificial 100% público, vinculado às universidades públicas."
+            },
+            {
+              "id": "s12",
+              "page_start": 38,
+              "page_end": 43,
+              "text": "Data Centers Assim como no caso da exploração das terras raras, o debate sobre a implantação de data centers no Brasil e em nosso estado, deve envolver todo um debate sobre o avanço inteligência artificial e de como não nos inserir de forma subordinada, mas soberana, nas principais cadeias de valor que emergiram nas últimas décadas, que concentram tecnologia, escala e o controle efetivo das cadeias globais de produção – indústria digital, semicondutores, eletrônicos de ponta, inteligência artificial, biotecnologia e novos materiais. A Scala AI City (Cidade da Inteligência Artificial) seria o maior complexo de data centers da América do Sul, com um investimento bilionário (estimados em até US$ 300 bilhões a longo prazo), dedicando-se ao treinamento de modelos de inteligência artificial."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 25,
+          "page_end": 72,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Água e saneamento básico são direitos humanos.O acesso adequado aos serviços de água e esgoto é essencial para prevenir a disseminação de várias doenças infecciosas. Contudo, segundo a Ouvidoria Nacional do Ministério dos Direitos Humanos e da Cidadania, o Rio Grande do Sul registrou mais de 1,4 mil casos de violência contra pessoas LGBTQIAPN+, em 2025. Os dados incluem situações de maus-tratos, exploração sexual e tráfico de pessoas e outras violações de direitos humanos, demonstrando que a violência não se limita aos assassinatos.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 25,
+              "page_end": 30,
+              "text": "Água e saneamento básico são direitos humanos.O acesso adequado aos serviços de água e esgoto é essencial para prevenir a disseminação de várias doenças infecciosas."
+            },
+            {
+              "id": "s31",
+              "page_start": 65,
+              "page_end": 72,
+              "text": "Contudo, segundo a Ouvidoria Nacional do Ministério dos Direitos Humanos e da Cidadania, o Rio Grande do Sul registrou mais de 1,4 mil casos de violência contra pessoas LGBTQIAPN+, em 2025. Os dados incluem situações de maus-tratos, exploração sexual e tráfico de pessoas e outras violações de direitos humanos, demonstrando que a violência não se limita aos assassinatos."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 10,
+          "page_end": 59,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Sem o controle social desses excedentes, não há possibilidade de financiar um projeto de desenvolvimento soberano. Que seja realizada uma auditoria integral da dívida, com participação social. Os governos Leite e Melo criticavam a empresa mas se diziam sem competência para encaminhar o questionamento processo Alegavam que a competência para regular o serviço público de fornecimento e distribuição de energia é do governo federal na qualidade de poder concedente.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 17,
+              "text": "Sem o controle social desses excedentes, não há possibilidade de financiar um projeto de desenvolvimento soberano."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Que seja realizada uma auditoria integral da dívida, com participação social."
+            },
+            {
+              "id": "s09",
+              "page_start": 25,
+              "page_end": 30,
+              "text": "Os governos Leite e Melo criticavam a empresa mas se diziam sem competência para encaminhar o questionamento processo Alegavam que a competência para regular o serviço público de fornecimento e distribuição de energia é do governo federal na qualidade de poder concedente."
+            },
+            {
+              "id": "s16",
+              "page_start": 44,
+              "page_end": 46,
+              "text": "O Instituto de Apoio à Gestão Pública (IAG) assumiu recentemente a administração de 67 postos de saúde do município."
+            },
+            {
+              "id": "s20",
+              "page_start": 48,
+              "page_end": 51,
+              "text": "•​ Fim das Organizações Sociais e reestatização dos hospitais e serviços privatizados, com gestão pública direta e controle dos trabalhadores e usuários."
+            },
+            {
+              "id": "s27",
+              "page_start": 58,
+              "page_end": 59,
+              "text": "A necessidade de manter o controle social levou a ditadura brasileira à militarização das Polícias."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 25,
+          "page_end": 38,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Iniciou a comercialização de gás natural em 2000, após a conclusão das obras do gasoduto Bolívia-Brasil, que liga Santa Cruz de La Sierra a Canoas, passando pelos estados de Mato Grosso do Sul, São Paulo, Paraná e Santa Catarina. A empresa é responsável pela distribuição de gás natural canalizado e, atualmente, atende aos segmentos industrial, veicular, comercial, residencial e de geração de energia. Por isto não consegue implantar a transição energética na rapidez necessária para que a temperatura do planeta não cruze o limite de 1,5°C, chamado ponto de não retorno.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 25,
+              "page_end": 30,
+              "text": "Iniciou a comercialização de gás natural em 2000, após a conclusão das obras do gasoduto Bolívia-Brasil, que liga Santa Cruz de La Sierra a Canoas, passando pelos estados de Mato Grosso do Sul, São Paulo, Paraná e Santa Catarina. A empresa é responsável pela distribuição de gás natural canalizado e, atualmente, atende aos segmentos industrial, veicular, comercial, residencial e de geração de energia."
+            },
+            {
+              "id": "s11",
+              "page_start": 35,
+              "page_end": 38,
+              "text": "Por isto não consegue implantar a transição energética na rapidez necessária para que a temperatura do planeta não cruze o limite de 1,5°C, chamado ponto de não retorno. Na verdade, o debate sobre essa Termelétrica vai muito além de Candiota e dos trabalhadores empregados no setor de mineração de carvão naquela cidade, retratando a falácia do discurso de transição energética do Governo Federal, que segue subsidiando uma atividade altamente emissora de gases de efeito estufa em tempos de colapso climático do planeta."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 57,
+          "page_end": 60,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Enquanto os trabalhadores têm seus direitos trabalhistas e previdenciários retirados, nas forças armadas nacionais (exército, marinha e aeronáutica) foram mantidas as aposentadorias integrais e os 35 anos de contribuição previdenciária tiveram uma tabela progressiva muito favorável, praticamente sem atingir seus atuais membros. Estas se tornaram legalmente órgãos auxiliares das forças armadas, submetidas aos estatutos militares com regras diferentes das aplicadas à Polícia Civil. •​ FORÇAS ARMADAS: exército (207.000) marinha (80.000) e aeronáutica (67.000).",
+          "excerpts": [
+            {
+              "id": "s25",
+              "page_start": 57,
+              "page_end": 58,
+              "text": "Enquanto os trabalhadores têm seus direitos trabalhistas e previdenciários retirados, nas forças armadas nacionais (exército, marinha e aeronáutica) foram mantidas as aposentadorias integrais e os 35 anos de contribuição previdenciária tiveram uma tabela progressiva muito favorável, praticamente sem atingir seus atuais membros."
+            },
+            {
+              "id": "s27",
+              "page_start": 58,
+              "page_end": 59,
+              "text": "Estas se tornaram legalmente órgãos auxiliares das forças armadas, submetidas aos estatutos militares com regras diferentes das aplicadas à Polícia Civil."
+            },
+            {
+              "id": "s28",
+              "page_start": 59,
+              "page_end": 60,
+              "text": "•​ FORÇAS ARMADAS: exército (207.000) marinha (80.000) e aeronáutica (67.000)."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002542892",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002542892_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002542892_01.pdf",
+      "sha256": "fd13f17284dd0b8ef756666bcd7257b581f40d0df659e9059ca1cff34acab168",
+      "summary": "O Ensino Médio em Tempo Integral passou de 18 escolas em 2019 para 432 escolas em 2025, a participação da rede estadual no SAEB aumentou de 65% para 93% e o abandono escolar no Ensino Médio, que chegou a ser de 11,1% em 2022, foi reduzido para 2,7%, evidenciando melhora na governança pedagógica e na proteção da trajetória escolar. Garantir que todas as crianças sejam alfabetizadas na idade certa, elevar os níveis de aprendizagem ao longo de toda a trajetória escolar e reduzir as desigualdades entre estudantes e territórios são prioridades da política educacional. Além disso, as mudanças climáticas acrescentam novas exigências à política educacional. Fortalecer a política de cuidado e bem-estar nas escolas, com protocolos orientadores, formação de profissionais e rede de apoio para acolhimento, saúde mental e prevenção de situações de risco, fortalecendo as Comissões Internas de Prevenção de Acidentes e Violência Escolar (Cipaves). O Estado tem trabalhado para organizar e melhorar a saúde pública para os gaúchos. Desafios Apesar dos avanços, a transição demográfica e epidemiológica exigirá novos esforços para o fortalecimento do Sistema Único de Saúde (SUS). Estado Eficiente, Orçamento e Gestão Finanças Públicas Municípios e Desenvolvimento Regional 2 – EIXO CUIDAR DAS PESSOAS Educação Saúde Segurança Pública Sistema Penal e Socioeducativo Desenvolvimento Social e Trabalho Habitação e Regularização Fundiária Direitos Humanos e Cidadania Cultura Esporte e Lazer Mulheres, Autonomia e Protagonismo Primeira Infância Pessoa Idosa Juventudes Governança Climática e Ambiental Adaptação Climática Gestão de Riscos e Defesa Civil Segurança Hídrica Infraestrutura Resiliente Transição Energética e Minerais Estratégicos Agropecuária Resiliente e Conservação dos Solos Biodiversidade e Bem-estar Animal O Rio Grande do Sul enfrentou as mais severas restrições orçamentárias em governos que, sem observar o equilíbrio das contas públicas, conduziram o Estado ao parcelamento de salários do funcionalismo público (situação que só foi superada por medidas adotadas em sequência pelos três últimos governos) e acabaram por promover a insegurança jurídica na gestão das relações do governo com a sociedade, reduzindo a oferta de serviços e sobrecarregando os municípios na prestação de serviços essenciais como saúde, educação, segurança pública e infraestrutura.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 13,
+          "page_end": 39,
+          "topics": [
+            "education"
+          ],
+          "summary": "O Ensino Médio em Tempo Integral passou de 18 escolas em 2019 para 432 escolas em 2025, a participação da rede estadual no SAEB aumentou de 65% para 93% e o abandono escolar no Ensino Médio, que chegou a ser de 11,1% em 2022, foi reduzido para 2,7%, evidenciando melhora na governança pedagógica e na proteção da trajetória escolar. Garantir que todas as crianças sejam alfabetizadas na idade certa, elevar os níveis de aprendizagem ao longo de toda a trajetória escolar e reduzir as desigualdades entre estudantes e territórios são prioridades da política educacional. Além disso, as mudanças climáticas acrescentam novas exigências à política educacional.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "O Ensino Médio em Tempo Integral passou de 18 escolas em 2019 para 432 escolas em 2025, a participação da rede estadual no SAEB aumentou de 65% para 93% e o abandono escolar no Ensino Médio, que chegou a ser de 11,1% em 2022, foi reduzido para 2,7%, evidenciando melhora na governança pedagógica e na proteção da trajetória escolar."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Garantir que todas as crianças sejam alfabetizadas na idade certa, elevar os níveis de aprendizagem ao longo de toda a trajetória escolar e reduzir as desigualdades entre estudantes e territórios são prioridades da política educacional. Além disso, as mudanças climáticas acrescentam novas exigências à política educacional."
+            },
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Para isso, será necessário consolidar uma educação pública de excelência, capaz de desenvolver talentos e reduzir desigualdades, ampliando as oportunidades para as novas gerações e fortalecendo a base para o desenvolvimento do Estado. • Ampliar a permanência e o sucesso escolar, fortalecendo a educação em tempo integral, as transições entre etapas e as políticas voltadas às juventudes."
+            },
+            {
+              "id": "s29",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "Ampliar o acesso à educação infantil, especialmente para crianças de zero a três anos em situação de vulnerabilidade, por meio do apoio técnico e financeiro aos municípios para expansão, qualificação e gestão da rede de atendimento."
+            },
+            {
+              "id": "s31",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "O Rio Grande do Sul estruturou uma agenda mais abrangente de políticas públicas para as juventudes, ampliando oportunidades educacionais, fortalecendo mecanismos de permanência escolar, criando programas de qualificação profissional e ampliando o acesso ao primeiro emprego e ao ensino superior. Ao mesmo tempo, a escolarização da população de 6 a 14 anos alcançou 99,4%, e a participação de adultos com ensino superior completo aumentou de forma consistente."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 15,
+          "page_end": 37,
+          "topics": [
+            "health"
+          ],
+          "summary": "Fortalecer a política de cuidado e bem-estar nas escolas, com protocolos orientadores, formação de profissionais e rede de apoio para acolhimento, saúde mental e prevenção de situações de risco, fortalecendo as Comissões Internas de Prevenção de Acidentes e Violência Escolar (Cipaves). O Estado tem trabalhado para organizar e melhorar a saúde pública para os gaúchos. Desafios Apesar dos avanços, a transição demográfica e epidemiológica exigirá novos esforços para o fortalecimento do Sistema Único de Saúde (SUS).",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Fortalecer a política de cuidado e bem-estar nas escolas, com protocolos orientadores, formação de profissionais e rede de apoio para acolhimento, saúde mental e prevenção de situações de risco, fortalecendo as Comissões Internas de Prevenção de Acidentes e Violência Escolar (Cipaves)."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "O Estado tem trabalhado para organizar e melhorar a saúde pública para os gaúchos. Desafios Apesar dos avanços, a transição demográfica e epidemiológica exigirá novos esforços para o fortalecimento do Sistema Único de Saúde (SUS)."
+            },
+            {
+              "id": "s18",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Ampliar o acesso aos serviços de saúde física e mental, fortalecendo a atenção básica e o atendimento especializado às pessoas privadas de liberdade e adolescentes em cumprimento de medidas socioeducativas."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Ampliar o acesso à prevenção, ao diagnóstico precoce, à saúde mental, à saúde sexual e reprodutiva e ao cuidado maternoinfantil permanece essencial para garantir qualidade de vida em todas as fases da vida. Ampliar o acesso à prevenção, ao diagnóstico precoce, à saúde mental, à saúde sexual e reprodutiva e à atenção materna, fortalecendo ações de promoção da saúde e reduzindo desigualdades no acesso aos serviços."
+            },
+            {
+              "id": "s29",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "Promover o desenvolvimento integral desde a gestação até a primeira infância, fortalecendo a saúde maternoinfantil, o cuidado às crianças com deficiência, a saúde mental, os vínculos familiares, a participação ativa da figura paterna e a proteção contra todas as formas de violência, por meio da integração das políticas de saúde, educação, assistência social e proteção de direitos."
+            },
+            {
+              "id": "s30",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Ampliar o acesso às ações de promoção da saúde, prevenção de fragilidades, cuidado às condições crônicas, atenção às demências, saúde mental e"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 27,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Estado Eficiente, Orçamento e Gestão Finanças Públicas Municípios e Desenvolvimento Regional 2 – EIXO CUIDAR DAS PESSOAS Educação Saúde Segurança Pública Sistema Penal e Socioeducativo Desenvolvimento Social e Trabalho Habitação e Regularização Fundiária Direitos Humanos e Cidadania Cultura Esporte e Lazer Mulheres, Autonomia e Protagonismo Primeira Infância Pessoa Idosa Juventudes Governança Climática e Ambiental Adaptação Climática Gestão de Riscos e Defesa Civil Segurança Hídrica Infraestrutura Resiliente Transição Energética e Minerais Estratégicos Agropecuária Resiliente e Conservação dos Solos Biodiversidade e Bem-estar Animal O Rio Grande do Sul enfrentou as mais severas restrições orçamentárias em governos que, sem observar o equilíbrio das contas públicas, conduziram o Estado ao parcelamento de salários do funcionalismo público (situação que só foi superada por medidas adotadas em sequência pelos três últimos governos) e acabaram por promover a insegurança jurídica na gestão das relações do governo com a sociedade, reduzindo a oferta de serviços e sobrecarregando os municípios na prestação de serviços essenciais como saúde, educação, segurança pública e infraestrutura. Res",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Estado Eficiente, Orçamento e Gestão Finanças Públicas Municípios e Desenvolvimento Regional 2 – EIXO CUIDAR DAS PESSOAS Educação Saúde Segurança Pública Sistema Penal e Socioeducativo Desenvolvimento Social e Trabalho Habitação e Regularização Fundiária Direitos Humanos e Cidadania Cultura Esporte e Lazer Mulheres, Autonomia e Protagonismo Primeira Infância Pessoa Idosa Juventudes"
+            },
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Governança Climática e Ambiental Adaptação Climática Gestão de Riscos e Defesa Civil Segurança Hídrica Infraestrutura Resiliente Transição Energética e Minerais Estratégicos Agropecuária Resiliente e Conservação dos Solos Biodiversidade e Bem-estar Animal"
+            },
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "O Rio Grande do Sul enfrentou as mais severas restrições orçamentárias em governos que, sem observar o equilíbrio das contas públicas, conduziram o Estado ao parcelamento de salários do funcionalismo público (situação que só foi superada por medidas adotadas em sequência pelos três últimos governos) e acabaram por promover a insegurança jurídica na gestão das relações do governo com a sociedade, reduzindo a oferta de serviços e sobrecarregando os municípios na prestação de serviços essenciais como saúde, educação, segurança pública e infraestrutura. Responsabilidade Fiscal significa sobretudo dar sentido, critério e eficiência ao gasto público, com orientação às políticas públicas essenciais como saúde, educação, segurança pública e desenvolvimento econômico."
+            },
+            {
+              "id": "s08",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Ações como a expansão do acesso asfáltico para todos os municípios gaúchos, o fortalecimento das políticas de saúde, educação e segurança pública, além de programas voltados à qualificação profissional e ao desenvolvimento econômico local proporcionaram melhorias concretas na vida das pessoas. Boa parte dos desafios da administração pública, como infraestrutura, saúde especializada, segurança pública e riscos climáticos, ultrapassam os limites administrativos de cada município e demandam soluções construídas de forma cooperativa."
+            },
+            {
+              "id": "s15",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Avanços A política de segurança pública do Rio Grande do Sul passou por uma transformação estrutural nos últimos anos. Esses resultados consolidam o RS Seguro como referência nacional e internacional em governança, integração institucional e gestão da segurança pública orientada por resultados."
+            },
+            {
+              "id": "s16",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Restabelecer o Gabinete de Gestão Integrada de Fronteira do Rio Grande do Sul e fortalecer as ações cooperativas e integradas de inteligência, investigação e repressão ao tráfico de drogas e armas, à lavagem de dinheiro, aos crimes transnacionais e às organizações criminosas. Ampliar as estratégias de prevenção, proteção e enfrentamento da violência contra as mulheres e demais grupos vulneráveis, fortalecendo a integração entre segurança pública, justiça e redes de proteção social, com foco nas ações transversais."
+            },
+            {
+              "id": "s17",
+              "page_start": 21,
+              "page_end": 23,
+              "text": "Avanços A efetividade da política de segurança pública depende não apenas da prevenção e repressão ao crime, mas também da capacidade do Estado de executar penas, promover a responsabilização e criar condições para a reintegração social. O controle efetivo do ambiente prisional constitui um elemento central para preservar a ordem e consolidar os avanços alcançados na segurança pública."
+            },
+            {
+              "id": "s21",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "As enchentes evidenciaram a vulnerabilidade de milhares de famílias residentes em áreas de risco e reforçaram a necessidade de integrar habitação, regularização fundiária, planejamento territorial, defesa civil e adaptação às mudanças climáticas em uma estratégia articulada de desenvolvimento urbano."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 39,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Atração de Investimentos e Desenvolvimento Econômico Indústria Comércio e Serviços Agro e Desenvolvimento Rural Ecossistema de Inovação Infraestrutura, Transporte e Logística Turismo Responsabilidade Fiscal significa sobretudo dar sentido, critério e eficiência ao gasto público, com orientação às políticas públicas essenciais como saúde, educação, segurança pública e desenvolvimento econômico. Esses avanços ocorreram mesmo diante de sucessivas crises que afetaram a arrecadação e o crescimento econômico do Estado, como a pandemia, as estiagens severas e as enchentes. Desafios Concluída a etapa de reorganização fiscal e de enfrentamento dos passivos históricos, o principal objetivo passa a ser transformar a estabilidade financeira em capacidade permanente de investimento, crescimento econômico e geração de oportunidades para a população gaúcha.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Atração de Investimentos e Desenvolvimento Econômico Indústria Comércio e Serviços Agro e Desenvolvimento Rural Ecossistema de Inovação Infraestrutura, Transporte e Logística Turismo"
+            },
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Responsabilidade Fiscal significa sobretudo dar sentido, critério e eficiência ao gasto público, com orientação às políticas públicas essenciais como saúde, educação, segurança pública e desenvolvimento econômico."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Esses avanços ocorreram mesmo diante de sucessivas crises que afetaram a arrecadação e o crescimento econômico do Estado, como a pandemia, as estiagens severas e as enchentes. Desafios Concluída a etapa de reorganização fiscal e de enfrentamento dos passivos históricos, o principal objetivo passa a ser transformar a estabilidade financeira em capacidade permanente de investimento, crescimento econômico e geração de oportunidades para a população gaúcha."
+            },
+            {
+              "id": "s08",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "A substituição dos atuais tributos sobre o consumo exigirá a revisão das políticas de desenvolvimento econômico e dos instrumentos de apoio aos setores produtivos. • Simplificar a tributação e aumentar a competitividade das empresas gaúchas, por meio da construção de um ambiente tributário mais simples, estável e previsível, reduzindo a burocracia e estimulando investimentos, geração de empregos e o fortalecimento dos setores estratégicos do Rio Grande do Sul."
+            },
+            {
+              "id": "s19",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Nesse período, foram estruturados e fortalecidos programas como o Programa Família Gaúcha, voltado ao acompanhamento de famílias em situação de vulnerabilidade e à articulação de ações de proteção social, inclusão produtiva e acesso a direitos; o RS Sem Fome, direcionado ao enfrentamento da insegurança alimentar; o Programa de Fomento Rural, que promove geração de renda para famílias rurais em situação de pobreza; e o RS Qualificação, voltado à qualificação profissional e à inserção no mercado de trabalho. Embora o desemprego permaneça em níveis reduzidos, a informalidade, a desaceleração da geração de empregos formais e a concentração das novas ocupações em setores específicos da economia merecem atenção."
+            },
+            {
+              "id": "s20",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Fortalecer a inserção de migrantes e refugiados no mercado de trabalho por meio da articulação com o setor privado e organizações parceiras."
+            },
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Ao mesmo tempo, constitui importante vetor de desenvolvimento econômico, geração de renda, turismo, inovação e dinamização dos territórios."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "O esporte também representa uma oportunidade crescente para o desenvolvimento econômico. Para isso, será necessário ampliar o acesso à prática esportiva, qualificar a infraestrutura e integrar o esporte às políticas de saúde, educação, inclusão social e desenvolvimento econômico."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "As desigualdades também permanecem presentes na autonomia econômica e no acesso ao mercado de trabalho."
+            },
+            {
+              "id": "s31",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "Em um Estado marcado pelo envelhecimento populacional e pela redução relativa da participação dos jovens na população, ampliar oportunidades para as novas gerações tornou-se uma condição para fortalecer o desenvolvimento econômico, a inovação, a produtividade e a formação da força de trabalho das próximas décadas. Em 2024, 42,6% dos jovens estavam inseridos no mercado de trabalho, mas fora da escola, indicando que muitos ingressam precocemente na atividade laboral sem concluir sua trajetória educacional."
+            },
+            {
+              "id": "s32",
+              "page_start": 39,
+              "page_end": 39,
+              "text": "segurança jurídica, capital humano, infraestrutura, inovação, ambiente favorável aos negócios e outros elementos que influenciam a competitividade de um Estado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 3,
+          "page_end": 9,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Responsabilidade Fiscal significa sobretudo dar sentido, critério e eficiência ao gasto público, com orientação às políticas públicas essenciais como saúde, educação, segurança pública e desenvolvimento econômico. É consolidar uma cultura de responsabilidade fiscal que fortaleça a capacidade do Estado de investir, inovar e responder aos desafios do futuro. Diretrizes Estratégicas Consolidar a responsabilidade fiscal, a qualidade do gasto, a integração entre planejamento, orçamento e execução, a modernização administrativa, a transformação digital e a gestão orientada por resultados, assegurando capacidade permanente de investimento e melhoria dos serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Responsabilidade Fiscal significa sobretudo dar sentido, critério e eficiência ao gasto público, com orientação às políticas públicas essenciais como saúde, educação, segurança pública e desenvolvimento econômico. É consolidar uma cultura de responsabilidade fiscal que fortaleça a capacidade do Estado de investir, inovar e responder aos desafios do futuro."
+            },
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "Diretrizes Estratégicas Consolidar a responsabilidade fiscal, a qualidade do gasto, a integração entre planejamento, orçamento e execução, a modernização administrativa, a transformação digital e a gestão orientada por resultados, assegurando capacidade permanente de investimento e melhoria dos serviços públicos. Consolidar um modelo de gestão que integre planejamento, orçamento, metas e monitoramento, ampliando a eficiência do gasto público e a qualidade das políticas públicas."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "A reorganização das finanças gaúchas avançou por meio de reformas estruturais na previdência e na administração pública, iniciando com uma corajosa gestão da dívida pública junto ao governo federal, tendo sequência na reforma da Lei de Responsabilidade Fiscal Estadual, na adoção de um amplo programa de privatizações e concessões, culminando com o ingresso no Regime de Recuperação Fiscal, que viabilizou o refinanciamento da dívida e restabeleceu o acesso ao crédito. No campo fiscal, a adesão ao Programa de Pleno Pagamento das Dívidas dos Estados (Propag) representará uma nova etapa da gestão da dívida pública"
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 39,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Educação, saúde, proteção social e inclusão produtiva não são agendas isoladas, mas partes de uma mesma estratégia para fortalecer a autonomia, reduzir vulnerabilidades e ampliar a participação das pessoas na vida econômica e social. Ampliar as estratégias de prevenção, proteção e enfrentamento da violência contra as mulheres e demais grupos vulneráveis, fortalecendo a integração entre segurança pública, justiça e redes de proteção social, com foco nas ações transversais. Desenvolver estratégias integradas para prevenir o recrutamento de crianças, adolescentes e jovens por organizações criminosas, articulando ações de segurança pública, educação, esporte, cultura, assistência social e sistema socioeducativo, com foco nos territórios mais vulneráveis.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Educação, saúde, proteção social e inclusão produtiva não são agendas isoladas, mas partes de uma mesma estratégia para fortalecer a autonomia, reduzir vulnerabilidades e ampliar a participação das pessoas na vida econômica e social."
+            },
+            {
+              "id": "s16",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Ampliar as estratégias de prevenção, proteção e enfrentamento da violência contra as mulheres e demais grupos vulneráveis, fortalecendo a integração entre segurança pública, justiça e redes de proteção social, com foco nas ações transversais. Desenvolver estratégias integradas para prevenir o recrutamento de crianças, adolescentes e jovens por organizações criminosas, articulando ações de segurança pública, educação, esporte, cultura, assistência social e sistema socioeducativo, com foco nos territórios mais vulneráveis."
+            },
+            {
+              "id": "s19",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "As transformações demográficas, as mudanças no mundo do trabalho e os eventos climáticos extremos tornam o fortalecimento da proteção social e da autonomia das famílias uma agenda ainda mais importante para o desenvolvimento do Rio Grande do Sul. Apresentamos um dos menores índices de extrema pobreza do país e alcançamos o menor percentual da série histórica de insegurança alimentar moderada e grave."
+            },
+            {
+              "id": "s20",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Consolidar a política estadual de segurança alimentar e nutricional por meio do fortalecimento do SISAN-RS, da ampliação das adesões municipais, da expansão de equipamentos públicos de alimentação e do apoio a iniciativas comunitárias e à agricultura familiar. Consolidar o Programa Família Gaúcha como estratégia integrada de superação da pobreza, articulando proteção social, qualificação profissional, acesso a oportunidades e inclusão socioprodutiva das famílias em situação de vulnerabilidade."
+            },
+            {
+              "id": "s22",
+              "page_start": 27,
+              "page_end": 27,
+              "text": "Ampliar soluções habitacionais voltadas à população idosa em situação de vulnerabilidade, promovendo autonomia, proteção social e qualidade de vida."
+            },
+            {
+              "id": "s26",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Ampliar oportunidades, reduzir desigualdades e garantir condições para que as mulheres exerçam plenamente sua cidadania exige políticas públicas integradas, capazes de atuar simultaneamente sobre autonomia econômica, proteção social, saúde, educação e participação social."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Ampliar o alcance do modelo de risco para mulheres vítimas de violência doméstica já existente no RS Seguro, integrando dados estaduais e municipais das áreas de saúde, educação e assistência social, com formulário único e formação continuada dos agentes públicos."
+            },
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Na nutrição, convivem problemas de insegurança alimentar, inadequação nutricional e aumento do sobrepeso infantil. Na proteção social, os registros de violência e violação de direitos reforçam a necessidade de fortalecer as redes de proteção e o apoio às famílias."
+            },
+            {
+              "id": "s29",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "• Promover o desenvolvimento integral das crianças por meio da integração das políticas de saúde, nutrição, educação, proteção social e apoio às famílias. Promover a alimentação adequada e saudável na primeira infância, fortalecendo o aleitamento materno, a vigilância nutricional, a alimentação escolar e a integração com a agricultura familiar."
+            },
+            {
+              "id": "s30",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Essa mudança altera a demanda por serviços públicos, exige novas formas de organização do cuidado e impõe desafios para as áreas de saúde, assistência social, mobilidade, habitação, convivência comunitária e proteção social. Preparar o Rio Grande do Sul para uma sociedade cada vez mais envelhecida exigirá fortalecer a rede de cuidado, ampliar a proteção social e promover o envelhecimento ativo e saudável."
+            },
+            {
+              "id": "s31",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "O Estado também consolidou programas voltados à permanência escolar, à proteção social e à inclusão produtiva, como o Todo Jovem na Escola, o Programa de Oportunidades e Direitos (POD), os Centros da Juventude, os Centros de Referência da Juventude Reconstrução, o Partiu Futuro Reconstrução, o RS Talentos e o Universitário do Amanhã, ampliando as oportunidades de formação, qualificação profissional e inserção no mundo do trabalho."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 23,
+          "page_end": 35,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Embora a fome tenha sido reduzida de forma significativa, a insegurança alimentar leve ainda atinge parcela importante das famílias gaúchas, reforçando a necessidade de fortalecer políticas permanentes de abastecimento, agricultura familiar e alimentação adequada. Consolidar a política estadual de segurança alimentar e nutricional por meio do fortalecimento do SISAN-RS, da ampliação das adesões municipais, da expansão de equipamentos públicos de alimentação e do apoio a iniciativas comunitárias e à agricultura familiar. Ampliar a qualificação profissional alinhada às potencialidades regionais e às demandas da economia verde, da economia do cuidado, da transformação digital e da agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Embora a fome tenha sido reduzida de forma significativa, a insegurança alimentar leve ainda atinge parcela importante das famílias gaúchas, reforçando a necessidade de fortalecer políticas permanentes de abastecimento, agricultura familiar e alimentação adequada."
+            },
+            {
+              "id": "s20",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Consolidar a política estadual de segurança alimentar e nutricional por meio do fortalecimento do SISAN-RS, da ampliação das adesões municipais, da expansão de equipamentos públicos de alimentação e do apoio a iniciativas comunitárias e à agricultura familiar. Ampliar a qualificação profissional alinhada às potencialidades regionais e às demandas da economia verde, da economia do cuidado, da transformação digital e da agricultura familiar."
+            },
+            {
+              "id": "s29",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "Promover a alimentação adequada e saudável na primeira infância, fortalecendo o aleitamento materno, a vigilância nutricional, a alimentação escolar e a integração com a agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 25,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Diretrizes Estratégicas Consolidar a responsabilidade fiscal, a qualidade do gasto, a integração entre planejamento, orçamento e execução, a modernização administrativa, a transformação digital e a gestão orientada por resultados, assegurando capacidade permanente de investimento e melhoria dos serviços públicos. • Liderar a transformação digital do Estado e a inovação na prestação de serviços públicos, consolidando o Rio Grande do Sul como referência nacional em governo digital, através da ampliação do uso de inteligência de dados, automação e tecnologia aplicada à gestão pública e à prestação de serviços ao cidadão. A rede estruturou uma Política de Proteção à Trajetória do Estudante, com preditor de abandono e evasão apoiado por inteligência artificial, e fortaleceu o Todo Jovem na Escola, com bolsa regular, auxílio material escolar, poupança aprovação e incentivo à participação no SAERS.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "Diretrizes Estratégicas Consolidar a responsabilidade fiscal, a qualidade do gasto, a integração entre planejamento, orçamento e execução, a modernização administrativa, a transformação digital e a gestão orientada por resultados, assegurando capacidade permanente de investimento e melhoria dos serviços públicos. • Liderar a transformação digital do Estado e a inovação na prestação de serviços públicos, consolidando o Rio Grande do Sul como referência nacional em governo digital, através da ampliação do uso de inteligência de dados, automação e tecnologia aplicada à gestão pública e à prestação de serviços ao cidadão."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "A rede estruturou uma Política de Proteção à Trajetória do Estudante, com preditor de abandono e evasão apoiado por inteligência artificial, e fortaleceu o Todo Jovem na Escola, com bolsa regular, auxílio material escolar, poupança aprovação e incentivo à participação no SAERS."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "Além disso, a transformação digital inaugurou um novo ciclo de modernização da saúde. Ao mesmo tempo, será necessário aprofundar a transformação digital para ampliar o acesso, integrar informações e qualificar a gestão e a regulação do sistema."
+            },
+            {
+              "id": "s14",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Consolidar a transformação digital do SUS, promovendo a interoperabilidade entre os sistemas de informação, a integração do prontuário eletrônico do cidadão em todos os níveis de atenção, a ampliação do uso da telemedicina e de outras soluções digitais, fortalecendo a governança dos dados, a segurança da informação, a inteligência analítica, a modernização da regulação e o uso de tecnologias inovadoras para qualificar a assistência, a gestão e o planejamento em saúde."
+            },
+            {
+              "id": "s15",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "A incorporação de inteligência artificial, análise de dados, monitoramento e interoperabilidade de sistemas será cada vez mais importante para antecipar riscos, ampliar a capacidade investigativa e aumentar a efetividade das ações de segurança pública."
+            },
+            {
+              "id": "s16",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Gabriel Souza 2027-2030 ampliando o uso de inteligência artificial e de ciência de dados, videomonitoramento, drones, integração de sistemas e ferramentas de segurança cibernética para fortalecer a prevenção, a investigação e a resposta às novas modalidades de criminalidade, incluindo o aperfeiçoamento das técnicas de apuração e combate ao estelionato “digital”."
+            },
+            {
+              "id": "s20",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Ampliar a qualificação profissional alinhada às potencialidades regionais e às demandas da economia verde, da economia do cuidado, da transformação digital e da agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 29,
+          "page_end": 31,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "A integração entre cultura e educação fortaleceu oportunidades para crianças e jovens, promoveu vínculos comunitários e contribuiu para a inclusão social, enquanto a economia criativa consolidou setores como audiovisual, música, literatura, artes visuais, patrimônio cultural e eventos como importantes geradores de emprego, renda e desenvolvimento regional. A consolidação da economia criativa é outra oportunidade estratégica para o Estado.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "A integração entre cultura e educação fortaleceu oportunidades para crianças e jovens, promoveu vínculos comunitários e contribuiu para a inclusão social, enquanto a economia criativa consolidou setores como audiovisual, música, literatura, artes visuais, patrimônio cultural e eventos como importantes geradores de emprego, renda e desenvolvimento regional. A consolidação da economia criativa é outra oportunidade estratégica para o Estado."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 3,
+          "page_end": 34,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Estado Eficiente, Orçamento e Gestão Finanças Públicas Municípios e Desenvolvimento Regional 2 – EIXO CUIDAR DAS PESSOAS Educação Saúde Segurança Pública Sistema Penal e Socioeducativo Desenvolvimento Social e Trabalho Habitação e Regularização Fundiária Direitos Humanos e Cidadania Cultura Esporte e Lazer Mulheres, Autonomia e Protagonismo Primeira Infância Pessoa Idosa Juventudes Avanços A promoção dos direitos humanos constitui um dos fundamentos de uma sociedade democrática, inclusiva e comprometida com a redução das desigualdades. O Rio Grande do Sul dispõe de uma estrutura institucional consolidada, programas em funcionamento e capacidade técnica instalada para atuar na promoção e proteção dos direitos humanos. Apoiar o funcionamento dos conselhos de direitos e ampliar os mecanismos de participação social, fortalecendo o diálogo permanente entre governo e sociedade civil na promoção dos direitos humanos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Estado Eficiente, Orçamento e Gestão Finanças Públicas Municípios e Desenvolvimento Regional 2 – EIXO CUIDAR DAS PESSOAS Educação Saúde Segurança Pública Sistema Penal e Socioeducativo Desenvolvimento Social e Trabalho Habitação e Regularização Fundiária Direitos Humanos e Cidadania Cultura Esporte e Lazer Mulheres, Autonomia e Protagonismo Primeira Infância Pessoa Idosa Juventudes"
+            },
+            {
+              "id": "s23",
+              "page_start": 27,
+              "page_end": 29,
+              "text": "Avanços A promoção dos direitos humanos constitui um dos fundamentos de uma sociedade democrática, inclusiva e comprometida com a redução das desigualdades. O Rio Grande do Sul dispõe de uma estrutura institucional consolidada, programas em funcionamento e capacidade técnica instalada para atuar na promoção e proteção dos direitos humanos."
+            },
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Apoiar o funcionamento dos conselhos de direitos e ampliar os mecanismos de participação social, fortalecendo o diálogo permanente entre governo e sociedade civil na promoção dos direitos humanos."
+            },
+            {
+              "id": "s26",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Desafios Entretanto, a violência contra as mulheres continua sendo uma das mais graves violações de direitos humanos no Estado."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Implementar, desde a escola, ações permanentes de prevenção à violência, combate ao assédio e promoção da igualdade de gênero, fortalecendo a educação para os direitos humanos, a convivência respeitosa e a cultura de paz."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 5,
+          "page_end": 39,
+          "topics": [
+            "governance"
+          ],
+          "summary": "• Liderar a transformação digital do Estado e a inovação na prestação de serviços públicos, consolidando o Rio Grande do Sul como referência nacional em governo digital, através da ampliação do uso de inteligência de dados, automação e tecnologia aplicada à gestão pública e à prestação de serviços ao cidadão. • Valorizar, qualificar e modernizar a gestão das pessoas no serviço público, fortalecendo a política de gestão de pessoas do Estado, investindo em capacitação, formação de lideranças e desenvolvimento de competências estratégicas alinhadas aos desafios do próximo ciclo. • Apoiar os municípios na qualificação da gestão pública, no planejamento estratégico, na elaboração de projetos e na captação de recursos.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 8,
+              "text": "• Liderar a transformação digital do Estado e a inovação na prestação de serviços públicos, consolidando o Rio Grande do Sul como referência nacional em governo digital, através da ampliação do uso de inteligência de dados, automação e tecnologia aplicada à gestão pública e à prestação de serviços ao cidadão. • Valorizar, qualificar e modernizar a gestão das pessoas no serviço público, fortalecendo a política de gestão de pessoas do Estado, investindo em capacitação, formação de lideranças e desenvolvimento de competências estratégicas alinhadas aos desafios do próximo ciclo."
+            },
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 13,
+              "text": "• Apoiar os municípios na qualificação da gestão pública, no planejamento estratégico, na elaboração de projetos e na captação de recursos."
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Esse compromisso exige a atuação integrada entre governo e sociedade, fortalecendo os vínculos comunitários e a prevenção de vulnerabilidades através da ampliação de serviços e do controle social na implementação destas políticas públicas."
+            },
+            {
+              "id": "s23",
+              "page_start": 27,
+              "page_end": 29,
+              "text": "Também avançou na ampliação de políticas de saúde integral, educação inclusiva, acessibilidade, valorização da diversidade, participação social e enfrentamento às diferentes formas de discriminação e violência, consolidando uma atuação cada vez mais integrada entre diferentes áreas governamentais. Também se fortaleceram os conselhos estaduais de direitos como instâncias permanentes de participação social, diálogo e controle das políticas públicas."
+            },
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Apoiar o funcionamento dos conselhos de direitos e ampliar os mecanismos de participação social, fortalecendo o diálogo permanente entre governo e sociedade civil na promoção dos direitos humanos."
+            },
+            {
+              "id": "s26",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Ampliar oportunidades, reduzir desigualdades e garantir condições para que as mulheres exerçam plenamente sua cidadania exige políticas públicas integradas, capazes de atuar simultaneamente sobre autonomia econômica, proteção social, saúde, educação e participação social."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "• Garantir o acesso das mulheres aos direitos sociais, à saúde, à educação, à participação social e aos espaços de liderança, reduzindo desigualdades e fortalecendo a cidadania. Ampliar a participação das mulheres nos espaços de representação política, comunitária e institucional, fortalecendo o protagonismo feminino e a cidadania."
+            },
+            {
+              "id": "s30",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Iniciativas como a Rede Bem Cuidar RS, o Programa Saúde 60+, a implantação dos Centros Dia para Pessoas Idosas e o fortalecimento dos espaços de participação social ampliaram a capacidade de resposta às demandas do UM NOVO JEITO DE SEGUIR EM FRENTE. Ao mesmo tempo, torna-se necessário ampliar oportunidades de convivência, participação social, cultura, esporte, lazer e inclusão digital, contribuindo para a autonomia, o protagonismo e a qualidade de vida das pessoas idosas."
+            },
+            {
+              "id": "s31",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "Apoiar iniciativas municipais voltadas à convivência comunitária, cultura, esporte, lazer, inclusão digital, aprendizagem ao longo da vida, acessibilidade e participação social, promovendo autonomia, qualidade de vida e prevenção do isolamento social. Educação, trabalho, empreendedorismo, cultura, esporte, participação social e proteção de direitos ainda operam, em muitos casos, de forma fragmentada, reduzindo a capacidade do Estado de acompanhar as trajetórias dos jovens e conectar oportunidades ao longo das diferentes etapas da vida."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Governança Climática e Ambiental Adaptação Climática Gestão de Riscos e Defesa Civil Segurança Hídrica Infraestrutura Resiliente Transição Energética e Minerais Estratégicos Agropecuária Resiliente e Conservação dos Solos Biodiversidade e Bem-estar Animal",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Governança Climática e Ambiental Adaptação Climática Gestão de Riscos e Defesa Civil Segurança Hídrica Infraestrutura Resiliente Transição Energética e Minerais Estratégicos Agropecuária Resiliente e Conservação dos Solos Biodiversidade e Bem-estar Animal"
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 19,
+          "page_end": 21,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Seguro, comprometido com a dignidade da pessoa humana e com base em ações estratégicas, se instituiu como uma verdadeira política pública calcada em evidências e com a participação de todo o Sistema de Justiça Criminal. Consolidar e ampliar o modelo de governança, integração institucional e gestão orientada por dados do RS Seguro, fortalecendo a coordenação entre os órgãos de segurança pública e o Sistema de Justiça Criminal, com foco na prevenção, no monitoramento de indicadores e na melhoria contínua dos resultados.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Seguro, comprometido com a dignidade da pessoa humana e com base em ações estratégicas, se instituiu como uma verdadeira política pública calcada em evidências e com a participação de todo o Sistema de Justiça Criminal. Consolidar e ampliar o modelo de governança, integração institucional e gestão orientada por dados do RS Seguro, fortalecendo a coordenação entre os órgãos de segurança pública e o Sistema de Justiça Criminal, com foco na prevenção, no monitoramento de indicadores e na melhoria contínua dos resultados."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002547857",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002547857_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002547857_01.pdf",
+      "sha256": "75acd509380ad747445f76ada322a6ec3c97c2c378fa4eb1e18a329e411807af",
+      "summary": "Direcionar a oferta de alfabetização, educação básica e qualificação profissional no sistema prisional para ampliar as condições de trabalho e reduzir a reincidência criminal. Ampliar soluções de atendimento no interior das unidades, especialmente em saúde mental e tratamento de dependências, com integração de prontuários e uso de tecnologias, reduzindo deslocamentos, escoltas e internações evitáveis e, consequentemente, os custos suportados pelo Poder Público. A segurança pública continua sendo uma das maiores preocupações dos gaúchos. Nosso governo tratará a segurança pública como prioridade permanente e política de Estado. Tratar o enfrentamento às organizações criminosas como prioridade permanente do Governo do Estado, integrando inteligência, investigação, repressão qualificada, apreensão de armas e drogas, captura de lideranças e interrupção das redes logísticas e econômicas que sustentam as facções. Vamos adotar uma agenda fiscal responsável, mas priorizar o crescimento econômico, com planejamento de curto, médio e longo prazo. O que nos move – e nos moverá – é trabalhar pelo bem comum das famílias gaúchas, por meio de uma visão moderna de gestão pública e de desenvolvimento econômico. Priorizar ações educacionais vinculadas à disciplina, ao mérito e à preparação para o mercado de trabalho, com Transformar a proteção social em oportunidades reais de autonomia. É preciso governar melhor o próprio governo, com menos gastos supérfluos e mais foco em fazer o serviço público funcionar para as pessoas. exames, modernizando laboratórios, qualificando a perícia digital e assegurando integração rápida e segura das provas periciais com as investigações policiais e os órgãos do sistema de justiça. Implantar gestão estadual de vagas baseada na capacidade real de cada unidade, no regime e no perfil dos custodiados, articulando-se com o sistema de justiça para reduzir superlotação, transferências improvisadas e ocupações incompatíveis com a segurança e a individualização da pena.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "education"
+          ],
+          "summary": "Direcionar a oferta de alfabetização, educação básica e qualificação profissional no sistema prisional para ampliar as condições de trabalho e reduzir a reincidência criminal.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Direcionar a oferta de alfabetização, educação básica e qualificação profissional no sistema prisional para ampliar as condições de trabalho e reduzir a reincidência criminal."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 12,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ampliar soluções de atendimento no interior das unidades, especialmente em saúde mental e tratamento de dependências, com integração de prontuários e uso de tecnologias, reduzindo deslocamentos, escoltas e internações evitáveis e, consequentemente, os custos suportados pelo Poder Público.",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Ampliar soluções de atendimento no interior das unidades, especialmente em saúde mental e tratamento de dependências, com integração de prontuários e uso de tecnologias, reduzindo deslocamentos, escoltas e internações evitáveis e, consequentemente, os custos suportados pelo Poder Público."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 12,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública continua sendo uma das maiores preocupações dos gaúchos. Nosso governo tratará a segurança pública como prioridade permanente e política de Estado. Tratar o enfrentamento às organizações criminosas como prioridade permanente do Governo do Estado, integrando inteligência, investigação, repressão qualificada, apreensão de armas e drogas, captura de lideranças e interrupção das redes logísticas e econômicas que sustentam as facções.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "A segurança pública continua sendo uma das maiores preocupações dos gaúchos. Nosso governo tratará a segurança pública como prioridade permanente e política de Estado."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Tratar o enfrentamento às organizações criminosas como prioridade permanente do Governo do Estado, integrando inteligência, investigação, repressão qualificada, apreensão de armas e drogas, captura de lideranças e interrupção das redes logísticas e econômicas que sustentam as facções."
+            },
+            {
+              "id": "s17",
+              "page_start": 10,
+              "page_end": 10,
+              "text": "A política de segurança pública não termina na prisão. Hoje, o sistema prisional gaúcho ainda enfrenta desafios que comprometem sua capacidade de cumprir simultaneamente suas funções de garantir a execução da pena, proteger a sociedade e reduzir a reincidência."
+            },
+            {
+              "id": "s28",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Direcionar a oferta de alfabetização, educação básica e qualificação profissional no sistema prisional para ampliar as condições de trabalho e reduzir a reincidência criminal."
+            },
+            {
+              "id": "s30",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Fortalecer as ações de prevenção, controle e enfrentamento ao uso e à circulação de drogas no sistema prisional, articulando o tratamento da dependência química às políticas de segurança e saúde."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Vamos adotar uma agenda fiscal responsável, mas priorizar o crescimento econômico, com planejamento de curto, médio e longo prazo. O que nos move – e nos moverá – é trabalhar pelo bem comum das famílias gaúchas, por meio de uma visão moderna de gestão pública e de desenvolvimento econômico. Priorizar ações educacionais vinculadas à disciplina, ao mérito e à preparação para o mercado de trabalho, com",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Vamos adotar uma agenda fiscal responsável, mas priorizar o crescimento econômico, com planejamento de curto, médio e longo prazo. O que nos move – e nos moverá – é trabalhar pelo bem comum das famílias gaúchas, por meio de uma visão moderna de gestão pública e de desenvolvimento econômico."
+            },
+            {
+              "id": "s28",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Priorizar ações educacionais vinculadas à disciplina, ao mérito e à preparação para o mercado de trabalho, com"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Transformar a proteção social em oportunidades reais de autonomia.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Transformar a proteção social em oportunidades reais de autonomia."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O que nos move – e nos moverá – é trabalhar pelo bem comum das famílias gaúchas, por meio de uma visão moderna de gestão pública e de desenvolvimento econômico. É preciso governar melhor o próprio governo, com menos gastos supérfluos e mais foco em fazer o serviço público funcionar para as pessoas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "O que nos move – e nos moverá – é trabalhar pelo bem comum das famílias gaúchas, por meio de uma visão moderna de gestão pública e de desenvolvimento econômico. É preciso governar melhor o próprio governo, com menos gastos supérfluos e mais foco em fazer o serviço público funcionar para as pessoas."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 9,
+          "page_end": 11,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "exames, modernizando laboratórios, qualificando a perícia digital e assegurando integração rápida e segura das provas periciais com as investigações policiais e os órgãos do sistema de justiça. Implantar gestão estadual de vagas baseada na capacidade real de cada unidade, no regime e no perfil dos custodiados, articulando-se com o sistema de justiça para reduzir superlotação, transferências improvisadas e ocupações incompatíveis com a segurança e a individualização da pena.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "exames, modernizando laboratórios, qualificando a perícia digital e assegurando integração rápida e segura das provas periciais com as investigações policiais e os órgãos do sistema de justiça."
+            },
+            {
+              "id": "s23",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Implantar gestão estadual de vagas baseada na capacidade real de cada unidade, no regime e no perfil dos custodiados, articulando-se com o sistema de justiça para reduzir superlotação, transferências improvisadas e ocupações incompatíveis com a segurança e a individualização da pena."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002551508",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002551508_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002551508_01.pdf",
+      "sha256": "a42d6e9cc872b3d8897a62d5d5e8844b8e401e034b931ccf0876f40c5ce7ed8a",
+      "summary": "Plano de Governo Juliana Brizola - 2027-2030 DESENVOLVIMENTO SOCIAL, CIDADANIA E GARANTIA DE DIREITOS, PROTEÇÃO E BEM-ESTAR ANIMAL 1.1 - EDUCAÇÃO PÚBLICA, BÁSICA A educação pública no Rio Grande do Sul enfrenta uma crise estrutural prolongada. Ao mesmo tempo, a evasão escolar no Ensino Médio permanece em níveis preocupantes, enquanto a alfabetização na idade certa ainda carece de uma política permanente de cooperação técnica e financeira entre o Estado e os municípios. A Coligação Com o Povo implantará gradualmente os CIEPs, com educação em tempo integral, alimentação, reforço pedagógico, cultura, esporte, tecnologia e apoio socioemocional. O Sistema Único de Saúde (SUS) no Rio Grande do Sul enfrenta graves gargalos decorrentes da descentralização incompleta e da insuficiência de financiamento, que sobrecarrega os municípios. A Atenção Primária será fortalecida com ampliação do financiamento da Estratégia Saúde da Família e incentivos à fixação de profissionais em pequenos municípios e periferias. Também serão fortalecidas as redes de saúde mental, materno-infantil e de atenção às pessoas com Transtorno de Espectro Autista (TEA), com expansão dos Centros de Atenção Psicossocial (CAPS) e qualificação do atendimento. 2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL A segurança pública no Rio Grande do Sul enfrenta desafios que exigem respostas permanentes, integradas e cada vez mais especializadas. Os homicídios permanecem concentrados sobretudo em territórios vulneráveis, enquanto avançam o crime organizado e as facções criminosas, os estelionatos e golpes digitais e persiste a violência contra as mulheres. A Coligação Com o Povo fortalecerá a inteligência policial e o enfrentamento ao crime organizado, com a criação de um Centro Integrado de Inteligência de Fronteira, articulando Polícia Civil, Brigada Militar, Polícia Federal, Polícia Rodoviária Federal e forças dos países vizinhos no combate ao tráfico de armas, munições e drogas. As mudanças climáticas, as desigualdades entre as regiões, os desafios sociais e a necessidade de retomar o crescimento econômico com inclusão nos convocam a pensar e planejar o futuro com solidariedade, diálogo e conhecimento técnico.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 5,
+          "page_end": 16,
+          "topics": [
+            "education"
+          ],
+          "summary": "Plano de Governo Juliana Brizola - 2027-2030 DESENVOLVIMENTO SOCIAL, CIDADANIA E GARANTIA DE DIREITOS, PROTEÇÃO E BEM-ESTAR ANIMAL 1.1 - EDUCAÇÃO PÚBLICA, BÁSICA A educação pública no Rio Grande do Sul enfrenta uma crise estrutural prolongada. Ao mesmo tempo, a evasão escolar no Ensino Médio permanece em níveis preocupantes, enquanto a alfabetização na idade certa ainda carece de uma política permanente de cooperação técnica e financeira entre o Estado e os municípios. A Coligação Com o Povo implantará gradualmente os CIEPs, com educação em tempo integral, alimentação, reforço pedagógico, cultura, esporte, tecnologia e apoio socioemocional.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Plano de Governo Juliana Brizola - 2027-2030 DESENVOLVIMENTO SOCIAL, CIDADANIA E GARANTIA DE DIREITOS, PROTEÇÃO E BEM-ESTAR ANIMAL 1.1 - EDUCAÇÃO PÚBLICA, BÁSICA"
+            },
+            {
+              "id": "s07",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "A educação pública no Rio Grande do Sul enfrenta uma crise estrutural prolongada. Ao mesmo tempo, a evasão escolar no Ensino Médio permanece em níveis preocupantes, enquanto a alfabetização na idade certa ainda carece de uma política permanente de cooperação técnica e financeira entre o Estado e os municípios."
+            },
+            {
+              "id": "s08",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "A Coligação Com o Povo implantará gradualmente os CIEPs, com educação em tempo integral, alimentação, reforço pedagógico, cultura, esporte, tecnologia e apoio socioemocional. O Estado firmará com os 497 municípios o Pacto Gaúcho pela Alfabetização e Educação Básica, ampliará a EJA e a Busca Ativa Escolar, fortalecerá as escolas do campo, das águas e das florestas e garantirá transporte escolar público, gratuito e seguro aos estudantes da zona rural."
+            },
+            {
+              "id": "s14",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "O Governo avançará na autonomia econômica e na participação das mulheres, fiscalizando a igualdade salarial — especialmente nas empresas beneficiárias de incentivos estaduais — e implementando a Política Estadual de Cuidados, com creches em tempo integral, terceiro turno na educação infantil e centros-dia para idosos."
+            },
+            {
+              "id": "s24",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Serão fortalecidos o Conselho Estadual de Cultura, o cadastro dos trabalhadores da cultura e os mecanismos de proteção em situações de emergência, além da integração entre cultura, educação, memória comunitária e sustentabilidade nas escolas públicas."
+            },
+            {
+              "id": "s28",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "A Coligação Com o Povo tratará o esporte, o paradesporto e o lazer como direitos de cidadania e instrumentos de educação, saúde e inclusão social, integrando a prática esportiva às escolas de tempo integral e ampliando programas comunitários de iniciação esportiva, recreação e atividades voltadas às pessoas idosas e com deficiência."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 17,
+          "topics": [
+            "health"
+          ],
+          "summary": "O Sistema Único de Saúde (SUS) no Rio Grande do Sul enfrenta graves gargalos decorrentes da descentralização incompleta e da insuficiência de financiamento, que sobrecarrega os municípios. A Atenção Primária será fortalecida com ampliação do financiamento da Estratégia Saúde da Família e incentivos à fixação de profissionais em pequenos municípios e periferias. Também serão fortalecidas as redes de saúde mental, materno-infantil e de atenção às pessoas com Transtorno de Espectro Autista (TEA), com expansão dos Centros de Atenção Psicossocial (CAPS) e qualificação do atendimento.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "O Sistema Único de Saúde (SUS) no Rio Grande do Sul enfrenta graves gargalos decorrentes da descentralização incompleta e da insuficiência de financiamento, que sobrecarrega os municípios."
+            },
+            {
+              "id": "s10",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A Atenção Primária será fortalecida com ampliação do financiamento da Estratégia Saúde da Família e incentivos à fixação de profissionais em pequenos municípios e periferias. Também serão fortalecidas as redes de saúde mental, materno-infantil e de atenção às pessoas com Transtorno de Espectro Autista (TEA), com expansão dos Centros de Atenção Psicossocial (CAPS) e qualificação do atendimento."
+            },
+            {
+              "id": "s12",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "A política de segurança também priorizará a recomposição e valorização dos efetivos, mediante concursos públicos e atenção permanente à saúde dos servidores, inclusive com uma Rede Estadual de Atenção à Saúde Mental dos profissionais da segurança pública."
+            },
+            {
+              "id": "s14",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Serão ampliados os serviços especializados, com Central Estadual de apoio funcionando 24 horas, acompanhamento individualizado de mulheres em alto risco pelo Programa Protetoras, atenção à saúde mental e prevenção permanente em escolas, comunidades, empresas e espaços culturais."
+            },
+            {
+              "id": "s27",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "A prática esportiva ainda é tratada de forma fragmentada, sem uma articulação efetiva com as políticas de educação, saúde pública, inclusão social e segurança cidadã."
+            },
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Na saúde, será implementada a Política Nacional de Saúde Integral da População Negra, com atenção à anemia falciforme, hipertensão, diabetes e saúde mental."
+            },
+            {
+              "id": "s31",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "A exclusão do mercado de trabalho formal, o abandono e a vulnerabilidade social de jovens LGBTQIA+ e as dificuldades de acesso a atendimento adequado e especializado na rede pública de saúde, inclusive nos serviços de saúde mental e de atenção às pessoas trans, configuram um quadro persistente de desigualdade, discriminação e violação de direitos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 18,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL A segurança pública no Rio Grande do Sul enfrenta desafios que exigem respostas permanentes, integradas e cada vez mais especializadas. Os homicídios permanecem concentrados sobretudo em territórios vulneráveis, enquanto avançam o crime organizado e as facções criminosas, os estelionatos e golpes digitais e persiste a violência contra as mulheres. A Coligação Com o Povo fortalecerá a inteligência policial e o enfrentamento ao crime organizado, com a criação de um Centro Integrado de Inteligência de Fronteira, articulando Polícia Civil, Brigada Militar, Polícia Federal, Polícia Rodoviária Federal e forças dos países vizinhos no combate ao tráfico de armas, munições e drogas.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL"
+            },
+            {
+              "id": "s11",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "A segurança pública no Rio Grande do Sul enfrenta desafios que exigem respostas permanentes, integradas e cada vez mais especializadas. Os homicídios permanecem concentrados sobretudo em territórios vulneráveis, enquanto avançam o crime organizado e as facções criminosas, os estelionatos e golpes digitais e persiste a violência contra as mulheres."
+            },
+            {
+              "id": "s12",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "A Coligação Com o Povo fortalecerá a inteligência policial e o enfrentamento ao crime organizado, com a criação de um Centro Integrado de Inteligência de Fronteira, articulando Polícia Civil, Brigada Militar, Polícia Federal, Polícia Rodoviária Federal e forças dos países vizinhos no combate ao tráfico de armas, munições e drogas. O Instituto-Geral de Perícias será valorizado e fortalecido para qualificar o conjunto da segurança pública do estado."
+            },
+            {
+              "id": "s19",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Ao mesmo tempo, o sistema prisional gaúcho convive com superlotação e condições inadequadas, enquanto a violência de gênero, o racismo, a LGBTfobia e outras formas de discriminação exigem respostas firmes e permanentes das instituições públicas."
+            },
+            {
+              "id": "s20",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Serão fortalecidos o Programa de Proteção a Defensores de Direitos Humanos, a Ouvidoria Externa da Segurança Pública e o Mecanismo Estadual de Prevenção e Combate à Tortura, garantindo proteção às pessoas ameaçadas, controle social e fiscalização independente das instituições. Plano de Governo Juliana Brizola - 2027-2030 A reintegração de egressos do sistema prisional será ampliada por meio dos Escritórios Sociais, com atendimento integrado e ações de prevenção à reincidência."
+            },
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Na segurança pública, haverá formação permanente para combater a filtragem e o perfilamento racial nas abordagens policiais, com monitoramento da Ouvidoria Externa."
+            },
+            {
+              "id": "s32",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "No sistema prisional, serão garantidos espaços adequados e seguros à população LGBTQIA+, assegurando sua dignidade e integridade física."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 17,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "As mudanças climáticas, as desigualdades entre as regiões, os desafios sociais e a necessidade de retomar o crescimento econômico com inclusão nos convocam a pensar e planejar o futuro com solidariedade, diálogo e conhecimento técnico. Plano de Governo Juliana Brizola - 2027-2030 Climática, Área de Desenvolvimento Econômico Sustentável e Reindustrialização e Área de Gestão Pública Democrática, Soberania Popular e Finanças. não haverá justiça social sem crescimento e geração de oportunidades; não haverá crescimento sustentável sem infraestrutura, ciência, tecnologia e proteção ambiental; e nenhuma dessas transformações será possível sem um Estado eficiente, democrático, financeiramente responsável e capaz de planejar o futuro.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "As mudanças climáticas, as desigualdades entre as regiões, os desafios sociais e a necessidade de retomar o crescimento econômico com inclusão nos convocam a pensar e planejar o futuro com solidariedade, diálogo e conhecimento técnico."
+            },
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 5,
+              "text": "Plano de Governo Juliana Brizola - 2027-2030 Climática, Área de Desenvolvimento Econômico Sustentável e Reindustrialização e Área de Gestão Pública Democrática, Soberania Popular e Finanças. não haverá justiça social sem crescimento e geração de oportunidades; não haverá crescimento sustentável sem infraestrutura, ciência, tecnologia e proteção ambiental; e nenhuma dessas transformações será possível sem um Estado eficiente, democrático, financeiramente responsável e capaz de planejar o futuro."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL"
+            },
+            {
+              "id": "s07",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "a educação não é custo, mas o investimento estratégico mais importante para a redução das desigualdades, a consolidação da soberania e o desenvolvimento econômico e social."
+            },
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "A política estadual também buscará fomentar o Complexo Econômico-Industrial da Saúde como vetor de inovação, geração de empregos qualificados e fortalecimento da soberania sanitária, articulando desenvolvimento econômico e proteção social."
+            },
+            {
+              "id": "s13",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "A essa realidade somam-se desigualdades persistentes no mercado de trabalho — disparidade salarial, sobrecarga do trabalho de cuidado não remunerado e insuficiência de creches públicas —, que limitam a autonomia econômica das mulheres."
+            },
+            {
+              "id": "s15",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "O mercado de trabalho no Rio Grande do Sul é marcado pelo crescimento da informalidade, pela precarização das relações de trabalho, especialmente por meio de aplicativos, pela estagnação do rendimento médio dos trabalhadores e pela persistência das desigualdades de gênero e raça. A política de desenvolvimento do Estado terá como meta central a geração de empregos formais, com direitos garantidos e remuneração digna, a valorização Plano de Governo Juliana Brizola - 2027-2030 contínua do Piso Salarial Regional, a proteção dos trabalhadores autônomos e de plataformas digitais e o apoio aos micro e pequenos empreendedores."
+            },
+            {
+              "id": "s23",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "A Coligação Com o Povo compreende a cultura como dimensão essencial da identidade e da formação de um povo, direito fundamental de cidadania e importante vetor de desenvolvimento econômico e social sustentável."
+            },
+            {
+              "id": "s31",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "A exclusão do mercado de trabalho formal, o abandono e a vulnerabilidade social de jovens LGBTQIA+ e as dificuldades de acesso a atendimento adequado e especializado na rede pública de saúde, inclusive nos serviços de saúde mental e de atenção às pessoas trans, configuram um quadro persistente de desigualdade, discriminação e violação de direitos. A Coligação Com o Povo atuará firmemente na promoção do respeito à diversidade e na garantia dos direitos da população LGBTQIA+, assegurando políticas de prevenção e enfrentamento à violência e à discriminação, proteção à integridade física, inclusão no mercado de trabalho e acesso digno aos serviços públicos."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 18,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A política estadual também buscará fomentar o Complexo Econômico-Industrial da Saúde como vetor de inovação, geração de empregos qualificados e fortalecimento da soberania sanitária, articulando desenvolvimento econômico e proteção social. A Coligação fortalecerá e ampliará a Rede Lilás, articulando Judiciário, Ministério Público, Defensoria, Brigada Militar, Polícia Civil e Assistência Social em um fluxo integrado e humanizado, evitando a revitimização. O agravamento das desigualdades sociais e os impactos dos recentes desastres climáticos ampliaram as situações de pobreza, extrema pobreza e insegurança alimentar entre milhares de famílias gaúchas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "A política estadual também buscará fomentar o Complexo Econômico-Industrial da Saúde como vetor de inovação, geração de empregos qualificados e fortalecimento da soberania sanitária, articulando desenvolvimento econômico e proteção social."
+            },
+            {
+              "id": "s14",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A Coligação fortalecerá e ampliará a Rede Lilás, articulando Judiciário, Ministério Público, Defensoria, Brigada Militar, Polícia Civil e Assistência Social em um fluxo integrado e humanizado, evitando a revitimização."
+            },
+            {
+              "id": "s17",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "O agravamento das desigualdades sociais e os impactos dos recentes desastres climáticos ampliaram as situações de pobreza, extrema pobreza e insegurança alimentar entre milhares de famílias gaúchas. Ao mesmo tempo, o Sistema Único de Assistência Social (SUAS) no Estado enfrenta dificuldades decorrentes da insuficiência dos repasses estaduais, da precarização das equipes técnicas dos Centros de Referência de Assistência Social (CRAS) e Centro de Referência Especializado de Assistência Social (CREAS) e da falta de infraestrutura adequada para assegurar atendimento digno às populações em situação de vulnerabilidade."
+            },
+            {
+              "id": "s18",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "A Coligação Com o Povo fortalecerá o Sistema Único de Assistência Social (SUAS), ampliando o financiamento estadual, qualificando a rede de CRAS, CREAS e demais serviços e valorizando seus trabalhadores, com recomposição das equipes e formação continuada."
+            },
+            {
+              "id": "s32",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Na proteção social e na saúde, serão estruturados grupos de acolhimento psicológico nos CAPS para jovens LGBTQIA+, qualificada a atenção à população idosa nas ILPIs e na rede do SUS e apoiadas Casas de Passagem para jovens expulsos do convívio familiar ou em situação de rua."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "ENERGÉTICA JUSTA 2.3 - MINERAÇÃO ESTRATÉGICA, AGROMINERAIS E BENEFICIAMENTO LOCAL 2.4 - SANEAMENTO BÁSICO, RECURSOS HÍDRICOS E COMITÊS DE BACIA 2.5 - MEIO AMBIENTE, TRANSIÇÃO ECOLÓGICA E",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "ENERGÉTICA JUSTA 2.3 - MINERAÇÃO ESTRATÉGICA, AGROMINERAIS E BENEFICIAMENTO LOCAL 2.4 - SANEAMENTO BÁSICO, RECURSOS HÍDRICOS E COMITÊS DE BACIA 2.5 - MEIO AMBIENTE, TRANSIÇÃO ECOLÓGICA E"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 5,
+          "page_end": 12,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL O enfrentamento à fome e à miséria será prioridade de governo, por meio do fortalecimento e do financiamento Plano de Governo Juliana Brizola - 2027-2030 adequado do SUAS, da articulação das redes de proteção e solidariedade e da integração com políticas de segurança alimentar e de fortalecimento da agricultura familiar, garantindo o acesso à alimentação saudável e de qualidade para quem mais precisa. O combate à fome será integrado à inclusão social e produtiva, com o programa Comida no Prato, fortalecendo cozinhas comunitárias e solidárias, bancos de alimentos e restaurantes populares, além da aquisição estadual de alimentos da agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "2.7 - MOBILIDADE URBANA METROPOLITANA DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E REINDUSTRIALIZAÇÃO 3.1 - AGRICULTURA FAMILIAR E ABASTECIMENTO ALIMENTAR 3.2 - AGROPECUÁRIA SUSTENTÁVEL"
+            },
+            {
+              "id": "s17",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "O enfrentamento à fome e à miséria será prioridade de governo, por meio do fortalecimento e do financiamento Plano de Governo Juliana Brizola - 2027-2030 adequado do SUAS, da articulação das redes de proteção e solidariedade e da integração com políticas de segurança alimentar e de fortalecimento da agricultura familiar, garantindo o acesso à alimentação saudável e de qualidade para quem mais precisa."
+            },
+            {
+              "id": "s18",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "O combate à fome será integrado à inclusão social e produtiva, com o programa Comida no Prato, fortalecendo cozinhas comunitárias e solidárias, bancos de alimentos e restaurantes populares, além da aquisição estadual de alimentos da agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 11,
+          "page_end": 11,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Em parceria com universidades, trabalhadores e setor produtivo, o Estado desenvolverá políticas permanentes de acompanhamento das transformações no mundo do trabalho, especialmente dos impactos da automação, da inteligência artificial e da transição climática.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Em parceria com universidades, trabalhadores e setor produtivo, o Estado desenvolverá políticas permanentes de acompanhamento das transformações no mundo do trabalho, especialmente dos impactos da automação, da inteligência artificial e da transição climática."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 11,
+          "page_end": 14,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Serão igualmente incentivadas cooperativas e redes de compras coletivas, bem como a integração do artesanato e da economia criativa às políticas de turismo e desenvolvimento regional. A política cultural do Governo promoverá a democratização e a descentralização dos recursos públicos, ampliando seu acesso em todas as regiões do Estado, fortalecerá a proteção e a valorização do patrimônio cultural material e imaterial, ampliará os Pontos de Cultura e os mecanismos de fomento à produção artística e impulsionará a economia criativa, com especial atenção ao setor audiovisual, consolidando o Rio Grande do Sul como referência cultural e polo de produção e integração no âmbito do Mercosul. A política cultural valorizará a memória e o patrimônio material e imaterial, com investimentos na recuperação e proteção de museus, teatros, bibliotecas e prédios históricos, e estimulará a economia criativa, especialmente o audiovisual, os games e a animação.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Serão igualmente incentivadas cooperativas e redes de compras coletivas, bem como a integração do artesanato e da economia criativa às políticas de turismo e desenvolvimento regional."
+            },
+            {
+              "id": "s23",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "A política cultural do Governo promoverá a democratização e a descentralização dos recursos públicos, ampliando seu acesso em todas as regiões do Estado, fortalecerá a proteção e a valorização do patrimônio cultural material e imaterial, ampliará os Pontos de Cultura e os mecanismos de fomento à produção artística e impulsionará a economia criativa, com especial atenção ao setor audiovisual, consolidando o Rio Grande do Sul como referência cultural e polo de produção e integração no âmbito do Mercosul."
+            },
+            {
+              "id": "s24",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "A política cultural valorizará a memória e o patrimônio material e imaterial, com investimentos na recuperação e proteção de museus, teatros, bibliotecas e prédios históricos, e estimulará a economia criativa, especialmente o audiovisual, os games e a animação."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 12,
+          "page_end": 17,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "O contexto recente de radicalização política e de agravamento dos conflitos socioambientais no Rio Grande do Sul tem ampliado situações de ameaça e violações de Direitos Humanos. Lideranças comunitárias, defensores de direitos humanos, ambientalistas, povos indígenas e comunidades quilombolas enfrentam situações crescentes de vulnerabilidade e violência. O Governo efetivará o Sistema Estadual de Direitos Humanos, regulamentando a Lei Estadual nº 14.481/2014 e fortalecendo a estrutura responsável pela política de Justiça, Cidadania e Direitos Humanos.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "O contexto recente de radicalização política e de agravamento dos conflitos socioambientais no Rio Grande do Sul tem ampliado situações de ameaça e violações de Direitos Humanos. Lideranças comunitárias, defensores de direitos humanos, ambientalistas, povos indígenas e comunidades quilombolas enfrentam situações crescentes de vulnerabilidade e violência."
+            },
+            {
+              "id": "s20",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "O Governo efetivará o Sistema Estadual de Direitos Humanos, regulamentando a Lei Estadual nº 14.481/2014 e fortalecendo a estrutura responsável pela política de Justiça, Cidadania e Direitos Humanos. O respeito aos direitos humanos e o enfrentamento ao racismo, capacitismo e demais formas de discriminação serão diretrizes transversais da administração estadual, inclusive na concessão de incentivos e recursos públicos."
+            },
+            {
+              "id": "s29",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "A Coligação Com o Povo assumirá o compromisso de promover a igualdade racial e enfrentar todas as formas de racismo e discriminação."
+            },
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "A Coligação Com o Povo fortalecerá a Política Estadual de Promoção da Igualdade Racial (PEPIR), com estrutura executiva, orçamento próprio e atuação transversal, assegurando o cumprimento das cotas raciais nos concursos públicos e cargos em comissão."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 2,
+          "page_end": 16,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Plano de Governo Juliana Brizola - 2027-2030 Climática, Área de Desenvolvimento Econômico Sustentável e Reindustrialização e Área de Gestão Pública Democrática, Soberania Popular e Finanças. 3.5 - TURISMO SUSTENTÁVEL E ROTAS CULTURAIS GESTÃO PÚBLICA DEMOCRÁTICA, SOBERANIA POPULAR E FINANÇAS 4.1 - GESTÃO PÚBLICA, VALORIZAÇÃO DO SERVIDOR, PLANEJAMENTO REGIONAL E PARTICIPAÇÃO SOCIAL Serão incentivadas a formação de lideranças femininas e a paridade de gênero nos cargos de chefia do Estado, e fortalecido o Conselho Estadual dos Direitos da Mulher (CEDM) com condições adequadas de funcionamento e valorização do controle social. Serão também fortalecidos o CEAS/RS, o CONSEA/RS e os mecanismos de participação e controle social.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 5,
+              "text": "Plano de Governo Juliana Brizola - 2027-2030 Climática, Área de Desenvolvimento Econômico Sustentável e Reindustrialização e Área de Gestão Pública Democrática, Soberania Popular e Finanças."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "3.5 - TURISMO SUSTENTÁVEL E ROTAS CULTURAIS GESTÃO PÚBLICA DEMOCRÁTICA, SOBERANIA POPULAR E FINANÇAS 4.1 - GESTÃO PÚBLICA, VALORIZAÇÃO DO SERVIDOR, PLANEJAMENTO REGIONAL E PARTICIPAÇÃO SOCIAL"
+            },
+            {
+              "id": "s14",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Serão incentivadas a formação de lideranças femininas e a paridade de gênero nos cargos de chefia do Estado, e fortalecido o Conselho Estadual dos Direitos da Mulher (CEDM) com condições adequadas de funcionamento e valorização do controle social."
+            },
+            {
+              "id": "s18",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Serão também fortalecidos o CEAS/RS, o CONSEA/RS e os mecanismos de participação e controle social."
+            },
+            {
+              "id": "s20",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Serão fortalecidos o Programa de Proteção a Defensores de Direitos Humanos, a Ouvidoria Externa da Segurança Pública e o Mecanismo Estadual de Prevenção e Combate à Tortura, garantindo proteção às pessoas ameaçadas, controle social e fiscalização independente das instituições. O Estado implantará mecanismos de denúncia e apuração de violações socioambientais, promoverá campanhas permanentes contra a intolerância e a discriminação e assegurará autonomia, infraestrutura e condições de funcionamento ao Conselho Estadual de Direitos Humanos e aos demais conselhos de direitos, fortalecendo a participação social e a cultura de paz."
+            },
+            {
+              "id": "s29",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "Para isso, atuará no combate ao racismo institucional, na proteção e valorização das tradições e do patrimônio afro-gaúcho, no avanço da regularização fundiária dos territórios quilombolas e na ampliação das oportunidades de educação, trabalho, cultura e participação social para a juventude negra, contribuindo para a construção de um Rio Grande do Sul mais justo, plural e igualitário."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "210002552592",
+      "state_code": "RS",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RS210002552592_01.pdf",
+      "public_path": "/propostas/2026/RS/2026RS210002552592_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

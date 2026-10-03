@@ -1,0 +1,476 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "vice-governador",
+  "state_code": "CE",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "60002540418",
+      "state_code": "CE",
+      "office": "VICE-GOVERNADOR",
+      "candidate_type": "vice-governador",
+      "file_name": "2026CE60002540418_01.pdf",
+      "public_path": "/propostas/2026/CE/2026CE60002540418_01.pdf",
+      "sha256": "b716a6fed3abeebf5ff0b6af4fd7b6fd2cd0d08982b7cdaec02c945f7e5e60a3",
+      "summary": "Ao mesmo tempo em que consolidou avanços importantes em áreas como educação básica, equilíbrio fiscal e atração de investimentos, permanece convivendo com desafios estruturais que limitam o desenvolvimento econômico, reduzem a competitividade, aprofundam desigualdades regionais e comprometem a qualidade dos serviços públicos. referência nacional em alfabetização e ensino fundamental, mas com evasão no ensino médio, distorção idade-série e desconexão entre escola e mercado de trabalho. Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública. mobilidade, segurança pública, saneamento, expansão urbana, geração de emprego e renda, alta vulnerabilidade social em periferias e forte adensamento populacional. histórico consistente de responsabilidade fiscal e capacidade de investimento acima da média nacional, sob pressão futura de despesas obrigatórias e previdência. Ainda, essa região possui uma posição geográfica estrategicamente conectada e tem forte presença da agricultura familiar.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "Ao mesmo tempo em que consolidou avanços importantes em áreas como educação básica, equilíbrio fiscal e atração de investimentos, permanece convivendo com desafios estruturais que limitam o desenvolvimento econômico, reduzem a competitividade, aprofundam desigualdades regionais e comprometem a qualidade dos serviços públicos. referência nacional em alfabetização e ensino fundamental, mas com evasão no ensino médio, distorção idade-série e desconexão entre escola e mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Ao mesmo tempo em que consolidou avanços importantes em áreas como educação básica, equilíbrio fiscal e atração de investimentos, permanece convivendo com desafios estruturais que limitam o desenvolvimento econômico, reduzem a competitividade, aprofundam desigualdades regionais e comprometem a qualidade dos serviços públicos. referência nacional em alfabetização e ensino fundamental, mas com evasão no ensino médio, distorção idade-série e desconexão entre escola e mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 6,
+          "page_end": 22,
+          "topics": [
+            "health"
+          ],
+          "summary": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou"
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Levar esgoto, água, moradia regularizada e atenção básica de saúde às comunidades retomadas."
+            },
+            {
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "redimensionamento de R$ 213 milhões/ano do orçamento de saúde preventiva, com investimento de R$ 1,49 bilhão em 7 anos gerando (pela relação 1:4 do Trata Brasil) uma economia projetada de R$ 5,96 bilhões em gastos hospitalares e medicamentos por doenças de veiculação hídrica."
+            },
+            {
+              "id": "s28",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Atenção básica de saúde e drenagem/urbanização nas áreas retomadas (conecta aos Compromissos 5 e 7)."
+            },
+            {
+              "id": "s30",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "100%); redução de novos casos de deslocamento forçado (meta: 90% em 24 meses); famílias expulsas inseridas em programas de renda e saúde mental (meta: 100%); beneficiários com autonomia financeira via microcrédito (meta: 50%)."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 21,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou"
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Crescimento econômico abaixo do potencial; Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública."
+            },
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "violência entre os principais problemas, com atuação de organizações criminosas, disputa territorial, crimes patrimoniais, violência contra mulheres e comando emanado de dentro do sistema prisional."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "mobilidade, segurança pública, saneamento, expansão urbana, geração de emprego e renda, alta vulnerabilidade social em periferias e forte adensamento populacional."
+            },
+            {
+              "id": "s08",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Dentre os desafios, destaca-se a falta de saneamento básico em alguns polos turísticos, dificuldade na preservação ambiental diante da forte exploração turística, a especulação imobiliária, a desigualdade socioeconômica e a gestão da segurança pública tendo em vista o crescimento das organizações criminosas."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Unificar o comando estratégico da segurança e do sistema prisional, eliminando a duplicidade de 80 a 120 cargos comissionados hoje mantidos só para gestão administrativa. A segurança pública consome R$ 5,822 bilhões do orçamento de 2026 (R$ 48,2 bi no total), atrás apenas de saúde e educação."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Fusão SSPDS + SAP Criar a Secretaria de Segurança Pública, Defesa Social e Administração Penitenciária (SSP), unificando inteligência policial e penitenciária sob o mesmo comando: 1 Secretário de Estado e 2 Secretários Executivos (Operações Policiais; Administração Penitenciária e Ressocialização). Gerir de forma complementar o Fundo de Segurança Pública (FSPDS) e o Fundo Penitenciário (FUNPEN)."
+            },
+            {
+              "id": "s16",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "natureza de órgão permanente de segurança pública (Art."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Criar, em parceria com Rio de Janeiro e Espírito Santo, a Agência de Inteligência e Repressão ao Crime Organizado (ARCO CE-RJ-ES): uma unidade operacional e de inteligência híbrida para enfrentar as \"franquias criminosas\" que hoje operam através das fronteiras estaduais, com o ES fechando o cerco logístico entre RJ e CE."
+            },
+            {
+              "id": "s20",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "monitoramento de lideranças presas para neutralizar ordens de ataque emitidas de dentro do sistema prisional; agentes infiltrados e interceptação telemática (Lei nº 12.850/2013); malha de alerta precoce que aciona os três estados quando há movimentação suspeita em qualquer um deles."
+            },
+            {
+              "id": "s21",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Economia direta com a fusão SSPDS+SAP (R$ 9 a 15 milhões/ano) e a extinção da CGD (R$ 3,3 a 5,3 milhões/ano): total estimado entre R$ 12,3 milhões e R$ 20,3 milhões/ano, reinvestida integralmente em modernização das forças de segurança pública. dotação orçamentária dos três Tesouros estaduais; pleito de repasses fundo-a-fundo ampliado do Fundo Nacional de Segurança Pública (FNSP); recuperação de ativos das facções via Rede Recupera; emendas de bancada federal; cooperação técnica internacional (MJSP, Interpol, UNODC)."
+            },
+            {
+              "id": "s22",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Regularização do FUNPEN/CE por lei, decreto de emergência do sistema prisional e início da mobilização e contratação do Mega-presídio. 1º ano: Unificação física de sedes e sistemas administrativos (SSPDS + SAP) Instalação das corregedorias internas e da Ouvidoria Geral específica para cada força de segurança pública e a consequente extinção da CGD."
+            },
+            {
+              "id": "s26",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "identificação via CadÚnico e investigação social; imóvel de uso exclusivo para moradia, com proibição absoluta de venda ou aluguel; fiscalização por revistas periódicas conjuntas das Secretarias das Cidades, de Segurança Pública, de Proteção Social e de Desenvolvimento Econômico."
+            },
+            {
+              "id": "s29",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Tesouro Estadual/FUNDES (operações e inteligência, dotação direta); Fundo Nacional de Segurança Pública (equipamentos e tecnologia, via convênio MJSP); PAC/Minha Casa Minha Vida (reforma e urbanismo, repasse federal); leilão de bens apreendidos das facções (Fundo de Reconstrução, via alienação judicial); linhas de crédito internacional (BID/CAF) para infraestrutura social."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 6,
+          "page_end": 19,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Ao mesmo tempo em que consolidou avanços importantes em áreas como educação básica, equilíbrio fiscal e atração de investimentos, permanece convivendo com desafios estruturais que limitam o desenvolvimento econômico, reduzem a competitividade, aprofundam desigualdades regionais e comprometem a qualidade dos serviços públicos. Crescimento econômico abaixo do potencial; Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública. mobilidade, segurança pública, saneamento, expansão urbana, geração de emprego e renda, alta vulnerabilidade social em periferias e forte adensamento populacional.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Ao mesmo tempo em que consolidou avanços importantes em áreas como educação básica, equilíbrio fiscal e atração de investimentos, permanece convivendo com desafios estruturais que limitam o desenvolvimento econômico, reduzem a competitividade, aprofundam desigualdades regionais e comprometem a qualidade dos serviços públicos. Crescimento econômico abaixo do potencial; Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "mobilidade, segurança pública, saneamento, expansão urbana, geração de emprego e renda, alta vulnerabilidade social em periferias e forte adensamento populacional."
+            },
+            {
+              "id": "s26",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "identificação via CadÚnico e investigação social; imóvel de uso exclusivo para moradia, com proibição absoluta de venda ou aluguel; fiscalização por revistas periódicas conjuntas das Secretarias das Cidades, de Segurança Pública, de Proteção Social e de Desenvolvimento Econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "histórico consistente de responsabilidade fiscal e capacidade de investimento acima da média nacional, sob pressão futura de despesas obrigatórias e previdência.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "histórico consistente de responsabilidade fiscal e capacidade de investimento acima da média nacional, sob pressão futura de despesas obrigatórias e previdência."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 19,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Fusão SSPDS+SAP; Polícia Penal; Corregedorias internas, ARCO CE-RJ-ES; Mega-Presídio C2 - Periferia com Estado Segurança, Saneamento, Habitação, Saúde, Infraestrutura urbana Desfavelização com lei e ordem; GIRT; Moradia Definitiva + Filtro de Integridade; Ligação de esgoto CadÚnico; Regularização fundiária C3 - Interior que produz Agricultura, Indústria, Educação, Trabalho, Recursos Hídricos Industrialização do agro; PNAE 45+; Campo e Escola; Segurança Hídrica Rural; Leve poços; Ceará Júnior; valorização do tiro desportivo C4 - Escola que forma para a vida Educação, Segurança (prevenção), Saúde mental, Trabalho Recomposição de aprendizagens; Ceará Cívico; Saúde Mental nas Escolas; Ensino técnico territorializado C5 - Saúde que chega na hora Saúde, Saneamento, Gestão regional Redução de filas; Regionalização; Integração saúde–saneamento; Rede Materno-Infantil; Regulação de Urgência; HIAS 2 Iguatu; Casas da Mulher Cearense C6 - Famílias Livres Assistência social, Trabalho, Tecnologia, Juventude Porta de Saída (SPS/IDT); Fim do assistencialismo por dados; Qualificação e renda C7 - Base do Desenvolvimento Recursos hídricos, Energia, Logística, Saneamento, Fiscal Redução de perdas / Vou"
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Criar o Gabinete Integrado de Reconstrução Territorial (GIRT), vinculado diretamente à Casa Civil, para comandar de forma centralizada e simultânea as quatro frentes deste compromisso: repressão inteligente (SSPDS/SeInt), jurídicofundiário (PGE, Defensoria, MPCE), habitação e infraestrutura (Secretaria das Cidades, SEINFRA), assistência social (SPS), saúde (SESA), desenvolvimento (SDE) e gestão/controle (SEPLAG, Controladoria) - com Comitê Gestor semanal e uma Sala de Situação Integrada que georreferencia cada imóvel e família sob intervenção. (i) Inteligência e Retomada - mapeamento georreferenciado e operações de cerco coordenado, com Centro de Inteligência Integrado; (ii) Jurídico-Fundiário - criação de Varas Especializadas em crimes de facção e deslocamento forçado, reduzindo de anos para meses o tempo de reintegração de posse; (iii) Reconstrução e Reocupação - Programa \"Minha Casa de Volta\" para reforma emergencial de imóveis depredados, com urbanismo tático (iluminação LED, praças, câmeras) para inibir o retorno das facções pelo design ambiental; (iv) Reintegração Social e Econômica - cadastro único priorizando famílias expulsas em transferência de renda, capacitação e microc"
+            },
+            {
+              "id": "s26",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "identificação via CadÚnico e investigação social; imóvel de uso exclusivo para moradia, com proibição absoluta de venda ou aluguel; fiscalização por revistas periódicas conjuntas das Secretarias das Cidades, de Segurança Pública, de Proteção Social e de Desenvolvimento Econômico."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 11,
+          "page_end": 23,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Ainda, essa região possui uma posição geográfica estrategicamente conectada e tem forte presença da agricultura familiar. Elevar o percentual de compras públicas da agricultura familiar acima do mínimo de 45% já exigido pela Lei nº 15.226/2025 para a merenda escolar (PNAE). 75,5% dos estabelecimentos agrícolas do Ceará são familiares, respondendo por 39,6% do valor total da produção agropecuária do Estado.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Ainda, essa região possui uma posição geográfica estrategicamente conectada e tem forte presença da agricultura familiar."
+            },
+            {
+              "id": "s31",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Elevar o percentual de compras públicas da agricultura familiar acima do mínimo de 45% já exigido pela Lei nº 15.226/2025 para a merenda escolar (PNAE). 75,5% dos estabelecimentos agrícolas do Ceará são familiares, respondendo por 39,6% do valor total da produção agropecuária do Estado."
+            },
+            {
+              "id": "s32",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "elevar e desburocratizar, acima do piso de 45% já previsto em lei, a compra pública local da agricultura familiar, com chamada pública simplificada e logística compartilhada."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "instituições de planejamento consolidadas (IPECE, SEPLAG), com desafios de integração entre secretarias, transformação digital e avaliação por resultados.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "instituições de planejamento consolidadas (IPECE, SEPLAG), com desafios de integração entre secretarias, transformação digital e avaliação por resultados."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Crescimento econômico abaixo do potencial; Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública. Criar uma Ouvidoria Geral de Segurança vinculada ao gabinete do Governador, garantindo controle social e isenção. A favelização cresce, e onde falta esgoto, moradia digna e serviço público, a facção ocupa o vazio.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Crescimento econômico abaixo do potencial; Elevada desigualdade territorial; Crise da segurança pública; Baixa produtividade e industrialização; Pressão sobre infraestrutura hídrica e logística; Necessidade de modernização da gestão pública."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Criar uma Ouvidoria Geral de Segurança vinculada ao gabinete do Governador, garantindo controle social e isenção."
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A favelização cresce, e onde falta esgoto, moradia digna e serviço público, a facção ocupa o vazio."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

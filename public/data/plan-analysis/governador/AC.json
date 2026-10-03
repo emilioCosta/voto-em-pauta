@@ -1,0 +1,2486 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "AC",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "10002532492",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002532492_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002532492_01.pdf",
+      "sha256": "e48b61a093e52292b5e547a0f0d5fd172f7641e48f32b452e5245b14160cac42",
+      "summary": "“ ” A educação é a principal ferramenta para promover o desenvolvimento humano, reduzir desigualdades e preparar o Acre para um novo ciclo de crescimento. Persistem, entretanto, déficits expressivos na Educação Infantil, onde apenas 17,9% das crianças de 0 a 3 anos frequentavam creches, percentual muito abaixo da meta nacional de 50%. No Ensino Médio, aproximadamente 7,9% dos jovens entre 15 e 17 anos permaneciam fora da escola, enquanto somente 65,83% dos jovens de 19 a 24 anos concluíram a Educação Básica, demonstrando a necessidade de fortalecer as políticas de permanência, aprendizagem e conclusão dos estudos. • Criar o Programa de Saúde e Bem-Estar dos Profissionais da Educação, com foco na saúde mental e na prevenção do adoecimento. Igualdade racial - fortalecimento da política estadual, apoio a comunidades quilombolas e programas de empregabilidade; Pessoas com deficiência - plano estadual com foco em acessibilidade física e comunicacional, inclusão educacional e reabilitação; Saúde mental - ampliação dos CAPS e apoio técnico e financeiro a comunidades terapêuticas credenciadas para reinserção social; População de rua e migrantes - atendimento especializado e fortalecimento das equipes de abordagem social. “ ” Vamos regionalizar os serviços, reduzir filas, ampliar o acesso à média e alta complexidade e oferecer uma saúde mais resolutiva, humanizada e próxima da população. Expandir escolas cívico-militares em áreas de maior vulnerabilidade social, de acordo com critérios técnicos e as necessidades identificadas; Fortalecer a Educação Indígena e a Educação do Campo, com materiais específicos, formação de professores e valorização dos Territórios Etnoeducacionais; Implantar o Programa de Convivência Escolar, Saúde Docente e Cultura de Paz, em parceria com as Secretarias de Saúde e Segurança Pública; Ensino Médio, Educação Profissional e Oportunidades para a Juventude Preparar os jovens para o ensino superior, o mercado de trabalho e o empreendedorismo será uma prioridade da gestão.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 19,
+          "page_end": 23,
+          "topics": [
+            "education"
+          ],
+          "summary": "“ ” A educação é a principal ferramenta para promover o desenvolvimento humano, reduzir desigualdades e preparar o Acre para um novo ciclo de crescimento. Persistem, entretanto, déficits expressivos na Educação Infantil, onde apenas 17,9% das crianças de 0 a 3 anos frequentavam creches, percentual muito abaixo da meta nacional de 50%. No Ensino Médio, aproximadamente 7,9% dos jovens entre 15 e 17 anos permaneciam fora da escola, enquanto somente 65,83% dos jovens de 19 a 24 anos concluíram a Educação Básica, demonstrando a necessidade de fortalecer as políticas de permanência, aprendizagem e conclusão dos estudos.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "“ ” A educação é a principal ferramenta para promover o desenvolvimento humano, reduzir desigualdades e preparar o Acre para um novo ciclo de crescimento."
+            },
+            {
+              "id": "s12",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "Persistem, entretanto, déficits expressivos na Educação Infantil, onde apenas 17,9% das crianças de 0 a 3 anos frequentavam creches, percentual muito abaixo da meta nacional de 50%. No Ensino Médio, aproximadamente 7,9% dos jovens entre 15 e 17 anos permaneciam fora da escola, enquanto somente 65,83% dos jovens de 19 a 24 anos concluíram a Educação Básica, demonstrando a necessidade de fortalecer as políticas de permanência, aprendizagem e conclusão dos estudos."
+            },
+            {
+              "id": "s13",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Aprendizagem com Qualidade Garantir que todas as crianças aprendam na idade certa e que os estudantes permaneçam na escola será a principal prioridade da política educacional. O Governo concentrará esforços na alfabetização, na melhoria dos indicadores de aprendizagem, na redução da evasão escolar e na ampliação da educação em tempo integral, fortalecendo uma cultura permanente de avaliação e acompanhamento pedagógico."
+            },
+            {
+              "id": "s14",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "• Redução da evasão escolar, especialmente no Ensino Médio. • Ampliação da oferta de escolas em tempo integral."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 20,
+          "page_end": 36,
+          "topics": [
+            "health"
+          ],
+          "summary": "• Criar o Programa de Saúde e Bem-Estar dos Profissionais da Educação, com foco na saúde mental e na prevenção do adoecimento. • Pessoas idosas - centros de convivência, programa de cuidados domiciliares e proteção contra a violência e o abandono; População LGBTQIAPN+ - plano estadual de promoção de direitos, centros de referência especializados e combate à discriminação; Igualdade racial - fortalecimento da política estadual, apoio a comunidades quilombolas e programas de empregabilidade; Pessoas com deficiência - plano estadual com foco em acessibilidade física e comunicacional, inclusão educacional e reabilitação; Saúde mental - ampliação dos CAPS e apoio técnico e financeiro a comunidades terapêuticas credenciadas para reinserção social; População de rua e migrantes - atendimento especializado e fortalecimento das equipes de abordagem social. “ ” Vamos regionalizar os serviços, reduzir filas, ampliar o acesso à média e alta complexidade e oferecer uma saúde mais resolutiva, humanizada e próxima da população.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "• Criar o Programa de Saúde e Bem-Estar dos Profissionais da Educação, com foco na saúde mental e na prevenção do adoecimento."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• Pessoas idosas - centros de convivência, programa de cuidados domiciliares e proteção contra a violência e o abandono; População LGBTQIAPN+ - plano estadual de promoção de direitos, centros de referência especializados e combate à discriminação; Igualdade racial - fortalecimento da política estadual, apoio a comunidades quilombolas e programas de empregabilidade; Pessoas com deficiência - plano estadual com foco em acessibilidade física e comunicacional, inclusão educacional e reabilitação; Saúde mental - ampliação dos CAPS e apoio técnico e financeiro a comunidades terapêuticas credenciadas para reinserção social; População de rua e migrantes - atendimento especializado e fortalecimento das equipes de abordagem social."
+            },
+            {
+              "id": "s19",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "“ ” Vamos regionalizar os serviços, reduzir filas, ampliar o acesso à média e alta complexidade e oferecer uma saúde mais resolutiva, humanizada e próxima da população. é insuficiente para atender às necessidades da população."
+            },
+            {
+              "id": "s21",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "apesar dos elevados investimentos realizados nos últimos anos, a população continua convivendo com longas filas de espera, dificuldade de acesso a consultas especializadas, exames diagnósticos e tratamentos de média e alta complexidade."
+            },
+            {
+              "id": "s22",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Saúde da Criança, da Mulher e Saúde Mental Implantar o Pronto Atendimento Infantil, com ampliação de leitos pediátricos e de neonatologia; inaugurar a nova maternidade, fortalecendo o pré-natal e a atenção à gestação de alto risco; recuperar, em parceria com os municípios, as coberturas vacinais abaixo da meta, com busca ativa nos 22 municípios; ampliar os CAPS e os leitos de retaguarda de saúde mental, com estratégias de desinstitucionalização; fortalecer a capacitação profissional em pediatria, obstetrícia e saúde mental infantil. • retomar o Plano de Cargos, Carreiras e Remuneração (PCCR) dos médicos e dos profissionais da saúde, com revisão técnica, fiscal e jurídica; instituir grupo técnico permanente com a SESACRE, a FUNDHACRE, a Procuradoria-Geral do Estado e as representações de categoria - medicina, enfermagem, odontologia, fisioterapia, farmácia, psicologia, serviço social, técnicos e agentes comunitários de saúde - para validar e atualizar o PCCR; estender a valorização de carreira a toda a força de trabalho da saúde, reconhecendo o papel de enfermeiros, técnicos de enfermagem, técnicos de radiologia e laboratório, agentes comunitários de saúde e agentes de combate a end"
+            },
+            {
+              "id": "s23",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "• Menos filas para consultas, exames e cirurgias, com regionais capazes de resolver mais casos sem deslocamento até a capital; Diagnóstico mais rápido de câncer, AVC e infarto, com um Centro Cardio-Neuro-Vascular e um hospital oncológico de referência; Crianças e adolescentes com autismo e atrasos do neurodesenvolvimento atendidos com diagnóstico precoce em todos os municípios; Mães e recém-nascidos com maternidade modernizada e mais leitos de UTI neonatal; Mais retaguarda em saúde mental, com CAPS e leitos de referência ampliados; Médicos e demais profissionais de saúde com carreira valorizada e segurança jurídica."
+            },
+            {
+              "id": "s27",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "• Mais presença do Estado nas áreas hoje sob influência de facções, com redução da violência e da “justiça privada”; Redução da violência contra a mulher, com rede de proteção interiorizada em todas as regionais; Menos acidentes fatais no trânsito, com educação e fiscalização mais próximas do cidadão; Sistema prisional mais seguro, com policiais penais valorizados e presos trabalhando pela ressocialização; Recursos públicos protegidos, com mais transparência e menos espaço para a corrupção; Policiais, bombeiros e agentes penitenciários mais valorizados, com carreira, saúde mental e meritocracia reconhecidas; Resposta mais rápida a queimadas, cheias e estiagens, em todas as regiões do Estado."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 20,
+          "page_end": 36,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "• Ampliar o atendimento educacional especializado e fortalecer a inclusão de estudantes com deficiência e Transtorno do Espectro Autista; Implantar escolas-referência regionais em educação inclusiva; Expandir escolas cívico-militares em áreas de maior vulnerabilidade social, de acordo com critérios técnicos e as necessidades identificadas; Fortalecer a Educação Indígena e a Educação do Campo, com materiais específicos, formação de professores e valorização dos Territórios Etnoeducacionais; Implantar o Programa de Convivência Escolar, Saúde Docente e Cultura de Paz, em parceria com as Secretarias de Saúde e Segurança Pública; Ensino Médio, Educação Profissional e Oportunidades para a Juventude Preparar os jovens para o ensino superior, o mercado de trabalho e o empreendedorismo será uma prioridade da gestão. Segurança Pública, Justiça e Defesa das Fronteiras “ ” Fortaleceremos a segurança pública, combateremos o crime organizado, ampliaremos a presença do Estado nas fronteiras e investiremos em inteligência, tecnologia e valorização dos profissionais da segurança. Some- -se a isso o déficit de efetivo policial destinado ao policiamento ostensivo, delegacias que fecham ao meio da tar",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "• Ampliar o atendimento educacional especializado e fortalecer a inclusão de estudantes com deficiência e Transtorno do Espectro Autista; Implantar escolas-referência regionais em educação inclusiva; Expandir escolas cívico-militares em áreas de maior vulnerabilidade social, de acordo com critérios técnicos e as necessidades identificadas; Fortalecer a Educação Indígena e a Educação do Campo, com materiais específicos, formação de professores e valorização dos Territórios Etnoeducacionais; Implantar o Programa de Convivência Escolar, Saúde Docente e Cultura de Paz, em parceria com as Secretarias de Saúde e Segurança Pública; Ensino Médio, Educação Profissional e Oportunidades para a Juventude Preparar os jovens para o ensino superior, o mercado de trabalho e o empreendedorismo será uma prioridade da gestão."
+            },
+            {
+              "id": "s24",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Segurança Pública, Justiça e Defesa das Fronteiras “ ” Fortaleceremos a segurança pública, combateremos o crime organizado, ampliaremos a presença do Estado nas fronteiras e investiremos em inteligência, tecnologia e valorização dos profissionais da segurança."
+            },
+            {
+              "id": "s25",
+              "page_start": 34,
+              "page_end": 34,
+              "text": "Some- -se a isso o déficit de efetivo policial destinado ao policiamento ostensivo, delegacias que fecham ao meio da tarde e a ausência de uma política de fronteira plenamente integrada com Peru e Bolívia, e o quadro exige um sistema de segurança pública reorganizado, mais presente no território e mais valorizado em sua força de trabalho."
+            },
+            {
+              "id": "s26",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Nosso governo vai atuar simultaneamente na retomada do território, na modernização da gestão, na valorização dos profissionais e na proteção das famílias, tratando segurança pública como resultado de presença do Estado, inteligência e prevenção - não apenas de repressão. • instalar o Gabinete Estadual de Enfrentamento ao Crime Organizado, integrando forças policiais e órgãos de inteligência; implantar o Programa de Segurança Rural, com patrulha rural georreferenciada e cadastro das propriedades do Estado; implantar Rede de Laboratórios Estratégicos de análise financeira e patrimonial para apoiar as investigações; retomar as Cartas de Intenções com Bolívia e Peru para o combate a crimes transfronteiriços; criar o Conselho Permanente de Justiça Criminal, com Judiciário, Ministério Público, delegados e comandantes das forças de segurança."
+            },
+            {
+              "id": "s27",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "• Mais presença do Estado nas áreas hoje sob influência de facções, com redução da violência e da “justiça privada”; Redução da violência contra a mulher, com rede de proteção interiorizada em todas as regionais; Menos acidentes fatais no trânsito, com educação e fiscalização mais próximas do cidadão; Sistema prisional mais seguro, com policiais penais valorizados e presos trabalhando pela ressocialização; Recursos públicos protegidos, com mais transparência e menos espaço para a corrupção; Policiais, bombeiros e agentes penitenciários mais valorizados, com carreira, saúde mental e meritocracia reconhecidas; Resposta mais rápida a queimadas, cheias e estiagens, em todas as regiões do Estado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 4,
+          "page_end": 27,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "“ ” O desenvolvimento econômico é o caminho para gerar oportunidades, fortalecer os municípios e melhorar a qualidade de vida da população. Desenvolvimento Econômico Sustentável, Agronegócio e Produção Familiar O DESAFIO QUE TEMOS PELA FRENTE O Acre reúne condições únicas para liderar um novo ciclo de desenvolvimento sustentável. Agronegócio Competitivo e Cadeias Produtivas Fortes O fortalecimento da produção rural será um dos pilares do desenvolvimento econômico do Acre.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 7,
+              "text": "“ ” O desenvolvimento econômico é o caminho para gerar oportunidades, fortalecer os municípios e melhorar a qualidade de vida da população."
+            },
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "Desenvolvimento Econômico Sustentável, Agronegócio e Produção Familiar O DESAFIO QUE TEMOS PELA FRENTE O Acre reúne condições únicas para liderar um novo ciclo de desenvolvimento sustentável."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Agronegócio Competitivo e Cadeias Produtivas Fortes O fortalecimento da produção rural será um dos pilares do desenvolvimento econômico do Acre. Comercialização, Mercados e Exportação Ampliar mercados e fortalecer a comercialização é essencial para transformar a produção em desenvolvimento econômico."
+            },
+            {
+              "id": "s09",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "• Fortalecer a Zona de Processamento de Exportação (ZPE) como instrumento de atração de investimentos industriais e geração de empregos. Energia, Conectividade e Transformação Digital A infraestrutura energética e digital é fundamental para o desenvolvimento econômico, a modernização dos serviços públicos e a inclusão social."
+            },
+            {
+              "id": "s12",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "A educação é um dos principais pilares para o desenvolvimento econômico e social do Acre."
+            },
+            {
+              "id": "s13",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "• Ampliar o atendimento educacional especializado e fortalecer a inclusão de estudantes com deficiência e Transtorno do Espectro Autista; Implantar escolas-referência regionais em educação inclusiva; Expandir escolas cívico-militares em áreas de maior vulnerabilidade social, de acordo com critérios técnicos e as necessidades identificadas; Fortalecer a Educação Indígena e a Educação do Campo, com materiais específicos, formação de professores e valorização dos Territórios Etnoeducacionais; Implantar o Programa de Convivência Escolar, Saúde Docente e Cultura de Paz, em parceria com as Secretarias de Saúde e Segurança Pública; Ensino Médio, Educação Profissional e Oportunidades para a Juventude Preparar os jovens para o ensino superior, o mercado de trabalho e o empreendedorismo será uma prioridade da gestão. • Fortalecer programas de orientação profissional e preparação para o mercado de trabalho."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• implantar o Programa Primeiro Emprego Acre, com incentivos às empresas, ampliação de estágios, aprendizagem profissional e intermediação de vagas para jovens de 16 a 29 anos; criar o Programa Acre Jovem Empreendedor, com crédito facilitado, capacitação e mentoria para novos negócios em tecnologia, economia criativa, turismo e bioeconomia; oferecer qualificação gratuita por meio do Programa Capacita Acre Jovem, em áreas como tecnologia, inteligência artificial, energias renováveis e construção civil; implantar a Rede Estadual de Casas da Juventude nas cinco regionais, com orientação para o mercado de trabalho, apoio ao empreendedorismo e atendimento psicossocial; levar o Programa Juventude Presente aos 22 municípios, com ações itinerantes de capacitação, empreendedorismo, cultura, esporte e inclusão digital para jovens do interior, das comunidades rurais, ribeirinhas e indígenas."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 36,
+          "page_end": 39,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• aprimorar a qualidade do gasto público, com revisão de contratos, pessoal, frota, imóveis, energia, tecnologia e programas; desenvolver receita inteligente, com melhoria do cadastro, combate à sonegação e uso de tecnologia na fiscalização; criar o Escritório Acre Projetos, que estrutura projetos com engenharia, licenciamento e segurança jurídica antes da abertura da janela de financiamento, priorizando primeiro o recurso não reembolsável - Fundo Amazônia e fundos climáticos -, depois crédito responsável, Parcerias Público Privadas (PPPs) e concessões. As despesas com pessoal chegaram a 55,2% da receita total em 2025 e a 47,99% da Receita Corrente Líquida, apenas 1,44 ponto percentual abaixo do limite máximo da Lei de Responsabilidade Fiscal. A execução deste Plano de Governo estará fundamentada em planejamento, responsabilidade fiscal e eficiência na gestão dos recursos públicos.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "• aprimorar a qualidade do gasto público, com revisão de contratos, pessoal, frota, imóveis, energia, tecnologia e programas; desenvolver receita inteligente, com melhoria do cadastro, combate à sonegação e uso de tecnologia na fiscalização; criar o Escritório Acre Projetos, que estrutura projetos com engenharia, licenciamento e segurança jurídica antes da abertura da janela de financiamento, priorizando primeiro o recurso não reembolsável - Fundo Amazônia e fundos climáticos -, depois crédito responsável, Parcerias Público Privadas (PPPs) e concessões."
+            },
+            {
+              "id": "s29",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "As despesas com pessoal chegaram a 55,2% da receita total em 2025 e a 47,99% da Receita Corrente Líquida, apenas 1,44 ponto percentual abaixo do limite máximo da Lei de Responsabilidade Fiscal. A execução deste Plano de Governo estará fundamentada em planejamento, responsabilidade fiscal e eficiência na gestão dos recursos públicos."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 9,
+          "page_end": 28,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Pesca e Aquicultura A pesca e a aquicultura possuem grande potencial para gerar emprego, renda e fortalecer a segurança alimentar no Acre. • Desenvolver ações permanentes de busca ativa e redução da evasão escolar em articulação com a assistência social e os conselhos tutelares. Inclusão e Desenvolvimento Social “ ” A assistência social é o compromisso do Estado com quem mais precisa, garantindo dignidade, direitos e proteção a todas as famílias acreanas.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Pesca e Aquicultura A pesca e a aquicultura possuem grande potencial para gerar emprego, renda e fortalecer a segurança alimentar no Acre."
+            },
+            {
+              "id": "s13",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "• Desenvolver ações permanentes de busca ativa e redução da evasão escolar em articulação com a assistência social e os conselhos tutelares."
+            },
+            {
+              "id": "s15",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Inclusão e Desenvolvimento Social “ ” A assistência social é o compromisso do Estado com quem mais precisa, garantindo dignidade, direitos e proteção a todas as famílias acreanas."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "Nosso governo fortalecerá o Sistema Único de Assistência Social (SUAS) por meio da descentralização dos serviços, de equipes volantes para alcançar comunidades tradicionais e da ampliação do cofinanciamento estadual aos municípios de pequeno porte, consolidando seis programas estratégicos e as políticas de direitos humanos e inclusão social. Fortalecimento do SUAS - Programa SUAS Presente Consolidar o SUAS como política de Estado exige apoio permanente aos municípios e valorização dos trabalhadores da assistência social."
+            },
+            {
+              "id": "s18",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "• Famílias em situação de pobreza extrema identificadas e atendidas, com mais segurança alimentar e menos dependência de transferência de renda; Serviços socioassistenciais mais próximos, chegando a comunidades ribeirinhas, indígenas e rurais hoje invisibilizadas; Mais vagas de acolhimento para crianças, adolescentes, idosos e mulheres vítimas de violência, com rede de proteção ampliada para além da capital; Mais autonomia econômica para mulheres, jovens e pessoas com deficiência, por meio de qualificação, microcrédito e empreendedorismo; Resposta rápida e humanizada a famílias atingidas por secas, enchentes e desastres, com auxílio-moradia e ajuda humanitária; Municípios de pequeno porte fortalecidos, com cofinanciamento estadual regular e trabalhadores do SUAS mais valorizados e qualificados; Direitos humanos garantidos a mulheres, idosos, população LGBTQIAPN+, comunidades quilombolas, pessoas com deficiência e população em situação de rua, com o Estado presente em cada território."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 14,
+          "page_end": 39,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Nosso governo fará do saneamento uma prioridade, firmando parcerias para ampliar os investimentos em abastecimento de água, esgotamento sanitário, gestão de resíduos sólidos e drenagem urbana, em conjunto com os municípios, para promover mais saúde, proteção ambiental e qualidade de vida para todos os acreanos. • Apoiar os municípios na universalização do manejo adequado dos resíduos sólidos, fortalecendo o consórcio público intermunicipal e soluções regionalizadas para disposição final ambientalmente adequada. • criar o Pacto Acre Municípios, fórum permanente entre o governo estadual e os 22 prefeitos, com agenda pactuada de prioridades e acompanhamento periódico; ampliar a assistência técnica municipal, apoiando prefeituras de pequeno porte na elaboração de projetos, prestação de contas e captação de recursos federais e internacionais; fortalecer os consórcios públicos intermunicipais, especialmente em saneamento, resíduos sólidos, saúde regionalizada e compras compartilhadas; ampliar a descentralização de serviços estaduais, levando a Sala de Situação Territorial, a OCA 2.0 e o atendimento itinerante às regiões mais distantes; instituir programa de cofinanciamento estadual regul",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Nosso governo fará do saneamento uma prioridade, firmando parcerias para ampliar os investimentos em abastecimento de água, esgotamento sanitário, gestão de resíduos sólidos e drenagem urbana, em conjunto com os municípios, para promover mais saúde, proteção ambiental e qualidade de vida para todos os acreanos. • Apoiar os municípios na universalização do manejo adequado dos resíduos sólidos, fortalecendo o consórcio público intermunicipal e soluções regionalizadas para disposição final ambientalmente adequada."
+            },
+            {
+              "id": "s29",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "• criar o Pacto Acre Municípios, fórum permanente entre o governo estadual e os 22 prefeitos, com agenda pactuada de prioridades e acompanhamento periódico; ampliar a assistência técnica municipal, apoiando prefeituras de pequeno porte na elaboração de projetos, prestação de contas e captação de recursos federais e internacionais; fortalecer os consórcios públicos intermunicipais, especialmente em saneamento, resíduos sólidos, saúde regionalizada e compras compartilhadas; ampliar a descentralização de serviços estaduais, levando a Sala de Situação Territorial, a OCA 2.0 e o atendimento itinerante às regiões mais distantes; instituir programa de cofinanciamento estadual regular aos municípios de pequeno porte, com regras claras e previsibilidade orçamentária; criar canal permanente de prestação de contas municipal, com dados abertos sobre repasses, convênios e obras por município, integrado ao painel Acre em Tempo Real; reduzir a burocracia para conveniamento entre Estado e municípios, com modelo padronizado de convênios e prestação de contas simplificada."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 7,
+          "page_end": 27,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Com uma biodiversidade reconhecida internacionalmente, localização estratégica na integração com a América do Sul, terras aptas para produção e uma economia impulsionada pela agricultura familiar, pelo agronegócio, pela indústria, pelo comércio, pelos serviços e pela sociobiodiversidade, o Estado possui enorme potencial para gerar emprego, renda e prosperidade. A agricultura familiar representa 26.851 estabelecimentos rurais (91% das propriedades), ocupa 54% da área agropecuária, responde por 77% da produção de leite, 90% dos suínos e 77% das aves, enquanto o agronegócio fortalece cadeias estratégicas como bovinocultura, café, grãos, banana, castanha e madeira legal. Agronegócio Competitivo e Cadeias Produtivas Fortes O fortalecimento da produção rural será um dos pilares do desenvolvimento econômico do Acre.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "Com uma biodiversidade reconhecida internacionalmente, localização estratégica na integração com a América do Sul, terras aptas para produção e uma economia impulsionada pela agricultura familiar, pelo agronegócio, pela indústria, pelo comércio, pelos serviços e pela sociobiodiversidade, o Estado possui enorme potencial para gerar emprego, renda e prosperidade. A agricultura familiar representa 26.851 estabelecimentos rurais (91% das propriedades), ocupa 54% da área agropecuária, responde por 77% da produção de leite, 90% dos suínos e 77% das aves, enquanto o agronegócio fortalece cadeias estratégicas como bovinocultura, café, grãos, banana, castanha e madeira legal."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Agronegócio Competitivo e Cadeias Produtivas Fortes O fortalecimento da produção rural será um dos pilares do desenvolvimento econômico do Acre. Agricultura Familiar e Inclusão Produtiva A agricultura familiar é um dos pilares do desenvolvimento do Acre, responsável pelo abastecimento de alimentos, pela geração de renda, pela dinamização das economias locais e pela permanência das famílias no campo."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "• Mais oportunidades, competitividade e qualidade de vida para as famílias que vivem da produção rural; Mais produtividade, sustentabilidade e renda para o produtor rural, com menor custo de produção e melhor aproveitamento das áreas já abertas; Mais renda, produção diversificada e oportunidades para fortalecer a agricultura familiar e a economia dos municípios; Mais empregos, oportunidades para empreender e maior valor agregado aos produtos acreanos, fortalecendo a economia local; Mais renda, valorização da sociobiodiversidade e desenvolvimento sustentável para as comunidades que vivem da floresta; Mais produção de pescado de qualidade, geração de renda e fortalecimento da economia local; Mais segurança sanitária, competitividade e acesso a mercados para fortalecer a agropecuária acreana."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• identificar e realizar busca ativa de famílias em situação de extrema pobreza; implantar o Banco Estadual de Alimentos; ampliar, em parceria com os municípios, os restaurantes populares e as cozinhas comunitárias; apoiar a agricultura familiar e as hortas escolares como fonte de abastecimento e renda."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 14,
+          "page_end": 39,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Energia, Conectividade e Transformação Digital A infraestrutura energética e digital é fundamental para o desenvolvimento econômico, a modernização dos serviços públicos e a inclusão social. Nosso governo fará desses setores uma prioridade estratégica, ampliando a segurança energética, universalizando o acesso à internet de qualidade e promovendo a transformação digital para fortalecer a competitividade da economia e melhorar os serviços prestados à população. • implantar o Programa Primeiro Emprego Acre, com incentivos às empresas, ampliação de estágios, aprendizagem profissional e intermediação de vagas para jovens de 16 a 29 anos; criar o Programa Acre Jovem Empreendedor, com crédito facilitado, capacitação e mentoria para novos negócios em tecnologia, economia criativa, turismo e bioeconomia; oferecer qualificação gratuita por meio do Programa Capacita Acre Jovem, em áreas como tecnologia, inteligência artificial, energias renováveis e construção civil; implantar a Rede Estadual de Casas da Juventude nas cinco regionais, com orientação para o mercado de trabalho, apoio ao empreendedorismo e atendimento psicossocial; levar o Programa Juventude Presente aos 22 municípios, com açõ",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Energia, Conectividade e Transformação Digital A infraestrutura energética e digital é fundamental para o desenvolvimento econômico, a modernização dos serviços públicos e a inclusão social. Nosso governo fará desses setores uma prioridade estratégica, ampliando a segurança energética, universalizando o acesso à internet de qualidade e promovendo a transformação digital para fortalecer a competitividade da economia e melhorar os serviços prestados à população."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• implantar o Programa Primeiro Emprego Acre, com incentivos às empresas, ampliação de estágios, aprendizagem profissional e intermediação de vagas para jovens de 16 a 29 anos; criar o Programa Acre Jovem Empreendedor, com crédito facilitado, capacitação e mentoria para novos negócios em tecnologia, economia criativa, turismo e bioeconomia; oferecer qualificação gratuita por meio do Programa Capacita Acre Jovem, em áreas como tecnologia, inteligência artificial, energias renováveis e construção civil; implantar a Rede Estadual de Casas da Juventude nas cinco regionais, com orientação para o mercado de trabalho, apoio ao empreendedorismo e atendimento psicossocial; levar o Programa Juventude Presente aos 22 municípios, com ações itinerantes de capacitação, empreendedorismo, cultura, esporte e inclusão digital para jovens do interior, das comunidades rurais, ribeirinhas e indígenas."
+            },
+            {
+              "id": "s29",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "• expandir a OCA 2.0, com atendimento multicanal e serviços proativos ao cidadão, apoiados em plataforma de dados integrada; aplicar inteligência artificial com revisão humana em processos e serviços prioritários, avançando nacionalmente em governança digital para referência em inteligência embarcada nos serviços; ampliar a conectividade pelo Acre Conectado, com expansão da Infovia e do Wi-Fi Brasil."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 9,
+          "page_end": 27,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "• Fortalecer as políticas de apoio aos micros e pequenos empreendedores; Incentivar a instalação e ampliação de indústrias voltadas ao beneficiamento da produção local; Promover programas de qualificação empresarial e gestão para pequenos negócios; Ampliar o acesso ao crédito e a instrumentos de fomento para empreendedores urbanos; Fortalecer parcerias com entidades empresariais para estimular investimentos e inovação; Incentivar a economia criativa, os negócios digitais e as startups como vetores de desenvolvimento; Promover políticas de incentivo ao comércio e ao setor de serviços, valorizando a produção e o consumo locais; Apoiar, em parceria com as instituições responsáveis, a simplificação de processos administrativos para abertura, regularização e funcionamento de empresas. Grupos juninos, bandas e fanfarras enfrentam dificuldade para manter suas atividades por falta de apoio contínuo, os equipamentos culturais precisam de modernização, e a integração entre cultura, turismo, educação e economia criativa ainda é insuficiente - o que tem levado muitos artistas a abandonar o Estado ou a atividade cultural. • implantar o Programa Primeiro Emprego Acre, com incentivos às empresas,",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "• Fortalecer as políticas de apoio aos micros e pequenos empreendedores; Incentivar a instalação e ampliação de indústrias voltadas ao beneficiamento da produção local; Promover programas de qualificação empresarial e gestão para pequenos negócios; Ampliar o acesso ao crédito e a instrumentos de fomento para empreendedores urbanos; Fortalecer parcerias com entidades empresariais para estimular investimentos e inovação; Incentivar a economia criativa, os negócios digitais e as startups como vetores de desenvolvimento; Promover políticas de incentivo ao comércio e ao setor de serviços, valorizando a produção e o consumo locais; Apoiar, em parceria com as instituições responsáveis, a simplificação de processos administrativos para abertura, regularização e funcionamento de empresas."
+            },
+            {
+              "id": "s16",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Grupos juninos, bandas e fanfarras enfrentam dificuldade para manter suas atividades por falta de apoio contínuo, os equipamentos culturais precisam de modernização, e a integração entre cultura, turismo, educação e economia criativa ainda é insuficiente - o que tem levado muitos artistas a abandonar o Estado ou a atividade cultural."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• implantar o Programa Primeiro Emprego Acre, com incentivos às empresas, ampliação de estágios, aprendizagem profissional e intermediação de vagas para jovens de 16 a 29 anos; criar o Programa Acre Jovem Empreendedor, com crédito facilitado, capacitação e mentoria para novos negócios em tecnologia, economia criativa, turismo e bioeconomia; oferecer qualificação gratuita por meio do Programa Capacita Acre Jovem, em áreas como tecnologia, inteligência artificial, energias renováveis e construção civil; implantar a Rede Estadual de Casas da Juventude nas cinco regionais, com orientação para o mercado de trabalho, apoio ao empreendedorismo e atendimento psicossocial; levar o Programa Juventude Presente aos 22 municípios, com ações itinerantes de capacitação, empreendedorismo, cultura, esporte e inclusão digital para jovens do interior, das comunidades rurais, ribeirinhas e indígenas. • implantar o Programa Cultura Viva Acre, com editais públicos anuais, transparentes e descentralizados para todas as regionais; resgatar o Campeonato Estadual de Bandas e Fanfarras, com apoio para aquisição de instrumentos, uniformes e formação de maestros; fortalecer o Programa Acre Junino, valorizando "
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 9,
+          "page_end": 28,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Nosso governo fortalecerá as cadeias da sociobiodiversidade, apoiando comunidades tradicionais, extrativistas, povos indígenas, agricultores familiares e cooperativas, com investimentos em inovação, processamento, certificação e acesso a mercados para produtos como castanha, borracha, óleos vegetais, sementes, frutos amazônicos, mel e outros produtos florestais. Nosso governo fortalecerá o Sistema Único de Assistência Social (SUAS) por meio da descentralização dos serviços, de equipes volantes para alcançar comunidades tradicionais e da ampliação do cofinanciamento estadual aos municípios de pequeno porte, consolidando seis programas estratégicos e as políticas de direitos humanos e inclusão social. o governo ampliará políticas específicas de direitos humanos para os grupos que mais precisam da presença do Estado.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Nosso governo fortalecerá as cadeias da sociobiodiversidade, apoiando comunidades tradicionais, extrativistas, povos indígenas, agricultores familiares e cooperativas, com investimentos em inovação, processamento, certificação e acesso a mercados para produtos como castanha, borracha, óleos vegetais, sementes, frutos amazônicos, mel e outros produtos florestais."
+            },
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "Nosso governo fortalecerá o Sistema Único de Assistência Social (SUAS) por meio da descentralização dos serviços, de equipes volantes para alcançar comunidades tradicionais e da ampliação do cofinanciamento estadual aos municípios de pequeno porte, consolidando seis programas estratégicos e as políticas de direitos humanos e inclusão social. o governo ampliará políticas específicas de direitos humanos para os grupos que mais precisam da presença do Estado."
+            },
+            {
+              "id": "s18",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "• Famílias em situação de pobreza extrema identificadas e atendidas, com mais segurança alimentar e menos dependência de transferência de renda; Serviços socioassistenciais mais próximos, chegando a comunidades ribeirinhas, indígenas e rurais hoje invisibilizadas; Mais vagas de acolhimento para crianças, adolescentes, idosos e mulheres vítimas de violência, com rede de proteção ampliada para além da capital; Mais autonomia econômica para mulheres, jovens e pessoas com deficiência, por meio de qualificação, microcrédito e empreendedorismo; Resposta rápida e humanizada a famílias atingidas por secas, enchentes e desastres, com auxílio-moradia e ajuda humanitária; Municípios de pequeno porte fortalecidos, com cofinanciamento estadual regular e trabalhadores do SUAS mais valorizados e qualificados; Direitos humanos garantidos a mulheres, idosos, população LGBTQIAPN+, comunidades quilombolas, pessoas com deficiência e população em situação de rua, com o Estado presente em cada território."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 25,
+          "page_end": 27,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Habitação e Governança da Política Social A proteção social será acompanhada de moradia digna, dados confiáveis e controle social fortalecido. • implantar o Projeto Moradia Segura, com prioridade em programas habitacionais e regularização fundiária para famílias em áreas de risco ou vítimas de desastres; criar o Observatório Acreano da Vulnerabilidade Social, em parceria com universidades, para monitorar indicadores e subsidiar decisões; fortalecer o Conselho Estadual de Assistência Social e os Conselhos de Direitos como instâncias de controle social.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "Habitação e Governança da Política Social A proteção social será acompanhada de moradia digna, dados confiáveis e controle social fortalecido. • implantar o Projeto Moradia Segura, com prioridade em programas habitacionais e regularização fundiária para famílias em áreas de risco ou vítimas de desastres; criar o Observatório Acreano da Vulnerabilidade Social, em parceria com universidades, para monitorar indicadores e subsidiar decisões; fortalecer o Conselho Estadual de Assistência Social e os Conselhos de Direitos como instâncias de controle social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 14,
+          "page_end": 18,
+          "topics": [
+            "energy"
+          ],
+          "summary": "• Implantar o Programa Fala Acre, ampliando a cobertura de internet de alta velocidade em todos os municípios, comunidades rurais e regiões de difícil acesso; Expandir a infraestrutura de fibra óptica em parceria com o Governo Federal, operadoras de telecomunicações e provedores regionais; Atuar junto aos órgãos reguladores e concessionárias para ampliar a capacidade de transmissão e distribuição de energia elétrica no Estado; Implantar o programa Cidades Inteligentes, utilizando tecnologia para melhorar a gestão da iluminação pública, mobilidade, segurança, monitoramento ambiental e prestação de serviços públicos; Estimular a geração distribuída e o uso de fontes renováveis de energia, especialmente energia solar em prédios públicos, escolas, unidades de saúde e comunidades isoladas; Apoiar programas de inclusão digital, capacitação tecnológica e formação em competências digitais para jovens, empreendedores e servidores públicos.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "• Implantar o Programa Fala Acre, ampliando a cobertura de internet de alta velocidade em todos os municípios, comunidades rurais e regiões de difícil acesso; Expandir a infraestrutura de fibra óptica em parceria com o Governo Federal, operadoras de telecomunicações e provedores regionais; Atuar junto aos órgãos reguladores e concessionárias para ampliar a capacidade de transmissão e distribuição de energia elétrica no Estado; Implantar o programa Cidades Inteligentes, utilizando tecnologia para melhorar a gestão da iluminação pública, mobilidade, segurança, monitoramento ambiental e prestação de serviços públicos; Estimular a geração distribuída e o uso de fontes renováveis de energia, especialmente energia solar em prédios públicos, escolas, unidades de saúde e comunidades isoladas; Apoiar programas de inclusão digital, capacitação tecnológica e formação em competências digitais para jovens, empreendedores e servidores públicos."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "10002533539",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002533539_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002533539_01.pdf",
+      "sha256": "f1a6f8f3b526b195f9103d4f617702c4354ed768bf60766559ca8ffbb4fa63ce",
+      "summary": "Estrutura Regional a) Alto Acre b) Baixo Acre c) Juruá d) Purus / Tarauacá-Envira Estrutura dos Complexos a) Hospital completo b) Centro cirúrgico c) UTI d) Maternidade e) Exames e diagnóstico f) Atendimento 24h Equipe a) Médicos especialistas b) Profissionais multidisciplinares Tecnologia a) Telemedicina b) Prontuário eletrônico c) Equipamentos modernos Impacto a) Fim da “peregrinação por saúde” b) Redução de filas c) Atendimento regionalizado Educação – Complexos Educacionais Objetivo: Garantir educação completa em todos os municípios. a) Complexos educacionais b) Ensino técnico e profissionalizante c) Parcerias com universidades d) Educação voltada à indústria a) Complexos Regionais de Saúde b) Integração dos serviços c) Telemedicina d) Redução de filas Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria a) Integração das forças de segurança b) Uso de tecnologia c) Combate ao crime organizado d) Segurança nas áreas rurais Industrialização, Crescimento Econômico e Desenvolvimento Um Plano de Governo para Superar Décadas de Atraso No entanto, ao longo das últimas décadas, nosso estado não conseguiu transformar plenamente suas potencialidades em desenvolvimento econômico e oportunidades para sua população. PIA – Polo Industrial do Acre FEPI – Faculdade Estadual do Polo Industrial Faculdade de Medicina do Acre Banco de Desenvolvimento Econômico Complexos Regionais de Saúde e Educação Programa de Habitação Popular Sustentável Duplicação das Rodovias Estratégicas Água e Saneamento 24 horas para todos Plano de Valorização do Servidor Público Plano Antienchente do Rio Acre Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria Conceito Objetivo do Projeto Estrutura dos piscinões Modelo de Gestão – Parceria Privada Implantação Financiamento Geração de Emprego Segurança e Organização Impacto Social Força política da proposta Frase de impacto para campanha Governo da Indú",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 9,
+          "page_end": 15,
+          "topics": [
+            "education"
+          ],
+          "summary": "Estrutura Regional a) Alto Acre b) Baixo Acre c) Juruá d) Purus / Tarauacá-Envira Estrutura dos Complexos a) Hospital completo b) Centro cirúrgico c) UTI d) Maternidade e) Exames e diagnóstico f) Atendimento 24h Equipe a) Médicos especialistas b) Profissionais multidisciplinares Tecnologia a) Telemedicina b) Prontuário eletrônico c) Equipamentos modernos Impacto a) Fim da “peregrinação por saúde” b) Redução de filas c) Atendimento regionalizado Educação – Complexos Educacionais Objetivo: Garantir educação completa em todos os municípios. a) Complexos educacionais b) Ensino técnico e profissionalizante c) Parcerias com universidades d) Educação voltada à indústria",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Levar saúde de qualidade para perto das pessoas. Estrutura Regional a) Alto Acre b) Baixo Acre c) Juruá d) Purus / Tarauacá-Envira Estrutura dos Complexos a) Hospital completo b) Centro cirúrgico c) UTI d) Maternidade e) Exames e diagnóstico f) Atendimento 24h Equipe a) Médicos especialistas b) Profissionais multidisciplinares Tecnologia a) Telemedicina b) Prontuário eletrônico c) Equipamentos modernos Impacto a) Fim da “peregrinação por saúde” b) Redução de filas c) Atendimento regionalizado Educação – Complexos Educacionais Objetivo: Garantir educação completa em todos os municípios."
+            },
+            {
+              "id": "s21",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "a) Complexos educacionais b) Ensino técnico e profissionalizante c) Parcerias com universidades d) Educação voltada à indústria"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 15,
+          "topics": [
+            "health"
+          ],
+          "summary": "Estrutura Regional a) Alto Acre b) Baixo Acre c) Juruá d) Purus / Tarauacá-Envira Estrutura dos Complexos a) Hospital completo b) Centro cirúrgico c) UTI d) Maternidade e) Exames e diagnóstico f) Atendimento 24h Equipe a) Médicos especialistas b) Profissionais multidisciplinares Tecnologia a) Telemedicina b) Prontuário eletrônico c) Equipamentos modernos Impacto a) Fim da “peregrinação por saúde” b) Redução de filas c) Atendimento regionalizado Educação – Complexos Educacionais Objetivo: Garantir educação completa em todos os municípios. a) Complexos Regionais de Saúde b) Integração dos serviços c) Telemedicina d) Redução de filas",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Levar saúde de qualidade para perto das pessoas. Estrutura Regional a) Alto Acre b) Baixo Acre c) Juruá d) Purus / Tarauacá-Envira Estrutura dos Complexos a) Hospital completo b) Centro cirúrgico c) UTI d) Maternidade e) Exames e diagnóstico f) Atendimento 24h Equipe a) Médicos especialistas b) Profissionais multidisciplinares Tecnologia a) Telemedicina b) Prontuário eletrônico c) Equipamentos modernos Impacto a) Fim da “peregrinação por saúde” b) Redução de filas c) Atendimento regionalizado Educação – Complexos Educacionais Objetivo: Garantir educação completa em todos os municípios."
+            },
+            {
+              "id": "s22",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Garantir atendimento digno e eficiente. a) Complexos Regionais de Saúde b) Integração dos serviços c) Telemedicina d) Redução de filas"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 16,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria a) Integração das forças de segurança b) Uso de tecnologia c) Combate ao crime organizado d) Segurança nas áreas rurais",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria"
+            },
+            {
+              "id": "s24",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a) Integração das forças de segurança b) Uso de tecnologia c) Combate ao crime organizado d) Segurança nas áreas rurais"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Industrialização, Crescimento Econômico e Desenvolvimento Um Plano de Governo para Superar Décadas de Atraso No entanto, ao longo das últimas décadas, nosso estado não conseguiu transformar plenamente suas potencialidades em desenvolvimento econômico e oportunidades para sua população. PIA – Polo Industrial do Acre FEPI – Faculdade Estadual do Polo Industrial Faculdade de Medicina do Acre Banco de Desenvolvimento Econômico Complexos Regionais de Saúde e Educação Programa de Habitação Popular Sustentável Duplicação das Rodovias Estratégicas Água e Saneamento 24 horas para todos Plano de Valorização do Servidor Público Plano Antienchente do Rio Acre Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria Conceito Objetivo do Projeto Estrutura dos piscinões Modelo de Gestão – Parceria Privada Implantação Financiamento Geração de Emprego Segurança e Organização Impacto Social Força política da proposta Frase de impacto para campanha Governo da Indú",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Industrialização, Crescimento Econômico e Desenvolvimento Um Plano de Governo para Superar Décadas de Atraso"
+            },
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "No entanto, ao longo das últimas décadas, nosso estado não conseguiu transformar plenamente suas potencialidades em desenvolvimento econômico e oportunidades para sua população."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "PIA – Polo Industrial do Acre FEPI – Faculdade Estadual do Polo Industrial Faculdade de Medicina do Acre Banco de Desenvolvimento Econômico Complexos Regionais de Saúde e Educação Programa de Habitação Popular Sustentável Duplicação das Rodovias Estratégicas Água e Saneamento 24 horas para todos Plano de Valorização do Servidor Público Plano Antienchente do Rio Acre"
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria"
+            },
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Conceito Objetivo do Projeto Estrutura dos piscinões Modelo de Gestão – Parceria Privada Implantação Financiamento Geração de Emprego Segurança e Organização Impacto Social Força política da proposta Frase de impacto para campanha"
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Governo da Indústria – Um Novo Acre Começa Agora O desenvolvimento do Acre exige planejamento, coragem e decisões estruturantes. Este plano apresenta 10 grandes metas que irão transformar a economia, gerar empregos e melhorar a vida da população."
+            },
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Formar profissionais para sustentar o desenvolvimento econômico."
+            },
+            {
+              "id": "s09",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Financiar o crescimento econômico do estado."
+            },
+            {
+              "id": "s11",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Metas a) 40 mil moradias em 8 anos b) 20 mil em 4 anos Eixos Principais a) Construção em massa b) Casa + emprego c) Aluguel social d) Regularização fundiária e) Reforma de moradias f) Urbanização planejada g) Crédito habitacional Diferenciais a) Casas com energia solar b) Integração com emprego c) Bairros planejados Impacto a) Redução da pobreza b) Geração de empregos c) Dignidade para famílias"
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Estrutura a) Eclusas b) 7 lagoas artificiais c) Sistema de controle hídrico Inovação a) Usinas solares flutuantes b) Turismo e desenvolvimento Impacto c) Segurança para a população d) Geração de empregos e) Novo polo turístico"
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "a) Implantar polos industriais regionais b) Atrair empresas e investidores c) Incentivos fiscais estratégicos d) Integrar campo + indústria"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "a) Responsabilidade fiscal b) Planejamento estratégico do estado c) Captação de recursos d) Investimentos estruturantes",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a) Responsabilidade fiscal b) Planejamento estratégico do estado c) Captação de recursos d) Investimentos estruturantes"
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 17,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria Produzir com responsabilidade.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Educação Saúde Segurança Pública Agricultura Turismo Lazer e esporte Infraestrutura Meio Ambiente A capital Turística da Amazonia Ciência, Técnico e Inovação Desenvolvimento Social Energia e Desenvolvimento Sustentabilidade Agricultura, pecuária e agronegócio Desenvolvimento Economico e indústria"
+            },
+            {
+              "id": "s27",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Produzir com responsabilidade."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 14,
+          "page_end": 14,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "a) Apoio à agricultura familiar b) Expansão da produção rural c) Agroindustrialização d) Assistência técnica e crédito",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "a) Apoio à agricultura familiar b) Expansão da produção rural c) Agroindustrialização d) Assistência técnica e crédito"
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Medidas a) Recuperação financeira (via BDA) b) Renegociação de dívidas c) Valorização salarial d) Qualificação profissional e) Plano de carreira Impacto a) Servidor valorizado b) Melhor serviço público c) Mais eficiência do Estado",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Medidas a) Recuperação financeira (via BDA) b) Renegociação de dívidas c) Valorização salarial d) Qualificação profissional e) Plano de carreira Impacto a) Servidor valorizado b) Melhor serviço público c) Mais eficiência do Estado"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "10002544015",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002544015_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002544015_01.pdf",
+      "sha256": "002ade727df6b7e2bb6fa4e5b1e26eb83e2a9e3ed49eda04f6a5d16f4e87fb1a",
+      "summary": "O desenvolvimento do Acre passa, necessariamente, pela construção de uma educação pública de excelência, capaz de garantir não apenas o acesso à escola, mas, sobretudo, a permanência dos estudantes, a aprendizagem efetiva, a formação integral e a preparação para a vida, para o mundo do trabalho e para o exercício pleno da cidadania. Nesse cenário, o Governo do Estado assume o compromisso de implementar uma política educacional moderna, baseada na valorização dos profissionais da educação, na inovação pedagógica, na inclusão, na transformação digital, na melhoria da infraestrutura escolar e na busca permanente pela qualidade da aprendizagem. Nenhum sistema educacional supera a qualidade de seus professores. Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! grandes distâncias, sazonalidade dos rios, limitações logísticas, baixa densidade populacional e vazios assistenciais. •​ Fortalecer a Estratégia Saúde da Família, com foco em prevenção. Este documento reúne diretrizes e programas construídos a partir do diálogo com os principais setores produtivos do Acre — comércio, indústria, agronegócio — e com as áreas essenciais de infraestrutura, saneamento básico, habitação, segurança pública, saúde, educação, esporte, cultura, turismo e meio ambiente, que exigem um olhar técnico, integrado e permanente. O Acre vive, desde meados de 2015, uma transformação profunda no cenário da segurança pública, marcada pela consolidação de organizações criminosas, pelo aumento da violência letal, pela expansão do tráfico de drogas e pelo agravamento da violência contra a mulher. É preciso fortalecer o desenvolvimento econômico para estabelecer as bases fundamentais para o verdadeiro desenvolvimento social e ambiental.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 27,
+          "page_end": 37,
+          "topics": [
+            "education"
+          ],
+          "summary": "O desenvolvimento do Acre passa, necessariamente, pela construção de uma educação pública de excelência, capaz de garantir não apenas o acesso à escola, mas, sobretudo, a permanência dos estudantes, a aprendizagem efetiva, a formação integral e a preparação para a vida, para o mundo do trabalho e para o exercício pleno da cidadania. Nesse cenário, o Governo do Estado assume o compromisso de implementar uma política educacional moderna, baseada na valorização dos profissionais da educação, na inovação pedagógica, na inclusão, na transformação digital, na melhoria da infraestrutura escolar e na busca permanente pela qualidade da aprendizagem. Nenhum sistema educacional supera a qualidade de seus professores.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "O desenvolvimento do Acre passa, necessariamente, pela construção de uma educação pública de excelência, capaz de garantir não apenas o acesso à escola, mas, sobretudo, a permanência dos estudantes, a aprendizagem efetiva, a formação integral e a preparação para a vida, para o mundo do trabalho e para o exercício pleno da cidadania. Nesse cenário, o Governo do Estado assume o compromisso de implementar uma política educacional moderna, baseada na valorização dos profissionais da educação, na inovação pedagógica, na inclusão, na transformação digital, na melhoria da infraestrutura escolar e na busca permanente pela qualidade da aprendizagem."
+            },
+            {
+              "id": "s10",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Nenhum sistema educacional supera a qualidade de seus professores. Valorizar o magistério significa reconhecer que os profissionais da educação são os principais agentes da transformação social e do desenvolvimento do Estado."
+            },
+            {
+              "id": "s12",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "●​ à frequência escolar; ●​ ao desempenho acadêmico; ●​ à participação nas avaliações externas; ●​ ao protagonismo estudantil. Ao final do Ensino Médio, os estudantes aprovados e ingressos em universidades públicas receberão um notebook para apoiar sua formação superior e promover a inclusão digital."
+            },
+            {
+              "id": "s13",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Construir uma rede educacional verdadeiramente inclusiva é garantir que todos os estudantes tenham acesso, participação, aprendizagem e desenvolvimento. ●​ ampliação do número de professores mediadores; ●​ contratação de cuidadores; ●​ fortalecimento das equipes multiprofissionais; ●​ expansão do Atendimento Educacional Especializado; ●​ aquisição de tecnologias assistivas; ●​ formação permanente dos profissionais."
+            },
+            {
+              "id": "s14",
+              "page_start": 33,
+              "page_end": 33,
+              "text": "Expandir significativamente a oferta de Ensino Técnico integrado ao Ensino Médio, alinhando a formação profissional às potencialidades econômicas do Acre."
+            },
+            {
+              "id": "s16",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "Promover a transformação digital da educação pública estadual."
+            },
+            {
+              "id": "s17",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Nosso compromisso é promover uma verdadeira transformação na educação pública estadual, pautada na inovação, na inclusão, na valorização dos profissionais, na modernização da infraestrutura e na melhoria contínua da aprendizagem."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 15,
+          "topics": [
+            "health"
+          ],
+          "summary": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! grandes distâncias, sazonalidade dos rios, limitações logísticas, baixa densidade populacional e vazios assistenciais. •​ Fortalecer a Estratégia Saúde da Família, com foco em prevenção.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA!"
+            },
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "grandes distâncias, sazonalidade dos rios, limitações logísticas, baixa densidade populacional e vazios assistenciais. •​ Fortalecer a Estratégia Saúde da Família, com foco em prevenção."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 40,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Este documento reúne diretrizes e programas construídos a partir do diálogo com os principais setores produtivos do Acre — comércio, indústria, agronegócio — e com as áreas essenciais de infraestrutura, saneamento básico, habitação, segurança pública, saúde, educação, esporte, cultura, turismo e meio ambiente, que exigem um olhar técnico, integrado e permanente. Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! O Acre vive, desde meados de 2015, uma transformação profunda no cenário da segurança pública, marcada pela consolidação de organizações criminosas, pelo aumento da violência letal, pela expansão do tráfico de drogas e pelo agravamento da violência contra a mulher.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Este documento reúne diretrizes e programas construídos a partir do diálogo com os principais setores produtivos do Acre — comércio, indústria, agronegócio — e com as áreas essenciais de infraestrutura, saneamento básico, habitação, segurança pública, saúde, educação, esporte, cultura, turismo e meio ambiente, que exigem um olhar técnico, integrado e permanente. Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA!"
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 11,
+              "text": "O Acre vive, desde meados de 2015, uma transformação profunda no cenário da segurança pública, marcada pela consolidação de organizações criminosas, pelo aumento da violência letal, pela expansão do tráfico de drogas e pelo agravamento da violência contra a mulher. Nosso governo assumirá o compromisso de reconstruir a segurança pública acreana por meio de um novo modelo de gestão, baseado em inteligência, tecnologia, integração institucional e atuação transversal de todo o governo do Estado."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "•​ Estabelecer protocolo integrado de resposta rápida a desastres climáticos, em coordenação com a Defesa Civil."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "•​ Utilizar IA como apoio à tomada de decisão operacional em segurança pública e saúde (apoio diagnóstico)."
+            },
+            {
+              "id": "s19",
+              "page_start": 40,
+              "page_end": 40,
+              "text": "segurança pública, saúde, políticas sociais, comércio, serviços, indústria, agronegócio, infraestrutura, tecnologia, educação, cultura, esporte e turismo não devem ser tratados como agendas isoladas, mas como pilares complementares de uma política de Estado moderna, permanente e orientada por resultados."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 28,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! É preciso fortalecer o desenvolvimento econômico para estabelecer as bases fundamentais para o verdadeiro desenvolvimento social e ambiental. A segurança pública deixará de ser responsabilidade exclusiva das forças policiais e passará a orientar políticas integradas de educação, assistência social, saúde, infraestrutura, cultura, esporte, juventude e desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! É preciso fortalecer o desenvolvimento econômico para estabelecer as bases fundamentais para o verdadeiro desenvolvimento social e ambiental."
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 11,
+              "text": "A segurança pública deixará de ser responsabilidade exclusiva das forças policiais e passará a orientar políticas integradas de educação, assistência social, saúde, infraestrutura, cultura, esporte, juventude e desenvolvimento econômico."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "A agropecuária é um dos principais pilares do desenvolvimento econômico e social do Acre, presente em todos os municípios."
+            },
+            {
+              "id": "s09",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "A educação é o maior instrumento de transformação social, desenvolvimento econômico e promoção da cidadania. Os avanços tecnológicos, as novas demandas do mercado de trabalho e as profundas transformações sociais exigem uma escola conectada com o futuro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 11,
+          "page_end": 15,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "defesa do SUS, regionalização da assistência, equidade, eficiência do gasto público, transparência, valorização dos profissionais, ciência e inovação, e atenção centrada no cidadão.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "defesa do SUS, regionalização da assistência, equidade, eficiência do gasto público, transparência, valorização dos profissionais, ciência e inovação, e atenção centrada no cidadão."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 32,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A segurança pública deixará de ser responsabilidade exclusiva das forças policiais e passará a orientar políticas integradas de educação, assistência social, saúde, infraestrutura, cultura, esporte, juventude e desenvolvimento econômico. 1.10 Segurança nas Escolas •​ Potencializar o Programa Escola Segura Acre, integrando Segurança Pública, Educação, Assistência Social, Saúde e Justiça. Programa Estadual de Busca Ativa Escolar Implementar um Programa Intersetorial de Prevenção e Enfrentamento à Infrequência e à Evasão Escolar, integrando Educação, Saúde, Assistência Social, Conselho Tutelar, Ministério Público, Defensoria Pública e demais órgãos da Rede de Proteção.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 11,
+              "text": "A segurança pública deixará de ser responsabilidade exclusiva das forças policiais e passará a orientar políticas integradas de educação, assistência social, saúde, infraestrutura, cultura, esporte, juventude e desenvolvimento econômico. 1.10 Segurança nas Escolas •​ Potencializar o Programa Escola Segura Acre, integrando Segurança Pública, Educação, Assistência Social, Saúde e Justiça."
+            },
+            {
+              "id": "s12",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Programa Estadual de Busca Ativa Escolar Implementar um Programa Intersetorial de Prevenção e Enfrentamento à Infrequência e à Evasão Escolar, integrando Educação, Saúde, Assistência Social, Conselho Tutelar, Ministério Público, Defensoria Pública e demais órgãos da Rede de Proteção."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 17,
+          "page_end": 20,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "•​ Apoiar as prefeituras na destinação correta de resíduos sólidos, priorizando a reciclagem; •​ Ampliar o programa de habitação popular para todos os municípios; •​ Articular junto à ANEEL a modernização das subestações e linhas de transmissão, viabilizando geração fotovoltaica.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "•​ Apoiar as prefeituras na destinação correta de resíduos sólidos, priorizando a reciclagem; •​ Ampliar o programa de habitação popular para todos os municípios; •​ Articular junto à ANEEL a modernização das subestações e linhas de transmissão, viabilizando geração fotovoltaica."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Este documento reúne diretrizes e programas construídos a partir do diálogo com os principais setores produtivos do Acre — comércio, indústria, agronegócio — e com as áreas essenciais de infraestrutura, saneamento básico, habitação, segurança pública, saúde, educação, esporte, cultura, turismo e meio ambiente, que exigem um olhar técnico, integrado e permanente. Nesse sentido, jamais deve haver a escravização do ser humano pelo meio ambiente, mas sim uma utilização racional desse último em benefício do desenvolvimento econômico e da qualidade de vida. A agropecuária é um dos principais pilares do desenvolvimento econômico e social do Acre, presente em todos os municípios.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Este documento reúne diretrizes e programas construídos a partir do diálogo com os principais setores produtivos do Acre — comércio, indústria, agronegócio — e com as áreas essenciais de infraestrutura, saneamento básico, habitação, segurança pública, saúde, educação, esporte, cultura, turismo e meio ambiente, que exigem um olhar técnico, integrado e permanente. Nesse sentido, jamais deve haver a escravização do ser humano pelo meio ambiente, mas sim uma utilização racional desse último em benefício do desenvolvimento econômico e da qualidade de vida."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "A agropecuária é um dos principais pilares do desenvolvimento econômico e social do Acre, presente em todos os municípios. Nosso governo tratará o campo como prioridade de Estado, superando gargalos históricos de infraestrutura, crédito, armazenagem e conectividade rural."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 20,
+          "page_end": 24,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "5.1 Programas de Produção para Agricultura Familiar •​ Programa de produção de alimentos como arroz, feijão, milho e seus derivados e outros, além do leite e seus derivados em parceria com os municípios; •​ Programa de produção de produtos de exportação como café, cacau, açaí, banana e outros em parceira com os municípios; 5.2 Programa PoupeVerde de Incentivo ao Plantio Árvores de Madeiras Comerciais •​ Apoiar o plantio de árvores de madeiras comerciais ao longo das cercas de pastagens em parceria com os municípios. 5.11 Assistência Técnica, Beneficiamento, Armazenamento, Inovação e Transformação Digital no Campo •​ Recriar a EMATER para prestar assistência técnica gratuita à Agricultura Familiar em todos os municípios.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "5.1 Programas de Produção para Agricultura Familiar •​ Programa de produção de alimentos como arroz, feijão, milho e seus derivados e outros, além do leite e seus derivados em parceria com os municípios; •​ Programa de produção de produtos de exportação como café, cacau, açaí, banana e outros em parceira com os municípios; 5.2 Programa PoupeVerde de Incentivo ao Plantio Árvores de Madeiras Comerciais •​ Apoiar o plantio de árvores de madeiras comerciais ao longo das cercas de pastagens em parceria com os municípios. 5.11 Assistência Técnica, Beneficiamento, Armazenamento, Inovação e Transformação Digital no Campo •​ Recriar a EMATER para prestar assistência técnica gratuita à Agricultura Familiar em todos os municípios."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 7,
+          "page_end": 35,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "•​ Utilizar inteligência artificial como apoio à tomada de decisão operacional. 5.11 Assistência Técnica, Beneficiamento, Armazenamento, Inovação e Transformação Digital no Campo •​ Recriar a EMATER para prestar assistência técnica gratuita à Agricultura Familiar em todos os municípios. Nosso governo ampliará a incorporação de tecnologia e implantará o governo digital, incorporando inteligência artificial à gestão pública e à qualificação da população.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 11,
+              "text": "•​ Utilizar inteligência artificial como apoio à tomada de decisão operacional."
+            },
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "•​ Utilizar inteligência artificial como apoio ao diagnóstico."
+            },
+            {
+              "id": "s06",
+              "page_start": 20,
+              "page_end": 24,
+              "text": "5.11 Assistência Técnica, Beneficiamento, Armazenamento, Inovação e Transformação Digital no Campo •​ Recriar a EMATER para prestar assistência técnica gratuita à Agricultura Familiar em todos os municípios."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "Nosso governo ampliará a incorporação de tecnologia e implantará o governo digital, incorporando inteligência artificial à gestão pública e à qualificação da população. 7.2 Inteligência Artificial na Gestão Pública •​ Aplicar inteligência artificial na priorização da manutenção viária, cruzando dados de imagens aéreas (drones) com informações de rotas de transporte público e escoamento de produção."
+            },
+            {
+              "id": "s09",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Nesse cenário, o Governo do Estado assume o compromisso de implementar uma política educacional moderna, baseada na valorização dos profissionais da educação, na inovação pedagógica, na inclusão, na transformação digital, na melhoria da infraestrutura escolar e na busca permanente pela qualidade da aprendizagem."
+            },
+            {
+              "id": "s10",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Formação Continuada para a Educação do Século XXI Implantar um programa permanente de formação continuada para professores, coordenadores pedagógicos e gestores escolares, contemplando: •​ Cultura Digital; •​ Inteligência Artificial aplicada à educação; •​ Programação e Pensamento Computacional; •​ Metodologias Ativas; •​ Educação Inclusiva; •​ Alfabetização e Recomposição das Aprendizagens; •​ Liderança Escolar; •​ Uso pedagógico de Chromebooks, livros digitais e plataformas educacionais."
+            },
+            {
+              "id": "s11",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Programa Estadual de Inovação e Tecnologia na Educação Ofertar em todas as escolas estaduais, preparando os estudantes para as profissões do futuro por meio do desenvolvimento de competências em: ●​ Lógica; ●​ Programação; ●​ Robótica; ●​ Inteligência Artificial; ●​ Ciência de Dados; ●​ Pensamento Computacional; ●​ Empreendedorismo Digital."
+            },
+            {
+              "id": "s16",
+              "page_start": 35,
+              "page_end": 35,
+              "text": "Promover a transformação digital da educação pública estadual. ●​ internet de alta velocidade nas escolas; ●​ plataformas digitais de aprendizagem; ●​ chromebooks para uso pedagógico; ●​ ambientes virtuais; ●​ inteligência artificial aplicada ao ensino; ●​ segurança digital; ●​ recursos educacionais digitais."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 1,
+          "page_end": 33,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA! ●​ Agronegócio; ●​ Bioeconomia; ●​ Tecnologia; ●​ Turismo; ●​ Indústria; ●​ Empreendedorismo; ●​ Economia Criativa.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Nesse contexto, o desenvolvimento econômico do Acre passa obrigatoriamente por maiores investimentos em infraestrutura urbana e rural, fortalecimento da segurança pública, melhoria da qualidade da saúde pública, melhoria da qualidade da educação, fortalecimento do turismo e da economia criativa, e pelo pelo desenvolvimento do agronegócio, cujas potencialidades são indiscutíveis dadas as características especiais da nossa terra e do nosso clima, sendo este último, segundo a EMBRAPA, O MELHOR CLIMA DO BRASIL PARA A AGROPECUÁRIA!"
+            },
+            {
+              "id": "s14",
+              "page_start": 33,
+              "page_end": 33,
+              "text": "●​ Agronegócio; ●​ Bioeconomia; ●​ Tecnologia; ●​ Turismo; ●​ Indústria; ●​ Empreendedorismo; ●​ Economia Criativa."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 11,
+          "page_end": 15,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "2.8 Povos Indígenas e Populações Isoladas •​ Garantir logística diferenciada e aproximação do governo estadual à SESAI.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 11,
+              "page_end": 15,
+              "text": "2.8 Povos Indígenas e Populações Isoladas •​ Garantir logística diferenciada e aproximação do governo estadual à SESAI."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 27,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Essa experiência de gestão pública é o que trago para este Plano de Governo. 3.2 Capacitação Profissional e Diálogo Institucional •​ Criar fóruns e mesas de concertação permanentes entre o setor produtivo e a gestão pública. Nosso governo ampliará a incorporação de tecnologia e implantará o governo digital, incorporando inteligência artificial à gestão pública e à qualificação da população.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Essa experiência de gestão pública é o que trago para este Plano de Governo."
+            },
+            {
+              "id": "s04",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "3.2 Capacitação Profissional e Diálogo Institucional •​ Criar fóruns e mesas de concertação permanentes entre o setor produtivo e a gestão pública."
+            },
+            {
+              "id": "s08",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "Nosso governo ampliará a incorporação de tecnologia e implantará o governo digital, incorporando inteligência artificial à gestão pública e à qualificação da população. 7.2 Inteligência Artificial na Gestão Pública •​ Aplicar inteligência artificial na priorização da manutenção viária, cruzando dados de imagens aéreas (drones) com informações de rotas de transporte público e escoamento de produção."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "10002544107",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002544107_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002544107_01.pdf",
+      "sha256": "81abd9d775bc37381c88c2ff95bda2afbd5e8dff605a33e6e5e6826f3493e967",
+      "summary": "A educação profissional será ampliada e articulada ao ensino médio, à Educação de Jovens e Adultos e ao ensino tecnológico, com cursos alinhados às demandas da bioeconomia, da agroindústria, do turismo, da logística, da economia digital, do empreendedorismo e de outros setores estratégicos para o desenvolvimento acreano. de gestão, governança de dados, monitoramento de indicadores, transparência e tomada de decisões baseada em evidências. Construir o Pacto Acre pela Educação, Ciência, Cultura e Desenvolvimento, fortalecendo a cooperação entre Estado, municípios, universidades, instituições de pesquisa, setor produtivo e organismos nacionais e internacionais. Ampliaremos a oferta de consultas, exames, cirurgias e atendimentos especializados, consolidando linhas de cuidado voltadas à saúde materno-infantil, saúde mental, doenças crônicas, oncologia, cardiologia, nefrologia, traumatologia, reabilitação e terapia intensiva. Ao mesmo tempo, fortaleceremos a cooperação entre União, Estado e municípios, além de universidades, instituições públicas, setor privado e organizações da sociedade civil, para ampliar a capacidade de financiamento, qualificar a oferta regional de serviços e garantir a sustentabilidade do Sistema Único de Saúde. Implantar a Linha Estadual de Cuidado Integral à Saúde da Mulher, organizando a assistência da adolescência ao climatério e à menopausa e articulando atenção básica, consultas especializadas, exames, prevenção, diagnóstico, tratamento clínico, procedimentos cirúrgicos e acompanhamento multiprofissional em todas as fases da vida. em que a inovação fortaleça nossa economia; em que a floresta seja preservada e, ao mesmo tempo, gere oportunidades; em que os municípios sejam protagonistas do desenvolvimento regional; e em que o Estado esteja cada vez mais presente na vida de quem mais precisa. Nossa posição estratégica na Amazônia e na integração com os irmãos e irmãs do Peru e da Bolívia nos coloca diante de novas possibilidades de desenvolvimento, geração de empregos e abertura de mercados. Governaremos com responsabilidade fiscal, transparência, diálogo e respeito às instituições. Significa criar condições para que cada pessoa possa viver melhor, estudar, trabalhar, empreender, cuidar da saúde, preservar o meio ambiente e participar ativamente das decisões que moldam o futuro do nosso estado.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 7,
+          "page_end": 13,
+          "topics": [
+            "education"
+          ],
+          "summary": "A educação profissional será ampliada e articulada ao ensino médio, à Educação de Jovens e Adultos e ao ensino tecnológico, com cursos alinhados às demandas da bioeconomia, da agroindústria, do turismo, da logística, da economia digital, do empreendedorismo e de outros setores estratégicos para o desenvolvimento acreano. de gestão, governança de dados, monitoramento de indicadores, transparência e tomada de decisões baseada em evidências. Construir o Pacto Acre pela Educação, Ciência, Cultura e Desenvolvimento, fortalecendo a cooperação entre Estado, municípios, universidades, instituições de pesquisa, setor produtivo e organismos nacionais e internacionais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A educação profissional será ampliada e articulada ao ensino médio, à Educação de Jovens e Adultos e ao ensino tecnológico, com cursos alinhados às demandas da bioeconomia, da agroindústria, do turismo, da logística, da economia digital, do empreendedorismo e de outros setores estratégicos para o desenvolvimento acreano."
+            },
+            {
+              "id": "s14",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "de gestão, governança de dados, monitoramento de indicadores, transparência e tomada de decisões baseada em evidências. Construir o Pacto Acre pela Educação, Ciência, Cultura e Desenvolvimento, fortalecendo a cooperação entre Estado, municípios, universidades, instituições de pesquisa, setor produtivo e organismos nacionais e internacionais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 13,
+          "page_end": 20,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ampliaremos a oferta de consultas, exames, cirurgias e atendimentos especializados, consolidando linhas de cuidado voltadas à saúde materno-infantil, saúde mental, doenças crônicas, oncologia, cardiologia, nefrologia, traumatologia, reabilitação e terapia intensiva. Ao mesmo tempo, fortaleceremos a cooperação entre União, Estado e municípios, além de universidades, instituições públicas, setor privado e organizações da sociedade civil, para ampliar a capacidade de financiamento, qualificar a oferta regional de serviços e garantir a sustentabilidade do Sistema Único de Saúde. Implantar a Linha Estadual de Cuidado Integral à Saúde da Mulher, organizando a assistência da adolescência ao climatério e à menopausa e articulando atenção básica, consultas especializadas, exames, prevenção, diagnóstico, tratamento clínico, procedimentos cirúrgicos e acompanhamento multiprofissional em todas as fases da vida.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Ampliaremos a oferta de consultas, exames, cirurgias e atendimentos especializados, consolidando linhas de cuidado voltadas à saúde materno-infantil, saúde mental, doenças crônicas, oncologia, cardiologia, nefrologia, traumatologia, reabilitação e terapia intensiva. Ao mesmo tempo, fortaleceremos a cooperação entre União, Estado e municípios, além de universidades, instituições públicas, setor privado e organizações da sociedade civil, para ampliar a capacidade de financiamento, qualificar a oferta regional de serviços e garantir a sustentabilidade do Sistema Único de Saúde."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "Implantar a Linha Estadual de Cuidado Integral à Saúde da Mulher, organizando a assistência da adolescência ao climatério e à menopausa e articulando atenção básica, consultas especializadas, exames, prevenção, diagnóstico, tratamento clínico, procedimentos cirúrgicos e acompanhamento multiprofissional em todas as fases da vida. Fortalecer a Rede de Atenção Psicossocial (RAPS), ampliando o acesso aos serviços de saúde mental, apoiando a expansão dos CAPS e qualificando o cuidado às pessoas com transtornos mentais e suas complicações."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "A rede integrará a atenção básica, os municípios, os serviços especializados e a estrutura estadual, oferecendo apoio continuado às crianças e às suas famílias."
+            },
+            {
+              "id": "s22",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "implementação da Política Nacional de Humanização do SUS e da ampliação do uso de tecnologias avançadas, incluindo a expansão das especialidades atendidas por cirurgia robótica."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "meio da Escola de Saúde Pública do Acre, valorização e bem-estar dos profissionais de saúde, promovendo capacitação permanente, ambientes de trabalho mais seguros e adequados, além de ações de apoio psicossocial e cuidado com a saúde mental dos trabalhadores, contribuindo para a melhoria da qualidade da assistência prestada à população."
+            },
+            {
+              "id": "s27",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "planejamento e dimensionamento de pessoal para distribuir adequadamente os profissionais entre as regiões, especialidades e níveis de atenção, reduzindo vazios assistenciais e ampliando a capacidade de atendimento da rede."
+            },
+            {
+              "id": "s28",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Ampliar e modernizar a rede materno-infantil e pediátrica do Acre, com a conclusão das 2ª e 3ª etapas da Maternidade Marieta Messias Cameli e a implantação do Pronto-Socorro de Atendimento Infantil do Estado do Acre, fortalecendo o atendimento especializado à gestante, ao recém-nascido, às crianças e aos adolescentes."
+            },
+            {
+              "id": "s31",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Estado, com a implantação de novas unidades mistas, reforma, modernização e manutenção permanente das existentes e o fortalecimento da capacidade assistencial das regionais de saúde, aproximando os serviços da população e reduzindo desigualdades de acesso."
+            },
+            {
+              "id": "s32",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "Modernizar a gestão da saúde por meio da transformação digital e da integração dos sistemas de informação, com implantação do prontuário eletrônico unificado em toda a rede estadual, fortalecimento da integração entre gestão, vigilância e assistência, ampliação da digitalização dos processos e utilização de dados para qualificar o planejamento, a tomada de decisões e a qualidade dos serviços prestados à população. A integração das informações também apoiará o mapeamento das filas, o acompanhamento dos tempos de espera e o monitoramento da continuidade do cuidado."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "em que a inovação fortaleça nossa economia; em que a floresta seja preservada e, ao mesmo tempo, gere oportunidades; em que os municípios sejam protagonistas do desenvolvimento regional; e em que o Estado esteja cada vez mais presente na vida de quem mais precisa. Nossa posição estratégica na Amazônia e na integração com os irmãos e irmãs do Peru e da Bolívia nos coloca diante de novas possibilidades de desenvolvimento, geração de empregos e abertura de mercados. Vamos proteger nosso patrimônio material e imaterial, valorizar a diversidade cultural acreana, fortalecer artistas, produtores e fazedores de cultura, estimular a economia criativa e ampliar o acesso da população às atividades culturais, reconhecendo a cultura como expressão da nossa identidade e também como fonte de desenvolvimento econômico e inclusão social.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "em que a inovação fortaleça nossa economia; em que a floresta seja preservada e, ao mesmo tempo, gere oportunidades; em que os municípios sejam protagonistas do desenvolvimento regional; e em que o Estado esteja cada vez mais presente na vida de quem mais precisa. Nossa posição estratégica na Amazônia e na integração com os irmãos e irmãs do Peru e da Bolívia nos coloca diante de novas possibilidades de desenvolvimento, geração de empregos e abertura de mercados."
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Vamos proteger nosso patrimônio material e imaterial, valorizar a diversidade cultural acreana, fortalecer artistas, produtores e fazedores de cultura, estimular a economia criativa e ampliar o acesso da população às atividades culturais, reconhecendo a cultura como expressão da nossa identidade e também como fonte de desenvolvimento econômico e inclusão social."
+            },
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "culturais, empreendedores criativos e iniciativas capazes de gerar emprego, renda e desenvolvimento econômico a partir da cultura."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Governaremos com responsabilidade fiscal, transparência, diálogo e respeito às instituições.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Governaremos com responsabilidade fiscal, transparência, diálogo e respeito às instituições."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 18,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Por isso, trabalharemos de forma articulada para que educação, saúde, segurança, assistência social, infraestrutura, desenvolvimento econômico, meio ambiente e inovação deixem de atuar de forma isolada e passem a construir soluções conjuntas para responder às necessidades das pessoas e impulsionar o desenvolvimento do Estado. Realizar o Mapeamento Estadual das Crianças com Deficiência e Necessidades de Cuidado Especializado, integrando, com critérios técnicos e proteção de dados, informações das redes de saúde, educação e assistência social.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Por isso, trabalharemos de forma articulada para que educação, saúde, segurança, assistência social, infraestrutura, desenvolvimento econômico, meio ambiente e inovação deixem de atuar de forma isolada e passem a construir soluções conjuntas para responder às necessidades das pessoas e impulsionar o desenvolvimento do Estado."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "Realizar o Mapeamento Estadual das Crianças com Deficiência e Necessidades de Cuidado Especializado, integrando, com critérios técnicos e proteção de dados, informações das redes de saúde, educação e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Significa criar condições para que cada pessoa possa viver melhor, estudar, trabalhar, empreender, cuidar da saúde, preservar o meio ambiente e participar ativamente das decisões que moldam o futuro do nosso estado. Por isso, trabalharemos de forma articulada para que educação, saúde, segurança, assistência social, infraestrutura, desenvolvimento econômico, meio ambiente e inovação deixem de atuar de forma isolada e passem a construir soluções conjuntas para responder às necessidades das pessoas e impulsionar o desenvolvimento do Estado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Significa criar condições para que cada pessoa possa viver melhor, estudar, trabalhar, empreender, cuidar da saúde, preservar o meio ambiente e participar ativamente das decisões que moldam o futuro do nosso estado. Por isso, trabalharemos de forma articulada para que educação, saúde, segurança, assistência social, infraestrutura, desenvolvimento econômico, meio ambiente e inovação deixem de atuar de forma isolada e passem a construir soluções conjuntas para responder às necessidades das pessoas e impulsionar o desenvolvimento do Estado."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 20,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Vamos ampliar a transformação digital da administração pública, simplificar processos, integrar serviços, utilizar dados e novas tecnologias para qualificar a tomada de decisão e oferecer um atendimento cada vez mais ágil, eficiente e acessível à população. Fortalecer o ecossistema acreano de inovação, empreendedorismo e startups, apoiando incubadoras, ambientes de inovação, negócios de base tecnológica, transformação digital e soluções inovadoras para os desafios econômicos e sociais do Acre. Modernizar a gestão da saúde por meio da transformação digital e da integração dos sistemas de informação, com implantação do prontuário eletrônico unificado em toda a rede estadual, fortalecimento da integração entre gestão, vigilância e assistência, ampliação da digitalização dos processos e utilização de dados para qualificar o planejamento, a tomada de decisões e a qualidade dos serviços prestados à população.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Vamos ampliar a transformação digital da administração pública, simplificar processos, integrar serviços, utilizar dados e novas tecnologias para qualificar a tomada de decisão e oferecer um atendimento cada vez mais ágil, eficiente e acessível à população."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Fortalecer o ecossistema acreano de inovação, empreendedorismo e startups, apoiando incubadoras, ambientes de inovação, negócios de base tecnológica, transformação digital e soluções inovadoras para os desafios econômicos e sociais do Acre."
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "A transformação digital será um dos pilares dessa nova etapa."
+            },
+            {
+              "id": "s32",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "Modernizar a gestão da saúde por meio da transformação digital e da integração dos sistemas de informação, com implantação do prontuário eletrônico unificado em toda a rede estadual, fortalecimento da integração entre gestão, vigilância e assistência, ampliação da digitalização dos processos e utilização de dados para qualificar o planejamento, a tomada de decisões e a qualidade dos serviços prestados à população."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 7,
+          "page_end": 12,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Vamos proteger nosso patrimônio material e imaterial, valorizar a diversidade cultural acreana, fortalecer artistas, produtores e fazedores de cultura, estimular a economia criativa e ampliar o acesso da população às atividades culturais, reconhecendo a cultura como expressão da nossa identidade e também como fonte de desenvolvimento econômico e inclusão social. Nos próximos quatro anos vamos trabalhar para: garantir que cada criança aprenda na idade certa; ampliar as oportunidades de educação integral e profissional; valorizar professores e profissionais da educação; aproximar escolas, universidades, pesquisa e setor produtivo; transformar ciência e inovação em desenvolvimento para o Acre; fortalecer nossa cultura, nossa identidade e nossa economia criativa. • Uma cultura valorizada como identidade e oportunidade, preservando nosso patrimônio cultural, fortalecendo artistas, produtores culturais e a economia criativa como instrumentos de desenvolvimento social e econômico.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Vamos proteger nosso patrimônio material e imaterial, valorizar a diversidade cultural acreana, fortalecer artistas, produtores e fazedores de cultura, estimular a economia criativa e ampliar o acesso da população às atividades culturais, reconhecendo a cultura como expressão da nossa identidade e também como fonte de desenvolvimento econômico e inclusão social."
+            },
+            {
+              "id": "s03",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Nos próximos quatro anos vamos trabalhar para: garantir que cada criança aprenda na idade certa; ampliar as oportunidades de educação integral e profissional; valorizar professores e profissionais da educação; aproximar escolas, universidades, pesquisa e setor produtivo; transformar ciência e inovação em desenvolvimento para o Acre; fortalecer nossa cultura, nossa identidade e nossa economia criativa."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "• Uma cultura valorizada como identidade e oportunidade, preservando nosso patrimônio cultural, fortalecendo artistas, produtores culturais e a economia criativa como instrumentos de desenvolvimento social e econômico."
+            },
+            {
+              "id": "s12",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "preservação dos bens culturais materiais e imateriais, o reconhecimento da diversidade étnica, territorial e social e o fortalecimento das manifestações culturais em todas as regiões do Estado."
+            },
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "culturais, empreendedores criativos e iniciativas capazes de gerar emprego, renda e desenvolvimento econômico a partir da cultura. Ampliar os intercâmbios científicos, educacionais e culturais, fortalecendo a cooperação nacional e internacional, ampliando oportunidades para estudantes, pesquisadores, artistas e empreendedores e posicionando o Acre como referência amazônica em educação, cultura, ciência, inovação e desenvolvimento sustentável."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Ouvi trabalhadores, produtores rurais, empreendedores, professores, profissionais da saúde, servidores públicos, jovens, mulheres, lideranças comunitárias, povos indígenas, comunidades tradicionais e tantas famílias que me confiaram seus sonhos, suas preocupações e suas esperanças.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Ouvi trabalhadores, produtores rurais, empreendedores, professores, profissionais da saúde, servidores públicos, jovens, mulheres, lideranças comunitárias, povos indígenas, comunidades tradicionais e tantas famílias que me confiaram seus sonhos, suas preocupações e suas esperanças."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Investiremos na qualificação permanente das equipes, fortaleceremos uma cultura de gestão orientada por resultados e criaremos um ambiente de trabalho que estimule a colaboração, a inovação e o compromisso com a excelência no serviço público. instrumentos de gestão cultural, ampliando a participação social, fortalecendo os conselhos de cultura e garantindo maior descentralização das políticas públicas culturais. de gestão, governança de dados, monitoramento de indicadores, transparência e tomada de decisões baseada em evidências.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Investiremos na qualificação permanente das equipes, fortaleceremos uma cultura de gestão orientada por resultados e criaremos um ambiente de trabalho que estimule a colaboração, a inovação e o compromisso com a excelência no serviço público."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "instrumentos de gestão cultural, ampliando a participação social, fortalecendo os conselhos de cultura e garantindo maior descentralização das políticas públicas culturais."
+            },
+            {
+              "id": "s14",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "de gestão, governança de dados, monitoramento de indicadores, transparência e tomada de decisões baseada em evidências. Construir o Pacto Acre pela Educação, Ciência, Cultura e Desenvolvimento, fortalecendo a cooperação entre Estado, municípios, universidades, instituições de pesquisa, setor produtivo e organismos nacionais e internacionais."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "10002549500",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002549500_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002549500_01.pdf",
+      "sha256": "8c811667d3b306d3e2cdf5fbda08cf6665f1e78496560b3d0a1a10716e06773a",
+      "summary": "O Estado deve fortalecer a escola pública como espaço de formação integral, valorizando profissionais da educação, promovendo gestão democrática e articulando o ensino com a realidade social amazônica, respeitando os saberes locais e formando cidadãos conscientes e transformadores. O Acre deve ser um território livre de preconceitos e discriminações de gênero e sexualidade, com educação pública que promova o respeito às diferenças e a dignidade humana. Defendemos um sistema 100% estatal, com foco na medicina preventiva e na atenção básica voltada às especificidades amazônicas. A segurança deve ser baseada na proteção da vida e dos direitos humanos, com políticas de prevenção, inclusão social, combate às desigualdades e focar em uma inteligência voltada ao combate do crime organizado. O Estado deve liderar uma industrialização sustentável, com geração de empregos dignos, economia solidária e valorização do salário que atenda às necessidades das famílias. Nesse sentido, é urgente a realização de uma auditoria integral da dívida pública, combatendo o mecanismo que drena o orçamento nacional para o pagamento de juros abusivos. A assistência social deve ser um direito de cidadania pleno e estatal, rompendo com o assistencialismo eleitoreiro e as parcerias com as entidades privadas. Os serviços de proteção social devem ser diretos e universais, garantindo dignidade e inclusão às crianças, idosos e todos em situação de vulnerabilidade, sem discriminações. Pressionar pela reforma agrária no Acre, visando à divisão de latifúndios improdutivos e das terras griladas pelo agronegócio predatório. A reforma agrária é dever do Governo Federal e deve objetivar a divisão da terra, priorizando a produção coletiva e cooperativa voltada às necessidades reais do povo e não à exportação de commodities. A água e o saneamento são bens comuns e direitos humanos fundamentais que jamais podem ser submetidos à lógica do lucro e da privatização, garantindo qualidade e sustentabilidade de fornecimento de água e saneamento a todos. Garantir que os povos indígenas e as comunidades tradicionais tenham seus territórios respeitados é essencial, porque é deles que vêm seu sustento, sua cultura, sua história e sua forma de viver.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "education"
+          ],
+          "summary": "O Estado deve fortalecer a escola pública como espaço de formação integral, valorizando profissionais da educação, promovendo gestão democrática e articulando o ensino com a realidade social amazônica, respeitando os saberes locais e formando cidadãos conscientes e transformadores. O Acre deve ser um território livre de preconceitos e discriminações de gênero e sexualidade, com educação pública que promova o respeito às diferenças e a dignidade humana.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "O Estado deve fortalecer a escola pública como espaço de formação integral, valorizando profissionais da educação, promovendo gestão democrática e articulando o ensino com a realidade social amazônica, respeitando os saberes locais e formando cidadãos conscientes e transformadores."
+            },
+            {
+              "id": "s13",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "O Acre deve ser um território livre de preconceitos e discriminações de gênero e sexualidade, com educação pública que promova o respeito às diferenças e a dignidade humana."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 2,
+          "page_end": 2,
+          "topics": [
+            "health"
+          ],
+          "summary": "Defendemos um sistema 100% estatal, com foco na medicina preventiva e na atenção básica voltada às especificidades amazônicas.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Defendemos um sistema 100% estatal, com foco na medicina preventiva e na atenção básica voltada às especificidades amazônicas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 2,
+          "page_end": 2,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança deve ser baseada na proteção da vida e dos direitos humanos, com políticas de prevenção, inclusão social, combate às desigualdades e focar em uma inteligência voltada ao combate do crime organizado.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "A segurança deve ser baseada na proteção da vida e dos direitos humanos, com políticas de prevenção, inclusão social, combate às desigualdades e focar em uma inteligência voltada ao combate do crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 2,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O Estado deve liderar uma industrialização sustentável, com geração de empregos dignos, economia solidária e valorização do salário que atenda às necessidades das famílias.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "O Estado deve liderar uma industrialização sustentável, com geração de empregos dignos, economia solidária e valorização do salário que atenda às necessidades das famílias."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Nesse sentido, é urgente a realização de uma auditoria integral da dívida pública, combatendo o mecanismo que drena o orçamento nacional para o pagamento de juros abusivos.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Nesse sentido, é urgente a realização de uma auditoria integral da dívida pública, combatendo o mecanismo que drena o orçamento nacional para o pagamento de juros abusivos."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A assistência social deve ser um direito de cidadania pleno e estatal, rompendo com o assistencialismo eleitoreiro e as parcerias com as entidades privadas. Os serviços de proteção social devem ser diretos e universais, garantindo dignidade e inclusão às crianças, idosos e todos em situação de vulnerabilidade, sem discriminações.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A assistência social deve ser um direito de cidadania pleno e estatal, rompendo com o assistencialismo eleitoreiro e as parcerias com as entidades privadas. Os serviços de proteção social devem ser diretos e universais, garantindo dignidade e inclusão às crianças, idosos e todos em situação de vulnerabilidade, sem discriminações."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Pressionar pela reforma agrária no Acre, visando à divisão de latifúndios improdutivos e das terras griladas pelo agronegócio predatório. A reforma agrária é dever do Governo Federal e deve objetivar a divisão da terra, priorizando a produção coletiva e cooperativa voltada às necessidades reais do povo e não à exportação de commodities.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Pressionar pela reforma agrária no Acre, visando à divisão de latifúndios improdutivos e das terras griladas pelo agronegócio predatório. A reforma agrária é dever do Governo Federal e deve objetivar a divisão da terra, priorizando a produção coletiva e cooperativa voltada às necessidades reais do povo e não à exportação de commodities."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 2,
+          "page_end": 4,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "A segurança deve ser baseada na proteção da vida e dos direitos humanos, com políticas de prevenção, inclusão social, combate às desigualdades e focar em uma inteligência voltada ao combate do crime organizado. A água e o saneamento são bens comuns e direitos humanos fundamentais que jamais podem ser submetidos à lógica do lucro e da privatização, garantindo qualidade e sustentabilidade de fornecimento de água e saneamento a todos. Garantir que os povos indígenas e as comunidades tradicionais tenham seus territórios respeitados é essencial, porque é deles que vêm seu sustento, sua cultura, sua história e sua forma de viver.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "A segurança deve ser baseada na proteção da vida e dos direitos humanos, com políticas de prevenção, inclusão social, combate às desigualdades e focar em uma inteligência voltada ao combate do crime organizado."
+            },
+            {
+              "id": "s09",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "A água e o saneamento são bens comuns e direitos humanos fundamentais que jamais podem ser submetidos à lógica do lucro e da privatização, garantindo qualidade e sustentabilidade de fornecimento de água e saneamento a todos."
+            },
+            {
+              "id": "s14",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Garantir que os povos indígenas e as comunidades tradicionais tenham seus territórios respeitados é essencial, porque é deles que vêm seu sustento, sua cultura, sua história e sua forma de viver."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 2,
+          "page_end": 6,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Defendemos a desmilitarização da polícia militar, formação cidadã das forças de segurança e controle social, enfrentando a violência estrutural, o racismo e o encarceramento em massa. O Estado deve garantir autonomia, participação social e equidade nas oportunidades respeitando as especificidades de cada ser humano, assegurando educação, trabalho e serviços adaptados às necessidades das pessoas com deficiência. O acesso à internet e à informação deve ser tratado como serviço público universal.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Defendemos a desmilitarização da polícia militar, formação cidadã das forças de segurança e controle social, enfrentando a violência estrutural, o racismo e o encarceramento em massa."
+            },
+            {
+              "id": "s11",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "O Estado deve garantir autonomia, participação social e equidade nas oportunidades respeitando as especificidades de cada ser humano, assegurando educação, trabalho e serviços adaptados às necessidades das pessoas com deficiência."
+            },
+            {
+              "id": "s20",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O acesso à internet e à informação deve ser tratado como serviço público universal."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "10002550719",
+      "state_code": "AC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AC10002550719_01.pdf",
+      "public_path": "/propostas/2026/AC/2026AC10002550719_01.pdf",
+      "sha256": "62dbde8571931aa70d7505caf58a95551849491a4cc42e42c818c410cdf141e1",
+      "summary": "Garantir aprendizagem com qualidade e equidade, valorizar profissionais, assegurar escolas dignas e preparar as novas gerações para o futuro do Acre. Educação será tratada como projeto permanente de Estado, articulada à cultura, ao esporte, à ciência, à tecnologia, à formação profissional técnica e tecnológica, à proteção e formação integral para a vida e ao desenvolvimento de cada território e comunidade. Conheço a força do nosso povo e também as dificuldades que tantas pessoas enfrentam todos os dias para conseguir atendimento de saúde, estudar, trabalhar, produzir, viver com segurança e chegar aos serviços públicos. Reconstruir e fortalecer o SUS acreano, valorizar quem cuida, organizar e reduzir filas, regionalizar a assistência e preparar a rede para emergências e novos riscos. A gestão integrada aproximará atenção primária, hospitais, vigilância, regulação, saúde digital, redes de proteção social com atenção especial com as pessoas com deficiência, altas habilidades, discriminadas e condições de vulnerabilidade. Proteger a vida, enfrentar o crime organizado com inteligência, valorizar e articular as instituições de segurança, prevenir violências e fortalecer a proteção social e os direitos fundamentais, incluindo o direito ao trabalho e renda. Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs). Principais ações 5 Preparar a saúde para emergências e novos riscos Integrar vigilância, assistência, pesquisa científica, meio ambiente e Defesa Civil para responder a epidemias, eventos climáticos e emergências sanitárias, reduzindo também os impactos ambientais da própria rede de saúde. crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia. O crescimento deverá gerar trabalho digno, reduzir desigualdades de território, gênero, raça, geração e deficiência e criar oportunidades no interior. Responsabilidade fiscal Compatibilizar compromissos com orçamento, custos de manutenção, capacidade de pessoal e fontes de financiamento.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 9,
+          "page_end": 10,
+          "topics": [
+            "education"
+          ],
+          "summary": "Garantir aprendizagem com qualidade e equidade, valorizar profissionais, assegurar escolas dignas e preparar as novas gerações para o futuro do Acre. Educação será tratada como projeto permanente de Estado, articulada à cultura, ao esporte, à ciência, à tecnologia, à formação profissional técnica e tecnológica, à proteção e formação integral para a vida e ao desenvolvimento de cada território e comunidade.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Garantir aprendizagem com qualidade e equidade, valorizar profissionais, assegurar escolas dignas e preparar as novas gerações para o futuro do Acre. Educação será tratada como projeto permanente de Estado, articulada à cultura, ao esporte, à ciência, à tecnologia, à formação profissional técnica e tecnológica, à proteção e formação integral para a vida e ao desenvolvimento de cada território e comunidade."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 32,
+          "topics": [
+            "health"
+          ],
+          "summary": "Conheço a força do nosso povo e também as dificuldades que tantas pessoas enfrentam todos os dias para conseguir atendimento de saúde, estudar, trabalhar, produzir, viver com segurança e chegar aos serviços públicos. Reconstruir e fortalecer o SUS acreano, valorizar quem cuida, organizar e reduzir filas, regionalizar a assistência e preparar a rede para emergências e novos riscos. A gestão integrada aproximará atenção primária, hospitais, vigilância, regulação, saúde digital, redes de proteção social com atenção especial com as pessoas com deficiência, altas habilidades, discriminadas e condições de vulnerabilidade.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Conheço a força do nosso povo e também as dificuldades que tantas pessoas enfrentam todos os dias para conseguir atendimento de saúde, estudar, trabalhar, produzir, viver com segurança e chegar aos serviços públicos."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Reconstruir e fortalecer o SUS acreano, valorizar quem cuida, organizar e reduzir filas, regionalizar a assistência e preparar a rede para emergências e novos riscos. A gestão integrada aproximará atenção primária, hospitais, vigilância, regulação, saúde digital, redes de proteção social com atenção especial com as pessoas com deficiência, altas habilidades, discriminadas e condições de vulnerabilidade."
+            },
+            {
+              "id": "s14",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Em 2023, a Estratégia Saúde da Família alcançava 79,8% da população, cobertura relevante que ainda precisa se converter em ações efetivas, com continuidade do cuidado e acesso resolutivo em todo o território."
+            },
+            {
+              "id": "s28",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Priorizar rotas utilizadas pela produção, transporte escolar e atendimento de saúde."
+            },
+            {
+              "id": "s32",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Saúde mental, pobreza, abandono escolar, falta de oportunidades, racismo, discriminação e fragilidade das redes de proteção se combinam nos territórios mais vulneráveis."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 9,
+          "page_end": 32,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Proteger a vida, enfrentar o crime organizado com inteligência, valorizar e articular as instituições de segurança, prevenir violências e fortalecer a proteção social e os direitos fundamentais, incluindo o direito ao trabalho e renda. Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs). Principais ações 5 Preparar a saúde para emergências e novos riscos Integrar vigilância, assistência, pesquisa científica, meio ambiente e Defesa Civil para responder a epidemias, eventos climáticos e emergências sanitárias, reduzindo também os impactos ambientais da própria rede de saúde.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Proteger a vida, enfrentar o crime organizado com inteligência, valorizar e articular as instituições de segurança, prevenir violências e fortalecer a proteção social e os direitos fundamentais, incluindo o direito ao trabalho e renda. Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs)."
+            },
+            {
+              "id": "s17",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Principais ações 5 Preparar a saúde para emergências e novos riscos Integrar vigilância, assistência, pesquisa científica, meio ambiente e Defesa Civil para responder a epidemias, eventos climáticos e emergências sanitárias, reduzindo também os impactos ambientais da própria rede de saúde."
+            },
+            {
+              "id": "s28",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Integrar infraestrutura urbana, prevenção de desastres e Defesa Civil."
+            },
+            {
+              "id": "s32",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "O sistema prisional também precisa deixar de reproduzir a organização do crime e ampliar oportunidades de educação, trabalho e reinserção para reduzir a reincidência. Segurança pública exige inteligência e integração das ações policiais, valorização profissional, combate combinado com prevenção e presença efetiva do Estado no território que deve trabalhar articulando educação, saúde, proteção social, cultura, esporte, lazer e geração de emprego, renda e oportunidades."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 5,
+          "page_end": 32,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia. Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs). O crescimento deverá gerar trabalho digno, reduzir desigualdades de território, gênero, raça, geração e deficiência e criar oportunidades no interior.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia."
+            },
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs)."
+            },
+            {
+              "id": "s21",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "O crescimento deverá gerar trabalho digno, reduzir desigualdades de território, gênero, raça, geração e deficiência e criar oportunidades no interior."
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Integrar qualificação, assistência social, cuidado, acessibilidade e oportunidades de trabalho digno para famílias e grupos em situação de vulnerabilidade."
+            },
+            {
+              "id": "s24",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Monitorar publicamente execução, trabalho digno, renda, emissões e distribuição dos benefícios por território, gênero, raça, idade e deficiência, respeitada a proteção de dados."
+            },
+            {
+              "id": "s32",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Segurança pública exige inteligência e integração das ações policiais, valorização profissional, combate combinado com prevenção e presença efetiva do Estado no território que deve trabalhar articulando educação, saúde, proteção social, cultura, esporte, lazer e geração de emprego, renda e oportunidades."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 27,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Responsabilidade fiscal Compatibilizar compromissos com orçamento, custos de manutenção, capacidade de pessoal e fontes de financiamento. Compromissos estratégicos Reconstruir a gestão e a governança do SUS Recuperar a capacidade da Secretaria de Saúde de planejar, regular, contratar, monitorar e prestar contas, com responsabilidade fiscal, transparência e integração entre Estado, municípios, trabalhadores, prestadores e controle social. 5 Planejar e executar o desenvolvimento Recuperar a capacidade do Estado e de seus servidores de coordenar investimentos com responsabilidade fiscal, simplificar processos, preparar projetos e pactuar prioridades com municípios, Governo Federal, trabalhadores e setor produtivo.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Responsabilidade fiscal e justiça no uso dos recursos."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Responsabilidade fiscal Compatibilizar compromissos com orçamento, custos de manutenção, capacidade de pessoal e fontes de financiamento."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Compromissos estratégicos Reconstruir a gestão e a governança do SUS Recuperar a capacidade da Secretaria de Saúde de planejar, regular, contratar, monitorar e prestar contas, com responsabilidade fiscal, transparência e integração entre Estado, municípios, trabalhadores, prestadores e controle social."
+            },
+            {
+              "id": "s23",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "5 Planejar e executar o desenvolvimento Recuperar a capacidade do Estado e de seus servidores de coordenar investimentos com responsabilidade fiscal, simplificar processos, preparar projetos e pactuar prioridades com municípios, Governo Federal, trabalhadores e setor produtivo."
+            },
+            {
+              "id": "s27",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "Compromissos estratégicos Planejar, executar e cuidar do patrimônio público Reconstruir a capacidade do Estado e valorizar suas equipes técnicas para planejar investimentos, preparar projetos, executar obras e manter a infraestrutura com responsabilidade fiscal e transparência."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 32,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "emprego depende de conhecimento, infraestrutura, crédito e segurança; educação depende de proteção, cultura, conectividade e condições dignas de vida. A gestão integrada aproximará atenção primária, hospitais, vigilância, regulação, saúde digital, redes de proteção social com atenção especial com as pessoas com deficiência, altas habilidades, discriminadas e condições de vulnerabilidade. Proteger a vida, enfrentar o crime organizado com inteligência, valorizar e articular as instituições de segurança, prevenir violências e fortalecer a proteção social e os direitos fundamentais, incluindo o direito ao trabalho e renda.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "emprego depende de conhecimento, infraestrutura, crédito e segurança; educação depende de proteção, cultura, conectividade e condições dignas de vida."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "A gestão integrada aproximará atenção primária, hospitais, vigilância, regulação, saúde digital, redes de proteção social com atenção especial com as pessoas com deficiência, altas habilidades, discriminadas e condições de vulnerabilidade."
+            },
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Proteger a vida, enfrentar o crime organizado com inteligência, valorizar e articular as instituições de segurança, prevenir violências e fortalecer a proteção social e os direitos fundamentais, incluindo o direito ao trabalho e renda. Segurança, justiça, educação, saúde, cultura, desenvolvimento econômico, assistência social e Defesa Civil atuarão de forma coordenada, com atenção especial às pessoas e territórios mais vulneráveis do ponto de vista socioeconômico e ambiental, por meio de Zonas de Atendimento Prioritário (ZAPs)."
+            },
+            {
+              "id": "s21",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Compromissos estratégicos Ampliar a produtividade com equilíbrio ambiental e social Fortalecer cadeias produtivas atuais e emergentes, combinando produtividade, conservação, segurança alimentar e valorização dos conhecimentos das comunidades."
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Integrar qualificação, assistência social, cuidado, acessibilidade e oportunidades de trabalho digno para famílias e grupos em situação de vulnerabilidade."
+            },
+            {
+              "id": "s32",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Segurança pública exige inteligência e integração das ações policiais, valorização profissional, combate combinado com prevenção e presença efetiva do Estado no território que deve trabalhar articulando educação, saúde, proteção social, cultura, esporte, lazer e geração de emprego, renda e oportunidades. A proteção da vida unirá repressão qualificada, prevenção, assistência social, garantia de direitos e oportunidades."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 28,
+          "page_end": 29,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Estruturar soluções regionais e consorciadas para resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Estruturar soluções regionais e consorciadas para resíduos sólidos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 17,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia. Principais ações 5 Preparar a saúde para emergências e novos riscos Integrar vigilância, assistência, pesquisa científica, meio ambiente e Defesa Civil para responder a epidemias, eventos climáticos e emergências sanitárias, reduzindo também os impactos ambientais da própria rede de saúde.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia."
+            },
+            {
+              "id": "s17",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Principais ações 5 Preparar a saúde para emergências e novos riscos Integrar vigilância, assistência, pesquisa científica, meio ambiente e Defesa Civil para responder a epidemias, eventos climáticos e emergências sanitárias, reduzindo também os impactos ambientais da própria rede de saúde."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 21,
+          "page_end": 22,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Ampliar compras públicas da agricultura familiar e pequenos negócios nos limites legais.",
+          "excerpts": [
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Ampliar compras públicas da agricultura familiar e pequenos negócios nos limites legais."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 20,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "A transformação digital será acompanhada de proteção de dados, acessibilidade e atendimento presencial, para que a inovação reduza barreiras em vez de criar novas exclusões. A transformação digital facilitará o acesso aos serviços e integrará bases de dados, mas será acompanhada de alternativas presenciais e apoio a quem enfrenta barreiras tecnológicas. A Escola de Governo, laboratórios de inovação e formação permanente ampliarão competências, cooperação, saúde no trabalho e uso responsável de dados e inteligência artificial.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "A transformação digital será acompanhada de proteção de dados, acessibilidade e atendimento presencial, para que a inovação reduza barreiras em vez de criar novas exclusões."
+            },
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A transformação digital facilitará o acesso aos serviços e integrará bases de dados, mas será acompanhada de alternativas presenciais e apoio a quem enfrenta barreiras tecnológicas. A Escola de Governo, laboratórios de inovação e formação permanente ampliarão competências, cooperação, saúde no trabalho e uso responsável de dados e inteligência artificial."
+            },
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Transformação digital Usar dados e tecnologias para ampliar acesso e qualidade, promover cidadania e desenvolvimento, protegendo informações e evitando exclusões."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "O desafio é combinar aumento da produtividade de uma base econômica diversificada com forte investimento em industrialização, aliados a conservação da floresta, recuperação ambiental, turismo, economia criativa, serviços e transformação digital."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 18,
+          "page_end": 22,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "O desafio é combinar aumento da produtividade de uma base econômica diversificada com forte investimento em industrialização, aliados a conservação da floresta, recuperação ambiental, turismo, economia criativa, serviços e transformação digital. Apoiar a economia criativa (arte, cultura, comunicação, inovação), o turismo étnico-ambiental e as exportações de produtos acreanos para novos mercados.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "O desafio é combinar aumento da produtividade de uma base econômica diversificada com forte investimento em industrialização, aliados a conservação da floresta, recuperação ambiental, turismo, economia criativa, serviços e transformação digital."
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Apoiar a economia criativa (arte, cultura, comunicação, inovação), o turismo étnico-ambiental e as exportações de produtos acreanos para novos mercados."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 11,
+          "page_end": 27,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Povos indígenas e populações tradicionais Respeitar e valorizar direitos, territórios, consulta, participação, conhecimentos e formas próprias de organização. Pequenos produtores, cooperativas, microempresas e empreendedores, mulheres, juventude, povos indígenas e comunidades tradicionais, população negra e pessoas com deficiência enfrentam diferentes dificuldades de crédito, assistência técnica, regularização, conectividade, energia, infraestrutura, logística e acesso a mercados. Interiorizar atendimento empresarial e produtivo acessível para mulheres, juventudes, população negra, pessoas com deficiência, povos indígenas e comunidades tradicionais.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Povos indígenas e populações tradicionais Respeitar e valorizar direitos, territórios, consulta, participação, conhecimentos e formas próprias de organização."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Pequenos produtores, cooperativas, microempresas e empreendedores, mulheres, juventude, povos indígenas e comunidades tradicionais, população negra e pessoas com deficiência enfrentam diferentes dificuldades de crédito, assistência técnica, regularização, conectividade, energia, infraestrutura, logística e acesso a mercados."
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Interiorizar atendimento empresarial e produtivo acessível para mulheres, juventudes, população negra, pessoas com deficiência, povos indígenas e comunidades tradicionais."
+            },
+            {
+              "id": "s27",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "Principais ações 2 Garantir integração territorial durante todo o ano Implantar manutenção regionalizada e contínua de ramais, rodovias estaduais e pontes, articulada aos modais fluvial e aéreo e às necessidades do setor produtivo e da população do interior do estado, incluindo povos indígenas e comunidades tradicionais."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 15,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Cada compromisso será sustentado por uma gestão pública íntegra, profissional, inovadora e transparente, capaz de planejar, executar, acompanhar e prestar contas. crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia. O governo ouvirá a sociedade, respeitará a diversidade e fortalecerá conselhos, fóruns da sociedade civil, ouvidorias e espaços de controle social.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Cada compromisso será sustentado por uma gestão pública íntegra, profissional, inovadora e transparente, capaz de planejar, executar, acompanhar e prestar contas."
+            },
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "crescimento econômico com inclusão, aumento da produção com respeito ao meio ambiente, modernização da gestão pública com valorização humana e eficiência com democracia. O governo ouvirá a sociedade, respeitará a diversidade e fortalecerá conselhos, fóruns da sociedade civil, ouvidorias e espaços de controle social."
+            },
+            {
+              "id": "s03",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "As prioridades serão compatíveis com a capacidade financeira do Estado, os custos de manutenção e as fontes de financiamento, protegendo o interesse público e buscando a máxima eficiência da gestão pública."
+            },
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "processos de escuta assegurarão participação social e resposta às demandas dos diferentes territórios e grupos da sociedade."
+            },
+            {
+              "id": "s06",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "instituirá o Comitê Estratégico e o Escritório Estadual de Projetos; revisará a carteira de obras e investimentos; iniciará o Plano de Atualização da Gestão Pública e a simplificação administrativa; estruturará o Painel Público de Metas e Resultados; apresentará estratégia para a situação previdenciária e os passivos que restringem o investimento; enfrentará problemas críticos com as entregas mais necessárias e urgentes para a população."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "e parceria com os municípios."
+            },
+            {
+              "id": "s13",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Eficiência e transparência Definir metas, responsáveis, custos, prazos e resultados, com informações públicas e controle social."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Compromissos estratégicos Reconstruir a gestão e a governança do SUS Recuperar a capacidade da Secretaria de Saúde de planejar, regular, contratar, monitorar e prestar contas, com responsabilidade fiscal, transparência e integração entre Estado, municípios, trabalhadores, prestadores e controle social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

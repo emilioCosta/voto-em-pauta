@@ -1,0 +1,282 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "deputado",
+  "state_code": "RJ",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "190002543534",
+      "state_code": "RJ",
+      "office": "DEPUTADO ESTADUAL",
+      "candidate_type": "deputado",
+      "file_name": "2026RJ190002543534_01.pdf",
+      "public_path": "/propostas/2026/RJ/2026RJ190002543534_01.pdf",
+      "sha256": "bf6565aa3f42fa13d6889c5f898343f7c1d7b12b80e06d81efe7dcc10f2e548f",
+      "summary": "Tambe m pretendo incentivar aço es que ampliem oportunidades de educaça o, capacitaça o profissional e inserça o no mercado de trabalho para os jovens, sempre em dia logo com especialistas, famí lias e entidades representativas. ➢ fortalecimento da educaça o pu blica; ➢ inclusa o de alunos com deficie ncia; ➢ valorizaça o dos profissionais da educaça o; ➢ incentivo a qualificaça o profissional; ➢ aproximaça o entre educaça o e mercado de trabalho. Defenderei iniciativas que incentivem: ✓ geraça o de empregos; ✓ fortalecimento do come rcio local; ✓ apoio ao empreendedorismo; ✓ capacitaça o profissional; ✓ inclusa o das pessoas com deficie ncia no mercado de trabalho.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Tambe m pretendo incentivar aço es que ampliem oportunidades de educaça o, capacitaça o profissional e inserça o no mercado de trabalho para os jovens, sempre em dia logo com especialistas, famí lias e entidades representativas. ➢ fortalecimento da educaça o pu blica; ➢ inclusa o de alunos com deficie ncia; ➢ valorizaça o dos profissionais da educaça o; ➢ incentivo a qualificaça o profissional; ➢ aproximaça o entre educaça o e mercado de trabalho. Defenderei iniciativas que incentivem: ✓ geraça o de empregos; ✓ fortalecimento do come rcio local; ✓ apoio ao empreendedorismo; ✓ capacitaça o profissional; ✓ inclusa o das pessoas com deficie ncia no mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "Tambe m pretendo incentivar aço es que ampliem oportunidades de educaça o, capacitaça o profissional e inserça o no mercado de trabalho para os jovens, sempre em dia logo com especialistas, famí lias e entidades representativas."
+            },
+            {
+              "id": "s05",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "➢ fortalecimento da educaça o pu blica; ➢ inclusa o de alunos com deficie ncia; ➢ valorizaça o dos profissionais da educaça o; ➢ incentivo a qualificaça o profissional; ➢ aproximaça o entre educaça o e mercado de trabalho."
+            },
+            {
+              "id": "s06",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "Defenderei iniciativas que incentivem: ✓ geraça o de empregos; ✓ fortalecimento do come rcio local; ✓ apoio ao empreendedorismo; ✓ capacitaça o profissional; ✓ inclusa o das pessoas com deficie ncia no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

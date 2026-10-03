@@ -1,0 +1,2437 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "SC",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "240002537073",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002537073_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002537073_01.pdf",
+      "sha256": "e0719d7ba2473b46cdc615ce176cbb8481adbe9b144b70137e891819bd3bacce",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    },
+    {
+      "candidate_id": "240002541913",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002541913_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002541913_01.pdf",
+      "sha256": "ce5c4c8f10d18264e1adfce032e9f803df09df29a224dc02702a70b44ecc61e1",
+      "summary": "Marcus Alexandre Sodré é graduado em História e professor em escola pública há mais de 25 anos, ativista sindical e político, sempre atuante nas lutas pela categoria dos professores e pela classe trabalhadora em geral, participando das greves e manifestações contra todos os ataques aos direitos da classe, sejam trabalhistas, ambientais, sociais ou das minorias. Participou de todas as lutas (iniciada nos anos 1980), em defesa da educação pública e dos professores, dirigente da Central Sindical e Popular CSP Conlutas. Educação pública que respeite a diversidade de identidade de gênero e a orientação sexual e garanta o livre e seguro desenvolvimento e exercício da sexualidade; J. Para citar em um exemplo vejamos a educação onde desde o início de seu governo impôs um duro ataque aos servidores públicos: implantação do novo ensino médio; privatização do ensino; falta de concurso público; contrato precarizado dos professores ACTs; precarização dos serviços de limpeza e merenda escolar; perseguição ideológica de professores; assédio moral e violência escolar se agravando; dificuldades nas perícias médicas, aumento de professores com problemas de saúde mental; confisco de 14% no salário dos aposentados, entre outros. Para resolver o problema dos baixos salários, do desemprego, da saúde pública, do caos nos serviços públicos, da falta de moradia, do descaso com a educação pública, da falta de saneamento básico e os demais problemas sociais. Por uma política estatal e “humanizada” de saúde mental, cujos distúrbios, em função das péssimas condições de vida e o impacto psicológico e emocional da opressão, têm aumentado entre negros e negras. O caos na segurança pública é parte da crise econômica capitalista e está relacionado ao aumento da desigualdade social, ao aumento do desemprego, da criminalização das drogas, do sucateamento da educação pública, da falta de moradias populares etc. Os trabalhadores e o povo pobre das periferias sofrem com a violência policial, com os despejos, com a violência machista, racista e lgbtfóbica. Prefeitos, governadores, e às vezes, até presidentes, tomam medidas demagógicas e midiáticas de vestir casacos ou coletes da Defesa Civil ou dos Bombeiros e sobrevoar áreas de helicóptero.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 44,
+          "topics": [
+            "education"
+          ],
+          "summary": "Marcus Alexandre Sodré é graduado em História e professor em escola pública há mais de 25 anos, ativista sindical e político, sempre atuante nas lutas pela categoria dos professores e pela classe trabalhadora em geral, participando das greves e manifestações contra todos os ataques aos direitos da classe, sejam trabalhistas, ambientais, sociais ou das minorias. Participou de todas as lutas (iniciada nos anos 1980), em defesa da educação pública e dos professores, dirigente da Central Sindical e Popular CSP Conlutas. Educação pública que respeite a diversidade de identidade de gênero e a orientação sexual e garanta o livre e seguro desenvolvimento e exercício da sexualidade; J.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "Marcus Alexandre Sodré é graduado em História e professor em escola pública há mais de 25 anos, ativista sindical e político, sempre atuante nas lutas pela categoria dos professores e pela classe trabalhadora em geral, participando das greves e manifestações contra todos os ataques aos direitos da classe, sejam trabalhistas, ambientais, sociais ou das minorias. Participou de todas as lutas (iniciada nos anos 1980), em defesa da educação pública e dos professores, dirigente da Central Sindical e Popular CSP Conlutas."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "Educação pública que respeite a diversidade de identidade de gênero e a orientação sexual e garanta o livre e seguro desenvolvimento e exercício da sexualidade; J."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Que todas as escolas públicas tenham anfiteatros e quadras poliesportivas cobertas e com vestiários e funcionem também como centros de cultura completos, geridos pelos trabalhadores."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 50,
+          "topics": [
+            "health"
+          ],
+          "summary": "Para citar em um exemplo vejamos a educação onde desde o início de seu governo impôs um duro ataque aos servidores públicos: implantação do novo ensino médio; privatização do ensino; falta de concurso público; contrato precarizado dos professores ACTs; precarização dos serviços de limpeza e merenda escolar; perseguição ideológica de professores; assédio moral e violência escolar se agravando; dificuldades nas perícias médicas, aumento de professores com problemas de saúde mental; confisco de 14% no salário dos aposentados, entre outros. Para resolver o problema dos baixos salários, do desemprego, da saúde pública, do caos nos serviços públicos, da falta de moradia, do descaso com a educação pública, da falta de saneamento básico e os demais problemas sociais. Por uma política estatal e “humanizada” de saúde mental, cujos distúrbios, em função das péssimas condições de vida e o impacto psicológico e emocional da opressão, têm aumentado entre negros e negras.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "Para citar em um exemplo vejamos a educação onde desde o início de seu governo impôs um duro ataque aos servidores públicos: implantação do novo ensino médio; privatização do ensino; falta de concurso público; contrato precarizado dos professores ACTs; precarização dos serviços de limpeza e merenda escolar; perseguição ideológica de professores; assédio moral e violência escolar se agravando; dificuldades nas perícias médicas, aumento de professores com problemas de saúde mental; confisco de 14% no salário dos aposentados, entre outros. Para resolver o problema dos baixos salários, do desemprego, da saúde pública, do caos nos serviços públicos, da falta de moradia, do descaso com a educação pública, da falta de saneamento básico e os demais problemas sociais."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "Por uma política estatal e “humanizada” de saúde mental, cujos distúrbios, em função das péssimas condições de vida e o impacto psicológico e emocional da opressão, têm aumentado entre negros e negras. Amplo atendimento médico e psicológico às vítimas de violência, construção de casas abrigo, investigação hábil e punição aos agressores; D."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Junto com isso, o Estado deve garantir campanhas de saúde pública e atendimento estatal de saúde aos usuários."
+            },
+            {
+              "id": "s07",
+              "page_start": 46,
+              "page_end": 50,
+              "text": "Em defesa de uma vida digna, do emprego, do salário, da educação e saúde públicas e gratuitas, da moradia, do saneamento básico para todos e do transporte público de qualidade."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 46,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O caos na segurança pública é parte da crise econômica capitalista e está relacionado ao aumento da desigualdade social, ao aumento do desemprego, da criminalização das drogas, do sucateamento da educação pública, da falta de moradias populares etc. Os trabalhadores e o povo pobre das periferias sofrem com a violência policial, com os despejos, com a violência machista, racista e lgbtfóbica. Prefeitos, governadores, e às vezes, até presidentes, tomam medidas demagógicas e midiáticas de vestir casacos ou coletes da Defesa Civil ou dos Bombeiros e sobrevoar áreas de helicóptero.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "O caos na segurança pública é parte da crise econômica capitalista e está relacionado ao aumento da desigualdade social, ao aumento do desemprego, da criminalização das drogas, do sucateamento da educação pública, da falta de moradias populares etc. Os trabalhadores e o povo pobre das periferias sofrem com a violência policial, com os despejos, com a violência machista, racista e lgbtfóbica."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "Formação de conselhos populares de segurança pública; E."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Prefeitos, governadores, e às vezes, até presidentes, tomam medidas demagógicas e midiáticas de vestir casacos ou coletes da Defesa Civil ou dos Bombeiros e sobrevoar áreas de helicóptero. Verbas para um plano de obras que inclua obras de infraestrutura e saneamento ambiental, moradia popular, drenagem e desassoreamento de rios e córregos, sistemas de alerta nas cidades e mais investimentos em defesa civil; B."
+            },
+            {
+              "id": "s06",
+              "page_start": 44,
+              "page_end": 46,
+              "text": "Punição a todos os torturadores da ditadura militar e aos que têm usado essa prática nas delegacias de polícia e sistema prisional!"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 50,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "uma redução da miséria extrema que não atingiu as bases que a produzem. Não é possível falar, sem hipocrisia, em crescimento econômico brasileiro mantendo uma estrutura produtiva quase inteiramente fora das principais cadeias de valor que emergiram nas últimas décadas. Fim da exclusão, da discriminação no mercado de trabalho e do desemprego impostos pela LGBTfobia; E.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "uma redução da miséria extrema que não atingiu as bases que a produzem. Não é possível falar, sem hipocrisia, em crescimento econômico brasileiro mantendo uma estrutura produtiva quase inteiramente fora das principais cadeias de valor que emergiram nas últimas décadas."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "Fim da exclusão, da discriminação no mercado de trabalho e do desemprego impostos pela LGBTfobia; E."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "O plano de segurança pública é inseparável de um plano de investimentos sociais, geração de emprego e aumento da renda dos trabalhadores."
+            },
+            {
+              "id": "s07",
+              "page_start": 46,
+              "page_end": 50,
+              "text": "A economia brasileira é controlada hoje por um punhado de grandes empresas, grande parte delas sob controle do capital estrangeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 44,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "política monetária para compensar a estagnação do país com juros elevados; política cambial para compensar a saída de capital do país com a venda dos dólares oriundos da balança comercial favorável; política financeira para preservar os lucros não investidos pelo capital nacional por meio de elevados juros dos títulos da dívida pública. Sem interromper essa drenagem da riqueza nacional para fora do Brasil ou para títulos fictícios da dívida pública, não há projeto nacional viável. Suspensão do pagamento da dívida pública e auditoria para aumentar o orçamento para a Cultura do estado, garantindo concursos públicos para o setor.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "política monetária para compensar a estagnação do país com juros elevados; política cambial para compensar a saída de capital do país com a venda dos dólares oriundos da balança comercial favorável; política financeira para preservar os lucros não investidos pelo capital nacional por meio de elevados juros dos títulos da dívida pública. Sem interromper essa drenagem da riqueza nacional para fora do Brasil ou para títulos fictícios da dívida pública, não há projeto nacional viável."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Suspensão do pagamento da dívida pública e auditoria para aumentar o orçamento para a Cultura do estado, garantindo concursos públicos para o setor."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 37,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Em meio à destruição da proteção social, a família trabalhadora passa a absorver individualmente tarefas de cuidado, alimentação, educação e sobrevivência que deveriam ser socialmente garantidas, ampliando a sobrecarga doméstica e o trabalho não remunerado, sobretudo das mulheres trabalhadoras e mais ainda das mulheres negras. sem acesso a educação básica, falta de moradia adequada, sem acesso ao saneamento básico, sem proteção social ou acesso à internet. que os alunos tenham uma alimentação de qualidade, nutricionalmente correta, incluindo alimentação ao chegar na escola, lanche e almoço ou janta; P.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "Em meio à destruição da proteção social, a família trabalhadora passa a absorver individualmente tarefas de cuidado, alimentação, educação e sobrevivência que deveriam ser socialmente garantidas, ampliando a sobrecarga doméstica e o trabalho não remunerado, sobretudo das mulheres trabalhadoras e mais ainda das mulheres negras. sem acesso a educação básica, falta de moradia adequada, sem acesso ao saneamento básico, sem proteção social ou acesso à internet."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "que os alunos tenham uma alimentação de qualidade, nutricionalmente correta, incluindo alimentação ao chegar na escola, lanche e almoço ou janta; P. A Assistência Social é uma política pública implementada através da Política Nacional de Assistência Social (PNAS) em 2005."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 37,
+          "page_end": 44,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Situação semelhante existe no campo, com a imposição de padrões capitalistas de desenvolvimento devido ao peso do agronegócio e que vêm impondo a concentração das terras, destruição da natureza, aumento da violência e a utilização de grandes quantidades de agrotóxicos e sementes transgênicas sem garantias científicas sobre o impacto ao meio ambiente e aos seres humanos. Somos contra o modelo de turismo baseado nos grandes empreendimentos empresariais que degradam o meio ambiente e super exploram a força de trabalho. Defendemos incentivar o turismo que respeita o meio ambiente, combata o turismo sexual e garanta boas condições de trabalho e renda para a população local.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "Situação semelhante existe no campo, com a imposição de padrões capitalistas de desenvolvimento devido ao peso do agronegócio e que vêm impondo a concentração das terras, destruição da natureza, aumento da violência e a utilização de grandes quantidades de agrotóxicos e sementes transgênicas sem garantias científicas sobre o impacto ao meio ambiente e aos seres humanos."
+            },
+            {
+              "id": "s05",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Somos contra o modelo de turismo baseado nos grandes empreendimentos empresariais que degradam o meio ambiente e super exploram a força de trabalho. Defendemos incentivar o turismo que respeita o meio ambiente, combata o turismo sexual e garanta boas condições de trabalho e renda para a população local."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 28,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "reforma agrária ampla e estrutural, auditoria e suspensão do pagamento da dívida externa, controle público do sistema financeiro e fortalecimento dos bancos estatais, defesa dos monopólios estratégicos e ampliação substantiva dos direitos sociais e trabalhistas, entre outras medidas. Esse dinheiro poderia estar sendo usado para apoiar os pequenos proprietários do campo e das cidades, que vivem à míngua, e para fazer uma reforma agrária.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "reforma agrária ampla e estrutural, auditoria e suspensão do pagamento da dívida externa, controle público do sistema financeiro e fortalecimento dos bancos estatais, defesa dos monopólios estratégicos e ampliação substantiva dos direitos sociais e trabalhistas, entre outras medidas. Esse dinheiro poderia estar sendo usado para apoiar os pequenos proprietários do campo e das cidades, que vivem à míngua, e para fazer uma reforma agrária."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 28,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Com a digitalização dos produtos, a automação e a inteligência artificial aplicada massivamente ao processo produtivo, tampouco se requer um sistema de educação universal minimamente abrangente. Falamos dos ramos que concentram tecnologia, escala e o controle efetivo das cadeias globais de produção – indústria digital, semicondutores, eletroeletrônicos de ponta, inteligência artificial, biotecnologia e novos materiais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "Com a digitalização dos produtos, a automação e a inteligência artificial aplicada massivamente ao processo produtivo, tampouco se requer um sistema de educação universal minimamente abrangente. Falamos dos ramos que concentram tecnologia, escala e o controle efetivo das cadeias globais de produção – indústria digital, semicondutores, eletroeletrônicos de ponta, inteligência artificial, biotecnologia e novos materiais."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 37,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "São aliados da classe trabalhadora os povos indígenas, os camponeses sem terra e quilombolas, os estudantes e a juventude, os micro e pequenos produtores rurais e os micro e pequenos empresários da cidade e do campo, os intelectuais e setores médios em geral que estejam ao lado da classe trabalhadora, do povo e defendam a soberania do país. Os povos indígenas sofrem ameaça e violência constantes contra a vida e sua cultura por parte de fazendeiros e especuladores imobiliários. Políticas de permanência para os povos indígenas nas universidades; H.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "São aliados da classe trabalhadora os povos indígenas, os camponeses sem terra e quilombolas, os estudantes e a juventude, os micro e pequenos produtores rurais e os micro e pequenos empresários da cidade e do campo, os intelectuais e setores médios em geral que estejam ao lado da classe trabalhadora, do povo e defendam a soberania do país. Os povos indígenas sofrem ameaça e violência constantes contra a vida e sua cultura por parte de fazendeiros e especuladores imobiliários."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "Políticas de permanência para os povos indígenas nas universidades; H."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 37,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Marcos Dorval Bacharel em Geografia, Especialista em Gestão Pública, servidor público do IFSC ha mais de 30 anos, foi dirigente nacional do sindicato de técnicos e professores e ajudou a fundar a CSP Conlutas sempre lutou em defesa da educação pública e dos servidores públicos. A ofensiva ideológica da extrema direita busca também reorganizar formas reacionárias de controle social. É preciso também garantir democracia nas escolas para que professores, estudantes e demais membros da comunidade escolar possam debater e decidir o projeto pedagógico, a gestão pública da escola e eleger diretamente sua direção (diretor eleito deve ser diretor empossado, sem filtros).",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 28,
+              "text": "Marcos Dorval Bacharel em Geografia, Especialista em Gestão Pública, servidor público do IFSC ha mais de 30 anos, foi dirigente nacional do sindicato de técnicos e professores e ajudou a fundar a CSP Conlutas sempre lutou em defesa da educação pública e dos servidores públicos. A ofensiva ideológica da extrema direita busca também reorganizar formas reacionárias de controle social."
+            },
+            {
+              "id": "s02",
+              "page_start": 28,
+              "page_end": 37,
+              "text": "É preciso também garantir democracia nas escolas para que professores, estudantes e demais membros da comunidade escolar possam debater e decidir o projeto pedagógico, a gestão pública da escola e eleger diretamente sua direção (diretor eleito deve ser diretor empossado, sem filtros). Para enfrentar esta dura realidade os/as trabalhadores/as da Assistência Social se somam nas mobilizações do conjunto da classe trabalhadora, a exemplo da greve do serviço público municipal no início de 2018 em Florianópolis, que se enfrentou diretamente contra a implantação da privatização de serviços públicos via Organizações Sociais (OSs)."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "240002544118",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002544118_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002544118_01.pdf",
+      "sha256": "38d41f653a5b10e26f9e6acc73ad428aa01a8e85f3c9f037373daa95c7666304",
+      "summary": "Elevar a qualidade da educação pública com foco em desempenho e empregabilidade. 2.9.1 Implementar a educação em tempo integral em todas as escolas estaduais catarinenses até 2030, ampliando as atividades no contraturno orientado ao reforço escolar, com oficinas de leitura e interpretação de texto, lógica, matemática e inglês; 2.9.2 Estruturar parceria público-privada (PPP) nas escolas estaduais para operação e manutenção das edificações educacionais e incentivar a mesma prática nos municípios, oferecendo apoio técnico e financeiro; 2.9.3 Garantir a segurança integral nas escolas, visando à redução da violência entre alunos e professores, bem como do risco de atentados; 2.9.4 Criação do Programa de Meritocracia Escolar, no qual serão implantadas metas de desempenho para escolas e premiação para unidades com melhores resultados; 2.9.5 Fortalecimento da Educação Técnica, com expansão do ensino técnico integrado e parcerias com setor produtivo industrial e tecnológico; e 2.9.6 Implantação da Educação Empreendedora no currículo escolar, com introdução de conteúdos de educação financeira e formação continuada em empreendedorismo e tecnologia. 2.14.1 Criação do Programa Tempo é Vida, por meio do qual qualquer cirurgia indicada pelo sistema público de saúde deverá ser realizada em, no máximo, (sessenta) dias, inclusive mediante contratação complementar da capacidade ociosa de unidades privadas de saúde, em horários de menor demanda; 2.14.2 Retomar e licitar a parceria público-privada (PPP) para construção, operação e manutenção do Complexo Hospitalar de Santa Catarina, em parceria com o Banco Interamericano de Desenvolvimento (BID), que unifica as operações do Hospital Celso Ramos, Nereu Ramos, Maternidade Carmela Dutra e Hospital Infantil, projeto pronto que foi abandonado pelo governo atual; 2.14.3 Criação do Programa Fila Zero, para realizar mutirões permanentes para zerar a fila de consultas com especialidades médicas; 2.14.4 Implantar gestão por resultados, com metas de atendimento e satisfação de usuários nas unidades de saúde estaduais, integrando o quadro geral de indicadores públicos de desempenho; 2.14.5 Ampliar e fortalecer a telemedicina, com consultas remotas para municípios menores e integração digital dos prontuários; 2.14.6 Valorizar a carreira de méd Ao longo deste documento foram apresentadas propostas v",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "education"
+          ],
+          "summary": "Elevar a qualidade da educação pública com foco em desempenho e empregabilidade. 2.9.1 Implementar a educação em tempo integral em todas as escolas estaduais catarinenses até 2030, ampliando as atividades no contraturno orientado ao reforço escolar, com oficinas de leitura e interpretação de texto, lógica, matemática e inglês; 2.9.2 Estruturar parceria público-privada (PPP) nas escolas estaduais para operação e manutenção das edificações educacionais e incentivar a mesma prática nos municípios, oferecendo apoio técnico e financeiro; 2.9.3 Garantir a segurança integral nas escolas, visando à redução da violência entre alunos e professores, bem como do risco de atentados; 2.9.4 Criação do Programa de Meritocracia Escolar, no qual serão implantadas metas de desempenho para escolas e premiação para unidades com melhores resultados; 2.9.5 Fortalecimento da Educação Técnica, com expansão do ensino técnico integrado e parcerias com setor produtivo industrial e tecnológico; e 2.9.6 Implantação da Educação Empreendedora no currículo escolar, com introdução de conteúdos de educação financeira e formação continuada em empreendedorismo e tecnologia. e 2.10.2 Fortalecer a Fundação Catarinense d",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Elevar a qualidade da educação pública com foco em desempenho e empregabilidade. 2.9.1 Implementar a educação em tempo integral em todas as escolas estaduais catarinenses até 2030, ampliando as atividades no contraturno orientado ao reforço escolar, com oficinas de leitura e interpretação de texto, lógica, matemática e inglês; 2.9.2 Estruturar parceria público-privada (PPP) nas escolas estaduais para operação e manutenção das edificações educacionais e incentivar a mesma prática nos municípios, oferecendo apoio técnico e financeiro; 2.9.3 Garantir a segurança integral nas escolas, visando à redução da violência entre alunos e professores, bem como do risco de atentados; 2.9.4 Criação do Programa de Meritocracia Escolar, no qual serão implantadas metas de desempenho para escolas e premiação para unidades com melhores resultados; 2.9.5 Fortalecimento da Educação Técnica, com expansão do ensino técnico integrado e parcerias com setor produtivo industrial e tecnológico; e 2.9.6 Implantação da Educação Empreendedora no currículo escolar, com introdução de conteúdos de educação financeira e formação continuada em empreendedorismo e tecnologia."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "e 2.10.2 Fortalecer a Fundação Catarinense de Educação Especial (FCEE) para torná-la um ambiente ainda mais motivador para professores e alunos e mais propício às experiências de aprendizado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 14,
+          "page_end": 21,
+          "topics": [
+            "health"
+          ],
+          "summary": "2.14.1 Criação do Programa Tempo é Vida, por meio do qual qualquer cirurgia indicada pelo sistema público de saúde deverá ser realizada em, no máximo, (sessenta) dias, inclusive mediante contratação complementar da capacidade ociosa de unidades privadas de saúde, em horários de menor demanda; 2.14.2 Retomar e licitar a parceria público-privada (PPP) para construção, operação e manutenção do Complexo Hospitalar de Santa Catarina, em parceria com o Banco Interamericano de Desenvolvimento (BID), que unifica as operações do Hospital Celso Ramos, Nereu Ramos, Maternidade Carmela Dutra e Hospital Infantil, projeto pronto que foi abandonado pelo governo atual; 2.14.3 Criação do Programa Fila Zero, para realizar mutirões permanentes para zerar a fila de consultas com especialidades médicas; 2.14.4 Implantar gestão por resultados, com metas de atendimento e satisfação de usuários nas unidades de saúde estaduais, integrando o quadro geral de indicadores públicos de desempenho; 2.14.5 Ampliar e fortalecer a telemedicina, com consultas remotas para municípios menores e integração digital dos prontuários; 2.14.6 Valorizar a carreira de méd Ao longo deste documento foram apresentadas propostas v",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Zerar as filas e aumentar a eficiência do SUS estadual. 2.14.1 Criação do Programa Tempo é Vida, por meio do qual qualquer cirurgia indicada pelo sistema público de saúde deverá ser realizada em, no máximo, (sessenta) dias, inclusive mediante contratação complementar da capacidade ociosa de unidades privadas de saúde, em horários de menor demanda; 2.14.2 Retomar e licitar a parceria público-privada (PPP) para construção, operação e manutenção do Complexo Hospitalar de Santa Catarina, em parceria com o Banco Interamericano de Desenvolvimento (BID), que unifica as operações do Hospital Celso Ramos, Nereu Ramos, Maternidade Carmela Dutra e Hospital Infantil, projeto pronto que foi abandonado pelo governo atual; 2.14.3 Criação do Programa Fila Zero, para realizar mutirões permanentes para zerar a fila de consultas com especialidades médicas; 2.14.4 Implantar gestão por resultados, com metas de atendimento e satisfação de usuários nas unidades de saúde estaduais, integrando o quadro geral de indicadores públicos de desempenho; 2.14.5 Ampliar e fortalecer a telemedicina, com consultas remotas para municípios menores e integração digital dos prontuários; 2.14.6 Valorizar a carreira de méd"
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Ao longo deste documento foram apresentadas propostas voltadas à proteção das famílias catarinenses, ao fortalecimento das forças de segurança, ao combate firme ao crime organizado, à melhoria da qualidade da saúde pública, à ampliação das oportunidades educacionais, ao incentivo ao empreendedorismo e à geração de empregos, bem como à modernização da infraestrutura logística necessária para sustentar o crescimento econômico de todas as regiões do estado."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 21,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Na segurança pública, não aceitaremos que facções criminosas imponham o medo às famílias catarinenses. Santa Catarina apresenta indicadores socioeconômicos acima da média nacional, porém enfrenta desafios relevantes relacionados à infraestrutura logística, segurança pública, saúde especializada, competitividade econômica, qualificação profissional e eficiência administrativa. 2.15.1 Construção do “Inferno Catarina”, um presídio de segurança máxima no Meio-Oeste catarinense voltado para lideranças de organizações criminosas e presos de alta periculosidade, que ficarão isolados e monitorados 24h por dia; 2.15.2 Iniciar a “Operação Retomada” para eliminar o controle das facções criminosas em território catarinense com integração da PMSC, PCSC, Polícia Penal, IGP e Inteligência; 2.15.3 Criação do Programa “Quem Perdoa é Deus”, destinado ao monitoramento permanente de criminosos de alta periculosidade e reincidentes, observados os critérios legais e as garantias constitucionais; 2.15.4 Criação do Projeto “SC Protege sua Polícia”, para valorizar as polícias Militar e Civil, bem como os policiais penais e demais agentes de segurança pública, assegurando assistência jurídica pela PGE nos p",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Na segurança pública, não aceitaremos que facções criminosas imponham o medo às famílias catarinenses."
+            },
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Santa Catarina apresenta indicadores socioeconômicos acima da média nacional, porém enfrenta desafios relevantes relacionados à infraestrutura logística, segurança pública, saúde especializada, competitividade econômica, qualificação profissional e eficiência administrativa. • Segurança pública com uso intensivo de inteligência."
+            },
+            {
+              "id": "s17",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "2.15.1 Construção do “Inferno Catarina”, um presídio de segurança máxima no Meio-Oeste catarinense voltado para lideranças de organizações criminosas e presos de alta periculosidade, que ficarão isolados e monitorados 24h por dia; 2.15.2 Iniciar a “Operação Retomada” para eliminar o controle das facções criminosas em território catarinense com integração da PMSC, PCSC, Polícia Penal, IGP e Inteligência; 2.15.3 Criação do Programa “Quem Perdoa é Deus”, destinado ao monitoramento permanente de criminosos de alta periculosidade e reincidentes, observados os critérios legais e as garantias constitucionais; 2.15.4 Criação do Projeto “SC Protege sua Polícia”, para valorizar as polícias Militar e Civil, bem como os policiais penais e demais agentes de segurança pública, assegurando assistência jurídica pela PGE nos processos relacionados a atos praticados no exercício regular da função, nos termos da legislação aplicável; 2.15.5 Aliar novos recursos tecnológicos à atividade de inteligência, com implantação de tecnologia de reconhecimento facial em todo o território catarinense, observadas as normas de proteção de dados e as garantias individuais; 2.15.6 Valorizar os agentes públicos de se"
+            },
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Proteger vidas, reduzir perdas econômicas e fortalecer a capacidade de resposta da Defesa Civil. 2.17.2 Reestruturar a Secretaria de Estado da Proteção e Defesa Civil para transformá-la em um dos mais modernos órgãos de proteção civil do Brasil; 2.17.3 Criação do Fundo Estadual Permanente de Resiliência, destinado à prevenção, mitigação, resposta emergencial e reconstrução pós-desastres; 2.17.4 Criação do Programa Barragens Seguras, para controle das cheias, especialmente no Vale do Itajaí."
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Ao longo deste documento foram apresentadas propostas voltadas à proteção das famílias catarinenses, ao fortalecimento das forças de segurança, ao combate firme ao crime organizado, à melhoria da qualidade da saúde pública, à ampliação das oportunidades educacionais, ao incentivo ao empreendedorismo e à geração de empregos, bem como à modernização da infraestrutura logística necessária para sustentar o crescimento econômico de todas as regiões do estado. Temos a convicção de que Santa Catarina pode liderar o Brasil em segurança pública, liberdade econômica, inovação, educação, infraestrutura e qualidade de vida."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 21,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Precisamos aproximar a educação das demandas do mercado de trabalho, da inovação tecnológica e do empreendedorismo. Transformar Santa Catarina no estado mais competitivo do Brasil, com crescimento sustentável do PIB e ambiente cada vez mais favorável ao empreendedorismo. 2.7.2 Reduzir exigências regulatórias desnecessárias; 2.7.3 Fomentar os diferentes segmentos da indústria por meio de políticas de atração de investimentos para implantação de empresas em território catarinense; 2.7.4 Reativação e ampliação do programa Geração TEC, abandonado pelos governos anteriores; 2.7.5 Incentivos à criação de Parques Tecnológicos de Santa Catarina; e 2.7.6 Reestruturar a Fundação de Amparo à Pesquisa de Santa Catarina (FAPESC) para que ela promova ciência e conhecimento em áreas essenciais da sociedade; e 2.7.7 Atração de investimentos para implantação de data centers no território catarinense.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Precisamos aproximar a educação das demandas do mercado de trabalho, da inovação tecnológica e do empreendedorismo."
+            },
+            {
+              "id": "s09",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Transformar Santa Catarina no estado mais competitivo do Brasil, com crescimento sustentável do PIB e ambiente cada vez mais favorável ao empreendedorismo. 2.7.2 Reduzir exigências regulatórias desnecessárias; 2.7.3 Fomentar os diferentes segmentos da indústria por meio de políticas de atração de investimentos para implantação de empresas em território catarinense; 2.7.4 Reativação e ampliação do programa Geração TEC, abandonado pelos governos anteriores; 2.7.5 Incentivos à criação de Parques Tecnológicos de Santa Catarina; e 2.7.6 Reestruturar a Fundação de Amparo à Pesquisa de Santa Catarina (FAPESC) para que ela promova ciência e conhecimento em áreas essenciais da sociedade; e 2.7.7 Atração de investimentos para implantação de data centers no território catarinense."
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Eliminar definitivamente gargalos logísticos que limitam o crescimento econômico catarinense."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Promover políticas de sustentabilidade sem perder de vista a necessidade de desenvolvimento econômico e social. 2.12.2 Simplificar o processo de licenciamento permitindo que todo o volume de recursos hoje represados possa virar geração de emprego e renda para o catarinense; 2.12.3 Delegar aos municípios os licenciamentos ambientais de pequeno porte; 2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte; 2.12.5 Apoiar tecnicamente e financeiramente as parcerias públicoprivadas e as concessões nos municípios, a fim de ampliar a capacidade de investimento em sistemas de abastecimento de água, tratamento de esgoto e coleta de resíduos sólidos urbanos; 2.12.6 Universalizar o saneamento básico em Santa Catarina até 2033; 2.12.7 Criação do Programa Energia Verde SC, para incentivar a matriz energética renovável, ampliando a geração e a distribuição de energia eólica e fotovoltaica, bem como promovendo a eficiência energética; e 2.12.8 Atrair investidores desburocratizando o processo de licenciamento e oferecendo se"
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Ao longo deste documento foram apresentadas propostas voltadas à proteção das famílias catarinenses, ao fortalecimento das forças de segurança, ao combate firme ao crime organizado, à melhoria da qualidade da saúde pública, à ampliação das oportunidades educacionais, ao incentivo ao empreendedorismo e à geração de empregos, bem como à modernização da infraestrutura logística necessária para sustentar o crescimento econômico de todas as regiões do estado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A presente proposta busca combinar responsabilidade fiscal, liberdade econômica, segurança jurídica, fortalecimento institucional e foco em resultados.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "A presente proposta busca combinar responsabilidade fiscal, liberdade econômica, segurança jurídica, fortalecimento institucional e foco em resultados."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "2.3.4 Utilização do Fundo de Assistência Social de maneira transparente e exclusivamente para políticas públicas de eficácia comprovada, vedado o emprego de recursos em ações que estimulem o assistencialismo, a mendicância e a permanência na rua; e 2.3.5 Redução progressiva da população em situação de rua em Santa Catarina, em apoio e em articulação com os municípios catarinenses, pela combinação estruturada de tratamento e trabalho. 2.13.2 Ampliar as delegacias especializadas no atendimento à mulher; e 2.13.3 Criação do Programa Recomeço, articulado com a política de assistência social e voltado à população em situação de rua que queira retomar a vida social com emprego e renda.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "2.3.4 Utilização do Fundo de Assistência Social de maneira transparente e exclusivamente para políticas públicas de eficácia comprovada, vedado o emprego de recursos em ações que estimulem o assistencialismo, a mendicância e a permanência na rua; e 2.3.5 Redução progressiva da população em situação de rua em Santa Catarina, em apoio e em articulação com os municípios catarinenses, pela combinação estruturada de tratamento e trabalho."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "2.13.2 Ampliar as delegacias especializadas no atendimento à mulher; e 2.13.3 Criação do Programa Recomeço, articulado com a política de assistência social e voltado à população em situação de rua que queira retomar a vida social com emprego e renda."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "2.12.2 Simplificar o processo de licenciamento permitindo que todo o volume de recursos hoje represados possa virar geração de emprego e renda para o catarinense; 2.12.3 Delegar aos municípios os licenciamentos ambientais de pequeno porte; 2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte; 2.12.5 Apoiar tecnicamente e financeiramente as parcerias públicoprivadas e as concessões nos municípios, a fim de ampliar a capacidade de investimento em sistemas de abastecimento de água, tratamento de esgoto e coleta de resíduos sólidos urbanos; 2.12.6 Universalizar o saneamento básico em Santa Catarina até 2033; 2.12.7 Criação do Programa Energia Verde SC, para incentivar a matriz energética renovável, ampliando a geração e a distribuição de energia eólica e fotovoltaica, bem como promovendo a eficiência energética; e 2.12.8 Atrair investidores desburocratizando o processo de licenciamento e oferecendo segurança jurídica.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "2.12.2 Simplificar o processo de licenciamento permitindo que todo o volume de recursos hoje represados possa virar geração de emprego e renda para o catarinense; 2.12.3 Delegar aos municípios os licenciamentos ambientais de pequeno porte; 2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte; 2.12.5 Apoiar tecnicamente e financeiramente as parcerias públicoprivadas e as concessões nos municípios, a fim de ampliar a capacidade de investimento em sistemas de abastecimento de água, tratamento de esgoto e coleta de resíduos sólidos urbanos; 2.12.6 Universalizar o saneamento básico em Santa Catarina até 2033; 2.12.7 Criação do Programa Energia Verde SC, para incentivar a matriz energética renovável, ampliando a geração e a distribuição de energia eólica e fotovoltaica, bem como promovendo a eficiência energética; e 2.12.8 Atrair investidores desburocratizando o processo de licenciamento e oferecendo segurança jurídica."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Promover políticas de sustentabilidade sem perder de vista a necessidade de desenvolvimento econômico e social. 2.12.2 Simplificar o processo de licenciamento permitindo que todo o volume de recursos hoje represados possa virar geração de emprego e renda para o catarinense; 2.12.3 Delegar aos municípios os licenciamentos ambientais de pequeno porte; 2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte; 2.12.5 Apoiar tecnicamente e financeiramente as parcerias públicoprivadas e as concessões nos municípios, a fim de ampliar a capacidade de investimento em sistemas de abastecimento de água, tratamento de esgoto e coleta de resíduos sólidos urbanos; 2.12.6 Universalizar o saneamento básico em Santa Catarina até 2033; 2.12.7 Criação do Programa Energia Verde SC, para incentivar a matriz energética renovável, ampliando a geração e a distribuição de energia eólica e fotovoltaica, bem como promovendo a eficiência energética; e 2.12.8 Atrair investidores desburocratizando o processo de licenciamento e oferecendo se",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Promover políticas de sustentabilidade sem perder de vista a necessidade de desenvolvimento econômico e social. 2.12.2 Simplificar o processo de licenciamento permitindo que todo o volume de recursos hoje represados possa virar geração de emprego e renda para o catarinense; 2.12.3 Delegar aos municípios os licenciamentos ambientais de pequeno porte; 2.12.4 Elaborar, enviar e aprovar na Assembleia Legislativa a Lei de Regionalização do Saneamento em Santa Catarina, formando as unidades regionais e viabilizando tecnicamente os investimentos privados em municípios de menor porte; 2.12.5 Apoiar tecnicamente e financeiramente as parcerias públicoprivadas e as concessões nos municípios, a fim de ampliar a capacidade de investimento em sistemas de abastecimento de água, tratamento de esgoto e coleta de resíduos sólidos urbanos; 2.12.6 Universalizar o saneamento básico em Santa Catarina até 2033; 2.12.7 Criação do Programa Energia Verde SC, para incentivar a matriz energética renovável, ampliando a geração e a distribuição de energia eólica e fotovoltaica, bem como promovendo a eficiência energética; e 2.12.8 Atrair investidores desburocratizando o processo de licenciamento e oferecendo se"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 17,
+          "page_end": 18,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Tal programa contemplará auditoria técnica completa das barragens estaduais, modernização dos sistemas de monitoramento remoto 24 horas por dia, instalação de sensores em tempo real, atualização dos Planos de Ação de Emergência (PAE) e simulados periódicos junto às comunidades potencialmente afetadas; 2.17.5 Criação do Programa SC Alerta, que será a maior rede estadual de monitoramento climático do país, com utilização de inteligência artificial para previsão de eventos extremos e parcerias com universidades e centros de pesquisa; e 2.17.6 Prevenção de enchentes e deslizamentos, oferecendo apoio técnico e financeiro aos municípios para mapeamento de áreas de risco, contenção de encostas, drenagem urbana, desassoreamento de rios, limpeza de canais, recuperação de margens e obras de macrodrenagem.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Tal programa contemplará auditoria técnica completa das barragens estaduais, modernização dos sistemas de monitoramento remoto 24 horas por dia, instalação de sensores em tempo real, atualização dos Planos de Ação de Emergência (PAE) e simulados periódicos junto às comunidades potencialmente afetadas; 2.17.5 Criação do Programa SC Alerta, que será a maior rede estadual de monitoramento climático do país, com utilização de inteligência artificial para previsão de eventos extremos e parcerias com universidades e centros de pesquisa; e 2.17.6 Prevenção de enchentes e deslizamentos, oferecendo apoio técnico e financeiro aos municípios para mapeamento de áreas de risco, contenção de encostas, drenagem urbana, desassoreamento de rios, limpeza de canais, recuperação de margens e obras de macrodrenagem."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 5,
+          "page_end": 8,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Criar um governo enxuto, orientado por resultados e pela avaliação de indicadores de desempenho (KPIs). 2.1.1 Redução do número de Secretarias Estaduais a fim de diminuir os custos do governo estadual e o loteamento da máquina pública por agentes políticos; 2.1.2 Redução do número de cargos comissionados em 25% na administração pública direta e indireta do Governo Estadual; 2.1.3 Redução gradual, iniciando-se com a redução de 10% das despesas e custos administrativos no Governo Estadual; 2.1.4 Extinção dos recém-criados escritórios de atração de investimentos da Invest SC nos EUA e na China; 2.1.5 Redistribuir os servidores de carreira para suas funções de origem ou remanejar de acordo com suas competências; e 2.1.6 Venda (leilão) da área da Casa d’Agronômica e uso dos recursos da alienação do imóvel para conclusão do projeto de PPP do Complexo Hospitalar de Santa Catarina, abandonado pelo Governo atual. 2.4.1 Criar a Diretoria de Inteligência de Combate à Corrupção Pública (DICP), órgão permanente e com autonomia para rastreamento, auditoria e produção de inteligência sobre o uso inadequado de recursos públicos em contratos, licitações e emendas parlamentares; 2.4.2 Implantar port",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Criar um governo enxuto, orientado por resultados e pela avaliação de indicadores de desempenho (KPIs). 2.1.1 Redução do número de Secretarias Estaduais a fim de diminuir os custos do governo estadual e o loteamento da máquina pública por agentes políticos; 2.1.2 Redução do número de cargos comissionados em 25% na administração pública direta e indireta do Governo Estadual; 2.1.3 Redução gradual, iniciando-se com a redução de 10% das despesas e custos administrativos no Governo Estadual; 2.1.4 Extinção dos recém-criados escritórios de atração de investimentos da Invest SC nos EUA e na China; 2.1.5 Redistribuir os servidores de carreira para suas funções de origem ou remanejar de acordo com suas competências; e 2.1.6 Venda (leilão) da área da Casa d’Agronômica e uso dos recursos da alienação do imóvel para conclusão do projeto de PPP do Complexo Hospitalar de Santa Catarina, abandonado pelo Governo atual."
+            },
+            {
+              "id": "s06",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "2.4.1 Criar a Diretoria de Inteligência de Combate à Corrupção Pública (DICP), órgão permanente e com autonomia para rastreamento, auditoria e produção de inteligência sobre o uso inadequado de recursos públicos em contratos, licitações e emendas parlamentares; 2.4.2 Implantar portal de transparência em tempo real, com divulgação imediata de contratos, licitações e despesas realizadas com cartões corporativos; 2.4.3 Auditoria permanente para controle dos gastos estaduais e revisão de estruturas administrativas consideradas ineficientes; 2.4.4 Governo 100% Digital com digitalização completa dos serviços estaduais e redução da burocracia para empresas e cidadãos, eliminando assim a prática de criar dificuldades para venda de facilidades por agentes públicos; e 2.4.5 Implantação do projeto “Grande Irmão Catarina”, por meio do qual as principais atividades da gestão serão transmitidas ao vivo, em formato IRL, em plataforma gratuita, para que toda a população possa acompanhar as ações do governo."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 5,
+          "page_end": 13,
+          "topics": [
+            "energy"
+          ],
+          "summary": "2.2.2 Incentivar orientações para profissionalizar as produções familiares; 2.2.3 Estimular medidas que permitam a reciclagem e aproveitamento dos resíduos e dejetos da atividade agropecuária gerando produção de energia, fertilizantes e garantindo a sustentabilidade; 2.2.4 Desenvolver programas de incentivo para a adoção de soluções tecnológicas para o campo; 2.2.5 Desburocratizar a tramitação dos processos de regulamentação sanitária e proteção ambiental dando celeridade na efetivação das ações; 2.2.6 Criação do Programa Agro Digital, para universalizar o acesso à internet no meio rural, ampliando as redes de internet e telefonia ou permitindo o financiamento, por meio do BADESC, para aquisição de internet via satélite; 2.2.7 Ampliar a distribuição de energia elétrica e gás natural no meio rural, com apoio e estímulo à adoção e produção de energias alternativas; e 2.2.8 Pavimentação de estradas vicinais e ampliação da conectividade rural. 2.11.1 Oferecer apoio institucional e financeiro à iniciativa privada para a construção, operação e manutenção de ferrovias, a fim de facilitar o escoamento da produção agroindustrial e a ligação aos portos públicos e privados de Santa Catarina; ",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "2.2.2 Incentivar orientações para profissionalizar as produções familiares; 2.2.3 Estimular medidas que permitam a reciclagem e aproveitamento dos resíduos e dejetos da atividade agropecuária gerando produção de energia, fertilizantes e garantindo a sustentabilidade; 2.2.4 Desenvolver programas de incentivo para a adoção de soluções tecnológicas para o campo; 2.2.5 Desburocratizar a tramitação dos processos de regulamentação sanitária e proteção ambiental dando celeridade na efetivação das ações; 2.2.6 Criação do Programa Agro Digital, para universalizar o acesso à internet no meio rural, ampliando as redes de internet e telefonia ou permitindo o financiamento, por meio do BADESC, para aquisição de internet via satélite; 2.2.7 Ampliar a distribuição de energia elétrica e gás natural no meio rural, com apoio e estímulo à adoção e produção de energias alternativas; e 2.2.8 Pavimentação de estradas vicinais e ampliação da conectividade rural."
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "2.11.1 Oferecer apoio institucional e financeiro à iniciativa privada para a construção, operação e manutenção de ferrovias, a fim de facilitar o escoamento da produção agroindustrial e a ligação aos portos públicos e privados de Santa Catarina; 2.11.2 Cobrar com firmeza o Governo Federal para a duplicação das BRs 153, 280, 282 e 470; 2.11.3 Iniciar programa de recuperação e de ampliação da capacidade das rodovias estaduais, mediante duplicação ou quadruplicação dos trechos prioritários, conforme critérios técnicos; 2.11.4 Fomentar fontes alternativas de geração de energia, tais como fotovoltaica, eólica e gás natural, bem como ampliar a distribuição das mesmas; e 2.11.5 Mapeamento de rodovias com ausência de acostamento para investir na construção dessa estrutura a fim de fornecer mais segurança aos usuários de rodovias; 2.11.6 Auxiliar tecnicamente e financeiramente os municípios catarinenses nas soluções para congestionamentos e dificuldades de logística; e 2.11.7 Criação de novos pontos de travessia entre os municípios de Itajaí e Navegantes, a fim de acabar com o monopólio e reduzir o preço das passagens."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "240002548628",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002548628_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002548628_01.pdf",
+      "sha256": "4317be5f0e60ff92aa0a1fce6eaabb8ddfb75efe29b4269181add7f274837013",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    },
+    {
+      "candidate_id": "240002550544",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002550544_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002550544_01.pdf",
+      "sha256": "552428823ee4d34d41e4011f1be270281e92eacc39a73336d21b9b35cfd6010b",
+      "summary": "Mas o que embasa a atual política do Governo de SC para o Ensino Superior? O interesse dos grandes grupos financeiros que impulsionam essa política em SC e no Brasil busca substituir gradualmente os investimentos públicos em educação pública, gratuita e de qualidade por investimentos no setor privado. 6.​ Garantir creches públicas, gratuitas e em período integral e escolas em tempo integral, reduzindo a sobrecarga do trabalho doméstico e permitindo que as mulheres possam trabalhar, estudar e participar da vida política e social. SAÚDE O sistema de saúde pública de Santa Catarina apresenta uma contradição evidente. A concentração de investimentos na média e alta complexidade, sem o fortalecimento proporcional da atenção básica, contribui para a sobrecarga dos serviços de urgência e emergência e dificulta a prevenção de doenças e o acompanhamento contínuo da população. 1.​ Fortalecer a atenção básica e ampliar as equipes de Saúde da Família, garantindo acompanhamento contínuo de pessoas com hipertensão, diabetes e outras doenças crônicas, reduzindo internações evitáveis. 10.​Criar uma política estadual de prevenção e enfrentamento à violência contra pessoas com deficiência, articulando saúde, assistência social, educação e segurança pública. Não podemos continuar permitindo que nossos agentes de segurança pública figurem entre os principais causadores de insegurança na população catarinense! 1.​ Organizar, sob a Secretaria de Segurança Pública de Santa Catarina, o Observatório Catarinense da Violência, com o objetivo de levantar e publicar dados sobre a segurança pública no estado de forma permanente, permitindo o escrutínio da população em geral; 2.​ Retomar imediatamente a obrigatoriedade do uso de câmeras corporais entre todos os policiais militares e civis de Santa Catarina; 3.​ Garantia de investigação de todas as acusações de abusos praticados por profissionais da segurança pública, garantindo a punição adequada com todo o peso da lei em caso de comprovação; 4.​ Construção de Delegacias da Mulher 24 horas em todos os municípios catarinenses, aliado à expansão da rede de casas de referência, casas de passagem e casas-abrigo para atendimento de mulheres em situação de violência; 5.​ Ampliar a fiscalização e cooperação com os municípios para ass",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 7,
+          "page_end": 23,
+          "topics": [
+            "education"
+          ],
+          "summary": "Mas o que embasa a atual política do Governo de SC para o Ensino Superior? O interesse dos grandes grupos financeiros que impulsionam essa política em SC e no Brasil busca substituir gradualmente os investimentos públicos em educação pública, gratuita e de qualidade por investimentos no setor privado. 6.​ Garantir creches públicas, gratuitas e em período integral e escolas em tempo integral, reduzindo a sobrecarga do trabalho doméstico e permitindo que as mulheres possam trabalhar, estudar e participar da vida política e social.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "Mas o que embasa a atual política do Governo de SC para o Ensino Superior? O interesse dos grandes grupos financeiros que impulsionam essa política em SC e no Brasil busca substituir gradualmente os investimentos públicos em educação pública, gratuita e de qualidade por investimentos no setor privado."
+            },
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "6.​ Garantir creches públicas, gratuitas e em período integral e escolas em tempo integral, reduzindo a sobrecarga do trabalho doméstico e permitindo que as mulheres possam trabalhar, estudar e participar da vida política e social."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "5.​ Impedir políticas de censura ao debate sobre gênero, sexualidade e diversidade nas escolas, garantindo uma educação pública científica, plural e baseada no respeito aos direitos humanos."
+            },
+            {
+              "id": "s12",
+              "page_start": 20,
+              "page_end": 23,
+              "text": "16.​Garantir a presença da cultura nas escolas públicas, ampliando o acesso dos estudantes ao teatro, cinema, música, literatura, dança e artes visuais."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 12,
+          "topics": [
+            "health"
+          ],
+          "summary": "SAÚDE O sistema de saúde pública de Santa Catarina apresenta uma contradição evidente. A concentração de investimentos na média e alta complexidade, sem o fortalecimento proporcional da atenção básica, contribui para a sobrecarga dos serviços de urgência e emergência e dificulta a prevenção de doenças e o acompanhamento contínuo da população. 1.​ Fortalecer a atenção básica e ampliar as equipes de Saúde da Família, garantindo acompanhamento contínuo de pessoas com hipertensão, diabetes e outras doenças crônicas, reduzindo internações evitáveis.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "SAÚDE O sistema de saúde pública de Santa Catarina apresenta uma contradição evidente. A concentração de investimentos na média e alta complexidade, sem o fortalecimento proporcional da atenção básica, contribui para a sobrecarga dos serviços de urgência e emergência e dificulta a prevenção de doenças e o acompanhamento contínuo da população."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "1.​ Fortalecer a atenção básica e ampliar as equipes de Saúde da Família, garantindo acompanhamento contínuo de pessoas com hipertensão, diabetes e outras doenças crônicas, reduzindo internações evitáveis. 4.​ Desenvolver programas permanentes de promoção da saúde nas escolas estaduais, abordando alimentação saudável, saúde mental, atividade física, prevenção ao uso de drogas e educação sexual."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "2.​ Estabelecimento do Conselho Estadual da Reforma Urbana, com o objetivo de promover, em conjunto com universidades públicas, a requalificação de favelas e assentamentos urbanos para garantir a todos os seus moradores os direitos à moradia, ao acesso à cidade, à educação e à saúde, o acesso ao saneamento básico, à água tratada, à rede elétrica ao trabalho, à cultura e ao lazer para todos os catarinenses; 3.​ Representação da população geral e de movimentos sociais no Conselho Estadual da Reforma Urbana e na Secretaria De Assistência Social, da Mulher e da Família; 4.​ Fim da subutilização dos imóveis públicos: destinação de todos os imóveis públicos subutilizados ou desocupados do estado à iniciativas públicas ou sociais de moradia, saúde pública, educação ou combate às violências; 5.​ Entrega de terras públicas para construção de moradia popular."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 7,
+          "page_end": 23,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "10.​Criar uma política estadual de prevenção e enfrentamento à violência contra pessoas com deficiência, articulando saúde, assistência social, educação e segurança pública. Não podemos continuar permitindo que nossos agentes de segurança pública figurem entre os principais causadores de insegurança na população catarinense! 1.​ Organizar, sob a Secretaria de Segurança Pública de Santa Catarina, o Observatório Catarinense da Violência, com o objetivo de levantar e publicar dados sobre a segurança pública no estado de forma permanente, permitindo o escrutínio da população em geral; 2.​ Retomar imediatamente a obrigatoriedade do uso de câmeras corporais entre todos os policiais militares e civis de Santa Catarina; 3.​ Garantia de investigação de todas as acusações de abusos praticados por profissionais da segurança pública, garantindo a punição adequada com todo o peso da lei em caso de comprovação; 4.​ Construção de Delegacias da Mulher 24 horas em todos os municípios catarinenses, aliado à expansão da rede de casas de referência, casas de passagem e casas-abrigo para atendimento de mulheres em situação de violência; 5.​ Ampliar a fiscalização e cooperação com os municípios para ass",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "10.​Criar uma política estadual de prevenção e enfrentamento à violência contra pessoas com deficiência, articulando saúde, assistência social, educação e segurança pública."
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Não podemos continuar permitindo que nossos agentes de segurança pública figurem entre os principais causadores de insegurança na população catarinense!"
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "1.​ Organizar, sob a Secretaria de Segurança Pública de Santa Catarina, o Observatório Catarinense da Violência, com o objetivo de levantar e publicar dados sobre a segurança pública no estado de forma permanente, permitindo o escrutínio da população em geral; 2.​ Retomar imediatamente a obrigatoriedade do uso de câmeras corporais entre todos os policiais militares e civis de Santa Catarina; 3.​ Garantia de investigação de todas as acusações de abusos praticados por profissionais da segurança pública, garantindo a punição adequada com todo o peso da lei em caso de comprovação; 4.​ Construção de Delegacias da Mulher 24 horas em todos os municípios catarinenses, aliado à expansão da rede de casas de referência, casas de passagem e casas-abrigo para atendimento de mulheres em situação de violência; 5.​ Ampliar a fiscalização e cooperação com os municípios para assegurar a atuação das Guardas Municipais como prevê a Lei 13022 de 2014, ou seja, como organizações de caráter civil, de defesa do patrimônio; 6.​ Ampliar as ações de instrução dos agentes de segurança pública no desescalonamento de crises, assim como centralizar a formação das Guardas Municipais, como prevê a Lei 13022 de 201"
+            },
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "2.​ Fortalecer a Patrulha Maria da Penha e o acompanhamento das medidas protetivas, garantindo resposta rápida diante do descumprimento das medidas e construindo uma política estadual de prevenção ao feminicídio articulada entre Segurança Pública, Judiciário, Ministério Público, Defensoria, Saúde e Assistência Social. Segundo dados do Anuário Brasileiro de Segurança Pública analisados pela Agência Diadorim, Santa Catarina registrou, em 2024, apenas um caso de racismo por LGBTfobia, 85 casos de lesão corporal dolosa e nenhum homicídio doloso."
+            },
+            {
+              "id": "s12",
+              "page_start": 20,
+              "page_end": 23,
+              "text": "12.​Criar um programa estadual de apoio às festas de rua e manifestações culturais comunitárias, garantindo recursos, infraestrutura e apoio para sua realização e impedindo que manifestações populares sejam tratadas apenas como problema de segurança pública."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 15,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O desenvolvimento econômico precisa estar associado à preservação ambiental. 19.​Criar programas estaduais de primeiro emprego e formação profissional para jovens, articulando educação, qualificação e inserção no mercado de trabalho. 26.​Utilizar a política econômica estadual para garantir que o crescimento da produção e da produtividade resulte também em melhoria das condições de trabalho, aumento dos salários e ampliação dos serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "O desenvolvimento econômico precisa estar associado à preservação ambiental."
+            },
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "19.​Criar programas estaduais de primeiro emprego e formação profissional para jovens, articulando educação, qualificação e inserção no mercado de trabalho. 26.​Utilizar a política econômica estadual para garantir que o crescimento da produção e da produtividade resulte também em melhoria das condições de trabalho, aumento dos salários e ampliação dos serviços públicos."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "No mercado de trabalho, a situação também exige atenção."
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Essa desigualdade também aparece no mercado de trabalho. Em Santa Catarina, a taxa de desemprego feminina chegou a 7,6% no quarto trimestre de 2024, contra 5,1% entre os homens, demonstrando que o crescimento econômico do estado não significa igualdade para as trabalhadoras."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 23,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "9.​ Criar políticas de apoio à autonomia das pessoas com deficiência, articulando saúde, educação, assistência social, trabalho, moradia, transporte e acessibilidade. 10.​Criar uma política estadual de prevenção e enfrentamento à violência contra pessoas com deficiência, articulando saúde, assistência social, educação e segurança pública. 2.​ Estabelecimento do Conselho Estadual da Reforma Urbana, com o objetivo de promover, em conjunto com universidades públicas, a requalificação de favelas e assentamentos urbanos para garantir a todos os seus moradores os direitos à moradia, ao acesso à cidade, à educação e à saúde, o acesso ao saneamento básico, à água tratada, à rede elétrica ao trabalho, à cultura e ao lazer para todos os catarinenses; 3.​ Representação da população geral e de movimentos sociais no Conselho Estadual da Reforma Urbana e na Secretaria De Assistência Social, da Mulher e da Família; 4.​ Fim da subutilização dos imóveis públicos: destinação de todos os imóveis públicos subutilizados ou desocupados do estado à iniciativas públicas ou sociais de moradia, saúde pública, educação ou combate às violências; 5.​ Entrega de terras públicas para construção de moradia popula",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "9.​ Criar políticas de apoio à autonomia das pessoas com deficiência, articulando saúde, educação, assistência social, trabalho, moradia, transporte e acessibilidade. 10.​Criar uma política estadual de prevenção e enfrentamento à violência contra pessoas com deficiência, articulando saúde, assistência social, educação e segurança pública."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "2.​ Estabelecimento do Conselho Estadual da Reforma Urbana, com o objetivo de promover, em conjunto com universidades públicas, a requalificação de favelas e assentamentos urbanos para garantir a todos os seus moradores os direitos à moradia, ao acesso à cidade, à educação e à saúde, o acesso ao saneamento básico, à água tratada, à rede elétrica ao trabalho, à cultura e ao lazer para todos os catarinenses; 3.​ Representação da população geral e de movimentos sociais no Conselho Estadual da Reforma Urbana e na Secretaria De Assistência Social, da Mulher e da Família; 4.​ Fim da subutilização dos imóveis públicos: destinação de todos os imóveis públicos subutilizados ou desocupados do estado à iniciativas públicas ou sociais de moradia, saúde pública, educação ou combate às violências; 5.​ Entrega de terras públicas para construção de moradia popular."
+            },
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "2.​ Fortalecer a Patrulha Maria da Penha e o acompanhamento das medidas protetivas, garantindo resposta rápida diante do descumprimento das medidas e construindo uma política estadual de prevenção ao feminicídio articulada entre Segurança Pública, Judiciário, Ministério Público, Defensoria, Saúde e Assistência Social. 15.​Incorporar a perspectiva de gênero ao planejamento das políticas estaduais, reconhecendo que saúde, educação, habitação, trabalho, transporte, assistência social e cultura também são fundamentais para a emancipação das mulheres."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "1.​ Criar uma Política Estadual de Enfrentamento a LGBTfobia, com orçamento próprio e atuação conjunta das áreas de segurança, saúde, educação, assistência social e trabalho."
+            },
+            {
+              "id": "s12",
+              "page_start": 20,
+              "page_end": 23,
+              "text": "3.​ Criar uma política estadual permanente de valorização dos trabalhadores da cultura, garantindo formação, proteção social e condições dignas de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "16.​Garantir que os municípios tenham apoio técnico e financeiro do Estado para implantação de redes de saneamento, drenagem urbana e gestão adequada de resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "16.​Garantir que os municípios tenham apoio técnico e financeiro do Estado para implantação de redes de saneamento, drenagem urbana e gestão adequada de resíduos sólidos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "6.​ Fortalecer a agricultura familiar e os pequenos produtores rurais, ampliando crédito de baixo custo, assistência técnica, seguro rural, infraestrutura e programas de comercialização. 7.​ Ampliar os programas estaduais de compra de alimentos da agricultura familiar para escolas, hospitais, restaurantes populares e demais equipamentos públicos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "6.​ Fortalecer a agricultura familiar e os pequenos produtores rurais, ampliando crédito de baixo custo, assistência técnica, seguro rural, infraestrutura e programas de comercialização. 7.​ Ampliar os programas estaduais de compra de alimentos da agricultura familiar para escolas, hospitais, restaurantes populares e demais equipamentos públicos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 7,
+          "page_end": 20,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "7.​ Garantir a participação das pessoas com deficiência na elaboração e fiscalização das políticas públicas, fortalecendo o Conede e os Conselhos Municipais dos Direitos da Pessoa com Deficiência.. 5.​ Impedir políticas de censura ao debate sobre gênero, sexualidade e diversidade nas escolas, garantindo uma educação pública científica, plural e baseada no respeito aos direitos humanos. 10.​Garantir que todas as políticas estaduais de direitos humanos considerem a população LGBTTIA+, articulando as políticas de mulheres, juventude, população negra, pessoas com deficiência, população em situação de rua e demais setores da classe trabalhadora.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "7.​ Garantir a participação das pessoas com deficiência na elaboração e fiscalização das políticas públicas, fortalecendo o Conede e os Conselhos Municipais dos Direitos da Pessoa com Deficiência.."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "5.​ Impedir políticas de censura ao debate sobre gênero, sexualidade e diversidade nas escolas, garantindo uma educação pública científica, plural e baseada no respeito aos direitos humanos. 10.​Garantir que todas as políticas estaduais de direitos humanos considerem a população LGBTTIA+, articulando as políticas de mulheres, juventude, população negra, pessoas com deficiência, população em situação de rua e demais setores da classe trabalhadora."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Embora o percentual catarinense esteja abaixo da média nacional de 7,3%, trata-se de quase meio milhão de pessoas que enfrentam diariamente barreiras de acessibilidade, educação, saúde, trabalho e participação social.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Embora o percentual catarinense esteja abaixo da média nacional de 7,3%, trata-se de quase meio milhão de pessoas que enfrentam diariamente barreiras de acessibilidade, educação, saúde, trabalho e participação social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 13,
+          "page_end": 15,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "O próprio Judiciário reconhece que esses números representam apenas a violência que chega ao sistema de Justiça, enquanto milhares de outras mulheres permanecem sem proteção e sequer conseguem denunciar.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "O próprio Judiciário reconhece que esses números representam apenas a violência que chega ao sistema de Justiça, enquanto milhares de outras mulheres permanecem sem proteção e sequer conseguem denunciar."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "240002551001",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002551001_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002551001_01.pdf",
+      "sha256": "536e88944a4fee46d92874517ef1a00b80a9b74c77a7c28ba85320e8a49b5dc9",
+      "summary": "5.1 Educação Básica e Ensino Médio A prioridade será a educação em tempo integral, com a implementação de atividades no contraturno por meio de oficinas de interpretação e leitura de textos, reforçando a formação em Matemática, Português e Inglês. O ensino médio na rede pública estadual será universalizado, garantindo que nenhum jovem catarinense fique sem acesso a essa etapa fundamental de formação. É fundamental conceber um modelo que propicie atendimento médico com capilaridade suficiente para abranger todas as regiões e municípios do Estado, sem a necessidade de deslocamentos longos para cidades de maior porte. Atenção Básica e Prevenção Estruturar e qualificar as equipes municipais de Atenção Básica para prevenção, detecção e tratamento oportuno das Doenças Crônicas Não Transmissíveis (DCNTs); Intensificar ações de vigilância e prevenção de doenças transmissíveis, melhorando as condições tecnológicas para diagnóstico precoce e controle; Fomentar a capacitação dos profissionais de saúde em todas as regiões, elevando a efetividade e a resolubilidade; Fomentar a integração das secretarias municipais de saúde; Ampliar o alcance da telemedicina e das vídeo-consultas; Página 13 de 25 Implantar política estadual de qualificação da atenção à mulher e à criança, fortalecendo educação permanente, serviços e rede de atenção ao pré-natal, parto e recém-nascido, além de instrumentos de monitoramento e avaliação; Estimular e realizar ações educativas de vida saudável nas áreas de alimentação, atividade física e tabagismo; Implementar ações voltadas ao diagnóstico e cuidado da saúde ment A política fiscal austera não significará corte indiscriminado de gastos, mas sim a qualificação permanente das despesas, a eliminação de desperdícios e a priorização absoluta das áreas que impactam diretamente a qualidade de vida da população: segurança, saúde, educação, infraestrutura e desenvolvimento econômico. O agronegócio é um dos pilares da economia catarinense e da geração de emprego e renda no interior do Estado. O desenvolvimento econômico só é pleno quando acompanhado de inclusão e proteção social. A responsabilidade fiscal é também um compromisso intergeracional. 7.4 Recursos Hídricos e Saneamento Básico Serão estruturados programas de proteção dos mananciais que alimentam o sistema hídrico do Estado, para assegurar água potável destinada ao abastecimento humano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 15,
+          "page_end": 17,
+          "topics": [
+            "education"
+          ],
+          "summary": "5.1 Educação Básica e Ensino Médio A prioridade será a educação em tempo integral, com a implementação de atividades no contraturno por meio de oficinas de interpretação e leitura de textos, reforçando a formação em Matemática, Português e Inglês. O ensino médio na rede pública estadual será universalizado, garantindo que nenhum jovem catarinense fique sem acesso a essa etapa fundamental de formação.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "5.1 Educação Básica e Ensino Médio A prioridade será a educação em tempo integral, com a implementação de atividades no contraturno por meio de oficinas de interpretação e leitura de textos, reforçando a formação em Matemática, Português e Inglês. O ensino médio na rede pública estadual será universalizado, garantindo que nenhum jovem catarinense fique sem acesso a essa etapa fundamental de formação."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 22,
+          "topics": [
+            "health"
+          ],
+          "summary": "É fundamental conceber um modelo que propicie atendimento médico com capilaridade suficiente para abranger todas as regiões e municípios do Estado, sem a necessidade de deslocamentos longos para cidades de maior porte. Atenção Básica e Prevenção Estruturar e qualificar as equipes municipais de Atenção Básica para prevenção, detecção e tratamento oportuno das Doenças Crônicas Não Transmissíveis (DCNTs); Intensificar ações de vigilância e prevenção de doenças transmissíveis, melhorando as condições tecnológicas para diagnóstico precoce e controle; Fomentar a capacitação dos profissionais de saúde em todas as regiões, elevando a efetividade e a resolubilidade; Fomentar a integração das secretarias municipais de saúde; Ampliar o alcance da telemedicina e das vídeo-consultas; Página 13 de 25 Implantar política estadual de qualificação da atenção à mulher e à criança, fortalecendo educação permanente, serviços e rede de atenção ao pré-natal, parto e recém-nascido, além de instrumentos de monitoramento e avaliação; Estimular e realizar ações educativas de vida saudável nas áreas de alimentação, atividade física e tabagismo; Implementar ações voltadas ao diagnóstico e cuidado da saúde ment",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "É fundamental conceber um modelo que propicie atendimento médico com capilaridade suficiente para abranger todas as regiões e municípios do Estado, sem a necessidade de deslocamentos longos para cidades de maior porte. Atenção Básica e Prevenção Estruturar e qualificar as equipes municipais de Atenção Básica para prevenção, detecção e tratamento oportuno das Doenças Crônicas Não Transmissíveis (DCNTs); Intensificar ações de vigilância e prevenção de doenças transmissíveis, melhorando as condições tecnológicas para diagnóstico precoce e controle; Fomentar a capacitação dos profissionais de saúde em todas as regiões, elevando a efetividade e a resolubilidade; Fomentar a integração das secretarias municipais de saúde; Ampliar o alcance da telemedicina e das vídeo-consultas; Página 13 de 25 Implantar política estadual de qualificação da atenção à mulher e à criança, fortalecendo educação permanente, serviços e rede de atenção ao pré-natal, parto e recém-nascido, além de instrumentos de monitoramento e avaliação; Estimular e realizar ações educativas de vida saudável nas áreas de alimentação, atividade física e tabagismo; Implementar ações voltadas ao diagnóstico e cuidado da saúde ment"
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "O investimento na universalização do abastecimento de água potável e do esgotamento sanitário é compromisso de civilidade e de saúde pública. A universalização do saneamento básico e a proteção dos mananciais são compromissos de saúde pública e de dignidade."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 25,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Inteligência e Integração Priorizar, fortalecer e integrar as atividades de inteligência na segurança pública e no sistema prisional, com aquisição de equipamentos de alta tecnologia e desenvolvimento de ações estratégicas; Desenvolver programas estratégicos de compartilhamento de informações com diversos entes da Federação, incluindo o Governo Federal, visando impedir e combater a instalação de células de facções criminosas vindas de outros estados; Com base nas informações obtidas pelos setores de inteligência, realizar operações policiais regulares com o objetivo de desmantelar e sufocar o crime organizado; Aprimorar a força-tarefa do GAECO, respeitando sempre a sua independência e a competência do Ministério Público Estadual, com enfoque especial no combate aos ilícitos praticados contra a administração pública e o erário; Buscar maior cooperação entre Polícia Militar, Polícia Civil, Polícia Científica, Corpo de Bombeiros, municípios e parceiros estratégicos. Valorização e Efetivo Aumentar o efetivo por meio da convocação voluntária de policiais da reserva fisicamente aptos para atuarem em áreas estratégicas; Nomear os aprovados em concursos já realizados e publicar novos edita",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 12,
+              "text": "Inteligência e Integração Priorizar, fortalecer e integrar as atividades de inteligência na segurança pública e no sistema prisional, com aquisição de equipamentos de alta tecnologia e desenvolvimento de ações estratégicas; Desenvolver programas estratégicos de compartilhamento de informações com diversos entes da Federação, incluindo o Governo Federal, visando impedir e combater a instalação de células de facções criminosas vindas de outros estados; Com base nas informações obtidas pelos setores de inteligência, realizar operações policiais regulares com o objetivo de desmantelar e sufocar o crime organizado; Aprimorar a força-tarefa do GAECO, respeitando sempre a sua independência e a competência do Ministério Público Estadual, com enfoque especial no combate aos ilícitos praticados contra a administração pública e o erário; Buscar maior cooperação entre Polícia Militar, Polícia Civil, Polícia Científica, Corpo de Bombeiros, municípios e parceiros estratégicos. Valorização e Efetivo Aumentar o efetivo por meio da convocação voluntária de policiais da reserva fisicamente aptos para atuarem em áreas estratégicas; Nomear os aprovados em concursos já realizados e publicar novos edita"
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Página 21 de 25 O sistema de defesa civil e de proteção do cidadão no enfrentamento aos desafios climáticos extremos será fortalecido."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "A reinserção social de pessoas em situação de rua, de egressos do sistema prisional e de usuários de substâncias psicoativas fará parte de uma política integrada, que combine assistência, qualificação profissional e oportunidades reais de trabalho e renda."
+            },
+            {
+              "id": "s11",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "melhorar a qualidade de vida de todos os catarinenses, em todas as regiões, com justiça e eficiência."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A política fiscal austera não significará corte indiscriminado de gastos, mas sim a qualificação permanente das despesas, a eliminação de desperdícios e a priorização absoluta das áreas que impactam diretamente a qualidade de vida da população: segurança, saúde, educação, infraestrutura e desenvolvimento econômico. O agronegócio é um dos pilares da economia catarinense e da geração de emprego e renda no interior do Estado. O desenvolvimento econômico só é pleno quando acompanhado de inclusão e proteção social.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "A política fiscal austera não significará corte indiscriminado de gastos, mas sim a qualificação permanente das despesas, a eliminação de desperdícios e a priorização absoluta das áreas que impactam diretamente a qualidade de vida da população: segurança, saúde, educação, infraestrutura e desenvolvimento econômico."
+            },
+            {
+              "id": "s06",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "O agronegócio é um dos pilares da economia catarinense e da geração de emprego e renda no interior do Estado."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "O desenvolvimento econômico só é pleno quando acompanhado de inclusão e proteção social. A atração de investimentos estratégicos para geração de empregos e dinamização da economia do Estado será perseguida de forma permanente e profissional."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "interagem e se potencializam quando bem coordenadas."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A responsabilidade fiscal é também um compromisso intergeracional.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "A responsabilidade fiscal é também um compromisso intergeracional."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 23,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "O presente Plano de Governo responde a esse desafio com uma visão de longo prazo, articulando investimentos, modernização da máquina pública e proteção social, de modo a garantir que Santa Catarina continue sendo referência nacional de desenvolvimento sustentável e qualidade de vida. O desenvolvimento econômico só é pleno quando acompanhado de inclusão e proteção social. Um Estado que gera empregos, fortalece o empreendedorismo e atrai investimentos cria as condições materiais para que as políticas de assistência social sejam mais eficazes e menos dependentes de transferências permanentes.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "O presente Plano de Governo responde a esse desafio com uma visão de longo prazo, articulando investimentos, modernização da máquina pública e proteção social, de modo a garantir que Santa Catarina continue sendo referência nacional de desenvolvimento sustentável e qualidade de vida."
+            },
+            {
+              "id": "s08",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "O desenvolvimento econômico só é pleno quando acompanhado de inclusão e proteção social. Um Estado que gera empregos, fortalece o empreendedorismo e atrai investimentos cria as condições materiais para que as políticas de assistência social sejam mais eficazes e menos dependentes de transferências permanentes."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 20,
+          "page_end": 22,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "7.4 Recursos Hídricos e Saneamento Básico Serão estruturados programas de proteção dos mananciais que alimentam o sistema hídrico do Estado, para assegurar água potável destinada ao abastecimento humano. O investimento na universalização do abastecimento de água potável e do esgotamento sanitário é compromisso de civilidade e de saúde pública.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "7.4 Recursos Hídricos e Saneamento Básico Serão estruturados programas de proteção dos mananciais que alimentam o sistema hídrico do Estado, para assegurar água potável destinada ao abastecimento humano. O investimento na universalização do abastecimento de água potável e do esgotamento sanitário é compromisso de civilidade e de saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 22,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Este documento foi sistematizado com base em premissas fundamentais que orientarão toda a gestão pública estadual: Austeridade, responsabilidade e otimização dos recursos públicos; Gestão profissional e transparente; Modernização, desburocratização e entrega de serviços públicos de qualidade em todas as áreas de atuação do Estado; Inclusão social, sustentabilidade, respeito ao meio ambiente e inovação tecnológica. Proteção a Grupos Vulneráveis e Temas Específicos Instrumentalizar ações para a prevenção e repressão de crimes contra a mulher, violência doméstica e feminicídios, melhor aparelhando as Delegacias de Proteção à Página 10 de 25 Mulher, com a adoção de medidas de amparo às vítimas, tais como a implantação de casas de acolhimento e o fornecimento de acompanhamento psicológico; Aperfeiçoar a estrutura da Polícia Militar Ambiental, fornecendo tecnologia e equipamentos com o objetivo de vigiar, fiscalizar e reprimir crimes cometidos contra o meio ambiente no território catarinense; Equipar as delegacias específicas e propiciar capacitação permanente para o combate aos crimes cibernéticos — fraudes, golpes, extorsões, crimes contra a honra, disseminação de ódio e outros — comet",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Este documento foi sistematizado com base em premissas fundamentais que orientarão toda a gestão pública estadual: Austeridade, responsabilidade e otimização dos recursos públicos; Gestão profissional e transparente; Modernização, desburocratização e entrega de serviços públicos de qualidade em todas as áreas de atuação do Estado; Inclusão social, sustentabilidade, respeito ao meio ambiente e inovação tecnológica."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 12,
+              "text": "Proteção a Grupos Vulneráveis e Temas Específicos Instrumentalizar ações para a prevenção e repressão de crimes contra a mulher, violência doméstica e feminicídios, melhor aparelhando as Delegacias de Proteção à Página 10 de 25 Mulher, com a adoção de medidas de amparo às vítimas, tais como a implantação de casas de acolhimento e o fornecimento de acompanhamento psicológico; Aperfeiçoar a estrutura da Polícia Militar Ambiental, fornecendo tecnologia e equipamentos com o objetivo de vigiar, fiscalizar e reprimir crimes cometidos contra o meio ambiente no território catarinense; Equipar as delegacias específicas e propiciar capacitação permanente para o combate aos crimes cibernéticos — fraudes, golpes, extorsões, crimes contra a honra, disseminação de ódio e outros — cometidos em ambiente virtual ou por meio de aplicativos de mensagem; Em conjunto com os municípios, criar políticas públicas para resolver a problemática de moradores de rua, mediante projetos de recuperação de usuários de drogas, recolhimento em albergues, assistência e concessão de oportunidades de trabalho; Combater com veemência toda forma de violência no campo, colocando todo o aparato policial de prontidão para g"
+            },
+            {
+              "id": "s07",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "A mobilidade urbana de qualidade impacta diretamente a qualidade de vida, a produtividade e o meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 24,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Os órgãos da Administração Direta e as entidades da Administração Indireta serão imersos nos avanços tecnológicos contemporâneos, com especial atenção à digitalização dos serviços e ao emprego responsável da Inteligência Artificial. Página 6 de 25 Principais ações: Aperfeiçoar a gestão governamental em todas as áreas, elevando a eficiência e a eficácia dos serviços; Implantar mecanismos rigorosos de controle interno e externo para prevenir e combater a corrupção; Digitalizar progressivamente os serviços públicos, reduzindo filas e burocracia; Utilizar Inteligência Artificial e análise de dados para melhorar a qualidade e a agilidade das respostas ao cidadão; Implantar sistemas de medição de resultados e de avaliação da satisfação do usuário; Promover a transparência ativa, com portais de fácil acesso e linguagem clara; Capacitar permanentemente os servidores públicos para o uso de novas tecnologias e metodologias de gestão. Compromissos de gestão: Gestão por resultados, com metas claras e monitoramento permanente; Integração entre secretarias e órgãos, eliminando ilhas de atuação isolada; Uso intensivo de dados e de inteligência artificial para apoiar decisões; Desburocratização co",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 12,
+              "text": "Os órgãos da Administração Direta e as entidades da Administração Indireta serão imersos nos avanços tecnológicos contemporâneos, com especial atenção à digitalização dos serviços e ao emprego responsável da Inteligência Artificial. Página 6 de 25 Principais ações: Aperfeiçoar a gestão governamental em todas as áreas, elevando a eficiência e a eficácia dos serviços; Implantar mecanismos rigorosos de controle interno e externo para prevenir e combater a corrupção; Digitalizar progressivamente os serviços públicos, reduzindo filas e burocracia; Utilizar Inteligência Artificial e análise de dados para melhorar a qualidade e a agilidade das respostas ao cidadão; Implantar sistemas de medição de resultados e de avaliação da satisfação do usuário; Promover a transparência ativa, com portais de fácil acesso e linguagem clara; Capacitar permanentemente os servidores públicos para o uso de novas tecnologias e metodologias de gestão."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Compromissos de gestão: Gestão por resultados, com metas claras e monitoramento permanente; Integração entre secretarias e órgãos, eliminando ilhas de atuação isolada; Uso intensivo de dados e de inteligência artificial para apoiar decisões; Desburocratização contínua de processos e serviços; Transparência ativa e prestação de contas periódica à sociedade; Valorização e capacitação permanente do servidor público."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Este documento foi sistematizado com base em premissas fundamentais que orientarão toda a gestão pública estadual: Austeridade, responsabilidade e otimização dos recursos públicos; Gestão profissional e transparente; Modernização, desburocratização e entrega de serviços públicos de qualidade em todas as áreas de atuação do Estado; Inclusão social, sustentabilidade, respeito ao meio ambiente e inovação tecnológica. A qualidade da gestão pública é o alicerce sobre o qual se constroem todas as demais políticas. 2.1 Gestão Pública Eficiente, Transparente e Inovadora O compromisso com a eficiência administrativa se traduzirá em ações concretas de aperfeiçoamento contínuo.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Este documento foi sistematizado com base em premissas fundamentais que orientarão toda a gestão pública estadual: Austeridade, responsabilidade e otimização dos recursos públicos; Gestão profissional e transparente; Modernização, desburocratização e entrega de serviços públicos de qualidade em todas as áreas de atuação do Estado; Inclusão social, sustentabilidade, respeito ao meio ambiente e inovação tecnológica."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 12,
+              "text": "A qualidade da gestão pública é o alicerce sobre o qual se constroem todas as demais políticas. 2.1 Gestão Pública Eficiente, Transparente e Inovadora O compromisso com a eficiência administrativa se traduzirá em ações concretas de aperfeiçoamento contínuo."
+            },
+            {
+              "id": "s09",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "A gestão pública do século XXI exige integração entre áreas, uso intensivo de dados e foco permanente em resultados."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "240002552157",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002552157_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002552157_01.pdf",
+      "sha256": "b09199e2b606125d047b5101cfd63861b4a63191cd1abb16a1473971eb7b5cb9",
+      "summary": "PROPOSTAS Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.Utilizar a infraestrutura das escolas públicas estaduais no contraturno para oferecer atividades físicas, terapêuticas e de saúde mental preventivas aos pais e às comunidades locais. OBJETIVO preparar crianças e jovens para a cidadania, para o ensino superioreparao mercado de trabalho. fortalecer leitura, escrita, matemática, lógica, ciências, inglês e competências digitais; expandir educação profissional e tecnológica conforme as vocações regionais; fortalecer programas de acesso ao ensino superior; melhorar infraestrutura escolar; reforçar segurança nas escolas; valorizar professores e gestores; e ampliar ações de permanência no ensino médio. Adotar uma visão holística e transversal da saúde pública, unindo educação e esporte na prevenção de doenças físicas e mentais para reduzir a sobrecarga hospitalar.Priorizar a máxima eficiência dos ativos estatais, revertendo o uso de imóveis de representação oficial em serviços essenciais de saúde para a população vulnerável. OBJETIVO proteger as famílias catarinenses, combater o crime organizado e fortalecer a capacidade operacional das forças de segurança. Polícia Militar, Polícia Civil, Polícia Científica, Polícia Penal, Corpo de Bombeiros, inteligência e Defesa Civil deverão trabalhar com protocolos e tecnologia compartilhados. O sistema prisional deverá ampliar oportunidades de trabalho e ressocialização, observando a legislação e a segurança das unidades. O cidadão não deve ser obrigado a escolher entre desenvolvimento econômico e qualidade de vida. 12+1 DESENVOLVIMENTO ECONÔMICO E LIBERDADE PARA EMPREENDER OBJETIVO tornar Santa Catarina cada vez mais competitiva para empreendedores, trabalhadores e investidores. COMPROMISSO responsabilidade fiscal, transparência e foco permanente na qualidade do gasto público. Nossa proposta para 2027–2030 combina eficiência administrativa, segurança, saúde, educação, infraestrutura, liberdade econômica, inovação, proteção social e resiliência climática. COMPROMISSO proteção social com dignidade, autonomia e oportunidade.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 10,
+          "topics": [
+            "education"
+          ],
+          "summary": "PROPOSTAS Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.Utilizar a infraestrutura das escolas públicas estaduais no contraturno para oferecer atividades físicas, terapêuticas e de saúde mental preventivas aos pais e às comunidades locais. OBJETIVO preparar crianças e jovens para a cidadania, para o ensino superioreparao mercado de trabalho. fortalecer leitura, escrita, matemática, lógica, ciências, inglês e competências digitais; expandir educação profissional e tecnológica conforme as vocações regionais; fortalecer programas de acesso ao ensino superior; melhorar infraestrutura escolar; reforçar segurança nas escolas; valorizar professores e gestores; e ampliar ações de permanência no ensino médio.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "PROPOSTAS Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.Utilizar a infraestrutura das escolas públicas estaduais no contraturno para oferecer atividades físicas, terapêuticas e de saúde mental preventivas aos pais e às comunidades locais."
+            },
+            {
+              "id": "s16",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "OBJETIVO preparar crianças e jovens para a cidadania, para o ensino superioreparao mercado de trabalho. fortalecer leitura, escrita, matemática, lógica, ciências, inglês e competências digitais; expandir educação profissional e tecnológica conforme as vocações regionais; fortalecer programas de acesso ao ensino superior; melhorar infraestrutura escolar; reforçar segurança nas escolas; valorizar professores e gestores; e ampliar ações de permanência no ensino médio."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "health"
+          ],
+          "summary": "PROPOSTAS Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.Utilizar a infraestrutura das escolas públicas estaduais no contraturno para oferecer atividades físicas, terapêuticas e de saúde mental preventivas aos pais e às comunidades locais. Adotar uma visão holística e transversal da saúde pública, unindo educação e esporte na prevenção de doenças físicas e mentais para reduzir a sobrecarga hospitalar.Priorizar a máxima eficiência dos ativos estatais, revertendo o uso de imóveis de representação oficial em serviços essenciais de saúde para a população vulnerável.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "PROPOSTAS Transformar a residência oficial no Hospital e Centro de Referência Estadual para Crianças, Mulheres e Idosos Vítimas de Queimaduras, integrando-o ao Hospital Infantil Joana de Gusmão e usando seu heliponto para resgates aéreos expeditos.Utilizar a infraestrutura das escolas públicas estaduais no contraturno para oferecer atividades físicas, terapêuticas e de saúde mental preventivas aos pais e às comunidades locais."
+            },
+            {
+              "id": "s15",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Adotar uma visão holística e transversal da saúde pública, unindo educação e esporte na prevenção de doenças físicas e mentais para reduzir a sobrecarga hospitalar.Priorizar a máxima eficiência dos ativos estatais, revertendo o uso de imóveis de representação oficial em serviços essenciais de saúde para a população vulnerável."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "OBJETIVO proteger as famílias catarinenses, combater o crime organizado e fortalecer a capacidade operacional das forças de segurança. Polícia Militar, Polícia Civil, Polícia Científica, Polícia Penal, Corpo de Bombeiros, inteligência e Defesa Civil deverão trabalhar com protocolos e tecnologia compartilhados. O sistema prisional deverá ampliar oportunidades de trabalho e ressocialização, observando a legislação e a segurança das unidades.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "OBJETIVO proteger as famílias catarinenses, combater o crime organizado e fortalecer a capacidade operacional das forças de segurança."
+            },
+            {
+              "id": "s11",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Polícia Militar, Polícia Civil, Polícia Científica, Polícia Penal, Corpo de Bombeiros, inteligência e Defesa Civil deverão trabalhar com protocolos e tecnologia compartilhados. O sistema prisional deverá ampliar oportunidades de trabalho e ressocialização, observando a legislação e a segurança das unidades."
+            },
+            {
+              "id": "s12",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "ampliar sistemas de alerta; integrar dados de universidades e centros de pesquisa; fortalecer a Defesa Civil; criar mecanismos permanentes de financiamento para prevenção e reconstrução; apoiar municípios no mapeamento de áreas de risco; ampliar obras de drenagem, contenção, macrodrenagem e desassoreamento; e aperfeiçoar protocolos de resposta."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 13,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O cidadão não deve ser obrigado a escolher entre desenvolvimento econômico e qualidade de vida. OBJETIVO preparar crianças e jovens para a cidadania, para o ensino superioreparao mercado de trabalho. 12+1 DESENVOLVIMENTO ECONÔMICO E LIBERDADE PARA EMPREENDER OBJETIVO tornar Santa Catarina cada vez mais competitiva para empreendedores, trabalhadores e investidores.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "O cidadão não deve ser obrigado a escolher entre desenvolvimento econômico e qualidade de vida."
+            },
+            {
+              "id": "s16",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "OBJETIVO preparar crianças e jovens para a cidadania, para o ensino superioreparao mercado de trabalho."
+            },
+            {
+              "id": "s22",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "12+1 DESENVOLVIMENTO ECONÔMICO E LIBERDADE PARA EMPREENDER OBJETIVO tornar Santa Catarina cada vez mais competitiva para empreendedores, trabalhadores e investidores."
+            },
+            {
+              "id": "s23",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "A política de desenvolvimento econômico deverá considerar as diferentes vocações regionais, apoiando indústria, comércio, serviços, tecnologia, turismo, agroindústria e economia do mar."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 3,
+          "page_end": 5,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "COMPROMISSO responsabilidade fiscal, transparência e foco permanente na qualidade do gasto público.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "COMPROMISSO responsabilidade fiscal, transparência e foco permanente na qualidade do gasto público."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 2,
+          "page_end": 17,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Nossa proposta para 2027–2030 combina eficiência administrativa, segurança, saúde, educação, infraestrutura, liberdade econômica, inovação, proteção social e resiliência climática. Adotar uma visão holística e transversal da saúde pública, unindo educação e esporte na prevenção de doenças físicas e mentais para reduzir a sobrecarga hospitalar.Priorizar a máxima eficiência dos ativos estatais, revertendo o uso de imóveis de representação oficial em serviços essenciais de saúde para a população vulnerável. COMPROMISSO proteção social com dignidade, autonomia e oportunidade.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Nossa proposta para 2027–2030 combina eficiência administrativa, segurança, saúde, educação, infraestrutura, liberdade econômica, inovação, proteção social e resiliência climática."
+            },
+            {
+              "id": "s15",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Adotar uma visão holística e transversal da saúde pública, unindo educação e esporte na prevenção de doenças físicas e mentais para reduzir a sobrecarga hospitalar.Priorizar a máxima eficiência dos ativos estatais, revertendo o uso de imóveis de representação oficial em serviços essenciais de saúde para a população vulnerável."
+            },
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "COMPROMISSO proteção social com dignidade, autonomia e oportunidade."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": 10,
+          "page_end": 11,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "OBJETIVO eliminar gargalos que prejudicam a mobilidade das pessoas eoescoamentoda produção. PROPOSTAS Assumir a duplicação da BR-282 como prioridade número um e obsessão de gestão, realizando concessão e/ou parceria público-privada por edital de concorrência nacional/internacional com pedágio como fonte compensatória de custeio.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "OBJETIVO eliminar gargalos que prejudicam a mobilidade das pessoas eoescoamentoda produção. PROPOSTAS Assumir a duplicação da BR-282 como prioridade número um e obsessão de gestão, realizando concessão e/ou parceria público-privada por edital de concorrência nacional/internacional com pedágio como fonte compensatória de custeio."
+            }
+          ]
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "A expansão do saneamento básico garantirá água potável e coleta de esgoto como direito básico para promover dignidade e saúde preventiva a todos os catarinenses.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "A expansão do saneamento básico garantirá água potável e coleta de esgoto como direito básico para promover dignidade e saúde preventiva a todos os catarinenses."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 3,
+          "page_end": 16,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "responsabilidade com o dinheiro público; liberdade para empreender e produzir; segurança para as famílias; serviços públicos eficientes; valorização do trabalho; inovação; respeito ao meio ambiente; integração com os municípios; transparência e compromisso com resultados. OBJETIVO ampliar investimentos em saneamento e conciliar proteção ambiental com desenvolvimento. ampliar capacidade técnica e financeira dos municípios; estimular concessões e PPPs quando adequadas; acelerar investimentos em água, esgoto e resíduos; melhorar drenagem e gestão de águas urbanas; simplificar processos ambientais sem reduzir proteção; definir competências com clareza; ampliar segurança jurídica; e incentivar energia renovável e eficiência energética.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "responsabilidade com o dinheiro público; liberdade para empreender e produzir; segurança para as famílias; serviços públicos eficientes; valorização do trabalho; inovação; respeito ao meio ambiente; integração com os municípios; transparência e compromisso com resultados."
+            },
+            {
+              "id": "s28",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "OBJETIVO ampliar investimentos em saneamento e conciliar proteção ambiental com desenvolvimento. ampliar capacidade técnica e financeira dos municípios; estimular concessões e PPPs quando adequadas; acelerar investimentos em água, esgoto e resíduos; melhorar drenagem e gestão de águas urbanas; simplificar processos ambientais sem reduzir proteção; definir competências com clareza; ampliar segurança jurídica; e incentivar energia renovável e eficiência energética."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "DESENVOLVIMENTO RURAL OBJETIVO fortalecer o campo, a agricultura familiar, a agroindústria e a competitividade do produtor catarinense.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "DESENVOLVIMENTO RURAL OBJETIVO fortalecer o campo, a agricultura familiar, a agroindústria e a competitividade do produtor catarinense."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "governance"
+          ],
+          "summary": "FISCAL OBJETIVO construir um Estado mais simples, eficiente, digital e orientado por resultados. estabelecer metas para órgãos e programas; ampliar a avaliação de desempenho institucional; digitalizar serviços; simplificar procedimentos; fortalecer mecanismos de controle interno; aprimorar compras públicas; ampliar transparência de contratos e despesas; e revisar gastos administrativos em busca de economia sem comprometer serviços essenciais. A gestão pública deve deixar de ser medida apenas pelo quanto gasta e passar a ser avaliada pelo que entrega.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "FISCAL OBJETIVO construir um Estado mais simples, eficiente, digital e orientado por resultados. estabelecer metas para órgãos e programas; ampliar a avaliação de desempenho institucional; digitalizar serviços; simplificar procedimentos; fortalecer mecanismos de controle interno; aprimorar compras públicas; ampliar transparência de contratos e despesas; e revisar gastos administrativos em busca de economia sem comprometer serviços essenciais."
+            },
+            {
+              "id": "s07",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A gestão pública deve deixar de ser medida apenas pelo quanto gasta e passar a ser avaliada pelo que entrega."
+            },
+            {
+              "id": "s08",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "COMPROMISSO menos papel, menos espera e mais serviço público entregue."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "240002553718",
+      "state_code": "SC",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SC240002553718_01.pdf",
+      "public_path": "/propostas/2026/SC/2026SC240002553718_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

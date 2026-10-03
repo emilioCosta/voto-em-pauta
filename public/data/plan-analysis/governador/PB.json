@@ -1,0 +1,1854 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "PB",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "150002538692",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002538692_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002538692_01.pdf",
+      "sha256": "b174121c5c89bd86c5cfa56be0a9a167975bc6dbc0d0ab2d2f1c8dd838028e56",
+      "summary": "A Paraíba avançou no ensino em tempo integral e na redução do abandono escolar, mas o aprendizado ainda está abaixo do desejado, especialmente em matemática e língua portuguesa. reduzir a distorção idade-série; levar conectividade e estrutura a todas as escolas; valorizar quem ensina; e integrar o ensino superior à rede pública. O foco será na conclusão das adutoras, na recuperação de reservatórios e na implementação de sistemas de dessalinização e reuso de água para fins industriais e agrícolas, garantindo que a água potável seja prioridade absoluta para o consumo humano e a saúde pública. Além disso, os profissionais da educação enfrentam condições de trabalho desgastantes, com salários que precisam de valorização real e suporte à saúde mental. reduzir o tempo de espera; levar especialistas ao interior; cuidar da saúde mental e das doenças crônicas; e gerir a saúde por resultados. E, por fim, um Estado que protege, com segurança pública e defesa civil à altura dos desafios do nosso tempo. A Paraíba avançou na redução de alguns indicadores de violência letal, mas os crimes patrimoniais, o tráfico de drogas e a violência sexual ainda crescem em várias regiões. O sistema prisional opera acima de sua capacidade, dificultando a ressocialização e facilitando a atuação de facções. A Paraíba é um Estado com alguma renda, mas com produção insuficiente. a dependência logística de outros estados para exportar; a infraestrutura digital insuficiente e a baixa geração de empregos formais. O desafio é equilibrar o desenvolvimento econômico com a preservação dos nossos biomas únicos. profissionalizar o setor; fortalecer a marca Paraíba; e atrair investimento privado com responsabilidade fiscal. Um Estado que cuida das pessoas, com educação, saúde, assistência social e políticas que valorizam cada fase da vida. muitas famílias ainda vivem em situação de pobreza extrema, e a fome permanece como uma ferida aberta em parte do Estado, especialmente no semiárido e nas periferias urbanas. Garantir segurança alimentar com critérios claros e caminhos de saída; proteger crianças, idosos e pessoas em situação de violência; chegar aos territórios mais distantes; e reconstruir a governança do sistema de assistência.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 14,
+          "page_end": 18,
+          "topics": [
+            "education"
+          ],
+          "summary": "A Paraíba avançou no ensino em tempo integral e na redução do abandono escolar, mas o aprendizado ainda está abaixo do desejado, especialmente em matemática e língua portuguesa. Elevar a aprendizagem em todas as etapas; reduzir a distorção idade-série; levar conectividade e estrutura a todas as escolas; valorizar quem ensina; e integrar o ensino superior à rede pública.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "A Paraíba avançou no ensino em tempo integral e na redução do abandono escolar, mas o aprendizado ainda está abaixo do desejado, especialmente em matemática e língua portuguesa. Elevar a aprendizagem em todas as etapas; reduzir a distorção idade-série; levar conectividade e estrutura a todas as escolas; valorizar quem ensina; e integrar o ensino superior à rede pública."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 19,
+          "topics": [
+            "health"
+          ],
+          "summary": "O foco será na conclusão das adutoras, na recuperação de reservatórios e na implementação de sistemas de dessalinização e reuso de água para fins industriais e agrícolas, garantindo que a água potável seja prioridade absoluta para o consumo humano e a saúde pública. Além disso, os profissionais da educação enfrentam condições de trabalho desgastantes, com salários que precisam de valorização real e suporte à saúde mental. Fazer a atenção primária resolver de fato; reduzir o tempo de espera; levar especialistas ao interior; cuidar da saúde mental e das doenças crônicas; e gerir a saúde por resultados.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "O foco será na conclusão das adutoras, na recuperação de reservatórios e na implementação de sistemas de dessalinização e reuso de água para fins industriais e agrícolas, garantindo que a água potável seja prioridade absoluta para o consumo humano e a saúde pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Além disso, os profissionais da educação enfrentam condições de trabalho desgastantes, com salários que precisam de valorização real e suporte à saúde mental. Fazer a atenção primária resolver de fato; reduzir o tempo de espera; levar especialistas ao interior; cuidar da saúde mental e das doenças crônicas; e gerir a saúde por resultados."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Valorizar as carreiras da segurança, com atenção à saúde mental e às condições de trabalho; ampliar o uso de inteligência e investigação para desarticular o crime organizado; regionalizar as unidades prisionais com foco em ressocialização e trabalho retirando-as das áreas urbanas; e implantar uma rede estadual de defesa civil, com bases regionais, alerta antecipado e prevenção no semiárido."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 19,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "E, por fim, um Estado que protege, com segurança pública e defesa civil à altura dos desafios do nosso tempo. A Paraíba avançou na redução de alguns indicadores de violência letal, mas os crimes patrimoniais, o tráfico de drogas e a violência sexual ainda crescem em várias regiões. O sistema prisional opera acima de sua capacidade, dificultando a ressocialização e facilitando a atuação de facções.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "E, por fim, um Estado que protege, com segurança pública e defesa civil à altura dos desafios do nosso tempo."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "A Paraíba avançou na redução de alguns indicadores de violência letal, mas os crimes patrimoniais, o tráfico de drogas e a violência sexual ainda crescem em várias regiões. O sistema prisional opera acima de sua capacidade, dificultando a ressocialização e facilitando a atuação de facções."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A Paraíba é um Estado com alguma renda, mas com produção insuficiente. O alto custo de fazer negócios no Estado; a dependência logística de outros estados para exportar; a infraestrutura digital insuficiente e a baixa geração de empregos formais. O desafio é equilibrar o desenvolvimento econômico com a preservação dos nossos biomas únicos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 9,
+              "text": "A Paraíba é um Estado com alguma renda, mas com produção insuficiente. O alto custo de fazer negócios no Estado; a dependência logística de outros estados para exportar; a infraestrutura digital insuficiente e a baixa geração de empregos formais."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "O desafio é equilibrar o desenvolvimento econômico com a preservação dos nossos biomas únicos."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "A desigualdade de gênero no mercado de trabalho limita a autonomia econômica das mulheres, especialmente das mães solo."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 9,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Estruturar novos destinos, especialmente no interior; profissionalizar o setor; fortalecer a marca Paraíba; e atrair investimento privado com responsabilidade fiscal.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 9,
+              "text": "Estruturar novos destinos, especialmente no interior; profissionalizar o setor; fortalecer a marca Paraíba; e atrair investimento privado com responsabilidade fiscal."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 3,
+          "page_end": 18,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Um Estado que cuida das pessoas, com educação, saúde, assistência social e políticas que valorizam cada fase da vida. A proteção social existe, mas é desigual entre os territórios: muitas famílias ainda vivem em situação de pobreza extrema, e a fome permanece como uma ferida aberta em parte do Estado, especialmente no semiárido e nas periferias urbanas. Garantir segurança alimentar com critérios claros e caminhos de saída; proteger crianças, idosos e pessoas em situação de violência; chegar aos territórios mais distantes; e reconstruir a governança do sistema de assistência.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Um Estado que cuida das pessoas, com educação, saúde, assistência social e políticas que valorizam cada fase da vida."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "A proteção social existe, mas é desigual entre os territórios: muitas famílias ainda vivem em situação de pobreza extrema, e a fome permanece como uma ferida aberta em parte do Estado, especialmente no semiárido e nas periferias urbanas. Garantir segurança alimentar com critérios claros e caminhos de saída; proteger crianças, idosos e pessoas em situação de violência; chegar aos territórios mais distantes; e reconstruir a governança do sistema de assistência."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 9,
+          "page_end": 14,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "A falta de manutenção em barragens e a poluição de mananciais urbanos reduzem a disponibilidade de água potável. O foco será na conclusão das adutoras, na recuperação de reservatórios e na implementação de sistemas de dessalinização e reuso de água para fins industriais e agrícolas, garantindo que a água potável seja prioridade absoluta para o consumo humano e a saúde pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "A falta de manutenção em barragens e a poluição de mananciais urbanos reduzem a disponibilidade de água potável. O foco será na conclusão das adutoras, na recuperação de reservatórios e na implementação de sistemas de dessalinização e reuso de água para fins industriais e agrícolas, garantindo que a água potável seja prioridade absoluta para o consumo humano e a saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 9,
+          "page_end": 18,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "as estradas e a logística que conectam a produção, a mobilidade que leva o trabalhador ao seu destino, a água e o saneamento que garantem saúde e dignidade, a casa que acolhe e o meio ambiente que sustenta a vida. O monitoramento incluirá a análise da qualidade da água dos rios e praias, medindo o impacto real do tratamento de esgoto no meio ambiente. O desafio é integrar a proteção animal à agenda de saúde pública e meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "as estradas e a logística que conectam a produção, a mobilidade que leva o trabalhador ao seu destino, a água e o saneamento que garantem saúde e dignidade, a casa que acolhe e o meio ambiente que sustenta a vida. O monitoramento incluirá a análise da qualidade da água dos rios e praias, medindo o impacto real do tratamento de esgoto no meio ambiente."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "O desafio é integrar a proteção animal à agenda de saúde pública e meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 9,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O plano será revisado com as cooperativas e a agricultura familiar a cada ciclo.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 9,
+              "text": "O plano será revisado com as cooperativas e a agricultura familiar a cada ciclo."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 14,
+          "page_end": 18,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Nossa cultura é nossa maior marca e uma economia criativa pujante que já gera milhares de empregos. Tratar a cultura como política de Estado; criar uma rede cultural itinerante que chegue a todos os municípios; fortalecer o fomento à economia criativa; implantar um sistema integrado de gestão; e lançar um programa de identidade paraibana que una cultura, patrimônio e turismo.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Nossa cultura é nossa maior marca e uma economia criativa pujante que já gera milhares de empregos. Tratar a cultura como política de Estado; criar uma rede cultural itinerante que chegue a todos os municípios; fortalecer o fomento à economia criativa; implantar um sistema integrado de gestão; e lançar um programa de identidade paraibana que una cultura, patrimônio e turismo."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 18,
+          "page_end": 19,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Queremos uma segurança que proteja o cidadão respeitando os direitos humanos, e uma defesa civil que salve vidas através da prevenção e da resposta rápida. De cuidar de cada criança, de cada jovem, de cada mulher, de cada pessoa com deficiência, de cada família que espera do Estado o que a vida sozinha não deu.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Queremos uma segurança que proteja o cidadão respeitando os direitos humanos, e uma defesa civil que salve vidas através da prevenção e da resposta rápida."
+            },
+            {
+              "id": "s08",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "De cuidar de cada criança, de cada jovem, de cada mulher, de cada pessoa com deficiência, de cada família que espera do Estado o que a vida sozinha não deu."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 18,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Primeiro, um Estado que se organiza — com governança sólida, finanças equilibradas e gestão pública moderna, apoiada na tecnologia e na inovação. O planejamento, o orçamento, a execução e o monitoramento ainda funcionam como ciclos separados, que pouco conversam entre si. Além disso, a resistência cultural à transparência ativa e ao controle social rigoroso demanda uma liderança política firme para implementar mudanças estruturais permanentes.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Primeiro, um Estado que se organiza — com governança sólida, finanças equilibradas e gestão pública moderna, apoiada na tecnologia e na inovação."
+            },
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "O planejamento, o orçamento, a execução e o monitoramento ainda funcionam como ciclos separados, que pouco conversam entre si. Além disso, a resistência cultural à transparência ativa e ao controle social rigoroso demanda uma liderança política firme para implementar mudanças estruturais permanentes."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "A estratégia inclui a criação de Centros de Referência em Neurodesenvolvimento regionalizados, o fortalecimento das Delegacias da Mulher e das Casas Abrigo, e a implementação de cotas e incentivos para a contratação de jovens e pessoas com deficiência no serviço público e nas empresas parceiras."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 9,
+          "page_end": 14,
+          "topics": [
+            "energy"
+          ],
+          "summary": "A revisão do plano incorporará as novas metas globais de descarbonização, garantindo que a Paraíba esteja na vanguarda da transição energética e da resiliência climática, protegendo nosso patrimônio natural para o futuro.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "A revisão do plano incorporará as novas metas globais de descarbonização, garantindo que a Paraíba esteja na vanguarda da transição energética e da resiliência climática, protegendo nosso patrimônio natural para o futuro."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "150002540204",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002540204_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002540204_01.pdf",
+      "sha256": "0e8924b4a2abfc473c83dde63632c96e06105f3eb96df8e011d94a2163451dcb",
+      "summary": "Ampliação do orçamento público estadual em direção à meta nacional de 10% do orçamento exclusivamente para a educação pública. Criação de delegacias especializadas (DEAMs) 24h em todas as regiões, orçamento para Casas-Abrigo e defesa intransigente da legalização ao direito ao aborto legal na rede de saúde pública. A violência que atinge a população trabalhadora não será enfrentada com mais repressão, mas com direitos sociais, prevenção e combate às estruturas econômicas que alimentam o crime organizado. Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão. Implementação do salário mínimo regional com reajuste de 100% do salário mínimo. Garantir o desenvolvimento econômico com base nos princípios do internacionalismo, sem negócios com países que praticam a guerra e promovem genocídios. Garantia de orçamento para os setores sociais. A defesa da natureza e dos povos tradicionais é parte inseparável da luta pela soberania nacional e pela justiça social. É necessário proteger nossos biomas, respeitar os direitos dos povos indígenas e quilombolas e enfrentar a exploração predatória promovida pelo capital. Nosso programa aponta para um novo projeto de desenvolvimento baseado no fortalecimento das empresas públicas, na planificação democrática da economia, na reforma agrária e urbana populares, na ampliação dos direitos sociais e na construção do poder popular como caminho para superar o domínio das oligarquias e abrir perspectivas para uma sociedade socialista. Desapropriação imediata de todos os latifúndios improdutivos e estatização das terras. Apoio total à agricultura familiar com foco na soberania alimentar. Criação da Polícia Cidadã, fundamentada nos direitos humanos, atuando com prevenção e estratégia no combate ao crime organizado, em especial as denúncias de vinculação com o setor público e financeiro. Fim das Organizações Sociais e da terceirização do serviço público. Criação de Conselhos Populares de Planejamento na Paraíba para gerir o orçamento estadual e combater as desigualdades entre Litoral, Agreste, Borborema e Sertão. Defendemos mecanismos de democracia popular, controle social permanente e combate rigoroso à corrupção, aos privilégios e à impunidade.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "education"
+          ],
+          "summary": "Ampliação do orçamento público estadual em direção à meta nacional de 10% do orçamento exclusivamente para a educação pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Ampliação do orçamento público estadual em direção à meta nacional de 10% do orçamento exclusivamente para a educação pública."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "health"
+          ],
+          "summary": "Criação de delegacias especializadas (DEAMs) 24h em todas as regiões, orçamento para Casas-Abrigo e defesa intransigente da legalização ao direito ao aborto legal na rede de saúde pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Orçamento que garanta o funcionamento de 100% da saúde pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Criação de delegacias especializadas (DEAMs) 24h em todas as regiões, orçamento para Casas-Abrigo e defesa intransigente da legalização ao direito ao aborto legal na rede de saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A violência que atinge a população trabalhadora não será enfrentada com mais repressão, mas com direitos sociais, prevenção e combate às estruturas econômicas que alimentam o crime organizado. Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A violência que atinge a população trabalhadora não será enfrentada com mais repressão, mas com direitos sociais, prevenção e combate às estruturas econômicas que alimentam o crime organizado. Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Implementação do salário mínimo regional com reajuste de 100% do salário mínimo. Garantir o desenvolvimento econômico com base nos princípios do internacionalismo, sem negócios com países que praticam a guerra e promovem genocídios.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Implementação do salário mínimo regional com reajuste de 100% do salário mínimo. Garantir o desenvolvimento econômico com base nos princípios do internacionalismo, sem negócios com países que praticam a guerra e promovem genocídios."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Garantia de orçamento para os setores sociais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Garantia de orçamento para os setores sociais."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "A defesa da natureza e dos povos tradicionais é parte inseparável da luta pela soberania nacional e pela justiça social. É necessário proteger nossos biomas, respeitar os direitos dos povos indígenas e quilombolas e enfrentar a exploração predatória promovida pelo capital.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "A defesa da natureza e dos povos tradicionais é parte inseparável da luta pela soberania nacional e pela justiça social. É necessário proteger nossos biomas, respeitar os direitos dos povos indígenas e quilombolas e enfrentar a exploração predatória promovida pelo capital."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Nosso programa aponta para um novo projeto de desenvolvimento baseado no fortalecimento das empresas públicas, na planificação democrática da economia, na reforma agrária e urbana populares, na ampliação dos direitos sociais e na construção do poder popular como caminho para superar o domínio das oligarquias e abrir perspectivas para uma sociedade socialista. Desapropriação imediata de todos os latifúndios improdutivos e estatização das terras. Apoio total à agricultura familiar com foco na soberania alimentar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Nosso programa aponta para um novo projeto de desenvolvimento baseado no fortalecimento das empresas públicas, na planificação democrática da economia, na reforma agrária e urbana populares, na ampliação dos direitos sociais e na construção do poder popular como caminho para superar o domínio das oligarquias e abrir perspectivas para uma sociedade socialista."
+            },
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "Desapropriação imediata de todos os latifúndios improdutivos e estatização das terras. Apoio total à agricultura familiar com foco na soberania alimentar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão. Criação da Polícia Cidadã, fundamentada nos direitos humanos, atuando com prevenção e estratégia no combate ao crime organizado, em especial as denúncias de vinculação com o setor público e financeiro. É necessário proteger nossos biomas, respeitar os direitos dos povos indígenas e quilombolas e enfrentar a exploração predatória promovida pelo capital.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão. Criação da Polícia Cidadã, fundamentada nos direitos humanos, atuando com prevenção e estratégia no combate ao crime organizado, em especial as denúncias de vinculação com o setor público e financeiro."
+            },
+            {
+              "id": "s07",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "É necessário proteger nossos biomas, respeitar os direitos dos povos indígenas e quilombolas e enfrentar a exploração predatória promovida pelo capital."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Fim das Organizações Sociais e da terceirização do serviço público. Criação de Conselhos Populares de Planejamento na Paraíba para gerir o orçamento estadual e combater as desigualdades entre Litoral, Agreste, Borborema e Sertão. Defendemos mecanismos de democracia popular, controle social permanente e combate rigoroso à corrupção, aos privilégios e à impunidade.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Fim das Organizações Sociais e da terceirização do serviço público. Criação de Conselhos Populares de Planejamento na Paraíba para gerir o orçamento estadual e combater as desigualdades entre Litoral, Agreste, Borborema e Sertão."
+            },
+            {
+              "id": "s08",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Defendemos mecanismos de democracia popular, controle social permanente e combate rigoroso à corrupção, aos privilégios e à impunidade. Julgamento, prisão de corruptos e golpistas de ontem e de hoje, com o confisco integral dos bens e de suas empresas para ressarcimento dos cofres públicos."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "150002544133",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002544133_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002544133_01.pdf",
+      "sha256": "818514371331ca40e2bd420aa8b3fecb4771ddea5ddb46467c9fe93d76ade181",
+      "summary": "Sonho com uma Paraíba onde nossas crianças encontrem, na escola pública de qualidade, as oportunidades que abrirão os caminhos do futuro. • Definir os bairros e municípios que concentram homicídios, roubos e vulnerabilidade juvenil e destinar a cada um plano integrado de policiamento, iluminação, urbanização, escola em tempo integral, esporte, cultura, formação profissional e apoio às famílias, executados simultaneamente e avaliados por resultado. Sonho com uma Paraíba onde a saúde pública funcione com eficiência, respeito e humanidade. A parceria efetiva com os municípios na atenção básica e no socorro aéreo no interior, para que a distância da capital não determine o acesso ao cuidado. Somam-se, ainda, os compromissos de levar o Programa Saúde da Família a mais de 90% de cobertura, reduzir a mortalidade materna e infantil, ampliar os leitos de UTI no interior e implantar CAPS regionais com telessaúde mental. O problema da segurança pública paraibana não se resolve só com mais policiamento. Promover um choque de gestão em toda a rede de segurança pública do estado da Paraíba e fazer o enfrentamento ao crime organizado, com o restabelecimento da sensação de segurança à população. Segurança Pública e Defesa Social EIXO 1 PRA PARAÍBA DAR O PRÓXIMO PASSO Criar Delegacias Especializadas de Atendimento à Mulher, com atendimento 24 horas, nas cidades de Patos, Cajazeiras, Guarabira e Monteiro. Onde o desenvolvimento econômico caminhe lado a lado com a inclusão social, reduzindo desigualdades e ampliando oportunidades para todos. Emprego formal e melhores salários são o resultado pelo qual esse conjunto será medido. Posicionar a Paraíba entre os cinco melhores ambientes de negócios do Brasil. A sustentabilidade não é um capítulo isolado, e sim lente aplicada a cada eixo deste plano. Com sol e vento entre os melhores do mundo e o bioma da Caatinga como patrimônio e ativo econômico, o verde de uma nova consciência ambiental aparece na moradia; na água, com dessalinização solar e reuso; nos resíduos, com biometano de aterro; e na logística reversa. • Transformar turismo, cultura e economia criativa em calendário e em renda o ano inteiro, com presença física do Estado no interior.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 4,
+          "page_end": 19,
+          "topics": [
+            "education"
+          ],
+          "summary": "Sonho com uma Paraíba onde nossas crianças encontrem, na escola pública de qualidade, as oportunidades que abrirão os caminhos do futuro. • Definir os bairros e municípios que concentram homicídios, roubos e vulnerabilidade juvenil e destinar a cada um plano integrado de policiamento, iluminação, urbanização, escola em tempo integral, esporte, cultura, formação profissional e apoio às famílias, executados simultaneamente e avaliados por resultado.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Sonho com uma Paraíba onde nossas crianças encontrem, na escola pública de qualidade, as oportunidades que abrirão os caminhos do futuro."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "• Definir os bairros e municípios que concentram homicídios, roubos e vulnerabilidade juvenil e destinar a cada um plano integrado de policiamento, iluminação, urbanização, escola em tempo integral, esporte, cultura, formação profissional e apoio às famílias, executados simultaneamente e avaliados por resultado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 4,
+          "page_end": 27,
+          "topics": [
+            "health"
+          ],
+          "summary": "Sonho com uma Paraíba onde a saúde pública funcione com eficiência, respeito e humanidade. Nossos principais compromissos nesta área são: A parceria efetiva com os municípios na atenção básica e no socorro aéreo no interior, para que a distância da capital não determine o acesso ao cuidado. Somam-se, ainda, os compromissos de levar o Programa Saúde da Família a mais de 90% de cobertura, reduzir a mortalidade materna e infantil, ampliar os leitos de UTI no interior e implantar CAPS regionais com telessaúde mental.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Sonho com uma Paraíba onde a saúde pública funcione com eficiência, respeito e humanidade."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Nossos principais compromissos nesta área são: A parceria efetiva com os municípios na atenção básica e no socorro aéreo no interior, para que a distância da capital não determine o acesso ao cuidado."
+            },
+            {
+              "id": "s28",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Somam-se, ainda, os compromissos de levar o Programa Saúde da Família a mais de 90% de cobertura, reduzir a mortalidade materna e infantil, ampliar os leitos de UTI no interior e implantar CAPS regionais com telessaúde mental."
+            },
+            {
+              "id": "s30",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "• Incentivo por desempenho às equipes da Estratégia Saúde da Família, vinculado ao cumprimento de indicadores de qualidade e resultados."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 9,
+          "page_end": 25,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O problema da segurança pública paraibana não se resolve só com mais policiamento. Compromissos necessários para mudar essa realidade: Promover um choque de gestão em toda a rede de segurança pública do estado da Paraíba e fazer o enfrentamento ao crime organizado, com o restabelecimento da sensação de segurança à população. Segurança Pública e Defesa Social EIXO 1 PRA PARAÍBA DAR O PRÓXIMO PASSO Criar Delegacias Especializadas de Atendimento à Mulher, com atendimento 24 horas, nas cidades de Patos, Cajazeiras, Guarabira e Monteiro.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Na segurança pública, os números de mortes violentas assustam."
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "O problema da segurança pública paraibana não se resolve só com mais policiamento. Compromissos necessários para mudar essa realidade: Promover um choque de gestão em toda a rede de segurança pública do estado da Paraíba e fazer o enfrentamento ao crime organizado, com o restabelecimento da sensação de segurança à população."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Segurança Pública e Defesa Social EIXO 1 PRA PARAÍBA DAR O PRÓXIMO PASSO Criar Delegacias Especializadas de Atendimento à Mulher, com atendimento 24 horas, nas cidades de Patos, Cajazeiras, Guarabira e Monteiro. • Reestruturar o sistema prisional do Estado, e reorganizar o sistema penitenciário das regiões metropolitanas de João Pessoa e Campina Grande, desativando gradualmente os presídios do Roger, na capital, e do Monte Santo, em Campina — cujas áreas serão convertidas em complexos educacionais profissionalizantes e criativos —, além da desativação do Complexo Penitenciário de Mangabeira, também na capital."
+            },
+            {
+              "id": "s25",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Segurança Pública e Defesa Social EIXO 1 Apoiar financeiramente os planos municipais de prevenção, guardas capacitadas, iluminação de áreas críticas e mediação comunitária, com repasses condicionados a diagnóstico, metas e prestação de contas. Investigação, crime organizado e crimes digitais Fortalecer a Polícia Civil, com departamentos regionais de homicídios, crime organizado, crimes cibernéticos, atendimento à mulher, crimes patrimoniais e proteção à criança, evitando a concentração na capital."
+            },
+            {
+              "id": "s26",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Segurança Pública e Defesa Social EIXO 1 Ofertar atendimento nas cidades menores por unidades móveis, com suporte remoto de uma unidade regional."
+            },
+            {
+              "id": "s27",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Segurança Pública e Defesa Social EIXO 1 Sistema penitenciário e reinserção Articular com o Governo Federal e demais parceiros institucionais a captação de recursos para viabilizar a implantação de complexo penitenciário produtivo, integrando segurança, qualificação profissional e trabalho remunerado, em parceria com a iniciativa privada e instituições de ensino."
+            },
+            {
+              "id": "s28",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Segurança Pública e Defesa Social EIXO 1 PRA PARAÍBA DAR O PRÓXIMO PASSO EIXOS TEMÁTICOS Saúde EIXO 2 Visão, Metas e Compromissos Uma saúde forte e regionalizada, que aproxima o cuidado especializado do cidadão, reduz filas com gestão e tecnologia, leva o socorro aéreo a todas as regiões e valoriza os profissionais."
+            },
+            {
+              "id": "s29",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "• Integrar em protocolo único de acionamento o SAMU, o Corpo de Bombeiros Militar, as polícias e a Defesa Civil, atendendo urgências, gestantes de alto risco, recém-nascidos, transporte de órgãos e de sangue, além de busca, salvamento e desastres."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 4,
+          "page_end": 14,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Onde o desenvolvimento econômico caminhe lado a lado com a inclusão social, reduzindo desigualdades e ampliando oportunidades para todos. Emprego formal e melhores salários são o resultado pelo qual esse conjunto será medido. Posicionar a Paraíba entre os cinco melhores ambientes de negócios do Brasil.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Onde o desenvolvimento econômico caminhe lado a lado com a inclusão social, reduzindo desigualdades e ampliando oportunidades para todos."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Emprego formal e melhores salários são o resultado pelo qual esse conjunto será medido."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Posicionar a Paraíba entre os cinco melhores ambientes de negócios do Brasil. 2.6 GOVERNO MUNICIPALISTA E DIGITAL Municípios de pequeno porte não podem ser tratados de forma secundária por um Estado que deveria ser o seu primeiro parceiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "A sustentabilidade não é um capítulo isolado, e sim lente aplicada a cada eixo deste plano. Com sol e vento entre os melhores do mundo e o bioma da Caatinga como patrimônio e ativo econômico, o verde de uma nova consciência ambiental aparece na moradia; na água, com dessalinização solar e reuso; nos resíduos, com biometano de aterro; e na logística reversa.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "A sustentabilidade não é um capítulo isolado, e sim lente aplicada a cada eixo deste plano. Com sol e vento entre os melhores do mundo e o bioma da Caatinga como patrimônio e ativo econômico, o verde de uma nova consciência ambiental aparece na moradia; na água, com dessalinização solar e reuso; nos resíduos, com biometano de aterro; e na logística reversa."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 19,
+          "page_end": 20,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "• Implantar cinco mil câmeras com reconhecimento facial e inteligência artificial, integradas às forças de segurança do Estado, com leitura automática de placas de veículos, em áreas de maior incidência criminal, entradas de cidades, corredores viários, terminais, entornos das cidades, proximidade de escolas e locais de grande circulação.",
+          "excerpts": [
+            {
+              "id": "s25",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "• Implantar cinco mil câmeras com reconhecimento facial e inteligência artificial, integradas às forças de segurança do Estado, com leitura automática de placas de veículos, em áreas de maior incidência criminal, entradas de cidades, corredores viários, terminais, entornos das cidades, proximidade de escolas e locais de grande circulação."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "• Transformar turismo, cultura e economia criativa em calendário e em renda o ano inteiro, com presença física do Estado no interior.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "• Transformar turismo, cultura e economia criativa em calendário e em renda o ano inteiro, com presença física do Estado no interior."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "150002551789",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002551789_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002551789_01.pdf",
+      "sha256": "7ab813ec9da9f7158d7c5a7fa307a67c029904b11b6e29bd64c257b10e524f7f",
+      "summary": "\u0017 Expandir o ensino médio e o ensino técnico e proﬁssional, ampliando a Escola Cidadã Integral (ECI) e a Escola Integral Cidadã Técnica (ECIT). \u0017 Criação do Passe Livre Universitário, estendendo aos estudantes do ensino superior o benefício de transporte público gratuito. \u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho. \u0017 Promover Políticas Públicas voltadas à atenção primária e à atenção especializada. \u0017 Fortalecer as ações de Saúde Mental, ampliando a Rede de Atenção Psicossocial com novos CAPS III — Centros de Atenção Psicossocial que oferecem atendimento 24 horas, inclusive no período noturno — e CAPS AD, especializados no atendimento a pessoas que fazem uso prejudicial de álcool e outras drogas. Promover ações de prevenção ao suicídio; integrar a saúde mental à atenção primária; expandir os ambulatórios regionais; e implantar o teleatendimento. \u0017 Fortalecer a inteligência e a tecnologia com integração operacional por meio da implantação de novos Centros Integrados de Comando e Controle (CICC), com monitoramento tecnológico, câmeras inteligentes e drones; incluir a Paraíba na Rede Nacional de Observatórios de Segurança; combater o crime organizado com inteligência, tecnologia e presença territorial; reformar delegacias, ampliar unidades especializadas e melhorar os espaços de trabalho; oferecer cursos de aperfeiçoamento em investigação, inteligência, perícia, direitos humanos e novas tecnologias; e fortalecer as ações do Departamento Estadual de Trânsito da Paraíba (DETRAN PB). transferir presídios de áreas urbanas, destinando os espaços à criação de parques e equipamentos sociais; implantar unidade prisional com modelo RDD; criar grupos especializados no monitoramento de penas alternativas; implantar Complexos Industriais Penais voltados ao trabalho e ao estudo dos apenados; ampliar as políticas de ressocialização; e reduzir a reincidência como estratégia de segurança. público; ampliar a Política Estadual de Atenção Integral à Pessoa Idosa; e criar Centros Regionais Integrados de Atenção ao Idoso (CRIAI), a ﬁm de articular ações de saúde, assistência social, mobilidade, acessibilidade e atividades físicas e culturais.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 11,
+          "page_end": 13,
+          "topics": [
+            "education"
+          ],
+          "summary": "\u0017 Expandir o ensino médio e o ensino técnico e proﬁssional, ampliando a Escola Cidadã Integral (ECI) e a Escola Integral Cidadã Técnica (ECIT). \u0017 Criação do Passe Livre Universitário, estendendo aos estudantes do ensino superior o benefício de transporte público gratuito. \u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "\u0017 Expandir o ensino médio e o ensino técnico e proﬁssional, ampliando a Escola Cidadã Integral (ECI) e a Escola Integral Cidadã Técnica (ECIT). \u0017 Criação do Passe Livre Universitário, estendendo aos estudantes do ensino superior o benefício de transporte público gratuito."
+            },
+            {
+              "id": "s13",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "\u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 12,
+          "topics": [
+            "health"
+          ],
+          "summary": "\u0017 Promover Políticas Públicas voltadas à atenção primária e à atenção especializada. \u0017 Fortalecer as ações de Saúde Mental, ampliando a Rede de Atenção Psicossocial com novos CAPS III — Centros de Atenção Psicossocial que oferecem atendimento 24 horas, inclusive no período noturno — e CAPS AD, especializados no atendimento a pessoas que fazem uso prejudicial de álcool e outras drogas. Promover ações de prevenção ao suicídio; integrar a saúde mental à atenção primária; expandir os ambulatórios regionais; e implantar o teleatendimento.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "\u0017 Promover Políticas Públicas voltadas à atenção primária e à atenção especializada. \u0017 Consolidar o Centro Estadual de Regulação Hospitalar."
+            },
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "\u0017 Fortalecer as ações de Saúde Mental, ampliando a Rede de Atenção Psicossocial com novos CAPS III — Centros de Atenção Psicossocial que oferecem atendimento 24 horas, inclusive no período noturno — e CAPS AD, especializados no atendimento a pessoas que fazem uso prejudicial de álcool e outras drogas. Promover ações de prevenção ao suicídio; integrar a saúde mental à atenção primária; expandir os ambulatórios regionais; e implantar o teleatendimento."
+            },
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Garantir, ainda, o funcionamento do Centro de Assistência Avançada em Traumatologia do Idoso (CAATI) em todos os hospitais de traumatologia do Estado da Paraíba; ampliar o Programa Cidade Madura; e, por meio da Escola de Saúde Pública da Paraíba, viabilizar a capacitação de cuidadores. \u0017 Fortalecer as ações de saúde voltadas às pessoas em situação de vulnerabilidade, com a ampliação de ambulatórios especializados que ofereçam hormonioterapia, acompanhamento multiproﬁssional, atenção à saúde mental, cuidados preventivos e respeito ao nome social."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "\u0017 Valorizar os proﬁssionais da educação por meio da ampliação da formação continuada, do fortalecimento das carreiras, da promoção da saúde mental, da garantia de ambientes seguros, da oferta de apoio psicossocial e do incentivo à inovação pedagógica."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 2,
+          "page_end": 6,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "\u0017 Fortalecer a inteligência e a tecnologia com integração operacional por meio da implantação de novos Centros Integrados de Comando e Controle (CICC), com monitoramento tecnológico, câmeras inteligentes e drones; incluir a Paraíba na Rede Nacional de Observatórios de Segurança; combater o crime organizado com inteligência, tecnologia e presença territorial; reformar delegacias, ampliar unidades especializadas e melhorar os espaços de trabalho; oferecer cursos de aperfeiçoamento em investigação, inteligência, perícia, direitos humanos e novas tecnologias; e fortalecer as ações do Departamento Estadual de Trânsito da Paraíba (DETRAN PB). transferir presídios de áreas urbanas, destinando os espaços à criação de parques e equipamentos sociais; implantar unidade prisional com modelo RDD; criar grupos especializados no monitoramento de penas alternativas; implantar Complexos Industriais Penais voltados ao trabalho e ao estudo dos apenados; ampliar as políticas de ressocialização; e reduzir a reincidência como estratégia de segurança.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Eixo 2: Desenvolvimento Humano Integral e Bem-Estar Social; Eixo 3: Mulheres, Diversidade, Direitos Humanos e Equidade;"
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "fortalecem a inteligência policial e penitenciária, ampliam o monitoramento tecnológico, articulam Polícia Militar, Polícia Civil, Polícia Penal, Bombeiros, Defesa Civil, Sistema prisional e SAMU, e órgãos federais, reorganizam o sistema prisional como ponto estratégico de enfrentamento ao crime organizado e investem na dignidade de quem protege a população. \u0017 Fortalecer a inteligência e a tecnologia com integração operacional por meio da implantação de novos Centros Integrados de Comando e Controle (CICC), com monitoramento tecnológico, câmeras inteligentes e drones; incluir a Paraíba na Rede Nacional de Observatórios de Segurança; combater o crime organizado com inteligência, tecnologia e presença territorial; reformar delegacias, ampliar unidades especializadas e melhorar os espaços de trabalho; oferecer cursos de aperfeiçoamento em investigação, inteligência, perícia, direitos humanos e novas tecnologias; e fortalecer as ações do Departamento Estadual de Trânsito da Paraíba (DETRAN PB)."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "transferir presídios de áreas urbanas, destinando os espaços à criação de parques e equipamentos sociais; implantar unidade prisional com modelo RDD; criar grupos especializados no monitoramento de penas alternativas; implantar Complexos Industriais Penais voltados ao trabalho e ao estudo dos apenados; ampliar as políticas de ressocialização; e reduzir a reincidência como estratégia de segurança."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 13,
+          "page_end": 23,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "\u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho. \u0017 Modernizar e fortalecer o ambiente de negócios paraibano \u0017 Fortalecer o Polo Tecnológico de Campina Grande 4.2 Indústria e Comércio \u0017 Atrair novas plantas industriais por meio de uma política de incentivos ﬁscais competitiva, transparente e orientada à geração de emprego e renda \u0017 Promover a integração logística entre as rodovias estaduais de escoamento da produção, os aeroportos e o Porto de Cabedelo \u0017 Consolidar a bioindústria e a bioeconomia do setor sucroenergético, instituindo metas estratégicas para a produção de biocombustíveis e promovendo um ambiente tributário estável e competitivo para o etanol. \u0017 Qualiﬁcar a mão de obra por meio de cursos técnicos alinhados às demandas do mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "\u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho."
+            },
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "\u0017 Modernizar e fortalecer o ambiente de negócios paraibano \u0017 Fortalecer o Polo Tecnológico de Campina Grande 4.2 Indústria e Comércio \u0017 Atrair novas plantas industriais por meio de uma política de incentivos ﬁscais competitiva, transparente e orientada à geração de emprego e renda \u0017 Promover a integração logística entre as rodovias estaduais de escoamento da produção, os aeroportos e o Porto de Cabedelo \u0017 Consolidar a bioindústria e a bioeconomia do setor sucroenergético, instituindo metas estratégicas para a produção de biocombustíveis e promovendo um ambiente tributário estável e competitivo para o etanol."
+            },
+            {
+              "id": "s28",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "\u0017 Qualiﬁcar a mão de obra por meio de cursos técnicos alinhados às demandas do mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 19,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "público; ampliar a Política Estadual de Atenção Integral à Pessoa Idosa; e criar Centros Regionais Integrados de Atenção ao Idoso (CRIAI), a ﬁm de articular ações de saúde, assistência social, mobilidade, acessibilidade e atividades físicas e culturais. \u0017 Garantir atenção integral à criança e ao adolescente por meio do acompanhamento do desenvolvimento, da cobertura vacinal, da prevenção de doenças e da integração entre saúde, educação e assistência social. Educação \u0017 Garantir Políticas Públicas de Educação, fortalecendo a permanência escolar para que cada estudante permaneça, aprenda e conclua sua trajetória com apoio pedagógico contínuo, programas de busca ativa, reforço escolar estruturado, tutoria acadêmica e integração entre escola, família e rede de proteção social.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "público; ampliar a Política Estadual de Atenção Integral à Pessoa Idosa; e criar Centros Regionais Integrados de Atenção ao Idoso (CRIAI), a ﬁm de articular ações de saúde, assistência social, mobilidade, acessibilidade e atividades físicas e culturais. \u0017 Garantir atenção integral à criança e ao adolescente por meio do acompanhamento do desenvolvimento, da cobertura vacinal, da prevenção de doenças e da integração entre saúde, educação e assistência social."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Educação \u0017 Garantir Políticas Públicas de Educação, fortalecendo a permanência escolar para que cada estudante permaneça, aprenda e conclua sua trajetória com apoio pedagógico contínuo, programas de busca ativa, reforço escolar estruturado, tutoria acadêmica e integração entre escola, família e rede de proteção social."
+            },
+            {
+              "id": "s13",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "\u0017 Implementar Políticas Públicas Transversais para a Juventude, articulando ações de educação em tempo integral, assistência social, prevenção da criminalidade e inserção no mercado de trabalho."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "É necessário ampliar a assistência social e garantir moradia digna."
+            },
+            {
+              "id": "s16",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "\u0017 Garantir acolhimento integral às mulheres em situação de violência, opressão e desigualdade, expandindo os Centros de Referência da Mulher e integrando delegacias, patrulhas, serviços de saúde, assistência social e órgãos de justiça em ﬂuxos únicos de proteção."
+            },
+            {
+              "id": "s18",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "\u0017 Garantir assistência social para PCD, TEA e pessoas com altas habilidades/superdotação."
+            },
+            {
+              "id": "s20",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "\u0017 Ampliar o acesso equitativo aos serviços do Sistema Único de Assistência Social (SUAS), priorizando as famílias em situação de maior vulnerabilidade. \u0017 Implantar novos Centros de Referência Especializados de Assistência Social (CREAS), Centros-Dia e serviços especializados em territórios de maior demanda."
+            },
+            {
+              "id": "s23",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Direitos Humanos \u0017 Integrar as políticas de direitos humanos às áreas de segurança, saúde, educação e assistência social, assegurando atendimento humanizado e não discriminatório."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 10,
+          "page_end": 11,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "\u0017 Implementar políticas públicas voltadas à saúde animal e ao meio ambiente, fundamentadas no conceito de Saúde Única (do inglês, One Health).",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "\u0017 Implementar políticas públicas voltadas à saúde animal e ao meio ambiente, fundamentadas no conceito de Saúde Única (do inglês, One Health)."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 21,
+          "page_end": 22,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Agropecuária e Agricultura Familiar \u0017 Apoiar a agricultura familiar, a pecuária leiteira, a caprinovinocultura, a avicultura e a carcinicultura, por meio da assistência técnica continuada.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Agropecuária e Agricultura Familiar \u0017 Apoiar a agricultura familiar, a pecuária leiteira, a caprinovinocultura, a avicultura e a carcinicultura, por meio da assistência técnica continuada."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 25,
+          "page_end": 25,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "\u0017 Modernizar os serviços tributários e a inteligência ﬁscal \u0017 Modernização da Gestão, Transparência Ativa e Transformação Digital \u0017 Implantar mecanismos de monitoramento de desempenho, da gestão patrimonial eﬁciente e do fortalecimento da capacidade institucional na gestão pública",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "\u0017 Modernizar os serviços tributários e a inteligência ﬁscal \u0017 Modernização da Gestão, Transparência Ativa e Transformação Digital \u0017 Implantar mecanismos de monitoramento de desempenho, da gestão patrimonial eﬁciente e do fortalecimento da capacidade institucional na gestão pública"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Cultura e Lazer \u0017 Fortalecer a gestão cultural com participação social, fortalecimento dos conselhos e integração com a educação, o turismo e a economia criativa.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Cultura e Lazer \u0017 Fortalecer a gestão cultural com participação social, fortalecimento dos conselhos e integração com a educação, o turismo e a economia criativa."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 2,
+          "page_end": 19,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "A Paraíba precisa enfrentar problemas estruturais relacionados ao aumento da violência contra as mulheres e grupos vulnerabilizados. É necessário ampliar a assistência social e garantir moradia digna. \u0017 Fortalecer o Sistema e a Rede de Promoção da Igualdade Racial, com a implantação de centros regionais e a oferta de atendimento itinerante.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Eixo 2: Desenvolvimento Humano Integral e Bem-Estar Social; Eixo 3: Mulheres, Diversidade, Direitos Humanos e Equidade;"
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "\u0017 Fortalecer a inteligência e a tecnologia com integração operacional por meio da implantação de novos Centros Integrados de Comando e Controle (CICC), com monitoramento tecnológico, câmeras inteligentes e drones; incluir a Paraíba na Rede Nacional de Observatórios de Segurança; combater o crime organizado com inteligência, tecnologia e presença territorial; reformar delegacias, ampliar unidades especializadas e melhorar os espaços de trabalho; oferecer cursos de aperfeiçoamento em investigação, inteligência, perícia, direitos humanos e novas tecnologias; e fortalecer as ações do Departamento Estadual de Trânsito da Paraíba (DETRAN PB)."
+            },
+            {
+              "id": "s15",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "A Paraíba precisa enfrentar problemas estruturais relacionados ao aumento da violência contra as mulheres e grupos vulnerabilizados. É necessário ampliar a assistência social e garantir moradia digna."
+            },
+            {
+              "id": "s17",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "\u0017 Fortalecer o Sistema e a Rede de Promoção da Igualdade Racial, com a implantação de centros regionais e a oferta de atendimento itinerante."
+            },
+            {
+              "id": "s18",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "\u0017 Criar polos regionalizados da Fundação Centro Integrado de Apoio à Pessoa com Deﬁciência (FUNAD), ampliando a cobertura e a infraestrutura dos Centros Especializados em Reabilitação (CER) e a oferta de odontologia especializada."
+            },
+            {
+              "id": "s21",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "\u0017 Regularizar áreas urbanas e rurais, garantindo segurança jurídica às famílias, às comunidades quilombolas, aos povos indígenas e às comunidades ciganas e protegendo territórios vulneráveis contra ocupações irregulares, conﬂitos fundiários e impactos ambientais."
+            },
+            {
+              "id": "s23",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Direitos Humanos \u0017 Integrar as políticas de direitos humanos às áreas de segurança, saúde, educação e assistência social, assegurando atendimento humanizado e não discriminatório."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 2,
+          "page_end": 26,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Cultura e Lazer \u0017 Fortalecer a gestão cultural com participação social, fortalecimento dos conselhos e integração com a educação, o turismo e a economia criativa. O Eixo 5 parte do princípio de que a governança pública consiste em transformar recursos em resultados, dados em decisões responsáveis e serviços em direitos acessíveis à população. Assim, as propostas expressam o compromisso com uma Paraíba mais eﬁciente, ética, conectada e preparada para o futuro, em alinhamento aos ODS 8, 9, 16 e 17.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "Eixo 5: Governança Digital e Gestão Pública Moderna; Eixo 6: Desenvolvimento Territorial e Interiorização Eixo 7: Infraestrutura, Mobilidade e Sustentabilidade Ambiental, atrelados aos Objetivos do Desenvolvimento Sustentável (ODS) da ONU contribuindo para Agenda 2030 e na convicção de que a Paraíba precisa ser cuidada por inteiro."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Cultura e Lazer \u0017 Fortalecer a gestão cultural com participação social, fortalecimento dos conselhos e integração com a educação, o turismo e a economia criativa."
+            },
+            {
+              "id": "s29",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "O Eixo 5 parte do princípio de que a governança pública consiste em transformar recursos em resultados, dados em decisões responsáveis e serviços em direitos acessíveis à população. Assim, as propostas expressam o compromisso com uma Paraíba mais eﬁciente, ética, conectada e preparada para o futuro, em alinhamento aos ODS 8, 9, 16 e 17."
+            },
+            {
+              "id": "s30",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "\u0017 Ampliar o perﬁl da Escola de Serviço Público da Paraíba (ESPEP) com foco na capacitação tecnológica de servidores, na inovação no setor público e na liderança digital. \u0017 Modernizar os serviços tributários e a inteligência ﬁscal \u0017 Modernização da Gestão, Transparência Ativa e Transformação Digital \u0017 Implantar mecanismos de monitoramento de desempenho, da gestão patrimonial eﬁciente e do fortalecimento da capacidade institucional na gestão pública"
+            },
+            {
+              "id": "s31",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "\u0017 Fortalecer o acesso à informação por meio de melhorias permanentes no Portal da Transparência \u0017 Expandir o programa Paraíba Digital \u0017 Fortalecer o Orçamento Democrático Estadual (ODE), ampliando a participação social e a transparência na deﬁnição das prioridades de investimento."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "150002551911",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002551911_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002551911_01.pdf",
+      "sha256": "efac65da6a7d8571dedf425df6acf039887f0aade01fa8a3658621831a642d45",
+      "summary": "Não foi possível extrair propostas temáticas do plano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "150002552603",
+      "state_code": "PB",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PB150002552603_01.pdf",
+      "public_path": "/propostas/2026/PB/2026PB150002552603_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

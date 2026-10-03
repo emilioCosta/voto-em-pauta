@@ -16,6 +16,10 @@ Para candidaturas legislativas, fontes possíveis de compromissos próprios são
 
 Cada item deve manter `tipo_fonte` (`plano_executivo`, `proposta_individual`, `programa_partidario`, `entrevista`, `debate`), documento/link, data e autoria. Evitar inferir uma proposta de fontes secundárias sem citação direta.
 
+Para candidaturas ao Senado, `scripts/collect_senator_proposals.py` parte dos sites declarados no recurso `Redes sociais de candidatos` do TSE (arquivo oficial: `rede_social_candidato_2026.zip`), mas ignora URLs de redes/plataformas e não atribui páginas compartilhadas sem perfil individual. O coletor respeita `robots.txt`, limita páginas/requisições, guarda trecho literal, título/seção, URL, data, hash e tópicos em `public/data/senator-proposals/{UF}.json`. Uma candidatura sem trecho encontrado recebe um status explícito e os endereços declarados relevantes; isso não significa que ela não tenha propostas fora do material público localizado. Programas partidários e posts de redes ficam fora desta coleta, conforme critério editorial.
+
+Na coleta de 3 de outubro de 2026, os 319 IDs senatoriais ficaram cobertos em 27 arquivos por UF: 37 candidaturas tiveram 173 trechos explícitos em sites/documentos individuais; 50 tinham site acessível sem proposta explícita extraível; 33 tinham site inacessível/bloqueado; 9 apontavam para domínio compartilhado sem perfil individual verificável; 190 não tinham site/documento individual utilizável no cadastro do TSE. São estados de cobertura das fontes pesquisadas, não avaliações sobre existência de propostas na campanha. Cada perfil contém exatamente as 16 categorias da taxonomia, na mesma ordem. A síntese de cada categoria é extrativa, derivada dos trechos citados, sem chamada de IA; quando não há evidência, aparece “Não foi observado no material consultado para esta candidatura.” Dos trechos extraídos, 99 receberam ao menos um tópico; os demais ficam sem etiqueta automática em vez de receber classificação especulativa.
+
 ## Passado e atuação parlamentar
 
 Para quem já ocupou mandato, complemente as candidaturas históricas do TSE com os registros da casa legislativa:
@@ -27,7 +31,7 @@ O TSE e as Casas Legislativas usam IDs diferentes. A associação entre uma cand
 
 ## Taxonomia fixa de temas
 
-A análise usa uma taxonomia versionada (`taxonomy_version: 1.0`, algoritmo `analysis_version: 1.6`) e permite múltiplos temas por seção:
+A análise usa uma taxonomia versionada (`taxonomy_version: 1.0`, algoritmo `analysis_version: 2.18`). As mesmas 16 categorias aparecem, na mesma ordem, em cada ficha de presidente/governador e em cada perfil de senador. A atribuição exige expressão temática específica na frase ou título de seção; referências isoladas a palavras como “saúde” em listas genéricas não bastam:
 
 1. Educação
 2. Saúde
@@ -46,12 +50,12 @@ A análise usa uma taxonomia versionada (`taxonomy_version: 1.0`, algoritmo `ana
 15. Energia e mineração
 16. Justiça e defesa
 
-Essa classificação é um índice editorial para navegação, não uma avaliação de qualidade, custo, viabilidade ou ideologia da proposta. Cada tema aponta para o trecho e páginas do PDF de origem; vários temas podem se aplicar à mesma seção.
+Essa classificação é um índice editorial para navegação, não uma avaliação de qualidade, custo, viabilidade ou ideologia da proposta. Em PDFs executivos, cada categoria contém uma síntese extrativa, trechos de evidência e páginas do plano; quando não há evidência, aparece “Não foi observado no plano.” Em propostas senatoriais, a síntese e os trechos apontam para a página e URL da fonte individual.
 
 ## Resumos uma única vez por versão
 
-`scripts/analyze_plans.py` extrai texto com `pypdf`, divide por títulos/páginas, classifica cada seção e grava resumo, tópicos, intervalo de páginas, método e SHA-256 em `public/data/plan-analysis.json`. Ao executar novamente, reaproveita a análise de todo PDF cujo hash não mudou. O site estático apenas lê esse JSON: visitas não chamam IA nem consomem tokens.
+`scripts/analyze_plans.py` extrai texto com PyMuPDF e grava em `public/data/plan-analysis/{tipo}/{UF}.json` um conjunto fixo de 16 categorias por documento. O resumo geral é um parágrafo corrido, sem rótulos de categoria; dentro de cada categoria, os excertos não exibem os títulos internos do PDF e mantêm apenas o intervalo de páginas e o texto-fonte. `index.json` lista os arquivos e contagens. A página baixa somente o shard do tipo/UF da candidatura consultada. Ao executar novamente, reutiliza a análise por SHA-256 quando conteúdo e versão do algoritmo não mudaram. O site estático apenas lê os arquivos pré-computados: visitas não chamam IA nem consomem tokens.
 
 Por padrão o pipeline gera resumo extrativo (frases retiradas do texto; sem paráfrase nem afirmações novas). Para gerar resumos abstrativos, configure `OPENAI_API_KEY` como secret e `OPENAI_MODEL` como variable do repositório. O workflow então faz uma chamada por PDF novo/alterado e armazena a resposta; a chave não vai para o bundle Pages. Sem segredo, segue com a análise extrativa. Sempre conferir resumos gerados por modelo contra o PDF, pois a síntese pode omitir nuances ou interpretar mal uma promessa.
 
-A análise cobre os PDFs executivos publicados pelo TSE. O método atual não cria planos inexistentes para deputados/senadores. Quando fontes legislativas forem adicionadas, elas devem entrar como documentos separados e usar a mesma taxonomia, com origem e datas próprias.
+A análise cobre os PDFs de proposta publicados pelo TSE. No snapshot consultado, as 14 candidaturas a presidente tinham documento associado; entre 201 candidaturas a governador, 200 tinham PDF. Todas essas propostas recebem as mesmas 16 categorias fixas. A exceção sem PDF é Policial Edjane (SP): o G1 noticiou em [18 de setembro de 2026](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/18/policial-edjane-deixa-corrida-ao-governo-de-sp-apos-tre-indeferir-chapa-por-renuncia-de-vice.ghtml) que ela deixou a disputa após o TRE indeferir a chapa; não atribuímos a ela o plano de outra chapa. Embora o TSE não padronize planos individuais para legisladores, o conjunto contém um PDF de proposta associado à candidatura de Silvia Quezado, deputada estadual no RJ. Esse registro foi mantido em `deputado/RJ.json` como exceção documental do conjunto, sem inferir obrigação ou cobertura equivalente para os demais deputados/senadores. Fontes de campanha e entrevistas só devem entrar como documentos separados, com origem/autoria/data verificadas, não como substitutos automáticos do PDF oficial.

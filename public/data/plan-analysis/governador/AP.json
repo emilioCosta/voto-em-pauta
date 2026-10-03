@@ -1,0 +1,1830 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "AP",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "30002530014",
+      "state_code": "AP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AP30002530014_01.pdf",
+      "public_path": "/propostas/2026/AP/2026AP30002530014_01.pdf",
+      "sha256": "410bae0a51d30322c5ab91f25fac8891aaf298a9e31102a077ca5f9326ac03a1",
+      "summary": "Um governo que não requaliﬁca a educação básica não resolve nada em médio prazo, pois saúde, segurança, emprego e inovação dependem de pessoas com competências para trabalhar. O Estado deve coordenar regime de colaboração com municípios, apoiando educação infantil e anos iniciais com cooperação técnica e disseminação de boas práticas. As diretrizes, ações e metas deste Plano de Governo foram elaboradas especiﬁcamente para superar esses problemas estruturais da educação básica do Amapá. Amapá · Estado de Oportunidades Página 19 A atuação governamental será orientada pelo fortalecimento da Atenção Primária à Saúde como coordenadora do cuidado, pela organização das linhas de cuidado especializadas, pela expansão da média e alta complexidade, pela qualiﬁcação da assistência farmacêutica, pela modernização da infraestrutura hospitalar, pela transformação digital dos serviços, pela ampliação da telemedicina, pelo fortalecimento da saúde mental, da reabilitação e da vigilância em saúde, assegurando atendimento integral em todas as regiões do Estado e priorizando ações voltadas à redução da mortalidade materna, infantil e neonatal, à prevenção de agravos evitáveis e ao fortalecimento da atenção à primeira infância. Modernizar o Laboratório Central de Saúde Pública do Amapá (LACEN), ampliando sua capacidade de diagnóstico laboratorial especializado e fortalecendo a vigilância em saúde e a resposta às emergências sanitárias. Fortalecer o matriciamento em saúde mental, qualiﬁcando as equipes da Atenção Primária à Saúde para o acolhimento, manejo clínico e acompanhamento dos transtornos mentais leves e moderados, promovendo o cuidado compartilhado e reduzindo a sobrecarga do Amapá · Estado de Oportunidades Página 12 EIXO Segurança Pública Um Amapá onde as famílias possam viver com tranquilidade e dignidade A segurança pública é condição essencial para garantir a liberdade, a proteção da vida, a qualidade de vida da população e o desenvolvimento econômico e social. Esse contexto amplia a complexidade da atuação estatal no enfrentamento ao crime organizado, aos crimes transfronteiriços, à biopirataria, aos conﬂitos fundiários e ambientais e às diversas formas de violência que afetam mulheres, crianças e populações vulneráveis.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 24,
+          "page_end": 32,
+          "topics": [
+            "education"
+          ],
+          "summary": "Um governo que não requaliﬁca a educação básica não resolve nada em médio prazo, pois saúde, segurança, emprego e inovação dependem de pessoas com competências para trabalhar. O Estado deve coordenar regime de colaboração com municípios, apoiando educação infantil e anos iniciais com cooperação técnica e disseminação de boas práticas. As diretrizes, ações e metas deste Plano de Governo foram elaboradas especiﬁcamente para superar esses problemas estruturais da educação básica do Amapá.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Um governo que não requaliﬁca a educação básica não resolve nada em médio prazo, pois saúde, segurança, emprego e inovação dependem de pessoas com competências para trabalhar."
+            },
+            {
+              "id": "s19",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "O Estado deve coordenar regime de colaboração com municípios, apoiando educação infantil e anos iniciais com cooperação técnica e disseminação de boas práticas. As diretrizes, ações e metas deste Plano de Governo foram elaboradas especiﬁcamente para superar esses problemas estruturais da educação básica do Amapá."
+            },
+            {
+              "id": "s21",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Instituir a Escola Estadual de Formação como centro permanente de qualiﬁcação dos proﬁssionais da educação, promovendo formação continuada e garantir a disseminação das boas práticas para elevar a qualidade da educação pública. Expandir a rede estadual de ensino médio com a construção, ampliação e adequação de unidades escolares, assegurando vagas suﬁcientes, melhoria da infraestrutura e atendimento às demandas do Estado no caminho do ensino integral."
+            },
+            {
+              "id": "s22",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Fortalecer o Ensino Fundamental II como etapa estratégica de preparação para o ensino médio, promovendo recomposição das aprendizagens, orientação de projeto de vida, competências digitais, iniciação cientíﬁca e redução da evasão escolar Implementar uma política integrada de alfabetização na idade certa, articulando apoio técnico, formação de professores, avaliação da aprendizagem. Fortalecer o Programa Travessia para reduzir a distorção idade-série, recompor as aprendizagens, melhorar o ﬂuxo escolar e elevar os indicadores de rendimento e conclusão da educação básica."
+            },
+            {
+              "id": "s23",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Implantar o Centro Estadual de Línguas Estrangeiras, ampliando a oferta de cursos de francês, inglês e espanhol, e criar o Programa Amapá sem Fronteiras para promover a internacionalização da educação, o intercâmbio de estudantes e professores e a integração do Amapá com a Guiana Francesa, o Platô das Guianas e a União Europeia Transformar a Central do ENEM em um programa estadual de preparação para o ensino superior, fortalecendo ações de revisão de conteúdos, simulados, orientação proﬁssional, apoio psicopedagógico e acompanhamento dos estudantes até o ingresso na universidade Ciência, Tecnologia, Inovação e Internacionalização da Educação Fortalecer a Educação Escolar Indígena, assegurando o direito à educação intercultural, bilíngue, comunitária e diferenciada, em articulação com os povos indígenas, suas organizações representativas e os sistemas de ensino. Fortalecer a formação inicial e continuada dos professores indígenas, promovendo a produção de materiais didáticos especíﬁcos, a valorização das línguas maternas, dos saberes tradicionais e da gestão escolar comunitária em parceria com instituições de ensino superior e organizações indígenas."
+            },
+            {
+              "id": "s24",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "Amapá · Estado de Oportunidades Página 30 A Universidade do Estado do Amapá é a principal instituição pública estadual de ensino superior e desempenha papel estratégico na formação de proﬁssionais, produção de conhecimento cientíﬁco, inovação e desenvolvimento regional."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Fortalecer as políticas de permanência estudantil, inclusão e interiorização do ensino superior, ampliando bolsas, alimentação, transporte, apoio psicossocial, educação inclusiva e condições adequadas para estudantes do interior, indígenas, quilombolas, pessoas com deﬁciência e demais grupos em situação de vulnerabilidade Promover a integração entre universidade, setor produtivo, governos e sociedade, alinhando ensino, pesquisa e extensão às cadeias produtivas da bioeconomia, mineração, energia, agropecuária, pesca, turismo, economia criativa, tecnologia e inovação, ampliando a inserção dos egressos no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 19,
+          "page_end": 28,
+          "topics": [
+            "health"
+          ],
+          "summary": "Amapá · Estado de Oportunidades Página 19 A atuação governamental será orientada pelo fortalecimento da Atenção Primária à Saúde como coordenadora do cuidado, pela organização das linhas de cuidado especializadas, pela expansão da média e alta complexidade, pela qualiﬁcação da assistência farmacêutica, pela modernização da infraestrutura hospitalar, pela transformação digital dos serviços, pela ampliação da telemedicina, pelo fortalecimento da saúde mental, da reabilitação e da vigilância em saúde, assegurando atendimento integral em todas as regiões do Estado e priorizando ações voltadas à redução da mortalidade materna, infantil e neonatal, à prevenção de agravos evitáveis e ao fortalecimento da atenção à primeira infância. Modernizar o Laboratório Central de Saúde Pública do Amapá (LACEN), ampliando sua capacidade de diagnóstico laboratorial especializado e fortalecendo a vigilância em saúde e a resposta às emergências sanitárias. Fortalecer o matriciamento em saúde mental, qualiﬁcando as equipes da Atenção Primária à Saúde para o acolhimento, manejo clínico e acompanhamento dos transtornos mentais leves e moderados, promovendo o cuidado compartilhado e reduzindo a sobrecarga do",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Amapá · Estado de Oportunidades Página 19 A atuação governamental será orientada pelo fortalecimento da Atenção Primária à Saúde como coordenadora do cuidado, pela organização das linhas de cuidado especializadas, pela expansão da média e alta complexidade, pela qualiﬁcação da assistência farmacêutica, pela modernização da infraestrutura hospitalar, pela transformação digital dos serviços, pela ampliação da telemedicina, pelo fortalecimento da saúde mental, da reabilitação e da vigilância em saúde, assegurando atendimento integral em todas as regiões do Estado e priorizando ações voltadas à redução da mortalidade materna, infantil e neonatal, à prevenção de agravos evitáveis e ao fortalecimento da atenção à primeira infância."
+            },
+            {
+              "id": "s15",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Modernizar o Laboratório Central de Saúde Pública do Amapá (LACEN), ampliando sua capacidade de diagnóstico laboratorial especializado e fortalecendo a vigilância em saúde e a resposta às emergências sanitárias."
+            },
+            {
+              "id": "s16",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Fortalecer o matriciamento em saúde mental, qualiﬁcando as equipes da Atenção Primária à Saúde para o acolhimento, manejo clínico e acompanhamento dos transtornos mentais leves e moderados, promovendo o cuidado compartilhado e reduzindo a sobrecarga dos serviços especializados. Implantar o Programa Psicodigital, ampliando o acesso aos serviços de Telepsicologia e Telepsiquiatria, especialmente nos municípios do interior, comunidades de difícil acesso e regiões de vazios assistenciais, fortalecendo a atenção especializada em saúde mental."
+            },
+            {
+              "id": "s21",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "Fortalecer o Centro de Valorização da Educação (CVEDUC) como política permanente de promoção da saúde integral e do bem-estar dos proﬁssionais da educação e dos estudantes, ampliando ações de promoção da saúde mental, desenvolvimento socioemocional e melhoria da qualidade de vida no ambiente escolar."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 12,
+          "page_end": 39,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Amapá · Estado de Oportunidades Página 12 EIXO Segurança Pública Um Amapá onde as famílias possam viver com tranquilidade e dignidade A segurança pública é condição essencial para garantir a liberdade, a proteção da vida, a qualidade de vida da população e o desenvolvimento econômico e social. Esse contexto amplia a complexidade da atuação estatal no enfrentamento ao crime organizado, aos crimes transfronteiriços, à biopirataria, aos conﬂitos fundiários e ambientais e às diversas formas de violência que afetam mulheres, crianças e populações vulneráveis. O Amapá apresenta a maior taxa nacional de registros de perseguição (stalking) contra mulheres, com 301,3 casos por 100 mil mulheres, indicador que a literatura especializada em segurança pública classiﬁca como um evento sentinela do ciclo da violência doméstica, por frequentemente anteceder episódios de lesão corporal e feminicídio.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Amapá · Estado de Oportunidades Página 12 EIXO Segurança Pública Um Amapá onde as famílias possam viver com tranquilidade e dignidade A segurança pública é condição essencial para garantir a liberdade, a proteção da vida, a qualidade de vida da população e o desenvolvimento econômico e social. Esse contexto amplia a complexidade da atuação estatal no enfrentamento ao crime organizado, aos crimes transfronteiriços, à biopirataria, aos conﬂitos fundiários e ambientais e às diversas formas de violência que afetam mulheres, crianças e populações vulneráveis."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "O Amapá apresenta a maior taxa nacional de registros de perseguição (stalking) contra mulheres, com 301,3 casos por 100 mil mulheres, indicador que a literatura especializada em segurança pública classiﬁca como um evento sentinela do ciclo da violência doméstica, por frequentemente anteceder episódios de lesão corporal e feminicídio. Para isso, deve priorizar investimentos em inteligência policial, ampliação dos efetivos, tecnologia, modernização das instituições policiais, fortalecimento da investigação criminal, capacitação permanente, aquisição de equipamentos, valorização proﬁssional e atenção à saúde física e mental dos agentes de segurança pública."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Amapá · Estado de Oportunidades Página 14 Instituir o Programa Permanente de Valorização dos Proﬁssionais da Segurança Pública, assegurando proteção jurídica, assistência à saúde física e mental, apoio psicossocial e melhores condições de trabalho. Fortalecer o Centro Integrado de Inteligência em Segurança Pública, ampliando a integração entre as forças de segurança e os sistemas municipais, estaduais e federais, com compartilhamento de informações, análise de dados e gestão integrada das operações."
+            },
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Fortalecer a Rede Estadual de Proteção Integral à Criança e ao Adolescente, implanto o sistema de notiﬁcação e monitoramento de casos de violência e maus-tratos, articulando saúde, educação, assistência social, Conselhos Tutelares e segurança pública. IImplantar o monitoramento eletrônico de agressores com medidas protetivas, integrado ao Centro Integrado de Segurança Pública, fortalecendo a Patrulha Maria da Penha e os mecanismos de ﬁscalização e resposta rápida às situações de risco."
+            },
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Fortalecer a atuação integrada das forças de segurança nas regiões de fronteira, articulando Polícia Militar, Polícia Civil, Polícia Penal, Polícia Cientíﬁca, Corpo de Bombeiros Militar, Polícia Federal, Polícia Rodoviária Federal e Guardas Municipais no enfrentamento ao crime organizado e aos crimes transfronteiriços. Defesa do cidadão e Segurança Públicos Segurança de Fronteiras, Inteligência, Combate ao Crime Organizado e Facções Estruturar o policiamento ﬂuvial permanente nas principais bacias hidrográﬁcas do Estado, fortalecendo a ﬁscalização, a proteção das comunidades ribeirinhas e o enfrentamento ao narcotráﬁco, à biopirataria e à pirataria ﬂuvial."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Amapá · Estado de Oportunidades Página 17 Instituir o Gabinete Permanente de Governança da Segurança Pública, presidido pelo Governador do Estado e integrado pelos titulares das secretarias estratégicas e pelos comandantes das forças de segurança, para promover a integração institucional, o planejamento estratégico, o monitoramento dos indicadores e a gestão por resultados para Segurança pública do Estado; Fortalecer a atuação integrada das forças de segurança e dos órgãos de inteligência, investigação e controle, priorizando a descapitalização das organizações criminosas, o combate à lavagem de dinheiro, à ocultação de patrimônio e ao ﬁnanciamento das atividades ilícitas Modernizar o sistema penitenciário estadual, com a implantação de nova unidade prisional de segurança máxima fora da área urbana, equipada com tecnologias de monitoramento e bloqueio de comunicações ilícitas, reduzindo a superlotação e ampliando as ações de educação, qualiﬁcação proﬁssional, trabalho e ressocialização das pessoas privadas de liberdade. Defesa do cidadão e Segurança Públicos Governança, Infraestrutura e Modernização da Segurança Pública Ampliar os investimentos em segurança para modernizar a infrae"
+            },
+            {
+              "id": "s32",
+              "page_start": 38,
+              "page_end": 39,
+              "text": "Infraestrutura para Esporte e Lazer Saneamento, defesa civil e Resiliência Urbana Infraestrutura Estratégica Desenvolvimento Territorial, Logística,Mobilidade e Integração Regional"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 37,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Além de governança forte, é preciso planejar, trabalhar, tirar obras do papel e entregar políticas públicas capazes de melhorar a vida das pessoas, fortalecer os municípios e criar as condições necessárias para um novo ciclo de crescimento econômico e social. Governar o Estado do Amapá com planejamento, trabalho, responsabilidade e diálogo permanente com o nosso povo, promovendo políticas públicas que protejam as pessoas, modernizem os municípios, integrem o território, fortaleçam a infraestrutura, estimulem o desenvolvimento econômico, a sustentabilidade, valorizem as potencialidades regionais e assegurem uma gestão pública eciente, transparente e orientada para resultados e entregas concretas. Reúne as ações de responsabilidade do Estado destinadas ao desenvolvimento econômico, à diversicação da matriz produtiva, à expansão da infraestrutura energética, ao empreendedorismo, à inovação, à ciência e tecnologia, à transformação digital, à responsabilidade scal e ao fortalecimento da governança, com foco na geração de emprego e renda, na atração de investimentos, no aumento da produtividade e na construção de um ambiente favorável ao desenvolvimento sustentável em todos os 16 muni",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 8,
+              "page_end": 10,
+              "text": "Além de governança forte, é preciso planejar, trabalhar, tirar obras do papel e entregar políticas públicas capazes de melhorar a vida das pessoas, fortalecer os municípios e criar as condições necessárias para um novo ciclo de crescimento econômico e social. Governar o Estado do Amapá com planejamento, trabalho, responsabilidade e diálogo permanente com o nosso povo, promovendo políticas públicas que protejam as pessoas, modernizem os municípios, integrem o território, fortaleçam a infraestrutura, estimulem o desenvolvimento econômico, a sustentabilidade, valorizem as potencialidades regionais e assegurem uma gestão pública eciente, transparente e orientada para resultados e entregas concretas."
+            },
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Reúne as ações de responsabilidade do Estado destinadas ao desenvolvimento econômico, à diversicação da matriz produtiva, à expansão da infraestrutura energética, ao empreendedorismo, à inovação, à ciência e tecnologia, à transformação digital, à responsabilidade scal e ao fortalecimento da governança, com foco na geração de emprego e renda, na atração de investimentos, no aumento da produtividade e na construção de um ambiente favorável ao desenvolvimento sustentável em todos os 16 municípios do Amapá."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Valorização das Pessoas e Excelência nos Serviços Públicos Assegura o equilíbrio das contas públicas, a gestão eciente dos recursos, a sustentabilidade ambiental e o fortalecimento do ambiente de negócios, promovendo crescimento econômico sustentável, geração de emprego e renda e melhoria da qualidade de vida. Sustentabilidade, Responsabilidade Fiscal e Desenvolvimento Econômico Fortalece o diálogo permanente com a sociedade, amplia a transparência da gestão pública, incentiva a participação cidadã e aperfeiçoa os mecanismos de controle social, garantindo maior legitimidade, integridade e conança nas ações do Estado."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Amapá · Estado de Oportunidades Página 12 EIXO Segurança Pública Um Amapá onde as famílias possam viver com tranquilidade e dignidade A segurança pública é condição essencial para garantir a liberdade, a proteção da vida, a qualidade de vida da população e o desenvolvimento econômico e social."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Nesse contexto, o fortalecimento da segurança pública exige uma política estruturante baseada na prevenção da violência, na integração entre as instituições e na articulação transversal com as políticas de educação, assistência social, geração de emprego e renda, reconhecendo que a redução da criminalidade também depende da ampliação das oportunidades e da inclusão social."
+            },
+            {
+              "id": "s18",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Amapá · Estado de Oportunidades Página 24 EIXO Educação A geração que vai transformar o Amapá começa na sala de aula A educação é o principal instrumento para promover desenvolvimento humano, reduzir desigualdades e ampliar oportunidades de crescimento econômico."
+            },
+            {
+              "id": "s19",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "No existe outra realidade que não seja a que não forma adequadamente as crianças, adolescentes e jovens do sistema de ensino não terá amanhã a mão de obra qualiﬁcada para sustentar crescimento econômico duradouro."
+            },
+            {
+              "id": "s24",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "A estratégia para o próximo ciclo de governo será consolidar a universidade como referência amazônica em ensino, pesquisa, extensão e inovação, ampliando sua contribuição para o desenvolvimento econômico, social e tecnológico do Estado."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Fortalecer as políticas de permanência estudantil, inclusão e interiorização do ensino superior, ampliando bolsas, alimentação, transporte, apoio psicossocial, educação inclusiva e condições adequadas para estudantes do interior, indígenas, quilombolas, pessoas com deﬁciência e demais grupos em situação de vulnerabilidade Promover a integração entre universidade, setor produtivo, governos e sociedade, alinhando ensino, pesquisa e extensão às cadeias produtivas da bioeconomia, mineração, energia, agropecuária, pesca, turismo, economia criativa, tecnologia e inovação, ampliando a inserção dos egressos no mercado de trabalho."
+            },
+            {
+              "id": "s26",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Amapá · Estado de Oportunidades Página 32 EIXO Infraestrutura Estratégica Ligar o Amapá para crescer — estradas, pontes e conectividade territorial Nosso governo tem como premissa a realização de investimentos massivos em infraestrutura, reconhecendo esse setor como o principal vetor do desenvolvimento econômico e social. A superação desse cenário exige planejamento de longo prazo, fortalecimento da capacidade técnica e institucional do Estado e dos municípios, melhoria da governança dos investimentos públicos e uma estratégia permanente de articulação federativa para ampliar a captação de recursos, acelerar a execução das obras e assegurar que os investimentos públicos sejam transformados em infraestrutura de qualidade, desenvolvimento regional, geração de empregos e melhoria efetiva da qualidade de vida da população."
+            },
+            {
+              "id": "s27",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Estima-se que esse conjunto de investimentos tenha potencial para gerar mais de 8 (oito) mil empregos diretos, indiretos e induzidos, distribuídos pelos 16 municípios, fortalecendo a economia local, ampliando a arrecadação e impulsionando um novo ciclo de crescimento econômico e desenvolvimento regional."
+            },
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Além de retomar os investimentos paralisados, nosso governo preparará o Amapá para o maior ciclo de desenvolvimento econômico de sua história."
+            },
+            {
+              "id": "s29",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "Esse cenário também interrompe o efeito multiplicador dos investimentos em infraestrutura, deixando de gerar empregos, renda, arrecadação e oportunidades de negócios, reduzindo a competitividade do Estado e retardando o desenvolvimento econômico e social do Amapá."
+            },
+            {
+              "id": "s30",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "Implantar o Programa Estadual Orla Viva para Requaliﬁcação das Orlas Municipais, promovendo mobilidade, turismo, lazer e desenvolvimento econômico. Estruturar Parceria Público Privada (PPP) para implantação do Aquário Estadual como equipamento estratégico de turismo, educação ambiental e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 11,
+          "page_end": 35,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Sustentabilidade, Responsabilidade Fiscal e Desenvolvimento Econômico Fortalece o diálogo permanente com a sociedade, amplia a transparência da gestão pública, incentiva a participação cidadã e aperfeiçoa os mecanismos de controle social, garantindo maior legitimidade, integridade e conança nas ações do Estado. Amapá · Estado de Oportunidades Página 34 EIXO Infraestrutura Estratégica Assim como transformamos Macapá em um grande canteiro de obras por meio de planejamento, capacidade técnica, responsabilidade ﬁscal e gestão eﬁciente, faremos o mesmo em todo o Estado.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Sustentabilidade, Responsabilidade Fiscal e Desenvolvimento Econômico Fortalece o diálogo permanente com a sociedade, amplia a transparência da gestão pública, incentiva a participação cidadã e aperfeiçoa os mecanismos de controle social, garantindo maior legitimidade, integridade e conança nas ações do Estado."
+            },
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Amapá · Estado de Oportunidades Página 34 EIXO Infraestrutura Estratégica Assim como transformamos Macapá em um grande canteiro de obras por meio de planejamento, capacidade técnica, responsabilidade ﬁscal e gestão eﬁciente, faremos o mesmo em todo o Estado."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 16,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Reúne as ações de responsabilidade do Estado destinadas à promoção da cidadania, da proteção social e da ampliação do acesso a direitos e oportunidades, com foco na melhoria da qualidade de vida, na redução das desigualdades e na elevação dos indicadores de desenvolvimento humano em todos os 16 municípios do Amapá. Nesse contexto, o fortalecimento da segurança pública exige uma política estruturante baseada na prevenção da violência, na integração entre as instituições e na articulação transversal com as políticas de educação, assistência social, geração de emprego e renda, reconhecendo que a redução da criminalidade também depende da ampliação das oportunidades e da inclusão social. Prevenção à Violência, Proteção Social e Cultura de Paz Defesa do cidadão e Segurança Públicos Fortalecer a Rede Estadual de Proteção Integral à Criança e ao Adolescente, implanto o sistema de notiﬁcação e monitoramento de casos de violência e maus-tratos, articulando saúde, educação, assistência social, Conselhos Tutelares e segurança pública.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Reúne as ações de responsabilidade do Estado destinadas à promoção da cidadania, da proteção social e da ampliação do acesso a direitos e oportunidades, com foco na melhoria da qualidade de vida, na redução das desigualdades e na elevação dos indicadores de desenvolvimento humano em todos os 16 municípios do Amapá."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Nesse contexto, o fortalecimento da segurança pública exige uma política estruturante baseada na prevenção da violência, na integração entre as instituições e na articulação transversal com as políticas de educação, assistência social, geração de emprego e renda, reconhecendo que a redução da criminalidade também depende da ampliação das oportunidades e da inclusão social."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Prevenção à Violência, Proteção Social e Cultura de Paz Defesa do cidadão e Segurança Públicos"
+            },
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Fortalecer a Rede Estadual de Proteção Integral à Criança e ao Adolescente, implanto o sistema de notiﬁcação e monitoramento de casos de violência e maus-tratos, articulando saúde, educação, assistência social, Conselhos Tutelares e segurança pública. Defesa do cidadão e Segurança Públicos Prevenção à Violência, Proteção Social e Cultura de Paz Implantar grupos reﬂexivos e de responsabilização para autores de violência doméstica."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 38,
+          "page_end": 39,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Executar as obras de macrodrenagem dos bairros Central e Santarém, em Laranjal do Jari, com canalização dos cursos d'água, microdrenagem e urbanização, reduzindo os riscos de inundações e promovendo a requaliﬁcação urbana, Implantar, em parceria com os municípios, aterros sanitários regionais nas regiões de Oiapoque, Santana, Mazagão e Laranjal do Jari, promovendo a destinação ambientalmente adequada dos resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s32",
+              "page_start": 38,
+              "page_end": 39,
+              "text": "Executar as obras de macrodrenagem dos bairros Central e Santarém, em Laranjal do Jari, com canalização dos cursos d'água, microdrenagem e urbanização, reduzindo os riscos de inundações e promovendo a requaliﬁcação urbana, Implantar, em parceria com os municípios, aterros sanitários regionais nas regiões de Oiapoque, Santana, Mazagão e Laranjal do Jari, promovendo a destinação ambientalmente adequada dos resíduos sólidos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 8,
+          "page_end": 10,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Esse processo será orientado pelo trabalho, pela eciência e pelo compromisso com as pessoas, promovendo a criação da infraestrutura necessária, a modernização dos municípios, a integração regional, a sustentabilidade e o respeito ao meio ambiente, a inovação e a excelência na gestão pública.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 8,
+              "page_end": 10,
+              "text": "Esse processo será orientado pelo trabalho, pela eciência e pelo compromisso com as pessoas, promovendo a criação da infraestrutura necessária, a modernização dos municípios, a integração regional, a sustentabilidade e o respeito ao meio ambiente, a inovação e a excelência na gestão pública."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 10,
+          "page_end": 31,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Reúne as ações de responsabilidade do Estado destinadas ao desenvolvimento econômico, à diversicação da matriz produtiva, à expansão da infraestrutura energética, ao empreendedorismo, à inovação, à ciência e tecnologia, à transformação digital, à responsabilidade scal e ao fortalecimento da governança, com foco na geração de emprego e renda, na atração de investimentos, no aumento da produtividade e na construção de um ambiente favorável ao desenvolvimento sustentável em todos os 16 municípios do Amapá. Diretrizes Gerais da Gestão Governança, Planejamento e Gestão por Resultado Promove a modernização da administração pública por meio da transformação digital, da inovação, da simplicação de processos e do uso de tecnologias para ampliar a eciência da gestão e melhorar a prestação dos serviços públicos. Transformação Digital, Inovação e Eciência Pública Fortalece a integração entre os municípios e as regiões do Estado, promovendo a descentralização das políticas públicas, a redução das desigualdades regionais e a cooperação entre os entes federativos, instituições e setores da sociedade.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Reúne as ações de responsabilidade do Estado destinadas ao desenvolvimento econômico, à diversicação da matriz produtiva, à expansão da infraestrutura energética, ao empreendedorismo, à inovação, à ciência e tecnologia, à transformação digital, à responsabilidade scal e ao fortalecimento da governança, com foco na geração de emprego e renda, na atração de investimentos, no aumento da produtividade e na construção de um ambiente favorável ao desenvolvimento sustentável em todos os 16 municípios do Amapá."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Diretrizes Gerais da Gestão Governança, Planejamento e Gestão por Resultado Promove a modernização da administração pública por meio da transformação digital, da inovação, da simplicação de processos e do uso de tecnologias para ampliar a eciência da gestão e melhorar a prestação dos serviços públicos. Transformação Digital, Inovação e Eciência Pública Fortalece a integração entre os municípios e as regiões do Estado, promovendo a descentralização das políticas públicas, a redução das desigualdades regionais e a cooperação entre os entes federativos, instituições e setores da sociedade."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Implantar e expandir o uso de videomonitoramento, inteligência artiﬁcial, análise de dados, radiocomunicação, perícia digital e demais tecnologias de apoio ao policiamento ostensivo e à investigação criminal, priorizando a Região Metropolitana de Macapá e Santana. Tecnologia, Inteligência e Transformação Digital Implantar um sistema integrado de monitoramento eletrônico nas principais rotas logísticas e áreas estratégicas do Estado, com prioridade para a BR-156, no trecho entre Laranjal do Jari e Oiapoque, a faixa de fronteira com a Guiana Francesa e os principais portos e terminais ﬂuviais de Macapá e Santana."
+            },
+            {
+              "id": "s12",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Persistem diﬁculdades relacionadas à insuﬁciência da oferta de consultas especializadas, exames e procedimentos de média e alta complexidade, ﬁlas de espera, elevada dependência do Tratamento Fora do Domicílio, necessidade de modernização da infraestrutura hospitalar, limitações na integração dos sistemas de informação e na transformação digital, além da necessidade de fortalecer a Atenção Primária à Saúde em cooperação permanente com os municípios."
+            },
+            {
+              "id": "s13",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Amapá · Estado de Oportunidades Página 19 A atuação governamental será orientada pelo fortalecimento da Atenção Primária à Saúde como coordenadora do cuidado, pela organização das linhas de cuidado especializadas, pela expansão da média e alta complexidade, pela qualiﬁcação da assistência farmacêutica, pela modernização da infraestrutura hospitalar, pela transformação digital dos serviços, pela ampliação da telemedicina, pelo fortalecimento da saúde mental, da reabilitação e da vigilância em saúde, assegurando atendimento integral em todas as regiões do Estado e priorizando ações voltadas à redução da mortalidade materna, infantil e neonatal, à prevenção de agravos evitáveis e ao fortalecimento da atenção à primeira infância."
+            },
+            {
+              "id": "s14",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Governança, Gestão, Transformação Digital e Inovação em Saúde Implantar o Programa Estadual de Gestão de Riscos Ocupacionais, com identiﬁcação, monitoramento e controle dos riscos nos ambientes de trabalho, elaboração e atualização periódica dos mapas de risco e adoção de medidas de prevenção e proteção à saúde dos proﬁssionais."
+            },
+            {
+              "id": "s23",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Amapá · Estado de Oportunidades Página 29 Fortalecer a educação cientíﬁca, tecnológica e de inovação na rede estadual de ensino, promovendo infraestrutura adequada, laboratórios, conectividade, iniciação cientíﬁca, olimpíadas do conhecimento, feiras de ciências, formação continuada dos proﬁssionais da educação e currículos voltados às competências digitais, ao pensamento computacional e à inteligência artiﬁcial."
+            },
+            {
+              "id": "s24",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "Eixo – Educação Superior Universidade do Estado do Amapá (UEAP) Fortalecer a governança universitária por meio da modernização da gestão administrativa, da ampliação da transparência, da transformação digital, da melhoria dos serviços acadêmicos e do fortalecimento do planejamento institucional, assegurando maior eﬁciência administrativa e qualidade no atendimento à comunidade universitária."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 31,
+          "page_end": 37,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Fortalecer as políticas de permanência estudantil, inclusão e interiorização do ensino superior, ampliando bolsas, alimentação, transporte, apoio psicossocial, educação inclusiva e condições adequadas para estudantes do interior, indígenas, quilombolas, pessoas com deﬁciência e demais grupos em situação de vulnerabilidade Promover a integração entre universidade, setor produtivo, governos e sociedade, alinhando ensino, pesquisa e extensão às cadeias produtivas da bioeconomia, mineração, energia, agropecuária, pesca, turismo, economia criativa, tecnologia e inovação, ampliando a inserção dos egressos no mercado de trabalho. Infraestrutura para Cultura, Turismo e Economia Criativa Intensiﬁcar a execução das obras e concluir o Hospital Regional do Amapá.",
+          "excerpts": [
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Fortalecer as políticas de permanência estudantil, inclusão e interiorização do ensino superior, ampliando bolsas, alimentação, transporte, apoio psicossocial, educação inclusiva e condições adequadas para estudantes do interior, indígenas, quilombolas, pessoas com deﬁciência e demais grupos em situação de vulnerabilidade Promover a integração entre universidade, setor produtivo, governos e sociedade, alinhando ensino, pesquisa e extensão às cadeias produtivas da bioeconomia, mineração, energia, agropecuária, pesca, turismo, economia criativa, tecnologia e inovação, ampliando a inserção dos egressos no mercado de trabalho."
+            },
+            {
+              "id": "s30",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "Infraestrutura para Cultura, Turismo e Economia Criativa Intensiﬁcar a execução das obras e concluir o Hospital Regional do Amapá."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 29,
+          "page_end": 30,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Implantar o Centro Estadual de Línguas Estrangeiras, ampliando a oferta de cursos de francês, inglês e espanhol, e criar o Programa Amapá sem Fronteiras para promover a internacionalização da educação, o intercâmbio de estudantes e professores e a integração do Amapá com a Guiana Francesa, o Platô das Guianas e a União Europeia Transformar a Central do ENEM em um programa estadual de preparação para o ensino superior, fortalecendo ações de revisão de conteúdos, simulados, orientação proﬁssional, apoio psicopedagógico e acompanhamento dos estudantes até o ingresso na universidade Ciência, Tecnologia, Inovação e Internacionalização da Educação Fortalecer a Educação Escolar Indígena, assegurando o direito à educação intercultural, bilíngue, comunitária e diferenciada, em articulação com os povos indígenas, suas organizações representativas e os sistemas de ensino.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Implantar o Centro Estadual de Línguas Estrangeiras, ampliando a oferta de cursos de francês, inglês e espanhol, e criar o Programa Amapá sem Fronteiras para promover a internacionalização da educação, o intercâmbio de estudantes e professores e a integração do Amapá com a Guiana Francesa, o Platô das Guianas e a União Europeia Transformar a Central do ENEM em um programa estadual de preparação para o ensino superior, fortalecendo ações de revisão de conteúdos, simulados, orientação proﬁssional, apoio psicopedagógico e acompanhamento dos estudantes até o ingresso na universidade Ciência, Tecnologia, Inovação e Internacionalização da Educação Fortalecer a Educação Escolar Indígena, assegurando o direito à educação intercultural, bilíngue, comunitária e diferenciada, em articulação com os povos indígenas, suas organizações representativas e os sistemas de ensino."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 8,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Governar o Estado do Amapá com planejamento, trabalho, responsabilidade e diálogo permanente com o nosso povo, promovendo políticas públicas que protejam as pessoas, modernizem os municípios, integrem o território, fortaleçam a infraestrutura, estimulem o desenvolvimento econômico, a sustentabilidade, valorizem as potencialidades regionais e assegurem uma gestão pública eciente, transparente e orientada para resultados e entregas concretas. Esse processo será orientado pelo trabalho, pela eciência e pelo compromisso com as pessoas, promovendo a criação da infraestrutura necessária, a modernização dos municípios, a integração regional, a sustentabilidade e o respeito ao meio ambiente, a inovação e a excelência na gestão pública. Organiza as políticas públicas voltadas à geração de riqueza, ao fortalecimento da competitividade e à modernização da gestão pública.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 8,
+              "page_end": 10,
+              "text": "Governar o Estado do Amapá com planejamento, trabalho, responsabilidade e diálogo permanente com o nosso povo, promovendo políticas públicas que protejam as pessoas, modernizem os municípios, integrem o território, fortaleçam a infraestrutura, estimulem o desenvolvimento econômico, a sustentabilidade, valorizem as potencialidades regionais e assegurem uma gestão pública eciente, transparente e orientada para resultados e entregas concretas. Esse processo será orientado pelo trabalho, pela eciência e pelo compromisso com as pessoas, promovendo a criação da infraestrutura necessária, a modernização dos municípios, a integração regional, a sustentabilidade e o respeito ao meio ambiente, a inovação e a excelência na gestão pública."
+            },
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Organiza as políticas públicas voltadas à geração de riqueza, ao fortalecimento da competitividade e à modernização da gestão pública."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Sustentabilidade, Responsabilidade Fiscal e Desenvolvimento Econômico Fortalece o diálogo permanente com a sociedade, amplia a transparência da gestão pública, incentiva a participação cidadã e aperfeiçoa os mecanismos de controle social, garantindo maior legitimidade, integridade e conança nas ações do Estado. Participação Social, Transparência e Controle Social"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 34,
+          "page_end": 35,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Nossa estratégia é fazer com que futuros investimentos em petróleo e gás impulsionem a diversiﬁcação da economia amapaense, fortalecendo a indústria, os serviços, a inovação, a transição energética, a construção civil, a logística, a economia do mar e os pequenos negócios.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Nossa estratégia é fazer com que futuros investimentos em petróleo e gás impulsionem a diversiﬁcação da economia amapaense, fortalecendo a indústria, os serviços, a inovação, a transição energética, a construção civil, a logística, a economia do mar e os pequenos negócios."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "30002536311",
+      "state_code": "AP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AP30002536311_01.pdf",
+      "public_path": "/propostas/2026/AP/2026AP30002536311_01.pdf",
+      "sha256": "1e95175516a9a444d8bcec408eea308f9f7a1a635fed58ebaf1a1b0f81d6c81f",
+      "summary": "A rede estadual alcançou recordes históricos nas taxas de aprovação em todas as etapas da Educação Básica, avançou entre os estados que mais evoluíram no IDEB e tornou-se a terceira unidade da Federação que mais elevou os índices de alfabetização infantil. O Estado também distribuiu dezenas de milhares de kits pedagógicos, ampliou a formação tecnológica dos professores e incorporou a computação ao currículo da educação básica. O Governo ainda estruturou uma política de expansão da educação profissional, por meio do programa Mais Emprego com a oferta de 50 mil vagas para os próximos quatro anos, e implantou novas ferramentas de gestão, segurança e acompanhamento dos estudantes, como o aplicativo Boletim na Palma da Mão, o programa Escola Segura e ações permanentes de saúde mental e cultura de paz, fortalecendo um ambiente escolar mais seguro, moderno e acolhedor. ações consistentes gerando resultados....................................... A proposta integrará profissionais da educação e agentes de segurança pública na gestão escolar, preservando a autonomia pedagógica dos professores e fortalecendo a participação das famílias e da comunidade. ações consistentes gerando resultados A segurança pública tornou-se uma das prioridades estratégicas da gestão, com a implantação do programa Amapá Mais Seguro e uma política baseada em investimentos, inteligência, tecnologia, ampliação do quadro de policiais e valorização dos profissionais. O Estado avançou simultaneamente em educação, saúde, segurança, infraestrutura, cultura, turismo, inovação e geração de emprego e renda, ampliando sua integração regional e sua capacidade de articulação com as agendas nacionais de desenvolvimento. preparando o Amapá para crescer com investimentos e geração de empregos Eram conhecidos alguns gargalos para a atividade econômica do Estado do Amapá: profunda dependência do setor público com quase a metade da economia sendo gerada pelo Estado; escassas oportunidades de trabalho, com nossos jovens migrando em busca de emprego em outras unidades da federação; extrema dificuldade em licenciar empreendimentos ou regularizar as propriedades rurais, dentre outros desafios. Esses resultados demonstram que a floresta em pé é um ativo estratégico para promover desenvolvimento econômico, inclusão social e conservação ambiental.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 21,
+          "page_end": 29,
+          "topics": [
+            "education"
+          ],
+          "summary": "A rede estadual alcançou recordes históricos nas taxas de aprovação em todas as etapas da Educação Básica, avançou entre os estados que mais evoluíram no IDEB e tornou-se a terceira unidade da Federação que mais elevou os índices de alfabetização infantil. O Estado também distribuiu dezenas de milhares de kits pedagógicos, ampliou a formação tecnológica dos professores e incorporou a computação ao currículo da educação básica.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "A rede estadual alcançou recordes históricos nas taxas de aprovação em todas as etapas da Educação Básica, avançou entre os estados que mais evoluíram no IDEB e tornou-se a terceira unidade da Federação que mais elevou os índices de alfabetização infantil. O Estado também distribuiu dezenas de milhares de kits pedagógicos, ampliou a formação tecnológica dos professores e incorporou a computação ao currículo da educação básica."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 21,
+          "page_end": 29,
+          "topics": [
+            "health"
+          ],
+          "summary": "O Governo ainda estruturou uma política de expansão da educação profissional, por meio do programa Mais Emprego com a oferta de 50 mil vagas para os próximos quatro anos, e implantou novas ferramentas de gestão, segurança e acompanhamento dos estudantes, como o aplicativo Boletim na Palma da Mão, o programa Escola Segura e ações permanentes de saúde mental e cultura de paz, fortalecendo um ambiente escolar mais seguro, moderno e acolhedor.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "O Governo ainda estruturou uma política de expansão da educação profissional, por meio do programa Mais Emprego com a oferta de 50 mil vagas para os próximos quatro anos, e implantou novas ferramentas de gestão, segurança e acompanhamento dos estudantes, como o aplicativo Boletim na Palma da Mão, o programa Escola Segura e ações permanentes de saúde mental e cultura de paz, fortalecendo um ambiente escolar mais seguro, moderno e acolhedor. O Amapá passou por uma transformação histórica na saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 37,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "ações consistentes gerando resultados....................................... A proposta integrará profissionais da educação e agentes de segurança pública na gestão escolar, preservando a autonomia pedagógica dos professores e fortalecendo a participação das famílias e da comunidade. ações consistentes gerando resultados A segurança pública tornou-se uma das prioridades estratégicas da gestão, com a implantação do programa Amapá Mais Seguro e uma política baseada em investimentos, inteligência, tecnologia, ampliação do quadro de policiais e valorização dos profissionais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "ações consistentes gerando resultados......................................."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "A proposta integrará profissionais da educação e agentes de segurança pública na gestão escolar, preservando a autonomia pedagógica dos professores e fortalecendo a participação das famílias e da comunidade."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "ações consistentes gerando resultados A segurança pública tornou-se uma das prioridades estratégicas da gestão, com a implantação do programa Amapá Mais Seguro e uma política baseada em investimentos, inteligência, tecnologia, ampliação do quadro de policiais e valorização dos profissionais. Na infraestrutura 45 unidades foram modernizadas ou construídas nos 16 municípios do Estado, incluindo a ampliação do Instituto Estadual de Segurança Pública, novas delegacias, sedes de batalhões e um ciclo histórico de obras no sistema penitenciário, com destaque para a nova penitenciária de 408 vagas e a Unidade Prisional José Eder."
+            },
+            {
+              "id": "s11",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Também avançou na pavimentação e recuperação de rodovias e estradas vicinais, ampliou a presença da segurança pública e fortaleceu o empreendedorismo, a cultura e o turismo, com iniciativas como Minha Primeira Empresa, Amapá Startups, Pesca Esportiva, Feira Binacional, Feira Internacional do Oiapoque e Oiapoque Energy."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 37,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O Estado avançou simultaneamente em educação, saúde, segurança, infraestrutura, cultura, turismo, inovação e geração de emprego e renda, ampliando sua integração regional e sua capacidade de articulação com as agendas nacionais de desenvolvimento. preparando o Amapá para crescer com investimentos e geração de empregos Eram conhecidos alguns gargalos para a atividade econômica do Estado do Amapá: profunda dependência do setor público com quase a metade da economia sendo gerada pelo Estado; escassas oportunidades de trabalho, com nossos jovens migrando em busca de emprego em outras unidades da federação; extrema dificuldade em licenciar empreendimentos ou regularizar as propriedades rurais, dentre outros desafios. Esses resultados demonstram que a floresta em pé é um ativo estratégico para promover desenvolvimento econômico, inclusão social e conservação ambiental.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "O Estado avançou simultaneamente em educação, saúde, segurança, infraestrutura, cultura, turismo, inovação e geração de emprego e renda, ampliando sua integração regional e sua capacidade de articulação com as agendas nacionais de desenvolvimento."
+            },
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "preparando o Amapá para crescer com investimentos e geração de empregos Eram conhecidos alguns gargalos para a atividade econômica do Estado do Amapá: profunda dependência do setor público com quase a metade da economia sendo gerada pelo Estado; escassas oportunidades de trabalho, com nossos jovens migrando em busca de emprego em outras unidades da federação; extrema dificuldade em licenciar empreendimentos ou regularizar as propriedades rurais, dentre outros desafios. Esses resultados demonstram que a floresta em pé é um ativo estratégico para promover desenvolvimento econômico, inclusão social e conservação ambiental."
+            },
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "O projeto contemplará ainda a revitalização da AP-010, entre Macapá e Mazagão, e duplicação da AP-440, entre a Duca Serra e o km 9 da BR-210, com obras já iniciadas, além da ampliação de ciclovias, calçadas acessíveis e sistemas inteligentes de trânsito, fortalecendo a mobilidade, a integração territorial e o desenvolvimento econômico da Região Metropolitana. Avançar na infraestrutura rodoviária estadual, com obras estratégicas para integrar regiões, melhorar a mobilidade e impulsionar o desenvolvimento econômico, é nosso compromisso."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "● Educação Profissional – Programa Qualifica Amapá - Mais Emprego Ampliar e consolidar o Programa Mais Emprego, expandindo a educação profissional no Amapá com a oferta de 50 mil vagas nos próximos quatro anos, priorizando cursos alinhados às demandas do mercado de trabalho e às vocações econômicas regionais. Propostas Fortalecer a proteção social Implementar Programa de Transferência de Renda que integrará acompanhamento familiar, qualificação profissional, intermediação para o mercado de trabalho, promovendo a autonomia e mudança estrutural das famílias beneficiadas, com ampliação das oportunidades de geração de renda."
+            },
+            {
+              "id": "s10",
+              "page_start": 33,
+              "page_end": 35,
+              "text": "O Amapá passou a contar com uma injeção estimada de R$ 130 milhões por mês e cerca de R$ 1 bilhão e 700 milhões anuais na economia, fortalecendo o comércio, os serviços, o mercado imobiliário e diversos segmentos produtivos, além de ampliar a arrecadação e impulsionar o desenvolvimento econômico do Estado."
+            },
+            {
+              "id": "s11",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Nos próximos quatro anos, o compromisso é avançar para uma nova geração de infraestrutura, com o Arco Metropolitano, infraestrutura hospitalar, integração Laranjal do Jari– Vitória do Jari, Porto Industrial da Antiga ICOMI, pavimentação urbana, expansão habitacional, Lixão Zero Amapá e Terminais Hidroviários, fortalecendo a integração, a conectividade e a resiliência do Amapá Propostas Arco Metropolitano da Integração Consolidar o Arco Metropolitano da Integração de Macapá, Santana e Mazagão, a revitalização da AP-010 além de expandir ciclovias, calçadas acessíveis e sistemas inteligentes de trânsito, garantindo maior mobilidade, integração territorial, segurança viária e desenvolvimento econômico para a Região Metropolitana. A obra fortalecerá a mobilidade regional, reduzirá o isolamento, facilitará o transporte de pessoas e mercadorias e ampliará as oportunidades de desenvolvimento econômico no Vale do Jari."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 29,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "1.8 Pesca e aquicultura Expandir e fortalecer a pesca e aquicultura amapaense, elevando a produção aquícola de 1.000 para 10.000 toneladas/ano até 2030, com regularização e expansão das unidades produtivas, oferta de alevinos de qualidade, redução de custos, licenciamento simplificado, assistência técnica e agregação de valor, garantindo maior produtividade, abastecimento, geração de renda e segurança alimentar. 3.3 Proteção Social O combate à pobreza no Amapá exige uma abordagem ampla, que priorize assistência e outros ativos sociais e econômicos. Propostas Fortalecer a proteção social Implementar Programa de Transferência de Renda que integrará acompanhamento familiar, qualificação profissional, intermediação para o mercado de trabalho, promovendo a autonomia e mudança estrutural das famílias beneficiadas, com ampliação das oportunidades de geração de renda.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "1.8 Pesca e aquicultura Expandir e fortalecer a pesca e aquicultura amapaense, elevando a produção aquícola de 1.000 para 10.000 toneladas/ano até 2030, com regularização e expansão das unidades produtivas, oferta de alevinos de qualidade, redução de custos, licenciamento simplificado, assistência técnica e agregação de valor, garantindo maior produtividade, abastecimento, geração de renda e segurança alimentar."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "3.3 Proteção Social O combate à pobreza no Amapá exige uma abordagem ampla, que priorize assistência e outros ativos sociais e econômicos. Propostas Fortalecer a proteção social Implementar Programa de Transferência de Renda que integrará acompanhamento familiar, qualificação profissional, intermediação para o mercado de trabalho, promovendo a autonomia e mudança estrutural das famílias beneficiadas, com ampliação das oportunidades de geração de renda."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": 18,
+          "page_end": 21,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "2.1 Infraestrutura e mobilidade O Governo Clécio Luís transformou a infraestrutura em um dos pilares do desenvolvimento do Estado, ampliando investimentos em mobilidade urbana, integração regional e qualidade de vida da população. Por meio dos programas Governo em Ação, Ponte Firme e Parque Firme, estabeleceu parcerias com prefeituras para executar obras de pavimentação, passarelas, saneamento e urbanização em todos os municípios.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "2.1 Infraestrutura e mobilidade O Governo Clécio Luís transformou a infraestrutura em um dos pilares do desenvolvimento do Estado, ampliando investimentos em mobilidade urbana, integração regional e qualidade de vida da população. Por meio dos programas Governo em Ação, Ponte Firme e Parque Firme, estabeleceu parcerias com prefeituras para executar obras de pavimentação, passarelas, saneamento e urbanização em todos os municípios."
+            }
+          ]
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 35,
+          "page_end": 37,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "● Programa Lixo Zero Estruturar uma política estadual de gestão integrada de resíduos sólidos para todos os municípios do Estado.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "● Programa Lixo Zero Estruturar uma política estadual de gestão integrada de resíduos sólidos para todos os municípios do Estado."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 6,
+          "page_end": 33,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O governo do Estado deve assegurar o aproveitamento de vantagens comparativas consideráveis, como o meio ambiente preservado, localização geográfica estratégica, oferta crescente de força de trabalho e algumas cadeias produtivas promissoras como fruticultura, produtos florestais, mineração, turismo e logística, por exemplo. A iniciativa ofertará cursos técnicos, de qualificação e aperfeiçoamento alinhados às demandas do setor, formando profissionais para atividades offshore e onshore, logística, operação portuária, manutenção industrial, meio ambiente, construção civil e serviços especializados. ● Segurança Pública e Meio Ambiente Fortalecer o combate aos crimes ambientais, por meio do monitoramento contínuo por satélite, da integração das forças de segurança e dos órgãos ambientais ao Ciodes e da atuação permanente e coordenada com instituições federais.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "O governo do Estado deve assegurar o aproveitamento de vantagens comparativas consideráveis, como o meio ambiente preservado, localização geográfica estratégica, oferta crescente de força de trabalho e algumas cadeias produtivas promissoras como fruticultura, produtos florestais, mineração, turismo e logística, por exemplo. A iniciativa ofertará cursos técnicos, de qualificação e aperfeiçoamento alinhados às demandas do setor, formando profissionais para atividades offshore e onshore, logística, operação portuária, manutenção industrial, meio ambiente, construção civil e serviços especializados."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "● Segurança Pública e Meio Ambiente Fortalecer o combate aos crimes ambientais, por meio do monitoramento contínuo por satélite, da integração das forças de segurança e dos órgãos ambientais ao Ciodes e da atuação permanente e coordenada com instituições federais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 29,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Propostas: Agronegócio de escala e familiar Ampliar a capacidade de produção e de armazenagem no Amapá como política estruturante para reduzir perdas pós-colheita, melhorar a logística, fortalecer a competitividade do agronegócio de escala e da agricultura familiar, agregar valor à produção agrícola e ampliar a capacidade de comercialização, beneficiando produtores, cooperativas e demais organizações do setor. 1.7 Agricultura Expandir a agricultura amapaense, ampliando a assistência técnica, o acesso ao crédito, a mecanização e a inovação tecnológica, acelerando a regularização fundiária e ambiental, fortalecendo a agricultura familiar e as cadeias produtivas estratégicas da bioeconomia, com incentivo ao beneficiamento, à comercialização e à inserção dos produtores nos mercados. A iniciativa fortalecerá a agricultura familiar, o empreendedorismo e a economia dos bairros, ampliando oportunidades de trabalho e renda e aproximando produtores, comerciantes e consumidores.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "Propostas: Agronegócio de escala e familiar Ampliar a capacidade de produção e de armazenagem no Amapá como política estruturante para reduzir perdas pós-colheita, melhorar a logística, fortalecer a competitividade do agronegócio de escala e da agricultura familiar, agregar valor à produção agrícola e ampliar a capacidade de comercialização, beneficiando produtores, cooperativas e demais organizações do setor. 1.7 Agricultura Expandir a agricultura amapaense, ampliando a assistência técnica, o acesso ao crédito, a mecanização e a inovação tecnológica, acelerando a regularização fundiária e ambiental, fortalecendo a agricultura familiar e as cadeias produtivas estratégicas da bioeconomia, com incentivo ao beneficiamento, à comercialização e à inserção dos produtores nos mercados."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "A iniciativa fortalecerá a agricultura familiar, o empreendedorismo e a economia dos bairros, ampliando oportunidades de trabalho e renda e aproximando produtores, comerciantes e consumidores."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 3,
+          "page_end": 35,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "5.1 Concursos públicos e transposição de servidores...................................................... 33 5.2 Gestão Fiscal que gera confiança e resultados........................................................... ● Escolas e Transformação Digital Consolidar a transformação digital das escolas da educação básica do Amapá, ampliando conectividade, equipamentos e plataformas educacionais, capacitando professores e gestores para o uso pedagógico das tecnologias e fortalecendo a educação híbrida, a inovação, a aprendizagem e a inclusão digital.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "5.1 Concursos públicos e transposição de servidores...................................................... 33 5.2 Gestão Fiscal que gera confiança e resultados..........................................................."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "● Escolas e Transformação Digital Consolidar a transformação digital das escolas da educação básica do Amapá, ampliando conectividade, equipamentos e plataformas educacionais, capacitando professores e gestores para o uso pedagógico das tecnologias e fortalecendo a educação híbrida, a inovação, a aprendizagem e a inclusão digital."
+            },
+            {
+              "id": "s09",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "O sistema deverá integrar reconhecimento de placas, identificação de veículos com restrição, videomonitoramento em tempo real e inteligência artificial, conectado ao Centro Integrado de Operações de Segurança Pública."
+            },
+            {
+              "id": "s10",
+              "page_start": 33,
+              "page_end": 35,
+              "text": "● Transformação digital e inovação governamental Ampliar o Governo Digital, com a criação do Super Fácil Amapá Digital como portal e aplicativo únicos do Governo do Amapá, integrando serviços e agendamentos de saúde, educação, segurança, documentação e demais áreas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "1.11 Cultura, turismo, eventos e economia criativa O Governo retomou a realização de grandes eventos como estratégia para impulsionar o desenvolvimento econômico, fortalecer o turismo e valorizar a cultura amapaense. O corredor conecta patrimônio histórico, cultura, tecnologia, turismo e economia criativa, ampliando as opções de lazer e convivência, atraindo visitantes e fortalecendo o comércio, os serviços, a geração de emprego e renda e o desenvolvimento econômico da capital.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "1.11 Cultura, turismo, eventos e economia criativa O Governo retomou a realização de grandes eventos como estratégia para impulsionar o desenvolvimento econômico, fortalecer o turismo e valorizar a cultura amapaense. O corredor conecta patrimônio histórico, cultura, tecnologia, turismo e economia criativa, ampliando as opções de lazer e convivência, atraindo visitantes e fortalecendo o comércio, os serviços, a geração de emprego e renda e o desenvolvimento econômico da capital."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 29,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "3.4.6 Igualdade racial e ações afirmativas................................................................... A interiorização da CT&I permitirá que jovens, empreendedores, agricultores, comunidades tradicionais, povos indígenas, estudantes e gestores públicos tenham acesso às ferramentas necessárias para impulsionar o desenvolvimento regional, promovendo inclusão digital, geração de renda e melhoria da qualidade de vida. Institucionalizar o Programa Amapá Por Todas Elas como política permanente de Estado, fortalecendo a Casa da Mulher Brasileira, o CAMUF, o CRAM e a Rede de Atendimento à Mulher, com interiorização dos serviços por unidades terrestres e fluviais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "3.4.6 Igualdade racial e ações afirmativas..................................................................."
+            },
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "A interiorização da CT&I permitirá que jovens, empreendedores, agricultores, comunidades tradicionais, povos indígenas, estudantes e gestores públicos tenham acesso às ferramentas necessárias para impulsionar o desenvolvimento regional, promovendo inclusão digital, geração de renda e melhoria da qualidade de vida."
+            },
+            {
+              "id": "s07",
+              "page_start": 21,
+              "page_end": 29,
+              "text": "Institucionalizar o Programa Amapá Por Todas Elas como política permanente de Estado, fortalecendo a Casa da Mulher Brasileira, o CAMUF, o CRAM e a Rede de Atendimento à Mulher, com interiorização dos serviços por unidades terrestres e fluviais. Fortalecer e consolidar a política estadual de igualdade racial, com adesão ao Sistema Nacional de Promoção da Igualdade Racial de todos os municípios do Estado, ampliando ações para a população negra, quilombolas, ribeirinhas e comunidades tradicionais, com foco em educação, saúde, habitação, infraestrutura e saneamento, fortalecendo a autonomia econômica e a valorização dos saberes tradicionais."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 35,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O resultado desse processo está refletido no cumprimento de 91% das metas estabelecidas, segundo levantamento divulgado pelo G1, do Grupo Globo, demonstrando elevada capacidade de efetividade da gestão pública. 5.1 Concursos públicos e transposição de servidores A valorização do serviço público foi uma das marcas da gestão, com investimentos na recomposição do quadro de servidores e na garantia de direitos. A realização de concursos públicos e o avanço da transposição de servidores produziram impactos que vão além da valorização do serviço público.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 6,
+              "text": "O resultado desse processo está refletido no cumprimento de 91% das metas estabelecidas, segundo levantamento divulgado pelo G1, do Grupo Globo, demonstrando elevada capacidade de efetividade da gestão pública."
+            },
+            {
+              "id": "s10",
+              "page_start": 33,
+              "page_end": 35,
+              "text": "5.1 Concursos públicos e transposição de servidores A valorização do serviço público foi uma das marcas da gestão, com investimentos na recomposição do quadro de servidores e na garantia de direitos. A realização de concursos públicos e o avanço da transposição de servidores produziram impactos que vão além da valorização do serviço público."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 6,
+          "page_end": 18,
+          "topics": [
+            "energy"
+          ],
+          "summary": "A perspectiva de exploração de óleo e gás na Margem Equatorial, aliada ao potencial para o desenvolvimento de fontes renováveis e da bioeconomia, inaugura um novo ciclo de oportunidades e pode vir a promover uma profunda alteração da matriz econômica do Estado, hoje ainda fortemente dependente da Administração Pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 18,
+              "text": "A perspectiva de exploração de óleo e gás na Margem Equatorial, aliada ao potencial para o desenvolvimento de fontes renováveis e da bioeconomia, inaugura um novo ciclo de oportunidades e pode vir a promover uma profunda alteração da matriz econômica do Estado, hoje ainda fortemente dependente da Administração Pública."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "30002536313",
+      "state_code": "AP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AP30002536313_01.pdf",
+      "public_path": "/propostas/2026/AP/2026AP30002536313_01.pdf",
+      "sha256": "0fe3ca8c7888366a5e64e2310da4cb60d4d4163d3a042de4cf324ba96ccdc175",
+      "summary": "Com o pior índice de educação infantil do país e hospitais em colapso, o Amapá precisa de um choque de investimentos públicos. Meta de 100% de vagas em creches públicas e escolas próximas às residências das famílias trabalhadoras. Para acabar com o poder do narcotráfico e a violência das facções, é preciso tratar o tema como saúde pública, com distribuição controlada e assistência estatal aos usuários. Ampliação drástica da rede de CAPS e contratação de médicos psiquiatras para atender à demanda recorde gerada pelo adoecimento social e índices de suicídio. Nas periferias, a política de segurança elitista e racista, muitas vezes inspirada no modelo autoritário de Bukele e defendida pela ultradireita local (como o MBL e o bolsonarismo), aprofunda o encarceramento e o extermínio da juventude negra. Liderada por figuras como Flávio Bolsonaro, ela pauta o debate público com temas como a segurança pública elitista e a defesa do capitalismo ultraliberal. A política econômica deste governo é pautada pelo Arcabouço Fiscal, uma versão requentada do teto de gastos que prioriza o pagamento da fraudulenta dívida pública aos banqueiros em detrimento dos investimentos em saúde, educação e saneamento básico. Auditoria e suspensão imediata do pagamento da dívida estadual aos banqueiros, destinando esses recursos para a saúde e educação. Essas lutas estão intrinsecamente conectadas à defesa do meio ambiente e à denúncia do \"PL da Devastação\", demonstrando que a preservação dos biomas brasileiros só é possível através do enfrentamento aos lucros dos grandes latifundiários. Expropriação do latifúndio e do agronegócio, colocando a terra nas mãos de camponeses e da agricultura familiar para produzir alimento barato para o povo, e não commodities para exportação. No campo e nas florestas, a resistência é protagonizada pelos povos indígenas, quilombolas e ribeirinhos, que enfrentam diretamente a pistolagem e a grilagem impulsionadas pelo agronegócio e por multinacionais espoliadoras, como a Cargill. O transporte deve ser um serviço público gratuito financiado pelos grandes lucros das empresas e impostos progressivos sobre os ricos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "education"
+          ],
+          "summary": "Com o pior índice de educação infantil do país e hospitais em colapso, o Amapá precisa de um choque de investimentos públicos. Meta de 100% de vagas em creches públicas e escolas próximas às residências das famílias trabalhadoras.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "Com o pior índice de educação infantil do país e hospitais em colapso, o Amapá precisa de um choque de investimentos públicos. Meta de 100% de vagas em creches públicas e escolas próximas às residências das famílias trabalhadoras."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "health"
+          ],
+          "summary": "Para acabar com o poder do narcotráfico e a violência das facções, é preciso tratar o tema como saúde pública, com distribuição controlada e assistência estatal aos usuários. Ampliação drástica da rede de CAPS e contratação de médicos psiquiatras para atender à demanda recorde gerada pelo adoecimento social e índices de suicídio.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "Para acabar com o poder do narcotráfico e a violência das facções, é preciso tratar o tema como saúde pública, com distribuição controlada e assistência estatal aos usuários. Ampliação drástica da rede de CAPS e contratação de médicos psiquiatras para atender à demanda recorde gerada pelo adoecimento social e índices de suicídio."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Nas periferias, a política de segurança elitista e racista, muitas vezes inspirada no modelo autoritário de Bukele e defendida pela ultradireita local (como o MBL e o bolsonarismo), aprofunda o encarceramento e o extermínio da juventude negra. Liderada por figuras como Flávio Bolsonaro, ela pauta o debate público com temas como a segurança pública elitista e a defesa do capitalismo ultraliberal.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "Nas periferias, a política de segurança elitista e racista, muitas vezes inspirada no modelo autoritário de Bukele e defendida pela ultradireita local (como o MBL e o bolsonarismo), aprofunda o encarceramento e o extermínio da juventude negra. Liderada por figuras como Flávio Bolsonaro, ela pauta o debate público com temas como a segurança pública elitista e a defesa do capitalismo ultraliberal."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A política econômica deste governo é pautada pelo Arcabouço Fiscal, uma versão requentada do teto de gastos que prioriza o pagamento da fraudulenta dívida pública aos banqueiros em detrimento dos investimentos em saúde, educação e saneamento básico.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "A política econômica deste governo é pautada pelo Arcabouço Fiscal, uma versão requentada do teto de gastos que prioriza o pagamento da fraudulenta dívida pública aos banqueiros em detrimento dos investimentos em saúde, educação e saneamento básico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A política econômica deste governo é pautada pelo Arcabouço Fiscal, uma versão requentada do teto de gastos que prioriza o pagamento da fraudulenta dívida pública aos banqueiros em detrimento dos investimentos em saúde, educação e saneamento básico. Auditoria e suspensão imediata do pagamento da dívida estadual aos banqueiros, destinando esses recursos para a saúde e educação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "A política econômica deste governo é pautada pelo Arcabouço Fiscal, uma versão requentada do teto de gastos que prioriza o pagamento da fraudulenta dívida pública aos banqueiros em detrimento dos investimentos em saúde, educação e saneamento básico. Auditoria e suspensão imediata do pagamento da dívida estadual aos banqueiros, destinando esses recursos para a saúde e educação."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Essas lutas estão intrinsecamente conectadas à defesa do meio ambiente e à denúncia do \"PL da Devastação\", demonstrando que a preservação dos biomas brasileiros só é possível através do enfrentamento aos lucros dos grandes latifundiários.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "Essas lutas estão intrinsecamente conectadas à defesa do meio ambiente e à denúncia do \"PL da Devastação\", demonstrando que a preservação dos biomas brasileiros só é possível através do enfrentamento aos lucros dos grandes latifundiários."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O programa socialista defende: Expropriação do latifúndio e do agronegócio, colocando a terra nas mãos de camponeses e da agricultura familiar para produzir alimento barato para o povo, e não commodities para exportação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "O programa socialista defende: Expropriação do latifúndio e do agronegócio, colocando a terra nas mãos de camponeses e da agricultura familiar para produzir alimento barato para o povo, e não commodities para exportação."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "No campo e nas florestas, a resistência é protagonizada pelos povos indígenas, quilombolas e ribeirinhos, que enfrentam diretamente a pistolagem e a grilagem impulsionadas pelo agronegócio e por multinacionais espoliadoras, como a Cargill.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "No campo e nas florestas, a resistência é protagonizada pelos povos indígenas, quilombolas e ribeirinhos, que enfrentam diretamente a pistolagem e a grilagem impulsionadas pelo agronegócio e por multinacionais espoliadoras, como a Cargill."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O transporte deve ser um serviço público gratuito financiado pelos grandes lucros das empresas e impostos progressivos sobre os ricos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 12,
+              "text": "O transporte deve ser um serviço público gratuito financiado pelos grandes lucros das empresas e impostos progressivos sobre os ricos."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "30002551388",
+      "state_code": "AP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AP30002551388_01.pdf",
+      "public_path": "/propostas/2026/AP/2026AP30002551388_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "30002552017",
+      "state_code": "AP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AP30002552017_01.pdf",
+      "public_path": "/propostas/2026/AP/2026AP30002552017_01.pdf",
+      "sha256": "72fc8c60bb07c74e7bb649cacacb796a49e7da7a9cb888fb3d22bb77b28d3647",
+      "summary": "2.2 Escola em tempo integral  Expansão planejada nas regiões de maior vulnerabilidade. A Secretaria de Estado responsável pela assistência social exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras. 1.6 Saúde mental, autismo e doenças raras  Ampliação dos centros de atenção psicossocial. Prevenção, inteligência e firmeza contra o crime A política de segurança será organizada sobre prevenção, investigação qualificada e presença efetiva do Estado. 3.5 Fronteiras, rios e sistema prisional  Bases integradas e patrulhamento fluvial. Conhecimento, profissão e oportunidades A escola deverá preparar o estudante para a cidadania, para continuar seus estudos, ingressar no mercado de trabalho e empreender. Destravar o Amapá O crescimento depende de segurança jurídica, infraestrutura, qualificação e uma administração que respeite quem deseja produzir. 5.1 Regularização fundiária  Digitalização e integração de cadastros. Programa Estadual de Prevenção da Violência Familiar e Proteção das Pessoas em Situação de Vulnerabilidade A Delegacia Social será um programa permanente de caráter preventivo, educativo, comunitário e articulador, vinculado à Secretaria de Estado responsável pela assistência social. exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras.  fortalecimento da prevenção como eixo das políticas de proteção familiar;  ampliação da presença comunitária do Estado;  maior integração entre assistência social, educação, saúde, sistema de justiça e sociedade civil;  identificação precoce de fatores de risco;  redução gradual da violência intrafamiliar;  fortalecimento da rede estadual de proteção;  formação prática de estudantes comprometidos com a cidadania;  consolidação de uma cultura de diálogo, respeito e responsabilidade familiar; 6.4 Segurança alimentar e pesca  Produção local para escolas, hospitais e mercados.  Água, esgotamento sanitário, drenagem e resíduos sólidos. Preservar com ciência, fiscalização e participação O patrimônio ambiental será protegido com planejamento, fiscalização e participação das comunidades.  Combate ao desmatamento, mineração ilegal e crimes contra rios e fauna.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 12,
+          "topics": [
+            "education"
+          ],
+          "summary": "2.2 Escola em tempo integral  Expansão planejada nas regiões de maior vulnerabilidade. A Secretaria de Estado responsável pela assistência social exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "2.2 Escola em tempo integral  Expansão planejada nas regiões de maior vulnerabilidade."
+            },
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "A Secretaria de Estado responsável pela assistência social exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "health"
+          ],
+          "summary": "1.6 Saúde mental, autismo e doenças raras  Ampliação dos centros de atenção psicossocial.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "1.6 Saúde mental, autismo e doenças raras  Ampliação dos centros de atenção psicossocial."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Prevenção, inteligência e firmeza contra o crime A política de segurança será organizada sobre prevenção, investigação qualificada e presença efetiva do Estado. 3.5 Fronteiras, rios e sistema prisional  Bases integradas e patrulhamento fluvial.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Prevenção, inteligência e firmeza contra o crime A política de segurança será organizada sobre prevenção, investigação qualificada e presença efetiva do Estado. 3.5 Fronteiras, rios e sistema prisional  Bases integradas e patrulhamento fluvial."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 16,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Conhecimento, profissão e oportunidades A escola deverá preparar o estudante para a cidadania, para continuar seus estudos, ingressar no mercado de trabalho e empreender. Destravar o Amapá O crescimento depende de segurança jurídica, infraestrutura, qualificação e uma administração que respeite quem deseja produzir. 5.1 Regularização fundiária  Digitalização e integração de cadastros.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 3,
+              "page_end": 4,
+              "text": " Desenvolvimento econômico com responsabilidade ambiental."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Conhecimento, profissão e oportunidades A escola deverá preparar o estudante para a cidadania, para continuar seus estudos, ingressar no mercado de trabalho e empreender."
+            },
+            {
+              "id": "s13",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Destravar o Amapá O crescimento depende de segurança jurídica, infraestrutura, qualificação e uma administração que respeite quem deseja produzir. 5.1 Regularização fundiária  Digitalização e integração de cadastros."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 9,
+          "page_end": 25,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Programa Estadual de Prevenção da Violência Familiar e Proteção das Pessoas em Situação de Vulnerabilidade A Delegacia Social será um programa permanente de caráter preventivo, educativo, comunitário e articulador, vinculado à Secretaria de Estado responsável pela assistência social. exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras.  fortalecimento da prevenção como eixo das políticas de proteção familiar;  ampliação da presença comunitária do Estado;  maior integração entre assistência social, educação, saúde, sistema de justiça e sociedade civil;  identificação precoce de fatores de risco;  redução gradual da violência intrafamiliar;  fortalecimento da rede estadual de proteção;  formação prática de estudantes comprometidos com a cidadania;  consolidação de uma cultura de diálogo, respeito e responsabilidade familiar; 6.4 Segurança alimentar e pesca  Produção local para escolas, hospitais e mercados.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Programa Estadual de Prevenção da Violência Familiar e Proteção das Pessoas em Situação de Vulnerabilidade A Delegacia Social será um programa permanente de caráter preventivo, educativo, comunitário e articulador, vinculado à Secretaria de Estado responsável pela assistência social."
+            },
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "A Secretaria de Estado responsável pela assistência social exercerá a coordenação estratégica do programa, promovendo a articulação entre órgãos públicos, instituições de ensino superior e organizações parceiras."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 14,
+              "text": " fortalecimento da prevenção como eixo das políticas de proteção familiar;  ampliação da presença comunitária do Estado;  maior integração entre assistência social, educação, saúde, sistema de justiça e sociedade civil;  identificação precoce de fatores de risco;  redução gradual da violência intrafamiliar;  fortalecimento da rede estadual de proteção;  formação prática de estudantes comprometidos com a cidadania;  consolidação de uma cultura de diálogo, respeito e responsabilidade familiar;"
+            },
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "6.4 Segurança alimentar e pesca  Produção local para escolas, hospitais e mercados."
+            },
+            {
+              "id": "s22",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "14.3 População em situação de rua e segurança alimentar  Acolhimento, documentação, saúde, tratamento e qualificação."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 27,
+          "page_end": 28,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": " Água, esgotamento sanitário, drenagem e resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s25",
+              "page_start": 27,
+              "page_end": 28,
+              "text": " Água, esgotamento sanitário, drenagem e resíduos sólidos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 28,
+          "page_end": 29,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Preservar com ciência, fiscalização e participação O patrimônio ambiental será protegido com planejamento, fiscalização e participação das comunidades.  Combate ao desmatamento, mineração ilegal e crimes contra rios e fauna.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Preservar com ciência, fiscalização e participação O patrimônio ambiental será protegido com planejamento, fiscalização e participação das comunidades.  Combate ao desmatamento, mineração ilegal e crimes contra rios e fauna."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 16,
+          "page_end": 17,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "6.1 Agricultura familiar  Assistência técnica, sementes, mecanização e irrigação.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "6.1 Agricultura familiar  Assistência técnica, sementes, mecanização e irrigação."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "2.3 Ensino técnico e profissionalizante  Saúde, informática, programação, inteligência artificial e robótica.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "2.3 Ensino técnico e profissionalizante  Saúde, informática, programação, inteligência artificial e robótica."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 25,
+          "page_end": 26,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Valorizar a identidade do Amapá A cultura será reconhecida como patrimônio, direito e atividade econômica.  Valorização do Marabaixo, Batuque, culturas indígena e quilombola.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "Valorizar a identidade do Amapá A cultura será reconhecida como patrimônio, direito e atividade econômica.  Valorização do Marabaixo, Batuque, culturas indígena e quilombola."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 17,
+          "page_end": 18,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": " Respeito à autonomia dos povos indígenas e às exigências de consulta.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 17,
+              "page_end": 18,
+              "text": " Respeito à autonomia dos povos indígenas e às exigências de consulta."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 30,
+          "topics": [
+            "governance"
+          ],
+          "summary": " Formação em saúde, engenharia, tecnologia, energia, logística, turismo, educação e gestão pública. A publicidade das ações buscará estimular a participação social, fortalecer a cultura da prevenção e permitir o acompanhamento dos resultados, sem exposição das famílias ou das vítimas. 19.3 Participação social  Consultas, audiências, fóruns, reuniões regionais e canais digitais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 3,
+              "page_end": 4,
+              "text": " Gestão por metas, transparência e participação social."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": " Formação em saúde, engenharia, tecnologia, energia, logística, turismo, educação e gestão pública."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "A publicidade das ações buscará estimular a participação social, fortalecer a cultura da prevenção e permitir o acompanhamento dos resultados, sem exposição das famílias ou das vítimas."
+            },
+            {
+              "id": "s27",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "19.3 Participação social  Consultas, audiências, fóruns, reuniões regionais e canais digitais."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": " fortalecimento da prevenção como eixo das políticas de proteção familiar;  ampliação da presença comunitária do Estado;  maior integração entre assistência social, educação, saúde, sistema de justiça e sociedade civil;  identificação precoce de fatores de risco;  redução gradual da violência intrafamiliar;  fortalecimento da rede estadual de proteção;  formação prática de estudantes comprometidos com a cidadania;  consolidação de uma cultura de diálogo, respeito e responsabilidade familiar;",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 14,
+              "text": " fortalecimento da prevenção como eixo das políticas de proteção familiar;  ampliação da presença comunitária do Estado;  maior integração entre assistência social, educação, saúde, sistema de justiça e sociedade civil;  identificação precoce de fatores de risco;  redução gradual da violência intrafamiliar;  fortalecimento da rede estadual de proteção;  formação prática de estudantes comprometidos com a cidadania;  consolidação de uma cultura de diálogo, respeito e responsabilidade familiar;"
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

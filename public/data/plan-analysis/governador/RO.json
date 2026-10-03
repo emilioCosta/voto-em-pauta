@@ -1,0 +1,2606 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "RO",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "220002536806",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002536806_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002536806_01.pdf",
+      "sha256": "0df2d3486bce71335f3880841504a55fb253a89858516fe581f86ab427d4395f",
+      "summary": "A entrega exige cooperação com os municípios, responsáveis pela educação infantil e pelo ensino fundamental, e articulação com assistência social, saúde, infraestrutura e tecnologia para que a escola consiga acolher, ensinar e proteger. o Indicador Criança Alfabetizada alcançou 75% em 2025, e o abandono no ensino médio público caiu de 7,5% para 4,3% entre 2022 e 2025. Não é aceitável que nove em cada dez rondonienses dependam da saúde pública e que cerca de metade da população esteja inscrita no Cadastro Único. Vemos a mãe que depende da saúde pública e espera atendimento, exame ou cirurgia no tempo certo — e não pode esperar quando a doença chega. A linha de cuidado em neurodesenvolvimento acompanhará a pessoa desde a infância até a vida adulta, inclusive após os 18 anos, integrando avaliação especializada, reabilitação, saúde mental, orientação às famílias, educação, assistência social, qualificação e trabalho. Segurança pública efetiva é aquela que acolhe vítimas, valoriza quem protege a população, enfrenta organizações criminosas e reduz a reincidência sem abandonar a responsabilidade com a dignidade e os projetos de vida. A LOA de 2026 destina aproximadamente R$ 2,72 bilhões ao núcleo de segurança pública, sistema penal e socioeducativo — cerca de 14,56% do orçamento estadual. Vamos estabelecer padrões estaduais de contingência e resiliência para os equipamentos públicos sob responsabilidade do Estado, priorizando unidades de saúde, escolas, sistemas de abastecimento, estruturas de segurança pública e defesa civil. precisa virar saúde, educação, renda, água, saneamento e oportunidades em todos os territórios. Não tratamos proteção social e desenvolvimento econômico como caminhos separados. A coordenação deve partir da SEAS — Secretaria de Estado da Mulher, da Família, da Assistência e do Desenvolvimento Social —, em integração com SESAU, SESDEC, Polícia Civil, Polícia Militar, POLITEC, educação, trabalho, desenvolvimento econômico, agricultura e municípios, respeitadas as atribuições do Judiciário, Ministério Público e Defensoria Pública. Vamos organizar o planejamento estadual de água e esgotamento sanitário tomando como referência as metas de universalização previstas no Marco Legal do Saneamento: 99% da população com acesso à água potável e 90% com coleta e tratamento de esgoto até 31 de dezembro de 2033.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 9,
+          "page_end": 38,
+          "topics": [
+            "education"
+          ],
+          "summary": "A entrega exige cooperação com os municípios, responsáveis pela educação infantil e pelo ensino fundamental, e articulação com assistência social, saúde, infraestrutura e tecnologia para que a escola consiga acolher, ensinar e proteger. o Indicador Criança Alfabetizada alcançou 75% em 2025, e o abandono no ensino médio público caiu de 7,5% para 4,3% entre 2022 e 2025.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "A entrega exige cooperação com os municípios, responsáveis pela educação infantil e pelo ensino fundamental, e articulação com assistência social, saúde, infraestrutura e tecnologia para que a escola consiga acolher, ensinar e proteger. o Indicador Criança Alfabetizada alcançou 75% em 2025, e o abandono no ensino médio público caiu de 7,5% para 4,3% entre 2022 e 2025."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 61,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não é aceitável que nove em cada dez rondonienses dependam da saúde pública e que cerca de metade da população esteja inscrita no Cadastro Único. Vemos a mãe que depende da saúde pública e espera atendimento, exame ou cirurgia no tempo certo — e não pode esperar quando a doença chega. A linha de cuidado em neurodesenvolvimento acompanhará a pessoa desde a infância até a vida adulta, inclusive após os 18 anos, integrando avaliação especializada, reabilitação, saúde mental, orientação às famílias, educação, assistência social, qualificação e trabalho.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "Não é aceitável que nove em cada dez rondonienses dependam da saúde pública e que cerca de metade da população esteja inscrita no Cadastro Único. Vemos a mãe que depende da saúde pública e espera atendimento, exame ou cirurgia no tempo certo — e não pode esperar quando a doença chega."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "A linha de cuidado em neurodesenvolvimento acompanhará a pessoa desde a infância até a vida adulta, inclusive após os 18 anos, integrando avaliação especializada, reabilitação, saúde mental, orientação às famílias, educação, assistência social, qualificação e trabalho. Integrar saúde mental, proteção social e atenção à crise."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "preservá-la é abrir mercados, proteger famílias e dar segurança a quem produz e consome. proteção da memória e do patrimônio; esporte escolar, comunitário, inclusivo e de rendimento; apoio a atletas e paratletas; revitalização e uso permanente dos equipamentos públicos; e uma política transversal de juventude, conectada à educação, qualificação, primeiro emprego, saúde mental e prevenção da violência."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 9,
+          "page_end": 114,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança pública efetiva é aquela que acolhe vítimas, valoriza quem protege a população, enfrenta organizações criminosas e reduz a reincidência sem abandonar a responsabilidade com a dignidade e os projetos de vida. A LOA de 2026 destina aproximadamente R$ 2,72 bilhões ao núcleo de segurança pública, sistema penal e socioeducativo — cerca de 14,56% do orçamento estadual. Vamos estabelecer padrões estaduais de contingência e resiliência para os equipamentos públicos sob responsabilidade do Estado, priorizando unidades de saúde, escolas, sistemas de abastecimento, estruturas de segurança pública e defesa civil.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Segurança pública efetiva é aquela que acolhe vítimas, valoriza quem protege a população, enfrenta organizações criminosas e reduz a reincidência sem abandonar a responsabilidade com a dignidade e os projetos de vida. A LOA de 2026 destina aproximadamente R$ 2,72 bilhões ao núcleo de segurança pública, sistema penal e socioeducativo — cerca de 14,56% do orçamento estadual."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Vamos estabelecer padrões estaduais de contingência e resiliência para os equipamentos públicos sob responsabilidade do Estado, priorizando unidades de saúde, escolas, sistemas de abastecimento, estruturas de segurança pública e defesa civil. Vamos ampliar e qualificar a infraestrutura digital de escolas, unidades de saúde, assistência social, segurança pública e demais pontos de atendimento, garantindo condições adequadas de conexão, equipamentos e continuidade dos serviços."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "Vamos publicar, no primeiro ano de governo, um conjunto de metas quantitativas para a saúde, a educação e a segurança pública, com linha de base, valor esperado, prazo e responsável por cada indicador, contemplando ao menos a redução das filas de consultas, exames e cirurgias, a alfabetização e a aprendizagem em Língua Portuguesa e Matemática, o abandono escolar, a cobertura do atendimento educacional especializado, a cobertura de água e de esgotamento sanitário e as mortes violentas intencionais. Engenharia, compras públicas, resíduos, defesa civil, inspeção sanitária, tecnologia, capacitação, controle interno e outros serviços especializados poderão ser organizados de forma compartilhada, sempre com segurança jurídica, adesão municipal e avaliação de resultado."
+            },
+            {
+              "id": "s10",
+              "page_start": 114,
+              "page_end": 114,
+              "text": "▪ Concluir o estudo técnico do déficit de efetivo da Polícia Militar, da Polícia Civil, da POLITEC e do Corpo de Bombeiros Militar e publicar o Plano Estadual de Recomposição dos Efetivos 2027–2030, com o calendário escalonado de concursos. ▪ Instalar a mesa permanente de diálogo sobre carreiras e valorização das forças de segurança e iniciar o estudo de impacto orçamentário-financeiro."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 91,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "precisa virar saúde, educação, renda, água, saneamento e oportunidades em todos os territórios. Não tratamos proteção social e desenvolvimento econômico como caminhos separados. A coordenação deve partir da SEAS — Secretaria de Estado da Mulher, da Família, da Assistência e do Desenvolvimento Social —, em integração com SESAU, SESDEC, Polícia Civil, Polícia Militar, POLITEC, educação, trabalho, desenvolvimento econômico, agricultura e municípios, respeitadas as atribuições do Judiciário, Ministério Público e Defensoria Pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "precisa virar saúde, educação, renda, água, saneamento e oportunidades em todos os territórios. Não tratamos proteção social e desenvolvimento econômico como caminhos separados."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "A coordenação deve partir da SEAS — Secretaria de Estado da Mulher, da Família, da Assistência e do Desenvolvimento Social —, em integração com SESAU, SESDEC, Polícia Civil, Polícia Militar, POLITEC, educação, trabalho, desenvolvimento econômico, agricultura e municípios, respeitadas as atribuições do Judiciário, Ministério Público e Defensoria Pública. a dotação diretamente vinculada ao Fundo Estadual dos Direitos da Mulher é de cerca de R$ 116,8 mil, enquanto as demais despesas destinadas às mulheres estão dispersas nos orçamentos de saúde, segurança, assistência, educação e desenvolvimento econômico."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "o compromisso é coordená-la para que serviços, incentivos e capacitações tenham resultado concreto nos 52 municípios. A política de desenvolvimento econômico deverá valorizar o processamento local, o aumento da produtividade, a sustentabilidade e a geração de oportunidades em cadeias capazes de distribuir renda pelos territórios."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "A LOA de 2026 distribui recursos em áreas como desenvolvimento econômico, tecnologia, infraestrutura, saúde, educação e segurança, sem uma dotação exclusiva para este programa. Energia e conectividade serão tratadas de forma integrada às políticas de desenvolvimento econômico, educação, saúde, segurança, infraestrutura e inclusão digital."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 3,
+          "page_end": 114,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "4.1 Ciência, Talentos e Inovação I Ciência, inovação e formação de talentos II Propriedade intelectual, tecnologia e investimento público 4.2 Serviço Público que Resolve I Pessoas, lideranças e qualidade do atendimento público II Serviços digitais simples, integrados e acessíveis 4.3 Contas em Ordem e Futuro Protegido I Previdência, patrimônio e responsabilidade fiscal 4.4 Planejar, Investir e Prestar Contas I Prioridades, dados e orçamento orientado a resultados II Monitoramento, avaliação, transparência e prestação de contas III Planejamento, investimentos, dados e inovação responsável 4.5 Governo Íntegro e Municípios Fortes I Integridade, controles, compras e resposta a irregularidades II Capacidade de execução, cooperação e projetos municipais III Presença territorial, gestão local e participação social Os primeiros 100 dias O futuro de Rondônia começa com confiança. Construir a valorização remuneratória e funcional das forças de segurança com responsabilidade fiscal. Cada proposta será precedida de estudo de impacto orçamentário-financeiro, demonstração de fonte de custeio e observância dos limites da Lei de Responsabilidade Fiscal, com implementação planejada ao longo da gest",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "4.1 Ciência, Talentos e Inovação I Ciência, inovação e formação de talentos II Propriedade intelectual, tecnologia e investimento público 4.2 Serviço Público que Resolve I Pessoas, lideranças e qualidade do atendimento público II Serviços digitais simples, integrados e acessíveis 4.3 Contas em Ordem e Futuro Protegido I Previdência, patrimônio e responsabilidade fiscal 4.4 Planejar, Investir e Prestar Contas I Prioridades, dados e orçamento orientado a resultados II Monitoramento, avaliação, transparência e prestação de contas III Planejamento, investimentos, dados e inovação responsável 4.5 Governo Íntegro e Municípios Fortes I Integridade, controles, compras e resposta a irregularidades II Capacidade de execução, cooperação e projetos municipais III Presença territorial, gestão local e participação social Os primeiros 100 dias O futuro de Rondônia começa com confiança."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Construir a valorização remuneratória e funcional das forças de segurança com responsabilidade fiscal. Cada proposta será precedida de estudo de impacto orçamentário-financeiro, demonstração de fonte de custeio e observância dos limites da Lei de Responsabilidade Fiscal, com implementação planejada ao longo da gestão e transparência sobre prazos e etapas."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "Os apoios públicos deverão observar contrapartidas, geração de trabalho, compras locais, regularidade e resultado efetivo para os municípios, com transparência e responsabilidade fiscal. Todo apoio público deverá observar responsabilidade fiscal, transparência e avaliação dos resultados efetivamente alcançados."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Também serão avaliadas medidas de valorização, qualificação e retenção dos profissionais, inclusive das áreas de engenharia, observadas a legislação, a disponibilidade orçamentária e a responsabilidade fiscal."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "O programa Contas em Ordem e Futuro Protegido assegura que a responsabilidade fiscal, a previdência, o patrimônio público e a gestão dos recursos sejam tratados como bases para proteger direitos e manter serviços de qualidade. Vamos atualizar carreiras, cargos, atribuições e estruturas remuneratórias, corrigindo distorções e reconhecendo, com critérios objetivos e responsabilidade fiscal, a qualificação, o desempenho e a progressão profissional."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 2,
+          "page_end": 114,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "1.1 Saúde Perto de Quem Precisa I Regulação, acesso especializado e cuidado continuado II Rede regional, urgência, hospitais e equipes III Atenção primária, saúde materno-infantil e primeira infância 1.2 Educação para a Vida e o Futuro I Aprendizagem, permanência e proteção na escola II Comunidade escolar, equipes e rede de proteção 1.3 Cuidado, Direitos e Cidadania I Proteção social, cidadania e prevenção de violações II Segurança alimentar, autonomia e prevenção das violências III Direitos, inclusão, diversidade e acessibilidade 1.4 Rondônia Segura e de Paz I Resposta policial, presença territorial e proteção imediata II Investigação, justiça e reinserção social 1.5 Mulher Protegida, Autônoma e Saudável I Rede de proteção, acolhimento e saúde das mulheres Vemos também as famílias em vulnerabilidade que recorrem ao Cadastro Único diante da falta de renda, da insegurança alimentar, da violência ou da ausência de moradia: cerca de metade dos rondonienses está inscrita. Não tratamos proteção social e desenvolvimento econômico como caminhos separados. Seu objetivo é transformar proteção em autonomia, integrando assistência social, segurança alimentar, documentação, qualificação, traba",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "1.1 Saúde Perto de Quem Precisa I Regulação, acesso especializado e cuidado continuado II Rede regional, urgência, hospitais e equipes III Atenção primária, saúde materno-infantil e primeira infância 1.2 Educação para a Vida e o Futuro I Aprendizagem, permanência e proteção na escola II Comunidade escolar, equipes e rede de proteção 1.3 Cuidado, Direitos e Cidadania I Proteção social, cidadania e prevenção de violações II Segurança alimentar, autonomia e prevenção das violências III Direitos, inclusão, diversidade e acessibilidade 1.4 Rondônia Segura e de Paz I Resposta policial, presença territorial e proteção imediata II Investigação, justiça e reinserção social 1.5 Mulher Protegida, Autônoma e Saudável I Rede de proteção, acolhimento e saúde das mulheres"
+            },
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "Vemos também as famílias em vulnerabilidade que recorrem ao Cadastro Único diante da falta de renda, da insegurança alimentar, da violência ou da ausência de moradia: cerca de metade dos rondonienses está inscrita. Não tratamos proteção social e desenvolvimento econômico como caminhos separados."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Seu objetivo é transformar proteção em autonomia, integrando assistência social, segurança alimentar, documentação, qualificação, trabalho e defesa de direitos. A linha de cuidado em neurodesenvolvimento acompanhará a pessoa desde a infância até a vida adulta, inclusive após os 18 anos, integrando avaliação especializada, reabilitação, saúde mental, orientação às famílias, educação, assistência social, qualificação e trabalho."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "Vamos integrar educação, qualificação profissional, trabalho, assistência social, cultura, esporte e apoio às famílias, respeitando as necessidades de cada pessoa e ampliando oportunidades de formação, empregabilidade, participação comunitária e vida independente. A política integrará esporte, educação, assistência social e saúde, priorizando territórios de maior vulnerabilidade e ampliando oportunidades de convivência, formação, saúde e desenvolvimento."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Vamos ampliar e qualificar a infraestrutura digital de escolas, unidades de saúde, assistência social, segurança pública e demais pontos de atendimento, garantindo condições adequadas de conexão, equipamentos e continuidade dos serviços. onde o risco não puder ser adequadamente mitigado, serão planejadas soluções de proteção, reassentamento ou atendimento habitacional, com respeito à dignidade das famílias e articulação com as políticas de assistência social e Defesa Civil."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "Desse total, as despesas correntes correspondem a 87,82%, enquanto os recursos vinculados ao Regime Próprio de Previdência Social e ao Sistema de Proteção Social dos Militares somam cerca de R$ 2,59 bilhões. ▪ Iniciar a busca ativa dos estudantes fora da escola ou em risco de abandono, com fluxo integrado entre educação, assistência social, saúde e municípios."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 61,
+          "page_end": 91,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Vamos organizar o planejamento estadual de água e esgotamento sanitário tomando como referência as metas de universalização previstas no Marco Legal do Saneamento: 99% da população com acesso à água potável e 90% com coleta e tratamento de esgoto até 31 de dezembro de 2033.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Vamos organizar o planejamento estadual de água e esgotamento sanitário tomando como referência as metas de universalização previstas no Marco Legal do Saneamento: 99% da população com acesso à água potável e 90% com coleta e tratamento de esgoto até 31 de dezembro de 2033."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 38,
+          "page_end": 114,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Simplificar será eliminar exigências redundantes, dar previsibilidade e orientar com clareza, preservando a saúde, o meio ambiente, a segurança e os direitos do consumidor. A atuação será integrada entre Defesa Civil, saúde, meio ambiente, infraestrutura, agricultura, segurança e municípios. Vamos integrar clima, saúde, defesa civil, agricultura, infraestrutura, meio ambiente e planejamento para identificar riscos, definir prioridades e incorporar medidas de adaptação aos investimentos públicos.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "Simplificar será eliminar exigências redundantes, dar previsibilidade e orientar com clareza, preservando a saúde, o meio ambiente, a segurança e os direitos do consumidor."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "A atuação será integrada entre Defesa Civil, saúde, meio ambiente, infraestrutura, agricultura, segurança e municípios. Vamos integrar clima, saúde, defesa civil, agricultura, infraestrutura, meio ambiente e planejamento para identificar riscos, definir prioridades e incorporar medidas de adaptação aos investimentos públicos."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "Vamos orientar o fomento e as parcerias para problemas concretos da agropecuária, bioeconomia, saúde, educação, segurança, logística, meio ambiente, saneamento, prevenção de riscos e transformação digital."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 2,
+          "page_end": 91,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Agricultura Familiar e Agroindústria I Agroindústria, diagnóstico e cadeias de valor II Agricultura familiar, assistência técnica e desenvolvimento rural 2.2 Bioeconomia, Cadeias e Novos Mercados I Bioeconomia, investimentos e abertura de mercados II Cadeias produtivas, sanidade e cooperativismo 2.3 Trabalho, Negócios e Renda I Empreendedorismo, crédito e acesso a mercados II Ambiente territorial e apoio aos pequenos negócios III Qualificação, emprego e autonomia 2.4 Indústria, Comércio, Turismo e Inovação I Indústria, competitividade e trabalho com retorno local II Distritos produtivos, comércio, serviços e turismo 2.5 Cultura, Esporte e Juventude I Cultura, esporte e economia criativa II Juventude, equipamentos comunitários e educação para o trabalho Agricultura Familiar e Agroindústria, Bioeconomia, Cadeias e Novos Mercados, Trabalho, Negócios e Renda, Indústria, Comércio, Turismo e Inovação e Cultura, Esporte e Juventude, vamos fortalecer a produção responsável, agregar valor, qualificar pessoas, apoiar os pequenos negócios e ampliar oportunidades em todos os territórios. Sempre que viável e conforme a legislação, promoveremos compras responsáveis da agricultura familiar, valor",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Agricultura Familiar e Agroindústria I Agroindústria, diagnóstico e cadeias de valor II Agricultura familiar, assistência técnica e desenvolvimento rural 2.2 Bioeconomia, Cadeias e Novos Mercados I Bioeconomia, investimentos e abertura de mercados II Cadeias produtivas, sanidade e cooperativismo 2.3 Trabalho, Negócios e Renda I Empreendedorismo, crédito e acesso a mercados II Ambiente territorial e apoio aos pequenos negócios III Qualificação, emprego e autonomia 2.4 Indústria, Comércio, Turismo e Inovação I Indústria, competitividade e trabalho com retorno local II Distritos produtivos, comércio, serviços e turismo 2.5 Cultura, Esporte e Juventude I Cultura, esporte e economia criativa II Juventude, equipamentos comunitários e educação para o trabalho"
+            },
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "Agricultura Familiar e Agroindústria, Bioeconomia, Cadeias e Novos Mercados, Trabalho, Negócios e Renda, Indústria, Comércio, Turismo e Inovação e Cultura, Esporte e Juventude, vamos fortalecer a produção responsável, agregar valor, qualificar pessoas, apoiar os pequenos negócios e ampliar oportunidades em todos os territórios."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Sempre que viável e conforme a legislação, promoveremos compras responsáveis da agricultura familiar, valorizando produtos locais e gerando oportunidades para quem produz. A formação técnica, a pesquisa e a extensão serão aproximadas das vocações de cada território, incluindo agricultura familiar, agropecuária, agroindústria, bioeconomia e empreendedorismo, preservando a formação integral dos estudantes e sua liberdade de escolha profissional."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "Agricultura Familiar e Agroindústria fortalece a produção rural, a agricultura familiar, o cooperativismo e as pequenas agroindústrias. p i l a r 0 2 · d a r f o r ç a a q u e m t r a b a l h a e p r o d u z 2.1 Campo Forte: Agricultura Familiar e Agroindústria Meu compromisso é fazer o campo forte gerar mais renda, mais valor e mais futuro para quem produz em Rondônia."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Sem elas, a escola não conecta, a unidade de saúde não acessa sistemas, o pequeno negócio perde mercado e a produção rural enfrenta mais custo e isolamento."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 38,
+          "page_end": 114,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Vamos articular capacitação, orientação técnica, transformação digital, precificação, organização financeira e conexão com as oportunidades de cada território. Vamos orientar o fomento e as parcerias para problemas concretos da agropecuária, bioeconomia, saúde, educação, segurança, logística, meio ambiente, saneamento, prevenção de riscos e transformação digital. transformar informações em decisões; orientar o orçamento para resultados; acompanhar prazos, custos e qualidade; avaliar políticas públicas; corrigir rotas; prestar contas com linguagem clara; e usar dados e inteligência artificial com segurança, ética e proteção às informações das pessoas.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "Vamos articular capacitação, orientação técnica, transformação digital, precificação, organização financeira e conexão com as oportunidades de cada território."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "Vamos orientar o fomento e as parcerias para problemas concretos da agropecuária, bioeconomia, saúde, educação, segurança, logística, meio ambiente, saneamento, prevenção de riscos e transformação digital. transformar informações em decisões; orientar o orçamento para resultados; acompanhar prazos, custos e qualidade; avaliar políticas públicas; corrigir rotas; prestar contas com linguagem clara; e usar dados e inteligência artificial com segurança, ética e proteção às informações das pessoas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 2,
+          "page_end": 114,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Agricultura Familiar e Agroindústria I Agroindústria, diagnóstico e cadeias de valor II Agricultura familiar, assistência técnica e desenvolvimento rural 2.2 Bioeconomia, Cadeias e Novos Mercados I Bioeconomia, investimentos e abertura de mercados II Cadeias produtivas, sanidade e cooperativismo 2.3 Trabalho, Negócios e Renda I Empreendedorismo, crédito e acesso a mercados II Ambiente territorial e apoio aos pequenos negócios III Qualificação, emprego e autonomia 2.4 Indústria, Comércio, Turismo e Inovação I Indústria, competitividade e trabalho com retorno local II Distritos produtivos, comércio, serviços e turismo 2.5 Cultura, Esporte e Juventude I Cultura, esporte e economia criativa II Juventude, equipamentos comunitários e educação para o trabalho proteção da memória e do patrimônio; esporte escolar, comunitário, inclusivo e de rendimento; apoio a atletas e paratletas; revitalização e uso permanente dos equipamentos públicos; e uma política transversal de juventude, conectada à educação, qualificação, primeiro emprego, saúde mental e prevenção da violência. I Cultura, esporte e economia criativa COMPROMISSOS Fortalecer a cultura rondoniense como direito, identidade, memória e ",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Agricultura Familiar e Agroindústria I Agroindústria, diagnóstico e cadeias de valor II Agricultura familiar, assistência técnica e desenvolvimento rural 2.2 Bioeconomia, Cadeias e Novos Mercados I Bioeconomia, investimentos e abertura de mercados II Cadeias produtivas, sanidade e cooperativismo 2.3 Trabalho, Negócios e Renda I Empreendedorismo, crédito e acesso a mercados II Ambiente territorial e apoio aos pequenos negócios III Qualificação, emprego e autonomia 2.4 Indústria, Comércio, Turismo e Inovação I Indústria, competitividade e trabalho com retorno local II Distritos produtivos, comércio, serviços e turismo 2.5 Cultura, Esporte e Juventude I Cultura, esporte e economia criativa II Juventude, equipamentos comunitários e educação para o trabalho"
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "proteção da memória e do patrimônio; esporte escolar, comunitário, inclusivo e de rendimento; apoio a atletas e paratletas; revitalização e uso permanente dos equipamentos públicos; e uma política transversal de juventude, conectada à educação, qualificação, primeiro emprego, saúde mental e prevenção da violência. I Cultura, esporte e economia criativa COMPROMISSOS Fortalecer a cultura rondoniense como direito, identidade, memória e trabalho."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "fortalecimento de startups, incubadoras e empresas inovadoras; apoio à inovação nas cadeias produtivas, pequenas empresas e economia criativa; formação científica, tecnológica e profissional; permanência de talentos; propriedade intelectual e transferência de tecnologia; e uso responsável de soluções desenvolvidas localmente pelo próprio Governo. Vamos buscar maior previsibilidade para a ciência, a inovação e a economia criativa, articulando recursos estaduais e parcerias com a União, municípios, instituições de pesquisa e setor produtivo."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 3,
+          "page_end": 91,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Vemos a mulher que precisa de proteção antes que a violência vire tragédia, a criança que precisa de escola que acolha, o jovem que quer construir seu futuro aqui, o idoso e a pessoa com deficiência que não podem ficar sós diante das barreiras do serviço público. Por isso, o programa prioriza busca ativa, porta única de atendimento, cofinanciamento mais eficiente aos municípios, alimentação acessível, inclusão produtiva e proteção específica a crianças, pessoas idosas, pessoas com deficiência, povos indígenas, comunidades quilombolas, ribeirinhas, população em situação de rua e demais grupos expostos a violações. Vamos estruturar fluxos seguros para acolher denúncias, preservar informações sensíveis, avaliar riscos e articular providências com os órgãos responsáveis quando houver ameaças a defensores de direitos humanos, comunicadores e lideranças sociais.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "Vemos a mulher que precisa de proteção antes que a violência vire tragédia, a criança que precisa de escola que acolha, o jovem que quer construir seu futuro aqui, o idoso e a pessoa com deficiência que não podem ficar sós diante das barreiras do serviço público."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Por isso, o programa prioriza busca ativa, porta única de atendimento, cofinanciamento mais eficiente aos municípios, alimentação acessível, inclusão produtiva e proteção específica a crianças, pessoas idosas, pessoas com deficiência, povos indígenas, comunidades quilombolas, ribeirinhas, população em situação de rua e demais grupos expostos a violações. Vamos estruturar fluxos seguros para acolher denúncias, preservar informações sensíveis, avaliar riscos e articular providências com os órgãos responsáveis quando houver ameaças a defensores de direitos humanos, comunicadores e lideranças sociais."
+            },
+            {
+              "id": "s07",
+              "page_start": 38,
+              "page_end": 61,
+              "text": "A política respeitará os direitos, os conhecimentos e as formas de organização de povos indígenas, comunidades ribeirinhas, quilombolas, extrativistas e tradicionais, assegurando diálogo adequado, rastreabilidade e repartição justa de benefícios quando cabível. O turismo deverá respeitar o ambiente e as identidades de Rondônia, fortalecendo cidades, comunidades ribeirinhas, povos indígenas, quilombolas e regiões de fronteira quando participarem da atividade."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "Distritos, áreas rurais, comunidades ribeirinhas, povos indígenas, escolas, unidades de saúde e pequenos empreendimentos ainda enfrentam instabilidade, baixa qualidade ou custo elevado."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 114,
+          "topics": [
+            "governance"
+          ],
+          "summary": "4.1 Ciência, Talentos e Inovação I Ciência, inovação e formação de talentos II Propriedade intelectual, tecnologia e investimento público 4.2 Serviço Público que Resolve I Pessoas, lideranças e qualidade do atendimento público II Serviços digitais simples, integrados e acessíveis 4.3 Contas em Ordem e Futuro Protegido I Previdência, patrimônio e responsabilidade fiscal 4.4 Planejar, Investir e Prestar Contas I Prioridades, dados e orçamento orientado a resultados II Monitoramento, avaliação, transparência e prestação de contas III Planejamento, investimentos, dados e inovação responsável 4.5 Governo Íntegro e Municípios Fortes I Integridade, controles, compras e resposta a irregularidades II Capacidade de execução, cooperação e projetos municipais III Presença territorial, gestão local e participação social Os primeiros 100 dias O futuro de Rondônia começa com confiança. Vemos a mulher que precisa de proteção antes que a violência vire tragédia, a criança que precisa de escola que acolha, o jovem que quer construir seu futuro aqui, o idoso e a pessoa com deficiência que não podem ficar sós diante das barreiras do serviço público. Assim, o Estado deixa de atuar apenas quando a crise",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "4.1 Ciência, Talentos e Inovação I Ciência, inovação e formação de talentos II Propriedade intelectual, tecnologia e investimento público 4.2 Serviço Público que Resolve I Pessoas, lideranças e qualidade do atendimento público II Serviços digitais simples, integrados e acessíveis 4.3 Contas em Ordem e Futuro Protegido I Previdência, patrimônio e responsabilidade fiscal 4.4 Planejar, Investir e Prestar Contas I Prioridades, dados e orçamento orientado a resultados II Monitoramento, avaliação, transparência e prestação de contas III Planejamento, investimentos, dados e inovação responsável 4.5 Governo Íntegro e Municípios Fortes I Integridade, controles, compras e resposta a irregularidades II Capacidade de execução, cooperação e projetos municipais III Presença territorial, gestão local e participação social Os primeiros 100 dias O futuro de Rondônia começa com confiança. Vemos a mulher que precisa de proteção antes que a violência vire tragédia, a criança que precisa de escola que acolha, o jovem que quer construir seu futuro aqui, o idoso e a pessoa com deficiência que não podem ficar sós diante das barreiras do serviço público."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Assim, o Estado deixa de atuar apenas quando a crise já se instalou e passa a apoiar famílias e grupos vulnerabilizados para reconstruírem vínculos, renda, segurança e participação social. Protege mulheres da violência, assegura cuidado em saúde e cria condições para autonomia econômica e participação social."
+            },
+            {
+              "id": "s08",
+              "page_start": 61,
+              "page_end": 91,
+              "text": "O transporte coletivo urbano é serviço público de titularidade municipal, nos termos do artigo 30, inciso V, da Constituição Federal."
+            },
+            {
+              "id": "s09",
+              "page_start": 91,
+              "page_end": 114,
+              "text": "O programa Serviço Público que Resolve organiza pessoas, processos e tecnologia para tornar o atendimento mais simples, integrado, acessível e respeitoso com o tempo da população. O programa Governo Íntegro e Municípios Fortes fortalece a prevenção de falhas, a transparência, a participação social e a cooperação com os 52 municípios."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 9,
+          "page_end": 38,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Vamos tornar o cofinanciamento, a assistência técnica e a transparência mais próximos das necessidades de cada território, fortalecendo os serviços de assistência e a atuação integrada com Conselhos Tutelares, sistema de justiça e demais órgãos de proteção. A coordenação envolve a SESDEC, Polícia Militar, Polícia Civil, Corpo de Bombeiros e POLITEC, em articulação com a SEJUS, Polícia Penal, FEASE, municípios e instituições do sistema de justiça.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 38,
+              "text": "Vamos tornar o cofinanciamento, a assistência técnica e a transparência mais próximos das necessidades de cada território, fortalecendo os serviços de assistência e a atuação integrada com Conselhos Tutelares, sistema de justiça e demais órgãos de proteção. A coordenação envolve a SESDEC, Polícia Militar, Polícia Civil, Corpo de Bombeiros e POLITEC, em articulação com a SEJUS, Polícia Penal, FEASE, municípios e instituições do sistema de justiça."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002541939",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002541939_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002541939_01.pdf",
+      "sha256": "abdc115e22108627860c78be1ba3c0ec2420ce8c93f63dcada49b55ff84123bf",
+      "summary": "Educação que Gera Aprendizagem, Oportunidades e Desenvolvimento Uma educação pública de qualidade exige gestão eficiente, valorização e formação dos profissionais, infraestrutura adequada e aplicação responsável dos recursos. Rondônia precisa de escolas que voltem a fazer sentido para os estudantes, as famílias e as comunidades, funcionando como espaços de aprendizagem, inclusão, proteção social, inovação e preparação para a vida cidadã, o ensino superior e o mundo do trabalho.  Ampliar o ensino médio em tempo integral atrelado a trilhas vocacionais e às vocações econômicas de Rondônia. Hospitais públicos chegaram a registrar taxas de ocupação acima de 200%, evidenciando a falta de leitos e de gestão. A saúde pública de Rondônia enfrenta uma crise caracterizada pela perda de capacidade assistencial, pela concentração dos serviços, pelo aumento das filas e pela insuficiente integração da rede estadual. O problema da saúde pública de Rondônia não decorre apenas da disponibilidade de recursos. Para que essa visão saia do papel, a Rondônia que queremos e vamos construir está ancorada em quatro pilares estruturais inegociáveis: Segurança com Autoridade (Paz Social): Nenhum projeto de desenvolvimento se sustenta onde o cidadão vive com medo, onde a família perde o direito de circular com tranquilidade e onde o crime organizado ocupa o espaço que deveria ser do Estado. Nosso Governo terá uma diretriz clara, que é recuperar a presença do Estado, fortalecer as forças de segurança e enfrentar o crime organizado com inteligência, integração e firmeza. O Programa Escola Segura, Protegida implantará protocolos de segurança, controle de acesso adequado ao porte da escola, videomonitoramento em áreas comuns, reconhecimento facial, catracas, botão de emergência, articulação com forças de segurança pública (PM) quando necessário, prevenção ao aliciamento de menores, atuação no entorno escolar, planos de evacuação, formação de equipes escolares e canais de comunicação com as famílias. Um tempo de crescimento econômico com responsabilidade social, de segurança com liberdade, de oportunidades para os jovens, de valorização das famílias e de respeito ao dinheiro do contribuinte. O meio ambiente será tratado com responsabilidade, segurança jurídica e inteligência econômica, para que produzir, preservar e gerar renda caminhem juntos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 26,
+          "page_end": 30,
+          "topics": [
+            "education"
+          ],
+          "summary": "Educação que Gera Aprendizagem, Oportunidades e Desenvolvimento Uma educação pública de qualidade exige gestão eficiente, valorização e formação dos profissionais, infraestrutura adequada e aplicação responsável dos recursos. Rondônia precisa de escolas que voltem a fazer sentido para os estudantes, as famílias e as comunidades, funcionando como espaços de aprendizagem, inclusão, proteção social, inovação e preparação para a vida cidadã, o ensino superior e o mundo do trabalho.  Ampliar o ensino médio em tempo integral atrelado a trilhas vocacionais e às vocações econômicas de Rondônia.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Educação que Gera Aprendizagem, Oportunidades e Desenvolvimento Uma educação pública de qualidade exige gestão eficiente, valorização e formação dos profissionais, infraestrutura adequada e aplicação responsável dos recursos. Rondônia precisa de escolas que voltem a fazer sentido para os estudantes, as famílias e as comunidades, funcionando como espaços de aprendizagem, inclusão, proteção social, inovação e preparação para a vida cidadã, o ensino superior e o mundo do trabalho."
+            },
+            {
+              "id": "s13",
+              "page_start": 26,
+              "page_end": 27,
+              "text": " Ampliar o ensino médio em tempo integral atrelado a trilhas vocacionais e às vocações econômicas de Rondônia."
+            },
+            {
+              "id": "s16",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "Expandir, de forma planejada e progressiva, a oferta de educação em tempo integral na rede estadual, priorizando escolas localizadas em territórios com maiores índices de evasão, vulnerabilidade social e defasagem de aprendizagem. 1 - garantia de segurança alimentar e bem-estar dos estudantes; 2 - adequação da infraestrutura escolar para a permanência em tempo integral; e 3 - fortalecimento da formação ética, cidadã, democrática e comunitária."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 39,
+          "topics": [
+            "health"
+          ],
+          "summary": "Hospitais públicos chegaram a registrar taxas de ocupação acima de 200%, evidenciando a falta de leitos e de gestão. A saúde pública de Rondônia enfrenta uma crise caracterizada pela perda de capacidade assistencial, pela concentração dos serviços, pelo aumento das filas e pela insuficiente integração da rede estadual. O problema da saúde pública de Rondônia não decorre apenas da disponibilidade de recursos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "A saúde pública é, sem dúvida, a maior ferida aberta no Estado. Hospitais públicos chegaram a registrar taxas de ocupação acima de 200%, evidenciando a falta de leitos e de gestão."
+            },
+            {
+              "id": "s05",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "A saúde pública de Rondônia enfrenta uma crise caracterizada pela perda de capacidade assistencial, pela concentração dos serviços, pelo aumento das filas e pela insuficiente integração da rede estadual. O problema da saúde pública de Rondônia não decorre apenas da disponibilidade de recursos."
+            },
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 19,
+              "text": " Gabinete de Crise da Saúde, sob a coordenação direta do governador para enfrentar o caos da saúde pública de Rondônia para, em 180 dias, de forma emergencial, empreender esforços para zerar o passivo de exames, consultas especializadas e cirurgias eletivas;  Foco na regionalização efetiva da assistência ao usuário do SUS, em frentes de trabalho ambulatoriais e hospitalares;  Construir o novo Pronto Socorro de Rondônia em Porto Velho e ampliar os leitos hospitalares do SUS visando zerar o passivo de cirurgias eletivas do Estado;  Aprimorar o Sistema de Regulação de Pacientes para otimizar a regulação de pacientes transformando o processo de regulação dos acessos, permitindo mais eficiência, transparência e agilidade;  Monitoramento dos dados do SUS, tornando possível a implementação da regulação inteligente.  Implantar a Teleconsultoria e Telematriciamento com equipes de especialistas para prestar consultoria aos médicos da atenção primária dos Municípios e apoio matricial por meio do suporte técnico-pedagógico às equipes de Saúde da Família."
+            },
+            {
+              "id": "s08",
+              "page_start": 20,
+              "page_end": 23,
+              "text": "Implantar plataforma integrada com objetivo de otimizar a regulação de pacientes no Sistema Único de Saúde (SUS), a iniciativa objetiva transformar o processo de regulação dos acessos, permitindo mais eficiência, transparência e agilidade na gestão de leitos hospitalares. Médio Madeira; Alto Madeira; Vale do Guaporé; Rio Mamoré; Rio Machado; Rio Jamari; Rio Roosevelt; Reserva Extrativista Rio Cautário e demais localidades de difícil acesso."
+            },
+            {
+              "id": "s10",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Implantar o Centro Estadual de Saúde Mental como retaguarda técnica e clínica da Rede de Atenção Psicossocial, fortalecendo CAPS, atenção primária, leitos de saúde mental em hospitais gerais, prevenção do suicídio, atenção às crises e integração com educação, assistência social e segurança. Atendimento psicológico, grupos de apoio para saúde mental e qualidade de vida."
+            },
+            {
+              "id": "s18",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "(20) Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 30 Programa SER - Socioemocional, Empatia e Respeito (Cultura do Respeito): Fortalecer a Política institucional de saúde socioemocional, prevenção ao bullying, mediação de conflitos, convivência escolar, prevenção à violência, cuidado com a saúde mental e proteção dos estudantes e profissionais da educação."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "Fortalecer os protocolos na rede de atenção básica para o diagnósƟco precoce de deﬁciências (İsicas, intelectuais, visuais, audiƟvas e Transtorno do Espectro AuƟsta - TEA), garanƟndo o início imediato das terapias de esƟmulação."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 50,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Para que essa visão saia do papel, a Rondônia que queremos e vamos construir está ancorada em quatro pilares estruturais inegociáveis: Segurança com Autoridade (Paz Social): Nenhum projeto de desenvolvimento se sustenta onde o cidadão vive com medo, onde a família perde o direito de circular com tranquilidade e onde o crime organizado ocupa o espaço que deveria ser do Estado. Nosso Governo terá uma diretriz clara, que é recuperar a presença do Estado, fortalecer as forças de segurança e enfrentar o crime organizado com inteligência, integração e firmeza. O Programa Escola Segura, Protegida implantará protocolos de segurança, controle de acesso adequado ao porte da escola, videomonitoramento em áreas comuns, reconhecimento facial, catracas, botão de emergência, articulação com forças de segurança pública (PM) quando necessário, prevenção ao aliciamento de menores, atuação no entorno escolar, planos de evacuação, formação de equipes escolares e canais de comunicação com as famílias.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "Para que essa visão saia do papel, a Rondônia que queremos e vamos construir está ancorada em quatro pilares estruturais inegociáveis: Segurança com Autoridade (Paz Social): Nenhum projeto de desenvolvimento se sustenta onde o cidadão vive com medo, onde a família perde o direito de circular com tranquilidade e onde o crime organizado ocupa o espaço que deveria ser do Estado. Nosso Governo terá uma diretriz clara, que é recuperar a presença do Estado, fortalecer as forças de segurança e enfrentar o crime organizado com inteligência, integração e firmeza."
+            },
+            {
+              "id": "s18",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "O Programa Escola Segura, Protegida implantará protocolos de segurança, controle de acesso adequado ao porte da escola, videomonitoramento em áreas comuns, reconhecimento facial, catracas, botão de emergência, articulação com forças de segurança pública (PM) quando necessário, prevenção ao aliciamento de menores, atuação no entorno escolar, planos de evacuação, formação de equipes escolares e canais de comunicação com as famílias."
+            },
+            {
+              "id": "s21",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Atuando de forma intersetorial entre Assistência Social (SEAS), Educação (SEDUC), Saúde (SESAU) e Segurança Pública (SESDEC), o programa focará na raiz das vulnerabilidades sociais para evitar a desagregação familiar e a dependência assistencial conƟnuada."
+            },
+            {
+              "id": "s22",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Implantar rede de Unidades Regionais Protegidas, com localização sigilosa, gestão técnica e ﬂuxo integrado entre segurança pública, assistência social, saúde, Defensoria Pública, Ministério Público e Poder Judiciário."
+            },
+            {
+              "id": "s28",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "Elevaremos o patamar técnico e logísƟco das compeƟções, integrando a SEJUCEL, a SEDUC e a Segurança Pública."
+            },
+            {
+              "id": "s29",
+              "page_start": 44,
+              "page_end": 48,
+              "text": "Segundo os dados mais recentes do Anuário Brasileiro de Segurança Pública de 2026, ﬁguramos no assustador “Top 10” nacional das mortes violentas intencionais (9ª posição), com uma taxa de 28,1 mortes por 100 mil habitantes. Enquanto o restante do país avançou na redução da letalidade, o nosso estado se descolou da tendência nacional e passou a integrar o grupo dos mais perigosos da federação (Anuário Brasileiro de Segurança Pública 2026)."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 48,
+              "text": " Utilização de tecnologias para ampliar a participação da sociedade na segurança pública, mediante o compartilhamento voluntário de informações, imagens e evidências de interesse investigativo. Fortalecimento da assistência jurídica institucional aos profissionais de segurança pública."
+            },
+            {
+              "id": "s32",
+              "page_start": 49,
+              "page_end": 50,
+              "text": "Reunião de informações provenientes os órgãos de todas as esferas, permiƟndo o cruzamento automaƟzado de dados criminais, patrimoniais, ﬁscais, cadastrais, ﬁnanceiros, penitenciários e de inteligência, uƟlizando recursos de Big Data, Inteligência ArƟﬁcial e análise avançada de dados para antecipação de ameaças, idenƟﬁcação de vínculos criminosos e apoio às invesƟgações no combate às facções criminosas, objeƟvando o rastreamento patrimonial, descapitalização ﬁnanceira das organizações criminosas e isolamento das lideranças de alta periculosidade no sistema prisional. (02) Programa Escudo Rondônia – Inteligência, integração e combate permanente ao crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 44,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Um tempo de crescimento econômico com responsabilidade social, de segurança com liberdade, de oportunidades para os jovens, de valorização das famílias e de respeito ao dinheiro do contribuinte. As economias efetivamente obtidas serão identiﬁcadas, validadas e direcionadas às áreas prioritárias deste Plano de Governo, especialmente saúde, Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 14 segurança, educação, agricultura, infraestrutura e desenvolvimento econômico. (06) Programa Escola, Profissão e Futuro (Transição Acadêmica e Mercado de Trabalho).",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "Um tempo de crescimento econômico com responsabilidade social, de segurança com liberdade, de oportunidades para os jovens, de valorização das famílias e de respeito ao dinheiro do contribuinte."
+            },
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "aumento zero de impostos."
+            },
+            {
+              "id": "s04",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "As economias efetivamente obtidas serão identiﬁcadas, validadas e direcionadas às áreas prioritárias deste Plano de Governo, especialmente saúde, Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 14 segurança, educação, agricultura, infraestrutura e desenvolvimento econômico."
+            },
+            {
+              "id": "s16",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "(06) Programa Escola, Profissão e Futuro (Transição Acadêmica e Mercado de Trabalho). Implantar política de orientação acadêmica e profissional para estudantes do ensino médio, com preparação gratuita para o Enem, vestibulares e concursos, educação financeira, empreendedorismo, orientação vocacional, acesso a bolsas, apoio à transição para o ensino superior, a educação técnica-profissional e o mercado de trabalho."
+            },
+            {
+              "id": "s19",
+              "page_start": 32,
+              "page_end": 32,
+              "text": "Essa realidade demonstra que o crescimento econômico, por si só, não garante desenvolvimento humano. Queremos construir uma Rondônia onde o crescimento econômico gere prosperidade, a proteção social gere autonomia e o fortalecimento das famílias impulsione um desenvolvimento humano duradouro, fazendo com que a riqueza produzida pelo Estado alcance, de forma concreta, a vida de todos os rondonienses."
+            },
+            {
+              "id": "s22",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Contratação direta em órgãos públicos estaduais. O Governo de Rondônia insƟtuirá o Programa Rondônia por Elas, políƟca pública permanente, transversal e integrada, arƟculando assistência social, desenvolvimento econômico, agricultura e demais insƟtuições estaduais para ampliar oportunidades, fortalecer a autonomia, incenƟvar a liderança feminina e gerar impactos duradouros para as mulheres, suas famílias e toda a sociedade."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "a) Fundo Estadual de Combate e Erradicação da Pobreza (FECOEP); b) recursos do Tesouro Estadual previstos na Lei Orçamentária; c) convênios e transferências da União desƟnados à assistência social, qualiﬁcação proﬁssional e inclusão produƟva; d) recursos de programas federais de geração de emprego, empreendedorismo e agricultura familiar; e) parcerias com Banco da Amazônia, Caixa Econômica Federal, Banco do Brasil, f)CooperaƟvas de crédito e Agência de Fomento para microcrédito produƟvo orientado; g) cooperação com o Sistema S (Senai, Senac, Senar e Sebrae); h) parcerias com organismos nacionais e internacionais de fomento ao desenvolvimento. por recursos do FECOEP, Tesouro Estadual, convênios federais, programas de geração de emprego e agricultura familiar, parcerias com insƟtuições ﬁnanceiras, cooperaƟvas de crédito, Sistema S e organismos nacionais e internacionais."
+            },
+            {
+              "id": "s27",
+              "page_start": 39,
+              "page_end": 39,
+              "text": "Em nosso governo, esporte, cultura e lazer serão reconhecidos como instrumentos estratégicos de transformação social, desenvolvimento econômico, fortalecimento da cidadania e construção de uma Rondônia mais segura, integrada e cheia de oportunidades para as futuras gerações."
+            },
+            {
+              "id": "s28",
+              "page_start": 39,
+              "page_end": 44,
+              "text": " Instituir programa permanente de incentivo financeiro para atletas, paratletas e jovens talentos esportivos em processo de formação e alto rendimento;  Fortalecer a economia criativa por meio da construção e modernização de centros de convenções, espaços multiuso e equipamentos destinados à realização de grandes eventos culturais, turísticos e de negócios;  Incentivar a expansão da rede de serviços vinculada ao turismo, à cultura, ao esporte e ao entretenimento, promovendo geração de emprego, renda e desenvolvimento regional. Reconhecer a cultura como vetor estratégico de desenvolvimento econômico por meio do fortalecimento das cadeias produƟvas, turismo cultural e geração de emprego e renda."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 27,
+          "page_end": 27,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "O PEE deverá integrar valorização dos profissionais, expansão e modernização da infraestrutura, melhoria da aprendizagem e ampliação da educação profissional, com metas compatíveis com a capacidade fiscal do Estado, as projeções de receita e a Lei de Responsabilidade Fiscal (LRF).",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 27,
+              "page_end": 27,
+              "text": "O PEE deverá integrar valorização dos profissionais, expansão e modernização da infraestrutura, melhoria da aprendizagem e ampliação da educação profissional, com metas compatíveis com a capacidade fiscal do Estado, as projeções de receita e a Lei de Responsabilidade Fiscal (LRF)."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 3,
+          "page_end": 44,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "O combate ao feminicídio, à violência doméstica, ao abuso sexual e ao aliciamento de jovens pelo crime será prioridade permanente, com integração entre segurança pública, assistência social, educação, saúde e justiça. Implantar o Centro Estadual de Saúde Mental como retaguarda técnica e clínica da Rede de Atenção Psicossocial, fortalecendo CAPS, atenção primária, leitos de saúde mental em hospitais gerais, prevenção do suicídio, atenção às crises e integração com educação, assistência social e segurança. Executar estudos para implantação de Centros Especializados em Autismo e Neurodesenvolvimento nas regiões de Porto Velho, Ariquemes, Ji-Paraná, Cacoal e Vilhena, trabalhando com a ampliação da teleconsultoria e do apoio matricial para os municípios, o financiamento de programas estruturados de treinamento de pais e cuidadores, baseado em evidências científicas e a integração permanente entre Saúde, Educação e Assistência Social.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "O combate ao feminicídio, à violência doméstica, ao abuso sexual e ao aliciamento de jovens pelo crime será prioridade permanente, com integração entre segurança pública, assistência social, educação, saúde e justiça."
+            },
+            {
+              "id": "s10",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Implantar o Centro Estadual de Saúde Mental como retaguarda técnica e clínica da Rede de Atenção Psicossocial, fortalecendo CAPS, atenção primária, leitos de saúde mental em hospitais gerais, prevenção do suicídio, atenção às crises e integração com educação, assistência social e segurança. Executar estudos para implantação de Centros Especializados em Autismo e Neurodesenvolvimento nas regiões de Porto Velho, Ariquemes, Ji-Paraná, Cacoal e Vilhena, trabalhando com a ampliação da teleconsultoria e do apoio matricial para os municípios, o financiamento de programas estruturados de treinamento de pais e cuidadores, baseado em evidências científicas e a integração permanente entre Saúde, Educação e Assistência Social."
+            },
+            {
+              "id": "s12",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Rondônia precisa de escolas que voltem a fazer sentido para os estudantes, as famílias e as comunidades, funcionando como espaços de aprendizagem, inclusão, proteção social, inovação e preparação para a vida cidadã, o ensino superior e o mundo do trabalho."
+            },
+            {
+              "id": "s16",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "1 - garantia de segurança alimentar e bem-estar dos estudantes; 2 - adequação da infraestrutura escolar para a permanência em tempo integral; e 3 - fortalecimento da formação ética, cidadã, democrática e comunitária."
+            },
+            {
+              "id": "s18",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Formação de professores e gestores, protocolos de identificação precoce de sofrimento psíquico, fluxos de encaminhamento com saúde e assistência social, prevenção à automutilação, ansiedade, depressão, violência escolar, preconceitos, uso problemático de jogos e apostas, evasão e conflitos recorrentes."
+            },
+            {
+              "id": "s19",
+              "page_start": 32,
+              "page_end": 32,
+              "text": "Esses números revelam que milhares de rondonienses ainda convivem com a pobreza, a insegurança alimentar, a violência e outras vulnerabilidades sociais. Vamos fortalecer as famílias, prevenir vulnerabilidades, ampliar oportunidades e integrar as políticas públicas para transformar a proteção social em autonomia, cidadania e desenvolvimento."
+            },
+            {
+              "id": "s20",
+              "page_start": 32,
+              "page_end": 33,
+              "text": " Promoção da autonomia financeira e inclusão produtiva para jovens e adultos em situação de vulnerabilidade;  Enfrentamento à violência contra a mulher, assegurando rede de acolhimento e linhas de crédito para a emancipação econômica;  Garantia de inclusão e atendimento especializado para pessoas com deficiência, Transtorno do Espectro Autista (TEA) e neurodivergentes;  Valorização da pessoa idosa por meio de políticas interligadas de envelhecimento ativo, convivência e infraestrutura de acolhimento humanizado;  Modernização da assistência social com foco em resultados, ampliando o cofinanciamento e as parcerias estratégicas com os municípios e o Terceiro Setor."
+            },
+            {
+              "id": "s21",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Atuando de forma intersetorial entre Assistência Social (SEAS), Educação (SEDUC), Saúde (SESAU) e Segurança Pública (SESDEC), o programa focará na raiz das vulnerabilidades sociais para evitar a desagregação familiar e a dependência assistencial conƟnuada. Implantar Programa de Gestão dos Projetos, programas e serviços do estado de Rondônia, reorganizando a políƟca estadual de assistência social com base no Cadastro Único, vigilância socioassistencial e coﬁnanciamento por desempenho."
+            },
+            {
+              "id": "s22",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Cursos técnicos e oﬁcinas em parceria com Sistema S e InsƟtuições de Aprendizagem do Terceiro Setor, formação voltada para setores estratégicos de Rondônia (assistência social, tecnologia, administração e agroindústria). O Governo de Rondônia insƟtuirá o Programa Rondônia por Elas, políƟca pública permanente, transversal e integrada, arƟculando assistência social, desenvolvimento econômico, agricultura e demais insƟtuições estaduais para ampliar oportunidades, fortalecer a autonomia, incenƟvar a liderança feminina e gerar impactos duradouros para as mulheres, suas famílias e toda a sociedade."
+            },
+            {
+              "id": "s23",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "Execução em parceria com as comunidades terapêuƟcas habilitadas e demais organizações da rede de proteção social. O programa fortalecerá o acolhimento humanizado, a segurança alimentar, a reconstrução dos vínculos familiares e comunitários e a criação de oportunidades para que pessoas, em situação de alta vulnerabilidade, retomem sua autonomia."
+            },
+            {
+              "id": "s24",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "A modelagem respeitará as especiﬁcidades culturais, territoriais e jurídicas dessas comunidades, autuando com documentação civil, CadÚnico, segurança alimentar, inclusão produƟva, turismo de base comunitária, artesanato, bioeconomia, regularização de acesso a políƟcas públicas e compras governamentais."
+            },
+            {
+              "id": "s25",
+              "page_start": 37,
+              "page_end": 37,
+              "text": "Ampliar a aquisição de alimentos da agricultura familiar, cooperaƟvas, associações, comunidades tradicionais e pequenos produtores, fortalecendo simultaneamente a segurança alimentar das famílias em situação de vulnerabilidade e a economia rural. O programa será coordenado pela Secretaria de Estado da Assistência e do Desenvolvimento Social (SEAS), com apoio técnico da Secretaria de Estado da Agricultura (SEAGRI), integrando proteção social e desenvolvimento rural em uma políƟca pública permanente."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "a) Fundo Estadual de Combate e Erradicação da Pobreza (FECOEP); b) recursos do Tesouro Estadual previstos na Lei Orçamentária; c) convênios e transferências da União desƟnados à assistência social, qualiﬁcação proﬁssional e inclusão produƟva; d) recursos de programas federais de geração de emprego, empreendedorismo e agricultura familiar; e) parcerias com Banco da Amazônia, Caixa Econômica Federal, Banco do Brasil, f)CooperaƟvas de crédito e Agência de Fomento para microcrédito produƟvo orientado; g) cooperação com o Sistema S (Senai, Senac, Senar e Sebrae); h) parcerias com organismos nacionais e internacionais de fomento ao desenvolvimento."
+            },
+            {
+              "id": "s28",
+              "page_start": 39,
+              "page_end": 44,
+              "text": "a) núcleos de iniciação esporƟva em parceria com municípios; b) atendimento prioritário em áreas de vulnerabilidade social; integração com escolas e rede de proteção social; c) fesƟvais regionais e avaliação periódica da evolução dos alunos."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 3,
+          "page_end": 14,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O meio ambiente será tratado com responsabilidade, segurança jurídica e inteligência econômica, para que produzir, preservar e gerar renda caminhem juntos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "O meio ambiente será tratado com responsabilidade, segurança jurídica e inteligência econômica, para que produzir, preservar e gerar renda caminhem juntos."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 39,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Nossa diretriz será simplificar processos, garantir segurança jurídica e criar um ambiente de negócios previsível para o produtor rural, o empreendedor urbano, a indústria, o comércio, a agricultura familiar e as novas cadeias da bioeconomia. A agricultura familiar será o centro de inteligência do setor produtivo, integrando dados, crédito, inovação, cooperativismo, agroindústria, bioeconomia e abertura de mercados. Ampliar os aportes nas caixas escolares adquirindo gêneros da agricultura familiar local.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "Nossa diretriz será simplificar processos, garantir segurança jurídica e criar um ambiente de negócios previsível para o produtor rural, o empreendedor urbano, a indústria, o comércio, a agricultura familiar e as novas cadeias da bioeconomia. A agricultura familiar será o centro de inteligência do setor produtivo, integrando dados, crédito, inovação, cooperativismo, agroindústria, bioeconomia e abertura de mercados."
+            },
+            {
+              "id": "s18",
+              "page_start": 30,
+              "page_end": 32,
+              "text": "Ampliar os aportes nas caixas escolares adquirindo gêneros da agricultura familiar local."
+            },
+            {
+              "id": "s25",
+              "page_start": 37,
+              "page_end": 37,
+              "text": "Ampliar a aquisição de alimentos da agricultura familiar, cooperaƟvas, associações, comunidades tradicionais e pequenos produtores, fortalecendo simultaneamente a segurança alimentar das famílias em situação de vulnerabilidade e a economia rural. Fortalecimento da agricultura familiar (SEAGRI)."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 39,
+              "text": "O programa oferecerá um auxílio ﬁnanceiro temporário de transição às famílias que conquistarem emprego, iniciarem um pequeno negócio, ampliarem sua produção rural ou ingressarem em aƟvidades produƟvas, garanƟndo segurança durante a transição para a autonomia econômica. a) Fundo Estadual de Combate e Erradicação da Pobreza (FECOEP); b) recursos do Tesouro Estadual previstos na Lei Orçamentária; c) convênios e transferências da União desƟnados à assistência social, qualiﬁcação proﬁssional e inclusão produƟva; d) recursos de programas federais de geração de emprego, empreendedorismo e agricultura familiar; e) parcerias com Banco da Amazônia, Caixa Econômica Federal, Banco do Brasil, f)CooperaƟvas de crédito e Agência de Fomento para microcrédito produƟvo orientado; g) cooperação com o Sistema S (Senai, Senac, Senar e Sebrae); h) parcerias com organismos nacionais e internacionais de fomento ao desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 26,
+          "page_end": 48,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": " Garantir a \"Escola Protegida\" com catracas biométricas, botão do pânico e câmeras com Inteligência Artificial nas portarias.  Plataforma integrada de inteligência baseada em Inteligência Artificial (IA), destinada ao cruzamento automatizado de informações.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 26,
+              "page_end": 27,
+              "text": " Garantir a \"Escola Protegida\" com catracas biométricas, botão do pânico e câmeras com Inteligência Artificial nas portarias."
+            },
+            {
+              "id": "s17",
+              "page_start": 30,
+              "page_end": 30,
+              "text": "Inteligência Artificial para Aprendizagem e Gestão."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 48,
+              "text": " Plataforma integrada de inteligência baseada em Inteligência Artificial (IA), destinada ao cruzamento automatizado de informações."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 39,
+          "page_end": 44,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "A cultura será reconhecida como instrumento de preservação da identidade, valorização das tradições, fortalecimento da economia criativa e promoção da diversidade cultural.  Instituir programa permanente de incentivo financeiro para atletas, paratletas e jovens talentos esportivos em processo de formação e alto rendimento;  Fortalecer a economia criativa por meio da construção e modernização de centros de convenções, espaços multiuso e equipamentos destinados à realização de grandes eventos culturais, turísticos e de negócios;  Incentivar a expansão da rede de serviços vinculada ao turismo, à cultura, ao esporte e ao entretenimento, promovendo geração de emprego, renda e desenvolvimento regional. Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 39  Fortalecer associações culturais, grupos folclóricos, entidades recreativas, coletivos artísticos e organizações comunitárias em todo o Estado;  Ampliar o calendário estadual de eventos com impacto econômico, turístico e cultural, fortalecendo tanto a capital quanto os Municípios do interior;  Promover a circulação de artistas, manifestações culturais e produções rondonienses, ampliando a visibilidade da cultura local d",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 39,
+              "page_end": 39,
+              "text": "A cultura será reconhecida como instrumento de preservação da identidade, valorização das tradições, fortalecimento da economia criativa e promoção da diversidade cultural."
+            },
+            {
+              "id": "s28",
+              "page_start": 39,
+              "page_end": 44,
+              "text": " Instituir programa permanente de incentivo financeiro para atletas, paratletas e jovens talentos esportivos em processo de formação e alto rendimento;  Fortalecer a economia criativa por meio da construção e modernização de centros de convenções, espaços multiuso e equipamentos destinados à realização de grandes eventos culturais, turísticos e de negócios;  Incentivar a expansão da rede de serviços vinculada ao turismo, à cultura, ao esporte e ao entretenimento, promovendo geração de emprego, renda e desenvolvimento regional. Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 39  Fortalecer associações culturais, grupos folclóricos, entidades recreativas, coletivos artísticos e organizações comunitárias em todo o Estado;  Ampliar o calendário estadual de eventos com impacto econômico, turístico e cultural, fortalecendo tanto a capital quanto os Municípios do interior;  Promover a circulação de artistas, manifestações culturais e produções rondonienses, ampliando a visibilidade da cultura local dentro e fora do Estado;  Criar um ambiente mais seguro, estruturado e atrativo para o desenvolvimento de atletas, paratletas, artistas, produtores culturais e empreendedore"
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 20,
+          "page_end": 37,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Fortalecer, em articulação com a SESAI, os DSEIs e os municípios, o acesso dos povos indígenas à rede estadual de urgência, atenção especializada, exames, cirurgias e internações, com protocolos interculturais, apoio de intérpretes quando necessário e fluxos regulatórios adequados aos povos originários do Estado. As comunidades terapêuticas eventualmente apoiadas deverão cumprir requisitos legais, sanitários e de proteção dos direitos humanos, atuar de forma voluntária e integrada à Rede de Atenção Psicossocial e ser submetidas a metas, fiscalização e avaliação de resultados. Ampliar o acesso das mulheres que vivem nos bairros, distritos, comunidades tradicionais, povos indígenas, quilombolas, ribeirinhas e demais territórios com menor acesso às oportunidades do Estado às políƟcas públicas, à qualiﬁcação e à geração de renda, fortalecendo sua autonomia econômica e social, seu protagonismo e sua parƟcipação no desenvolvimento das comunidades.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 20,
+              "page_end": 23,
+              "text": "(12) Política Estadual de Saúde dos Povos Indígenas. Fortalecer, em articulação com a SESAI, os DSEIs e os municípios, o acesso dos povos indígenas à rede estadual de urgência, atenção especializada, exames, cirurgias e internações, com protocolos interculturais, apoio de intérpretes quando necessário e fluxos regulatórios adequados aos povos originários do Estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "As comunidades terapêuticas eventualmente apoiadas deverão cumprir requisitos legais, sanitários e de proteção dos direitos humanos, atuar de forma voluntária e integrada à Rede de Atenção Psicossocial e ser submetidas a metas, fiscalização e avaliação de resultados."
+            },
+            {
+              "id": "s22",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Ampliar o acesso das mulheres que vivem nos bairros, distritos, comunidades tradicionais, povos indígenas, quilombolas, ribeirinhas e demais territórios com menor acesso às oportunidades do Estado às políƟcas públicas, à qualiﬁcação e à geração de renda, fortalecendo sua autonomia econômica e social, seu protagonismo e sua parƟcipação no desenvolvimento das comunidades. acessibilidade não é favor, adaptação eventual ou discurso de campanha; é condição básica para que a pessoa com deﬁciência exerça sua cidadania com autonomia, respeito e liberdade."
+            },
+            {
+              "id": "s24",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "Implantar o Programa de Etnodesenvolvimento e Cidadania nos Territórios, voltado a comunidades indígenas, quilombolas, ribeirinhas, extraƟvistas e demais comunidades tradicionais, conforme a Convenção 169 da OIT exige que, qualquer programa voltado a povos indígenas e comunidades tradicionais seja construído com essas comunidades e, não para elas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 35,
+          "topics": [
+            "governance"
+          ],
+          "summary": "é um verdadeiro Projeto de Gestão Pública, um plano de negócios do Estado, com base técnica, estratégica, metas claras e compromisso inegociável com a transformação estrutural de Rondônia para o período de 2027 a 2030. Nosso compromisso é destravar o potencial do Estado, modernizar a gestão pública e devolver ao povo rondoniense o orgulho de viver em uma terra que trabalha, produz e merece um governo à altura de sua grandeza. O que construímos é um verdadeiro Projeto de Governo e Gestão Pública, baseado na realidade de Rondônia, em diagnósticos objetivos e em metas que poderão ser acompanhadas pela sociedade.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 14,
+              "text": "é um verdadeiro Projeto de Gestão Pública, um plano de negócios do Estado, com base técnica, estratégica, metas claras e compromisso inegociável com a transformação estrutural de Rondônia para o período de 2027 a 2030. Nosso compromisso é destravar o potencial do Estado, modernizar a gestão pública e devolver ao povo rondoniense o orgulho de viver em uma terra que trabalha, produz e merece um governo à altura de sua grandeza."
+            },
+            {
+              "id": "s04",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "O que construímos é um verdadeiro Projeto de Governo e Gestão Pública, baseado na realidade de Rondônia, em diagnósticos objetivos e em metas que poderão ser acompanhadas pela sociedade."
+            },
+            {
+              "id": "s22",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Fortalecer o protagonismo feminino na gestão pública, nas organizações sociais e nas lideranças comunitárias, ampliando a parƟcipação das mulheres nos espaços de decisão. Para isso, o Comitê InterinsƟtucional de PolíƟcas Públicas para Pessoas com Deﬁciência funcionará como grupo de trabalho permanente, focado em resultados, reunindo representantes do poder público e da sociedade civil em uma mesma mesa de decisão, com escuta aƟva, transparência, controle social e parƟcipação efeƟva das próprias pessoas com deﬁciência."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 49,
+          "page_end": 50,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "No âmbito da Secretaria de Estado da Segurança, Defesa e Cidadania (SESDEC), por intermédio do Departamento Estadual de Fronteira (DEFRON), serão coordenadas as ações integradas da Polícia Civil e da Polícia Militar, em arƟculação permanente Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 49 com as Guardas Municipais dos municípios fronteiriços que possuam esses órgãos, bem como em cooperação técnica e operacional com a Polícia Federal, a Polícia Rodoviária Federal, Forças Armadas, Receita Federal, Agência Brasileira de Inteligência (ABIN), monitorando de forma constante a fronteira.",
+          "excerpts": [
+            {
+              "id": "s32",
+              "page_start": 49,
+              "page_end": 50,
+              "text": "No âmbito da Secretaria de Estado da Segurança, Defesa e Cidadania (SESDEC), por intermédio do Departamento Estadual de Fronteira (DEFRON), serão coordenadas as ações integradas da Polícia Civil e da Polícia Militar, em arƟculação permanente Plano de Governo 2027 - 2030 | Coligação Juntos por Rondônia 49 com as Guardas Municipais dos municípios fronteiriços que possuam esses órgãos, bem como em cooperação técnica e operacional com a Polícia Federal, a Polícia Rodoviária Federal, Forças Armadas, Receita Federal, Agência Brasileira de Inteligência (ABIN), monitorando de forma constante a fronteira."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002542185",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002542185_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002542185_01.pdf",
+      "sha256": "e72ce3dff33991e91de51e512b2061b816e69346d0dbe8e92e5627203b85e670",
+      "summary": "cirurgia cancelada por falta de anestesista; a segunda pior mortalidade infantil do Brasil; o ensino médio ultrapassado pela média nacional pela primeira vez na história; a segunda maior taxa de feminicídio do país. e, no ensino médio, Rondônia (4,2) segue abaixo do Brasil (4,5), com a rede pública estadual em 4,0. no 9º ano, apenas 22% dos estudantes têm aprendizagem adequada em português e 9% em matemática; ao fim do ensino médio, 95 em cada 100 jovens não sabem a matemática esperada. Rondônia tem a 3ª pior expectativa de vida do país (72,79 anos contra 77,60) e a 2ª pior mortalidade infantil (17,1 por mil nascidos vivos, atrás apenas do Amapá). A mortalidade materna, 62,27 por 100 mil, é o dobro da meta dos ODS e pior do que era em 2006. programa integrado de enfrentamento ao crime organizado na fronteira com a Bolívia e nos eixos rodoviários — o Guia registra a expansão das organizações criminosas e a integração de Rondônia às rotas nacionais e internacionais do tráfico —, em cooperação com as forças federais e os programas federais de fronteira. Fundo Nacional de Segurança Pública (que financia inclusive projetos de enfrentamento à violência contra a mulher, como aponta o próprio Guia); dever legal de priorização orçamentária dos equipamentos de monitoração (art. 25, § 9º, II, da Lei 14.133/2021, com cota de 3% a 6% de pessoas egressas do sistema prisional na mão de obra dos contratos de serviço do Estado — espelhando o Decreto federal 9.450/2018 — e a mesma alavanca do inciso I em favor de mulheres vítimas de violência doméstica, a custo orçamentário zero. programa permanente de regularização, integrando cadastros estaduais e federais — terra regularizada é crédito rural liberado e conflito evitado, como aponta o Guia. 34, § 2º), meta de 4.000 vagas de trabalho produtivo até 2030 e remuneração mínima de um salário mínimo integral — acima do piso legal de três quartos. Rondônia mantém nota máxima de capacidade de pagamento pelo sexto ano consecutivo e dívida consolidada de ~2% da RCL (limite: 200%). A adesão ao Propag (LC federal 212/2025) reduziu os juros da dívida de 4% a.a. o gasto com temporários e com terceirização substitutiva de mão de obra já é despesa de pessoal para fins da LRF (art.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 31,
+          "topics": [
+            "education"
+          ],
+          "summary": "119 obras paradas com mais de R$ 350 milhões enterrados; cirurgia cancelada por falta de anestesista; a segunda pior mortalidade infantil do Brasil; o ensino médio ultrapassado pela média nacional pela primeira vez na história; a segunda maior taxa de feminicídio do país. e, no ensino médio, Rondônia (4,2) segue abaixo do Brasil (4,5), com a rede pública estadual em 4,0. no 9º ano, apenas 22% dos estudantes têm aprendizagem adequada em português e 9% em matemática; ao fim do ensino médio, 95 em cada 100 jovens não sabem a matemática esperada.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "119 obras paradas com mais de R$ 350 milhões enterrados; cirurgia cancelada por falta de anestesista; a segunda pior mortalidade infantil do Brasil; o ensino médio ultrapassado pela média nacional pela primeira vez na história; a segunda maior taxa de feminicídio do país."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "e, no ensino médio, Rondônia (4,2) segue abaixo do Brasil (4,5), com a rede pública estadual em 4,0. no 9º ano, apenas 22% dos estudantes têm aprendizagem adequada em português e 9% em matemática; ao fim do ensino médio, 95 em cada 100 jovens não sabem a matemática esperada."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "respeita o teto de 10 horas diárias de atividades somadas (Parecer CNE/CEB nº 17/2012), com turno reduzido para quem já estuda em tempo integral."
+            },
+            {
+              "id": "s16",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "• PROALFA dos Anos Finais e do Ensino Médio desenhado com a Seduc e pactuado com o GAEPE-RO, com metas publicadas por região."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "health"
+          ],
+          "summary": "Rondônia tem a 3ª pior expectativa de vida do país (72,79 anos contra 77,60) e a 2ª pior mortalidade infantil (17,1 por mil nascidos vivos, atrás apenas do Amapá). A mortalidade materna, 62,27 por 100 mil, é o dobro da meta dos ODS e pior do que era em 2006.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "Rondônia tem a 3ª pior expectativa de vida do país (72,79 anos contra 77,60) e a 2ª pior mortalidade infantil (17,1 por mil nascidos vivos, atrás apenas do Amapá). A mortalidade materna, 62,27 por 100 mil, é o dobro da meta dos ODS e pior do que era em 2006."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 11,
+          "page_end": 31,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "programa integrado de enfrentamento ao crime organizado na fronteira com a Bolívia e nos eixos rodoviários — o Guia registra a expansão das organizações criminosas e a integração de Rondônia às rotas nacionais e internacionais do tráfico —, em cooperação com as forças federais e os programas federais de fronteira. Fundo Nacional de Segurança Pública (que financia inclusive projetos de enfrentamento à violência contra a mulher, como aponta o próprio Guia); dever legal de priorização orçamentária dos equipamentos de monitoração (art. 25, § 9º, II, da Lei 14.133/2021, com cota de 3% a 6% de pessoas egressas do sistema prisional na mão de obra dos contratos de serviço do Estado — espelhando o Decreto federal 9.450/2018 — e a mesma alavanca do inciso I em favor de mulheres vítimas de violência doméstica, a custo orçamentário zero.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "programa integrado de enfrentamento ao crime organizado na fronteira com a Bolívia e nos eixos rodoviários — o Guia registra a expansão das organizações criminosas e a integração de Rondônia às rotas nacionais e internacionais do tráfico —, em cooperação com as forças federais e os programas federais de fronteira. Fundo Nacional de Segurança Pública (que financia inclusive projetos de enfrentamento à violência contra a mulher, como aponta o próprio Guia); dever legal de priorização orçamentária dos equipamentos de monitoração (art."
+            },
+            {
+              "id": "s13",
+              "page_start": 21,
+              "page_end": 24,
+              "text": "25, § 9º, II, da Lei 14.133/2021, com cota de 3% a 6% de pessoas egressas do sistema prisional na mão de obra dos contratos de serviço do Estado — espelhando o Decreto federal 9.450/2018 — e a mesma alavanca do inciso I em favor de mulheres vítimas de violência doméstica, a custo orçamentário zero."
+            },
+            {
+              "id": "s14",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "cofinanciamento estadual para reforma, iluminação e gestão comunitária de quadras e ginásios nos 52 municípios, com horários públicos garantidos — com faixas dedicadas a idosos, pessoas com deficiência e juventude — — lazer de bairro é a política de prevenção mais barata que a segurança pública conhece."
+            },
+            {
+              "id": "s16",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Nota metodológica e de fontes Os dados citados neste plano têm origem, salvo indicação expressa, no Guia Consolidado e na apresentação oficial do Tribunal de Contas do Estado de Rondônia entregues aos candidatos no encontro técnico de 7 de agosto de 2026 (\"Os desafios dos próximos 4 anos\"), que consolidam fontes oficiais: IBGE, Siconfi, Relatórios de Gestão Fiscal, LDO 2027, avaliações atuariais, INEP/Saeb, SAERO, Anuário Brasileiro de Segurança Pública 2026 (FBSP) e processos de controle externo identificados no texto."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 14,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "programa permanente de regularização, integrando cadastros estaduais e federais — terra regularizada é crédito rural liberado e conflito evitado, como aponta o Guia. 34, § 2º), meta de 4.000 vagas de trabalho produtivo até 2030 e remuneração mínima de um salário mínimo integral — acima do piso legal de três quartos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "programa permanente de regularização, integrando cadastros estaduais e federais — terra regularizada é crédito rural liberado e conflito evitado, como aponta o Guia."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "34, § 2º), meta de 4.000 vagas de trabalho produtivo até 2030 e remuneração mínima de um salário mínimo integral — acima do piso legal de três quartos."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 5,
+          "page_end": 21,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Rondônia mantém nota máxima de capacidade de pagamento pelo sexto ano consecutivo e dívida consolidada de ~2% da RCL (limite: 200%). A adesão ao Propag (LC federal 212/2025) reduziu os juros da dívida de 4% a.a. o gasto com temporários e com terceirização substitutiva de mão de obra já é despesa de pessoal para fins da LRF (art.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Rondônia mantém nota máxima de capacidade de pagamento pelo sexto ano consecutivo e dívida consolidada de ~2% da RCL (limite: 200%). A adesão ao Propag (LC federal 212/2025) reduziu os juros da dívida de 4% a.a."
+            },
+            {
+              "id": "s12",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "o gasto com temporários e com terceirização substitutiva de mão de obra já é despesa de pessoal para fins da LRF (art."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 29,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "O déficit atuarial do regime próprio saltou de R$ 10,27 bilhões (2021) para R$ 14,63 bilhões (2026) — alta de 42,4%. O plano de amortização (Lei estadual 5.111/2021) obriga aportes de aproximadamente R$ 2,82 bilhões entre 2027 e 2030 — recursos carimbados que já pertencem ao próximo governo. espaços gratuitos e seguros de acolhida noturna de crianças de 3 a 12 anos, com e sem deficiência, nos 7 municípios-chave, no modelo da Política Nacional de Cuidados (Lei 15.069/2024) e das diretrizes do Ministério do Desenvolvimento e Assistência Social, para que mães, pais e avós possam estudar, qualificar-se nas trilhas deste plano ou trabalhar no comércio noturno — com prioridade para famílias monoparentais chefiadas por mulheres e inscritas no CadÚnico.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O déficit atuarial do regime próprio saltou de R$ 10,27 bilhões (2021) para R$ 14,63 bilhões (2026) — alta de 42,4%. O plano de amortização (Lei estadual 5.111/2021) obriga aportes de aproximadamente R$ 2,82 bilhões entre 2027 e 2030 — recursos carimbados que já pertencem ao próximo governo."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "espaços gratuitos e seguros de acolhida noturna de crianças de 3 a 12 anos, com e sem deficiência, nos 7 municípios-chave, no modelo da Política Nacional de Cuidados (Lei 15.069/2024) e das diretrizes do Ministério do Desenvolvimento e Assistência Social, para que mães, pais e avós possam estudar, qualificar-se nas trilhas deste plano ou trabalhar no comércio noturno — com prioridade para famílias monoparentais chefiadas por mulheres e inscritas no CadÚnico."
+            },
+            {
+              "id": "s15",
+              "page_start": 25,
+              "page_end": 29,
+              "text": "linha de apoio própria, com edital específico e prestação de contas simplificada nos termos da PNAB e do Marco Regulatório das Organizações da Sociedade Civil (Lei 13.019/2014), para as festas comunitárias do interior — as Festas do Milho de Ouro Preto do Oeste, Pimenta Bueno e Cabixi, a Festa do Peixe de Pimenteiras do Oeste, a Cafecau de Cacoal, os festejos ribeirinhos do Baixo Madeira e as festas de padroeiro dos 52 municípios —, com prioridade e contrapartida ampliada para as que revertem receita a entidades de assistência social, e apoio da Casa da Cultura Regional na elaboração e no acerto de contas."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 17,
+          "page_end": 31,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Em outubro de 2024, 573,5 mil hectares queimaram em Rondônia e a população respirou ar insalubre por semanas. Em 2025, com ação coordenada e preventiva, a área queimada de outubro caiu para 23 mil hectares — redução de 96% — e os dias de ar prejudicial despencaram (31 → 8 em agosto; 28 → 2 em setembro). legislação federal citada nominalmente (LC 212/2025; Leis 14.026/2020, 14.674/2023, 15.125/2025 e 15.383/2026; Decreto 13.084/2026), páginas oficiais do BNDES, do Ministério do Meio Ambiente e do Governo de Rondônia.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "Em outubro de 2024, 573,5 mil hectares queimaram em Rondônia e a população respirou ar insalubre por semanas. Em 2025, com ação coordenada e preventiva, a área queimada de outubro caiu para 23 mil hectares — redução de 96% — e os dias de ar prejudicial despencaram (31 → 8 em agosto; 28 → 2 em setembro)."
+            },
+            {
+              "id": "s16",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "legislação federal citada nominalmente (LC 212/2025; Leis 14.026/2020, 14.674/2023, 15.125/2025 e 15.383/2026; Decreto 13.084/2026), páginas oficiais do BNDES, do Ministério do Meio Ambiente e do Governo de Rondônia."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 24,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "agricultura familiar com ATER de verdade — EmaterRO fortalecida com quadro próprio — e mercado garantido nas compras institucionais (PAA e merenda escolar do PNAE), porque quem planta precisa de técnico na porteira e comprador na colheita. A ponte federal está aberta — Plano Safra da Agricultura Familiar, PAA ampliado e plataforma Contrata+Brasil — e a merenda tem compromisso próprio neste plano. entre 2018 e 2022, a compra da agricultura familiar pela rede estadual oscilou de 53,67% a 21,10% dos recursos do PNAE — e 22 dos 52 municípios ficaram abaixo dos 45% que a Lei nº 15.226/2025 tornou obrigatórios desde 2026, três deles em praticamente zero.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "agricultura familiar com ATER de verdade — EmaterRO fortalecida com quadro próprio — e mercado garantido nas compras institucionais (PAA e merenda escolar do PNAE), porque quem planta precisa de técnico na porteira e comprador na colheita. A ponte federal está aberta — Plano Safra da Agricultura Familiar, PAA ampliado e plataforma Contrata+Brasil — e a merenda tem compromisso próprio neste plano."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 11,
+              "text": "entre 2018 e 2022, a compra da agricultura familiar pela rede estadual oscilou de 53,67% a 21,10% dos recursos do PNAE — e 22 dos 52 municípios ficaram abaixo dos 45% que a Lei nº 15.226/2025 tornou obrigatórios desde 2026, três deles em praticamente zero."
+            },
+            {
+              "id": "s13",
+              "page_start": 21,
+              "page_end": 24,
+              "text": "a extensão da compra da agricultura familiar às demais aquisições de alimento do Estado — hospitais, restaurantes populares, unidades socioeducativas e prisionais — pela modalidade compra institucional do PAA, que admite até R$ 30 mil por família e por órgão comprador ao ano (Decreto 11.802/2023)."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 11,
+          "page_end": 14,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Na direção oposta, roubos e furtos de veículos estão 38,2% abaixo da média nacional — e o Guia credita o resultado ao videomonitoramento, à integração de dados e à inteligência artificial, concluindo que a tecnologia rendeu mais que a expansão de efetivo.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "Na direção oposta, roubos e furtos de veículos estão 38,2% abaixo da média nacional — e o Guia credita o resultado ao videomonitoramento, à integração de dados e à inteligência artificial, concluindo que a tecnologia rendeu mais que a expansão de efetivo."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 25,
+          "page_end": 29,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Inclui o carnaval de rua — a Banda do Vai Quem Quer, patrimônio cultural imaterial do Estado (Lei 4.676/2019) e de Porto Velho (Lei 2.576/2019) — e os blocos tradicionais dos 52 municípios. trilhas de qualificação da economia criativa (costura de fantasias, alegorias, som, luz, produção de eventos) nos 7 municípios-chave, casadas com as compras públicas e o microcrédito do Banco do Trabalhador já previstos neste plano.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 25,
+              "page_end": 29,
+              "text": "Inclui o carnaval de rua — a Banda do Vai Quem Quer, patrimônio cultural imaterial do Estado (Lei 4.676/2019) e de Porto Velho (Lei 2.576/2019) — e os blocos tradicionais dos 52 municípios. trilhas de qualificação da economia criativa (costura de fantasias, alegorias, som, luz, produção de eventos) nos 7 municípios-chave, casadas com as compras públicas e o microcrédito do Banco do Trabalhador já previstos neste plano."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 24,
+          "page_end": 29,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "instituição dos Jogos no calendário oficial do Estado, com apoio logístico de transporte entre aldeias e centros urbanos, e reconhecimento das celebrações e dos jogos tradicionais dos povos Paiter Suruí, Cinta Larga, Gavião e Kawazá como parte da política estadual de esporte e cultura, com apoio direto às associações indígenas de artesanato e audiovisual. financiamento plurianual, via FEDEC-RO, para o Duelo na Fronteira, o Arraial Flor do Maracujá e os festivais dos 52 municípios, com edital específico para bois-bumbás, quadrilhas juninas e grupos folclóricos, incluídas as expressões culturais dos povos indígenas, quilombolas e ribeirinhos do Guaporé, do Madeira e do Mamoré — e uma regra de ouro: o recurso chega ao brincante, ao artesão e ao músico, não apenas à estrutura do evento.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "instituição dos Jogos no calendário oficial do Estado, com apoio logístico de transporte entre aldeias e centros urbanos, e reconhecimento das celebrações e dos jogos tradicionais dos povos Paiter Suruí, Cinta Larga, Gavião e Kawazá como parte da política estadual de esporte e cultura, com apoio direto às associações indígenas de artesanato e audiovisual."
+            },
+            {
+              "id": "s15",
+              "page_start": 25,
+              "page_end": 29,
+              "text": "financiamento plurianual, via FEDEC-RO, para o Duelo na Fronteira, o Arraial Flor do Maracujá e os festivais dos 52 municípios, com edital específico para bois-bumbás, quadrilhas juninas e grupos folclóricos, incluídas as expressões culturais dos povos indígenas, quilombolas e ribeirinhos do Guaporé, do Madeira e do Mamoré — e uma regra de ouro: o recurso chega ao brincante, ao artesão e ao músico, não apenas à estrutura do evento."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 15,
+          "page_end": 21,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Concurso é a casa própria do serviço público.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "não escondemos o reajuste, nós o comparamos."
+            },
+            {
+              "id": "s12",
+              "page_start": 19,
+              "page_end": 21,
+              "text": "Concurso é a casa própria do serviço público."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002542916",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002542916_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002542916_01.pdf",
+      "sha256": "65f628f8540d61ddf34792bc54702e4e63833600835b99ec6f2466d2a1fc3ad4",
+      "summary": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas 1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Implantar a política estadual de saúde mental dos profissionais da segurança pública Instituir programas permanentes de atenção psicossocial destinados aos profissio‐ nais da segurança pública, garantindo acompanhamento psicológico, ações pre‐ ventivas, acolhimento especializado e suporte às suas famílias. Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública. 1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Combater o Crime Organizado com Inteligência, Integração e Tecnologia Fortalecer e Modernizar as Instituições de Segurança Pública Valorizar os Profissionais da Segurança Pública Proteger as Pessoas e Consolidar a Segurança dos Territórios Ampliar a Presença do Estado e Fortalecer a Prevenção Segurança Pública, Sistema Prisional e Penitenciário Modernizar e Fortalecer o Sistema Prisional Fortalecer a Inteligência e a Segurança Penitenciária Promover a Ressocialização e Reduzir a Reincidência Criminal EI XO 0 2 SEGURANÇA PÚBLICA A segurança pública é um direito de toda a população e uma das responsabilidades mais importantes do Estado. Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável. Cada decisão pública influencia a qualidade da saúde, da educação, da segu‐ rança, da infraestrutura, da geração de empregos e das oportunidades oferecidas às famílias.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 17,
+          "page_end": 17,
+          "topics": [
+            "education"
+          ],
+          "summary": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 17,
+          "page_end": 26,
+          "topics": [
+            "health"
+          ],
+          "summary": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Implantar a política estadual de saúde mental dos profissionais da segurança pública Instituir programas permanentes de atenção psicossocial destinados aos profissio‐ nais da segurança pública, garantindo acompanhamento psicológico, ações pre‐ ventivas, acolhimento especializado e suporte às suas famílias.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas"
+            },
+            {
+              "id": "s30",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Implantar a política estadual de saúde mental dos profissionais da segurança pública Instituir programas permanentes de atenção psicossocial destinados aos profissio‐ nais da segurança pública, garantindo acompanhamento psicológico, ações pre‐ ventivas, acolhimento especializado e suporte às suas famílias."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 13,
+          "page_end": 27,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública. 1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Combater o Crime Organizado com Inteligência, Integração e Tecnologia Fortalecer e Modernizar as Instituições de Segurança Pública Valorizar os Profissionais da Segurança Pública Proteger as Pessoas e Consolidar a Segurança dos Territórios Ampliar a Presença do Estado e Fortalecer a Prevenção Segurança Pública, Sistema Prisional e Penitenciário Modernizar e Fortalecer o Sistema Prisional Fortalecer a Inteligência e a Segurança Penitenciária Promover a Ressocialização e Reduzir a Reincidência Criminal EI XO 0 2 SEGURANÇA PÚBLICA A segurança pública é um direito de toda a população e uma das responsabilidades mais importantes do Estado. ",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas"
+            },
+            {
+              "id": "s20",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Combater o Crime Organizado com Inteligência, Integração e Tecnologia Fortalecer e Modernizar as Instituições de Segurança Pública Valorizar os Profissionais da Segurança Pública Proteger as Pessoas e Consolidar a Segurança dos Territórios Ampliar a Presença do Estado e Fortalecer a Prevenção Segurança Pública, Sistema Prisional e Penitenciário Modernizar e Fortalecer o Sistema Prisional Fortalecer a Inteligência e a Segurança Penitenciária Promover a Ressocialização e Reduzir a Reincidência Criminal"
+            },
+            {
+              "id": "s21",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "EI XO 0 2 SEGURANÇA PÚBLICA A segurança pública é um direito de toda a população e uma das responsabilidades mais importantes do Estado. O crime organizado passou a disputar territórios, ampliar sua influência sobre comunidades, utilizar nossas fronteiras como corredores estratégicos para o tráfico de drogas, armas e outros crimes transnacionais, além de ameaçar a tranquilidade das famílias rondonienses."
+            },
+            {
+              "id": "s22",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Assumimos o compromisso de construir uma Política Estadual Integrada de Segu‐ rança Pública, orientada por Diretrizes Estratégicas que reforcem a presença do Estado, aproximem as instituições, qualifiquem o combate ao crime organizado, valorizem os profissionais da segurança e protejam as pessoas em todo o território rondoniense. Queremos um Estado que atue de forma preventiva, utilize a tecnologia como aliada, fortaleça a capacidade de investigação, combata o crime organizado com firmeza e garanta que a população volte a sentir segurança para viver, trabalhar e empreender."
+            },
+            {
+              "id": "s23",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "O enfrentamento da criminalidade exige atuação coordenada entre as instituições, integração de informações, uso intensivo de inteligência policial e investimentos permanentes em tecnologia, ampliando a capacidade do Estado de prevenir, investigar e combater o crime organizado."
+            },
+            {
+              "id": "s24",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Integrar inteligência e tecnologia no combate ao crime Consolidar a atuação integrada das instituições de segurança pública por meio de investimentos em inteligência policial, sistemas de informação, monitoramento ele‐ trônico, tecnologias avançadas e compartilhamento de dados, aumentando a capacidade de prevenção, investigação e enfrentamento ao crime organizado, à violência urbana e rural, ao tráfico de drogas, aos crimes contra o patrimônio, aos crimes cibernéticos, aos crimes ambientais, aos conflitos agrários, à exploração sexual de crianças e adolescentes e às demais modalidades criminosas."
+            },
+            {
+              "id": "s25",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Instituições estruturadas, profissionais valorizados e qualificados, e infraestrutura adequada são condições indispensáveis para aumentar a capacidade operacional das forças de segurança e assegurar respostas mais rápidas, eficientes e integradas à população."
+            },
+            {
+              "id": "s26",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Fortalecer a política integrada de segurança pública Reforçar um modelo permanente de atuação integrada entre os órgãos estaduais, federais e municipais, articulando ações preventivas, ostensivas e investigativas para ampliar a eficiência operacional, reforçar o enfrentamento ao crime organi‐ zado e ao tráfico de drogas e garantir maior proteção à população. Fortalecer o combate aos crimes de fronteira Expandir a integração entre as forças estaduais e os órgãos federais de segurança pública, reforçando operações conjuntas, o compartilhamento de inteligência e o uso de tecnologias voltadas ao enfrentamento do tráfico de drogas, armas e demais crimes transnacionais."
+            },
+            {
+              "id": "s27",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Fortalecer o Corpo de Bombeiros Militar Modernizar a estrutura operacional do Corpo de Bombeiros Militar, estendendo sua capacidade de prevenção e resposta a emergências, por meio da aquisição de equipamentos, expansão das unidades operacionais, reforço da Defesa Civil, capacitação permanente e incorporação de novas tecnologias. Manter a modernização permanente das instituições de segurança pública Instituir uma política permanente de atualização tecnológica das instituições de segurança pública, com investimentos contínuos em equipamentos, sistemas de inteligência, drones, plataformas de monitoramento, armamentos, munições e demais recursos destinados ao reforço da capacidade operacional das forças estaduais."
+            },
+            {
+              "id": "s28",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "O Governo promoverá políticas voltadas à qualificação, ao bem-estar e às condições adequadas de trabalho dos profissionais da segurança pública."
+            },
+            {
+              "id": "s30",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Implantar a política estadual de saúde mental dos profissionais da segurança pública Instituir programas permanentes de atenção psicossocial destinados aos profissio‐ nais da segurança pública, garantindo acompanhamento psicológico, ações pre‐ ventivas, acolhimento especializado e suporte às suas famílias."
+            },
+            {
+              "id": "s31",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "A segurança pública também se constrói pela proximidade entre as instituições e a população."
+            },
+            {
+              "id": "s32",
+              "page_start": 27,
+              "page_end": 27,
+              "text": "Expandir a segurança pública no meio rural Fortalecer o policiamento rural, estendendo a presença das forças de segurança no campo por meio do uso de tecnologias de monitoramento, georreferenciamento e inteligência policial, assegurando maior proteção às famílias, aos produtores rurais e ao patrimônio."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 9,
+          "page_end": 15,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável. Cada decisão pública influencia a qualidade da saúde, da educação, da segu‐ rança, da infraestrutura, da geração de empregos e das oportunidades oferecidas às famílias. Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável."
+            },
+            {
+              "id": "s06",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Cada decisão pública influencia a qualidade da saúde, da educação, da segu‐ rança, da infraestrutura, da geração de empregos e das oportunidades oferecidas às famílias."
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública."
+            },
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Mas esse crescimento econômico não foi acompanhado, na mesma velocidade, pela capacidade do poder público de fazer os serviços essenciais chegarem à população e funcionarem como o cidadão precisa. Desenvolvimento econômico em emprego, renda e oportunidades."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 9,
+          "page_end": 13,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Mais do que um conjunto de propostas, ele apresenta uma forma de governar baseada no planejamento, na responsabilidade fiscal, na eficiência administrativa, na inovação e, principalmente, na capacidade de executar. Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável. O resultado é um Plano de Governo orientado por evidências, comprometido com a responsabilidade fiscal e estruturado para ampliar a capacidade de execução do Governo.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Mais do que um conjunto de propostas, ele apresenta uma forma de governar baseada no planejamento, na responsabilidade fiscal, na eficiência administrativa, na inovação e, principalmente, na capacidade de executar."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável."
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "O resultado é um Plano de Governo orientado por evidências, comprometido com a responsabilidade fiscal e estruturado para ampliar a capacidade de execução do Governo."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 17,
+          "page_end": 20,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "8 frentes estratégicas | 37 propostas AGROPECUÁRIA E CADEIAS PRODU‐ TIVAS 5 frentes estratégicas | 18 propostas INFRAESTRUTURA 5 frentes estratégicas | 16 propostas Expandir as ações itinerantes de cidadania Ampliar os programas itinerantes de cidadania, levando serviços de documenta‐ ção, assistência social, saúde e orientação jurídica às populações em situação de vulnerabilidade e às comunidades localizadas em regiões de difícil acesso.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "8 frentes estratégicas | 37 propostas AGROPECUÁRIA E CADEIAS PRODU‐ TIVAS 5 frentes estratégicas | 18 propostas INFRAESTRUTURA 5 frentes estratégicas | 16 propostas"
+            },
+            {
+              "id": "s19",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Expandir as ações itinerantes de cidadania Ampliar os programas itinerantes de cidadania, levando serviços de documenta‐ ção, assistência social, saúde e orientação jurídica às populações em situação de vulnerabilidade e às comunidades localizadas em regiões de difícil acesso."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Uma visão que reconhece Rondônia como uma das economias mais promissoras do Brasil, impulsionada pela força do agronegócio e da agricultura familiar, da indústria, da bioeconomia, da inovação, da geração de energia, do comércio e do empreendedorismo.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Uma visão que reconhece Rondônia como uma das economias mais promissoras do Brasil, impulsionada pela força do agronegócio e da agricultura familiar, da indústria, da bioeconomia, da inovação, da geração de energia, do comércio e do empreendedorismo."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 19,
+          "page_end": 20,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Consolidar a promoção dos direitos humanos Realizar ações permanentes de promoção e educação em direitos humanos, con‐ solidando o respeito à diversidade, a igualdade de oportunidades e a proteção da dignidade da pessoa humana em todo o Estado.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Consolidar a promoção dos direitos humanos Realizar ações permanentes de promoção e educação em direitos humanos, con‐ solidando o respeito à diversidade, a igualdade de oportunidades e a proteção da dignidade da pessoa humana em todo o Estado."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 9,
+          "page_end": 20,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável. Essa escuta foi integrada à análise de indicado‐ res sociais e econômicos, estudos técnicos e experiências exitosas de gestão pública, permitindo transformar demandas da sociedade em prioridades estratégicas para o futuro do Estado. Ao mesmo tempo, reconhece que esse potencial somente produzirá desenvolvi‐ mento duradouro se estiver acompanhado de uma gestão pública eficiente, capaz de planejar, investir, executar e avaliar resultados.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável."
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Essa escuta foi integrada à análise de indicado‐ res sociais e econômicos, estudos técnicos e experiências exitosas de gestão pública, permitindo transformar demandas da sociedade em prioridades estratégicas para o futuro do Estado. Ao mesmo tempo, reconhece que esse potencial somente produzirá desenvolvi‐ mento duradouro se estiver acompanhado de uma gestão pública eficiente, capaz de planejar, investir, executar e avaliar resultados."
+            },
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "O documento demonstra que Rondônia reúne condições econômicas favoráveis, mas alerta que os próximos anos exigirão uma gestão pública capaz de transformar potencial em resultados concretos para a população, preservando o equilíbrio fiscal e ampliando a capacidade de investimento do Estado. Não basta um Estado que produz mais, exporta mais e arrecada mais se o cidadão continua esperando pelo serviço público que deveria receber."
+            },
+            {
+              "id": "s11",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Por isso, a gestão pública está no centro deste projeto."
+            },
+            {
+              "id": "s17",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "RONDÔNIA, COMAFORÇADOTRABALHOEDAUNIÃO COLIGAÇÃO: RONDÔNIA COM A FORÇA DO TRABALHO E DA UNIÃO EI XO 0 1 CIDADANIA E COMBATE À CORRUPÇÃO Cada recurso público pertence à população."
+            },
+            {
+              "id": "s18",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Consolidar o Programa Estadual de Integridade e Combate à Corrupção Aprimorar e reforçar os mecanismos de integridade pública, transparência, con‐ trole interno, governo aberto, participação social e fiscalização da aplicação dos recursos públicos, fortalecendo a prevenção, a detecção e o combate à corrupção em toda a administração estadual, com atuação firme e permanente na defesa do interesse público."
+            },
+            {
+              "id": "s19",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Ampliar a transparência e o acesso às informações públicas Reforçar as plataformas digitais e os mecanismos de transparência ativa, garan‐ tindo amplo acesso da população às informações públicas, em conformidade com a Lei de Acesso à Informação, ampliando o controle social e a transparência da administração pública."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002542916",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002542916_02.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002542916_02.pdf",
+      "sha256": "3ced457d9d60a97be34150457a414b46fa1dcbb8e133e6ea5114f1cd05cdd8d5",
+      "summary": "Não foi possível extrair propostas temáticas do plano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002550927",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002550927_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002550927_01.pdf",
+      "sha256": "beb29a0fd236841e596c4466116fde554bfed9bcaa2eed14a09a59519a28a9f5",
+      "summary": "Da mesma forma, compete ao Estado assegurar, na Educação pública, o acesso universal à ciência, à tecnologia, às artes, à filosofia e ao pensamento crítico, contribuindo para que os futuros cidadãos desenvolvam suas habilidades e potencialidades, garantindo a permanência e o êxito do aluno na escola.​ ​ Nossa terra deve ser acolhedora: é nela que convivemos com nossas famílias, nossos amigos e nossos vizinhos e, é em Rondônia que, independentemente de onde tenhamos nascido, sejam os filhos da terra ou aqueles que vieram de todos os cantos do Brasil para construí-la, nos sentimos aceitos e parte integrante de sua identidade, atuando como construtores e participantes ativos de seu desenvolvimento.​ ​ Queremos e vamos construir um estado verdadeiramente inclusivo, que assegure acesso às políticas públicas para todos os seus moradores, sem distinção, porque um governo estadual que se preza, respeita e valoriza as características do ser humano, suas escolhas e suas diferenças e em sua totalidade de diversidade (de raça, de gênero, de geração, de orientação religiosa, de orientação sexual e de condições físicas ou mentais). Implantação de 100 escolas estaduais em tempo integral, criação Não se pode aceitar que em um estado próspero, forte e gerador de riquezas como o nosso, ainda existam pessoas vivendo em condições subumanas, sem água tratada, sem atendimento médico digno e sem perspectivas de futuro.​ ​ É obrigação da sociedade e, em especial, do Governo do Estado transformar essa realidade e assegurar condições dignas de vida a todos os rondonienses, por essa razão, a inclusão social deve abranger os aspectos sociais, econômicos, urbanos, rurais e políticos em cada canto do nosso território. Foco absoluto na ampliação de leitos de emergência e UTI, construção do Novo Hospital João Paulo II em quatro anos, descentralização regional dos exames e atendimento humanizado. Reconhecimento da cultura como geradora de emprego e renda (assegurando repasses ao FEDEC-RO e verbas federais) e promoção do esporte comunitário para a saúde mental e cidadania. Garantia de valorização salarial, reajustes nos auxílios, qualificação continuada, programas de pós-graduação e abertura de concursos públicos para a Segurança Pública e demais áreas estratégicas do estado.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 2,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "Da mesma forma, compete ao Estado assegurar, na Educação pública, o acesso universal à ciência, à tecnologia, às artes, à filosofia e ao pensamento crítico, contribuindo para que os futuros cidadãos desenvolvam suas habilidades e potencialidades, garantindo a permanência e o êxito do aluno na escola.​ ​ Nossa terra deve ser acolhedora: é nela que convivemos com nossas famílias, nossos amigos e nossos vizinhos e, é em Rondônia que, independentemente de onde tenhamos nascido, sejam os filhos da terra ou aqueles que vieram de todos os cantos do Brasil para construí-la, nos sentimos aceitos e parte integrante de sua identidade, atuando como construtores e participantes ativos de seu desenvolvimento.​ ​ Queremos e vamos construir um estado verdadeiramente inclusivo, que assegure acesso às políticas públicas para todos os seus moradores, sem distinção, porque um governo estadual que se preza, respeita e valoriza as características do ser humano, suas escolhas e suas diferenças e em sua totalidade de diversidade (de raça, de gênero, de geração, de orientação religiosa, de orientação sexual e de condições físicas ou mentais). Implantação de 100 escolas estaduais em tempo integral, criação ",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "Da mesma forma, compete ao Estado assegurar, na Educação pública, o acesso universal à ciência, à tecnologia, às artes, à filosofia e ao pensamento crítico, contribuindo para que os futuros cidadãos desenvolvam suas habilidades e potencialidades, garantindo a permanência e o êxito do aluno na escola.​ ​ Nossa terra deve ser acolhedora: é nela que convivemos com nossas famílias, nossos amigos e nossos vizinhos e, é em Rondônia que, independentemente de onde tenhamos nascido, sejam os filhos da terra ou aqueles que vieram de todos os cantos do Brasil para construí-la, nos sentimos aceitos e parte integrante de sua identidade, atuando como construtores e participantes ativos de seu desenvolvimento.​ ​ Queremos e vamos construir um estado verdadeiramente inclusivo, que assegure acesso às políticas públicas para todos os seus moradores, sem distinção, porque um governo estadual que se preza, respeita e valoriza as características do ser humano, suas escolhas e suas diferenças e em sua totalidade de diversidade (de raça, de gênero, de geração, de orientação religiosa, de orientação sexual e de condições físicas ou mentais)."
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Implantação de 100 escolas estaduais em tempo integral, criação da Universidade Estadual de Rondônia (com 80% das vagas reservadas para alunos da rede pública local) e bolsa permanência para combate à evasão escolar."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Implementação da Universidade Estadual de Rondônia, estruturada com foco nas vocações regionais, garantindo no mínimo 80% das vagas para estudantes oriundos da rede pública de ensino de Rondônia. Graduações voltadas ao desenvolvimento econômico, ciência, tecnologia, meio ambiente, licenciatura, saúde e produção agrícola sustentável."
+            },
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Criar e entregar 100 escolas estaduais em tempo integral, climatizadas e bilíngues nos 4 anos de governo, garantindo matriz curricular fortalecida com ciências, tecnologia, artes e esportes."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 2,
+          "page_end": 9,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não se pode aceitar que em um estado próspero, forte e gerador de riquezas como o nosso, ainda existam pessoas vivendo em condições subumanas, sem água tratada, sem atendimento médico digno e sem perspectivas de futuro.​ ​ É obrigação da sociedade e, em especial, do Governo do Estado transformar essa realidade e assegurar condições dignas de vida a todos os rondonienses, por essa razão, a inclusão social deve abranger os aspectos sociais, econômicos, urbanos, rurais e políticos em cada canto do nosso território. ●​ Reconstrução e Modernização da Saúde pública: Foco absoluto na ampliação de leitos de emergência e UTI, construção do Novo Hospital João Paulo II em quatro anos, descentralização regional dos exames e atendimento humanizado. Reconhecimento da cultura como geradora de emprego e renda (assegurando repasses ao FEDEC-RO e verbas federais) e promoção do esporte comunitário para a saúde mental e cidadania.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Não se pode aceitar que em um estado próspero, forte e gerador de riquezas como o nosso, ainda existam pessoas vivendo em condições subumanas, sem água tratada, sem atendimento médico digno e sem perspectivas de futuro.​ ​ É obrigação da sociedade e, em especial, do Governo do Estado transformar essa realidade e assegurar condições dignas de vida a todos os rondonienses, por essa razão, a inclusão social deve abranger os aspectos sociais, econômicos, urbanos, rurais e políticos em cada canto do nosso território."
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "●​ Reconstrução e Modernização da Saúde pública: Foco absoluto na ampliação de leitos de emergência e UTI, construção do Novo Hospital João Paulo II em quatro anos, descentralização regional dos exames e atendimento humanizado. Reconhecimento da cultura como geradora de emprego e renda (assegurando repasses ao FEDEC-RO e verbas federais) e promoção do esporte comunitário para a saúde mental e cidadania."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "NOVO HOSPITAL JOÃO PAULO II Um novo hospital de urgência, emergência e trauma para Rondônia em 4 anos. Capacitação contínua para profissionais da atenção primária e urgência reconhecerem sinais de sofrimento mental e realizarem os encaminhamentos adequados dentro da rede."
+            },
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Programa Estadual de Apoio Psicológico e Terapêutico contínuo para prevenção do desgaste profissional e apoio à saúde mental dos agentes."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 4,
+          "page_end": 9,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Garantia de valorização salarial, reajustes nos auxílios, qualificação continuada, programas de pós-graduação e abertura de concursos públicos para a Segurança Pública e demais áreas estratégicas do estado. Articulação imediata com o Governo Federal, Ministério da Saúde e Ministério da Justiça e Segurança Pública para cessão ou doação definitiva da área ao Estado. Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores).",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Garantia de valorização salarial, reajustes nos auxílios, qualificação continuada, programas de pós-graduação e abertura de concursos públicos para a Segurança Pública e demais áreas estratégicas do estado."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "Articulação imediata com o Governo Federal, Ministério da Saúde e Ministério da Justiça e Segurança Pública para cessão ou doação definitiva da área ao Estado."
+            },
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores)."
+            },
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Rondas ostensivas comunitárias e proteção escolar em parceria com municípios. Cercamento digital nas fronteiras, reconhecimento facial e unificação de bancos de dados."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 4,
+          "page_end": 8,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Desburocratização do ambiente de negócios, apoio aos microempreendedores, fortalecimento da produção rural, manutenção contínua de estradas vicinais e incentivo à industrialização sustentável. Graduações voltadas ao desenvolvimento econômico, ciência, tecnologia, meio ambiente, licenciatura, saúde e produção agrícola sustentável. Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores).",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Desburocratização do ambiente de negócios, apoio aos microempreendedores, fortalecimento da produção rural, manutenção contínua de estradas vicinais e incentivo à industrialização sustentável."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Graduações voltadas ao desenvolvimento econômico, ciência, tecnologia, meio ambiente, licenciatura, saúde e produção agrícola sustentável."
+            },
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores)."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 8,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores). Dobrar a verba destinada à alimentação dos profissionais em serviço.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Gratificação Permanente de Atividade-Fim Criação de uma gratificação permanente no valor de 1 (um) salário mínimo, concedida a título de verba indenizatória, para todos os trabalhadores e trabalhadoras da segurança pública que atuam diretamente na atividade-fim (Policiais Militares, Policiais Civis, Policiais Penais, Bombeiros Militares e Socioeducadores). Dobrar a verba destinada à alimentação dos profissionais em serviço."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 7,
+          "page_end": 11,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Graduações voltadas ao desenvolvimento econômico, ciência, tecnologia, meio ambiente, licenciatura, saúde e produção agrícola sustentável. Geoprocessamento em tempo real, inteligência ambiental e fortalecimento das brigadas de combate a incêndios. Valorização do açaí, castanha e óleos essenciais, com apoio técnico e financeiro às cooperativas de catadores.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Graduações voltadas ao desenvolvimento econômico, ciência, tecnologia, meio ambiente, licenciatura, saúde e produção agrícola sustentável."
+            },
+            {
+              "id": "s15",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Geoprocessamento em tempo real, inteligência ambiental e fortalecimento das brigadas de combate a incêndios. Valorização do açaí, castanha e óleos essenciais, com apoio técnico e financeiro às cooperativas de catadores."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Desburocratização do ambiente de negócios, apoio aos microempreendedores, fortalecimento da produção rural, manutenção contínua de estradas vicinais e incentivo à industrialização sustentável.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Desburocratização do ambiente de negócios, apoio aos microempreendedores, fortalecimento da produção rural, manutenção contínua de estradas vicinais e incentivo à industrialização sustentável."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Ela será incorporada ao dia a dia da gestão estadual, não apenas como uma diretriz simbólica, mas como marca e método de trabalho.​ ​ Para tanto, serão fortalecidos e criados os Conselhos Estaduais e Regionais de Políticas Públicas, garantindo ampla participação popular, integração com os clamores das comunidades e o efetivo exercício do controle social sobre as ações do gestor público, conforme determina a Constituição.​ ​ Esse processo exige uma prática pedagógica da democracia ativa, permitindo às camadas populares, historicamente afastadas dos centros decisórios, o acesso direto às deliberações sobre os rumos do estado. Todo o Governo Estadual se empenhará na constante melhoria da produtividade e da eficiência dos serviços, buscando de forma participativa um modelo baseado em programas de Gestão de Qualidade do Serviço Público. ​ Nosso compromisso é realizar uma administração pública transparente, eficiente, proativa e democrática, capaz de incorporar efetivamente a participação da população de Rondônia, permitindo maior controle social e entregando serviços públicos humanos e modernos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "Ela será incorporada ao dia a dia da gestão estadual, não apenas como uma diretriz simbólica, mas como marca e método de trabalho.​ ​ Para tanto, serão fortalecidos e criados os Conselhos Estaduais e Regionais de Políticas Públicas, garantindo ampla participação popular, integração com os clamores das comunidades e o efetivo exercício do controle social sobre as ações do gestor público, conforme determina a Constituição.​ ​ Esse processo exige uma prática pedagógica da democracia ativa, permitindo às camadas populares, historicamente afastadas dos centros decisórios, o acesso direto às deliberações sobre os rumos do estado. Todo o Governo Estadual se empenhará na constante melhoria da produtividade e da eficiência dos serviços, buscando de forma participativa um modelo baseado em programas de Gestão de Qualidade do Serviço Público."
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "​ Nosso compromisso é realizar uma administração pública transparente, eficiente, proativa e democrática, capaz de incorporar efetivamente a participação da população de Rondônia, permitindo maior controle social e entregando serviços públicos humanos e modernos."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Expansão do programa de pós-graduação para os demais servidores estatutários do estado como política de valorização e modernização do serviço público."
+            },
+            {
+              "id": "s19",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Fortalecimento das ouvidorias, licitações 100% transparentes e controle social efetivo."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002551251",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002551251_01.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002551251_01.pdf",
+      "sha256": "ec9d80a9fbd5601272a4160e37899639e7f9feecd481a6badffd60846537c916",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    }
+  ]
+}

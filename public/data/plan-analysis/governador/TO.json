@@ -1,0 +1,2777 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "TO",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "270002539187",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002539187_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002539187_01.pdf",
+      "sha256": "ddbab69e74b2271c4c006c6e9b98f7034bf8a83eedecdf2885bd978d40c937de",
+      "summary": "Saúde pública funcionando de verdade, educação de qualidade, segurança, assistência social, mobilidade, acesso à cultura, ao esporte e às oportunidades não podem depender da condição econômica das pessoas nem da região onde vivem. Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude. Enquanto algumas áreas receberam investimentos, infraestrutura e oportunidades, outras continuaram convivendo com dificuldades históricas relacionadas à saúde, educação, geração de emprego, acesso aos serviços públicos e presença efetiva do Estado. O desenvolvimento econômico do Tocantins precisa produzir qualidade de vida para o conjunto da população. São elas que materializam direitos, promovem o desenvolvimento econômico, organizam o território, reduzem desigualdades e constroem a relação democrática entre Estado e sociedade. O papel do Estado é assegurar dignidade, proteção social e presença pública em todos os territórios do Tocantins. Esse sistema integra políticas públicas destinadas à proteção social, promoção da igualdade e garantia dos direitos fundamentais, articulando órgãos da administração direta e indireta responsáveis pela formulação, coordenação e execução dessas políticas. Bem-estar da Gente Secretaria do Meio Ambiente e Recursos Hídricos Secretaria do Patrimônio Natural e Desenvolvimento Territorial Sustentável Integra a proteção do patrimônio natural, o uso sustentável dos recursos naturais e o planejamento territorial sustentável. Isso significa fortalecer a economia regional, gerar emprego e renda, apoiar o empreendedorismo, valorizar as populações originárias, quilombolas e o elemento norteador da continuidade dessas pessoas, como a agricultura familiar o diálogo com o setor produtivo e garantir que o desenvolvimento econômico esteja articulado à uma distribuição justa da riqueza e à proteção e preservação dos nossos recursos naturais.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "health"
+          ],
+          "summary": "Saúde pública funcionando de verdade, educação de qualidade, segurança, assistência social, mobilidade, acesso à cultura, ao esporte e às oportunidades não podem depender da condição econômica das pessoas nem da região onde vivem.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Saúde pública funcionando de verdade, educação de qualidade, segurança, assistência social, mobilidade, acesso à cultura, ao esporte e às oportunidades não podem depender da condição econômica das pessoas nem da região onde vivem."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Estruturam esse sistema, entre outras, as seguintes políticas públicas: Política Estadual de Saúde; Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Estruturam esse sistema, entre outras, as seguintes políticas públicas: Política Estadual de Saúde; Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 16,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Enquanto algumas áreas receberam investimentos, infraestrutura e oportunidades, outras continuaram convivendo com dificuldades históricas relacionadas à saúde, educação, geração de emprego, acesso aos serviços públicos e presença efetiva do Estado. O desenvolvimento econômico do Tocantins precisa produzir qualidade de vida para o conjunto da população. São elas que materializam direitos, promovem o desenvolvimento econômico, organizam o território, reduzem desigualdades e constroem a relação democrática entre Estado e sociedade.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Enquanto algumas áreas receberam investimentos, infraestrutura e oportunidades, outras continuaram convivendo com dificuldades históricas relacionadas à saúde, educação, geração de emprego, acesso aos serviços públicos e presença efetiva do Estado. O desenvolvimento econômico do Tocantins precisa produzir qualidade de vida para o conjunto da população."
+            },
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "São elas que materializam direitos, promovem o desenvolvimento econômico, organizam o território, reduzem desigualdades e constroem a relação democrática entre Estado e sociedade."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O Bem-estar da Gente organiza o Sistema Estadual de Desenvolvimento Territorial, compreendendo que o desenvolvimento econômico somente possui legitimidade quando produz qualidade de vida, distribuição de oportunidades, sustentabilidade ambiental e equilíbrio regional. Integram esse sistema políticas públicas voltadas para: desenvolvimento econômico; agricultura familiar e agropecuária; indústria, comércio e inovação; infraestrutura e logística; cidades e habitação; saneamento ambiental; recursos hídricos; proteção do Cerrado; desenvolvimento regional; turismo; economia solidária; geração de trabalho e renda."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Bem-estar da Gente Secretaria da Pecuária Incorporada à Secretaria de Desenvolvimento Econômico Produção animal passa a integrar a política produtiva. Bem-estar da Gente Secretaria da Indústria, Comércio e Serviços Secretaria do Desenvolvimento Econômico, Indústria, Coloca inovação como vetor do desenvolvimento."
+            },
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Direito da Gente Agência de Fomento Agência de Desenvolvimento Econômico e Economia Solidária Amplia o apoio ao desenvolvimento produtivo e à economia solidária."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Saúde pública funcionando de verdade, educação de qualidade, segurança, assistência social, mobilidade, acesso à cultura, ao esporte e às oportunidades não podem depender da condição econômica das pessoas nem da região onde vivem. O papel do Estado é assegurar dignidade, proteção social e presença pública em todos os territórios do Tocantins. Esse sistema integra políticas públicas destinadas à proteção social, promoção da igualdade e garantia dos direitos fundamentais, articulando órgãos da administração direta e indireta responsáveis pela formulação, coordenação e execução dessas políticas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Saúde pública funcionando de verdade, educação de qualidade, segurança, assistência social, mobilidade, acesso à cultura, ao esporte e às oportunidades não podem depender da condição econômica das pessoas nem da região onde vivem. O papel do Estado é assegurar dignidade, proteção social e presença pública em todos os territórios do Tocantins."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Esse sistema integra políticas públicas destinadas à proteção social, promoção da igualdade e garantia dos direitos fundamentais, articulando órgãos da administração direta e indireta responsáveis pela formulação, coordenação e execução dessas políticas. Estruturam esse sistema, entre outras, as seguintes políticas públicas: Política Estadual de Saúde; Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Estrutura atual Proposta de reorganização Justificativa Sistema de Políticas Públicas Secretaria do Trabalho e Desenvolvimento Social Secretaria da Proteção Social e emancipação da Gente Integra assistência social, segurança alimentar, trabalho, renda e inclusão produtiva."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 12,
+          "page_end": 14,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Bem-estar da Gente Secretaria do Meio Ambiente e Recursos Hídricos Secretaria do Patrimônio Natural e Desenvolvimento Territorial Sustentável Integra a proteção do patrimônio natural, o uso sustentável dos recursos naturais e o planejamento territorial sustentável.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Bem-estar da Gente Secretaria do Meio Ambiente e Recursos Hídricos Secretaria do Patrimônio Natural e Desenvolvimento Territorial Sustentável Integra a proteção do patrimônio natural, o uso sustentável dos recursos naturais e o planejamento territorial sustentável."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Isso significa fortalecer a economia regional, gerar emprego e renda, apoiar o empreendedorismo, valorizar as populações originárias, quilombolas e o elemento norteador da continuidade dessas pessoas, como a agricultura familiar o diálogo com o setor produtivo e garantir que o desenvolvimento econômico esteja articulado à uma distribuição justa da riqueza e à proteção e preservação dos nossos recursos naturais. Integram esse sistema políticas públicas voltadas para: desenvolvimento econômico; agricultura familiar e agropecuária; indústria, comércio e inovação; infraestrutura e logística; cidades e habitação; saneamento ambiental; recursos hídricos; proteção do Cerrado; desenvolvimento regional; turismo; economia solidária; geração de trabalho e renda. Direito da Gente Secretaria da Agricultura Familiar, Agroecologia e Desenvolvimento Rural Diferencia agricultura familiar do agronegócio.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Isso significa fortalecer a economia regional, gerar emprego e renda, apoiar o empreendedorismo, valorizar as populações originárias, quilombolas e o elemento norteador da continuidade dessas pessoas, como a agricultura familiar o diálogo com o setor produtivo e garantir que o desenvolvimento econômico esteja articulado à uma distribuição justa da riqueza e à proteção e preservação dos nossos recursos naturais."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Integram esse sistema políticas públicas voltadas para: desenvolvimento econômico; agricultura familiar e agropecuária; indústria, comércio e inovação; infraestrutura e logística; cidades e habitação; saneamento ambiental; recursos hídricos; proteção do Cerrado; desenvolvimento regional; turismo; economia solidária; geração de trabalho e renda."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Direito da Gente Secretaria da Agricultura Familiar, Agroecologia e Desenvolvimento Rural Diferencia agricultura familiar do agronegócio."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 14,
+          "page_end": 16,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Bem-querer da Gente ATI Agência Estadual de Transformação Digital Moderniza a gestão pública por meio da inovação tecnológica e do governo digital.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Bem-querer da Gente ATI Agência Estadual de Transformação Digital Moderniza a gestão pública por meio da inovação tecnológica e do governo digital."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 12,
+          "page_end": 16,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Direito da Gente Secretaria da Cultura + Juventude Secretaria da Cultura, Juventude e Economia Criativa Integra cultura, juventude e economia criativa. Bem-estar da Gente Secretaria do Turismo Economia Criativa e Patrimônio Natural Integra turismo sustentável e desenvolvimento regional. Bem-querer da Gente Fundação Cultural Fundação de Cultura, Memória e Patrimônio Tocantinense Preserva o patrimônio cultural e fortalece a identidade tocantinense.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Direito da Gente Secretaria da Cultura + Juventude Secretaria da Cultura, Juventude e Economia Criativa Integra cultura, juventude e economia criativa. Bem-estar da Gente Secretaria do Turismo Economia Criativa e Patrimônio Natural Integra turismo sustentável e desenvolvimento regional."
+            },
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Bem-querer da Gente Fundação Cultural Fundação de Cultura, Memória e Patrimônio Tocantinense Preserva o patrimônio cultural e fortalece a identidade tocantinense."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 14,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Estruturam esse sistema, entre outras, as seguintes políticas públicas: Política Estadual de Saúde; Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude. Direito da Gente Secretaria da Cidadania e Justiça + Direitos Humanos Secretaria dos Direitos da Gente e da Justiça Cidadã Reúne cidadania, justiça, direitos humanos e sistema socioeducativo. Direito da Gente Secretaria da Igualdade Racial Mantém Amplia atuação para equidade racial e combate às desigualdades.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Estruturam esse sistema, entre outras, as seguintes políticas públicas: Política Estadual de Saúde; Política Estadual de Educação; Política Estadual de Assistência Social; Política Estadual de Segurança Pública e Segurança Cidadã; Política Estadual de Direitos Humanos; Política Estadual de Igualdade Racial; Política Estadual das Mulheres; Política Estadual dos Povos Originários e Comunidades Tradicionais; Política Estadual de Cultura; Política Estadual de Esporte e Juventude."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Direito da Gente Secretaria da Cidadania e Justiça + Direitos Humanos Secretaria dos Direitos da Gente e da Justiça Cidadã Reúne cidadania, justiça, direitos humanos e sistema socioeducativo. Direito da Gente Secretaria da Igualdade Racial Mantém Amplia atuação para equidade racial e combate às desigualdades."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 12,
+          "page_end": 17,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Bem-querer da Gente Estrutura atual Proposta de reorganização Justificativa Sistema de Políticas Públicas Secretaria da Comunicação Secretaria de Comunicação Pública e Participação Social Comunicação passa a dialogar com participação cidadã. Bem-querer da Gente ATI Agência Estadual de Transformação Digital Moderniza a gestão pública por meio da inovação tecnológica e do governo digital. Bem-querer da Gente Escola de Governo Instituto Tocantinense de Gestão Pública e Formação Permanente Fortalece a qualificação dos servidores e a inovação na administração pública.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "Bem-querer da Gente Estrutura atual Proposta de reorganização Justificativa Sistema de Políticas Públicas Secretaria da Comunicação Secretaria de Comunicação Pública e Participação Social Comunicação passa a dialogar com participação cidadã."
+            },
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Bem-querer da Gente ATI Agência Estadual de Transformação Digital Moderniza a gestão pública por meio da inovação tecnológica e do governo digital. Bem-querer da Gente Escola de Governo Instituto Tocantinense de Gestão Pública e Formação Permanente Fortalece a qualificação dos servidores e a inovação na administração pública."
+            },
+            {
+              "id": "s13",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Bem-estar da Gente Novo Conselho Permanente Conselho Estadual de Participação Social Institucionaliza a participação popular e o controle social na formulação, monitoramento e avaliação das políticas públicas estaduais."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002544494",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002544494_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002544494_01.pdf",
+      "sha256": "1ac0de50de41dbbbdb395973698b8a1e1d6f7913190cec2483b55aa59ad8216c",
+      "summary": "Todas as políticas públicas serão orientadas pelos princípios da sustentabilidade, alinhadas aos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030, conciliando desenvolvimento econômico, justiça social, responsabilidade ambiental e boa governança. O desenvolvimento econômico caminhará ao lado da preservação ambiental, da valorização das potencialidades regionais e do uso responsável dos recursos naturais, assegurando que crescimento e conservação avancem de forma integrada e produzam benefícios duradouros para as atuais e futuras gerações. a educação prepara as pessoas para o futuro; a saúde promove qualidade de vida; a segurança fortalece a cidadania; a infraestrutura integra regiões e amplia a competitividade; o desenvolvimento social reduz desigualdades; e a governança assegura que todas essas políticas sejam planejadas, executadas e avaliadas com eficiência, transparência e responsabilidade. O equilíbrio das contas públicas será tratado como condição essencial para garantir investimentos, ampliar a capacidade do Estado de executar políticas públicas e manter a confiança da sociedade e dos investidores. Nossa gestão adotará uma administração responsável dos recursos públicos, buscando eficiência nos gastos, qualidade do investimento e sustentabilidade financeira. Nosso compromisso é consolidar uma administração pública inovadora, transparente, digital e orientada por resultados, fundamentada nos princípios da boa governança, da responsabilidade fiscal, da integridade e da melhoria contínua dos serviços públicos, fortalecendo as instituições e ampliando a confiança da sociedade no Estado. cultura, esporte, assistência social e cidadania como direitos fundamentais para todos. A transformação digital da administração pública buscará simplificar procedimentos, reduzir burocracias, integrar sistemas, ampliar a interoperabilidade entre os órgãos estaduais e facilitar o acesso da população aos serviços públicos. PRA FRENTE TOCANTINS PLANO DE GOVERNO 2027 / 2030 EIXO I Governança, Inovação e Transformação Digital “GOVERNAR BEM SIGNIFICA UTILIZAR CADA CENTAVO DOS RECURSOS PÚBLICOS A boa governança, a inovação e a transformação digital serão os pilares da modernização do Estado, promovendo serviços públicos mais ágeis, transparentes, acessíveis, integrados e centrados nas necessidades da população.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 23,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Todas as políticas públicas serão orientadas pelos princípios da sustentabilidade, alinhadas aos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030, conciliando desenvolvimento econômico, justiça social, responsabilidade ambiental e boa governança. O desenvolvimento econômico caminhará ao lado da preservação ambiental, da valorização das potencialidades regionais e do uso responsável dos recursos naturais, assegurando que crescimento e conservação avancem de forma integrada e produzam benefícios duradouros para as atuais e futuras gerações. a educação prepara as pessoas para o futuro; a saúde promove qualidade de vida; a segurança fortalece a cidadania; a infraestrutura integra regiões e amplia a competitividade; o desenvolvimento social reduz desigualdades; e a governança assegura que todas essas políticas sejam planejadas, executadas e avaliadas com eficiência, transparência e responsabilidade.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Todas as políticas públicas serão orientadas pelos princípios da sustentabilidade, alinhadas aos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030, conciliando desenvolvimento econômico, justiça social, responsabilidade ambiental e boa governança."
+            },
+            {
+              "id": "s12",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "O desenvolvimento econômico caminhará ao lado da preservação ambiental, da valorização das potencialidades regionais e do uso responsável dos recursos naturais, assegurando que crescimento e conservação avancem de forma integrada e produzam benefícios duradouros para as atuais e futuras gerações."
+            },
+            {
+              "id": "s14",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "a educação prepara as pessoas para o futuro; a saúde promove qualidade de vida; a segurança fortalece a cidadania; a infraestrutura integra regiões e amplia a competitividade; o desenvolvimento social reduz desigualdades; e a governança assegura que todas essas políticas sejam planejadas, executadas e avaliadas com eficiência, transparência e responsabilidade."
+            },
+            {
+              "id": "s26",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Os Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela Agenda 2030 da Organização das Nações Unidas (ONU), constituem uma referência internacional para a promoção do desenvolvimento econômico, social e ambiental de forma integrada e sustentável."
+            },
+            {
+              "id": "s28",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Um Estado que tenha consolidado um ambiente favorável aos investimentos, ao empreendedorismo, à inovação e à geração de empregos, aproveitando plenamente suas vocações econômicas e promovendo desenvolvimento em todas as regiões."
+            },
+            {
+              "id": "s32",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Em 2030, queremos um Estado reconhecido pela capacidade de conciliar crescimento econômico, conservação ambiental e responsabilidade na gestão dos recursos públicos. Crescer de forma responsável significa assegurar que o desenvolvimento econômico caminhe lado a lado com a responsabilidade fiscal, a inovação, a inclusão social e a preservação ambiental, garantindo prosperidade para as atuais e futuras gerações."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 8,
+          "page_end": 23,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "O equilíbrio das contas públicas será tratado como condição essencial para garantir investimentos, ampliar a capacidade do Estado de executar políticas públicas e manter a confiança da sociedade e dos investidores. Nossa gestão adotará uma administração responsável dos recursos públicos, buscando eficiência nos gastos, qualidade do investimento e sustentabilidade financeira. Nosso compromisso é consolidar uma administração pública inovadora, transparente, digital e orientada por resultados, fundamentada nos princípios da boa governança, da responsabilidade fiscal, da integridade e da melhoria contínua dos serviços públicos, fortalecendo as instituições e ampliando a confiança da sociedade no Estado.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "O equilíbrio das contas públicas será tratado como condição essencial para garantir investimentos, ampliar a capacidade do Estado de executar políticas públicas e manter a confiança da sociedade e dos investidores. Nossa gestão adotará uma administração responsável dos recursos públicos, buscando eficiência nos gastos, qualidade do investimento e sustentabilidade financeira."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Nosso compromisso é consolidar uma administração pública inovadora, transparente, digital e orientada por resultados, fundamentada nos princípios da boa governança, da responsabilidade fiscal, da integridade e da melhoria contínua dos serviços públicos, fortalecendo as instituições e ampliando a confiança da sociedade no Estado."
+            },
+            {
+              "id": "s32",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Da mesma forma, fortalecer a responsabilidade fiscal, o planejamento de longo prazo e a eficiência administrativa será essencial para garantir investimentos consistentes, ampliar a capacidade do Estado e assegurar que as políticas públicas produzam resultados duradouros. Crescer de forma responsável significa assegurar que o desenvolvimento econômico caminhe lado a lado com a responsabilidade fiscal, a inovação, a inclusão social e a preservação ambiental, garantindo prosperidade para as atuais e futuras gerações."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 22,
+          "page_end": 22,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "cultura, esporte, assistência social e cidadania como direitos fundamentais para todos.",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "cultura, esporte, assistência social e cidadania como direitos fundamentais para todos."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 8,
+          "page_end": 23,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "A transformação digital da administração pública buscará simplificar procedimentos, reduzir burocracias, integrar sistemas, ampliar a interoperabilidade entre os órgãos estaduais e facilitar o acesso da população aos serviços públicos. PRA FRENTE TOCANTINS PLANO DE GOVERNO 2027 / 2030 EIXO I Governança, Inovação e Transformação Digital “GOVERNAR BEM SIGNIFICA UTILIZAR CADA CENTAVO DOS RECURSOS PÚBLICOS A boa governança, a inovação e a transformação digital serão os pilares da modernização do Estado, promovendo serviços públicos mais ágeis, transparentes, acessíveis, integrados e centrados nas necessidades da população. A transformação digital deverá evoluir de um modelo baseado apenas na disponibilização de serviços eletrônicos para um Estado integrado, orientado por dados e capaz de oferecer serviços cada vez mais proativos, antecipando necessidades e facilitando o acesso da população aos seus direitos e às políticas públicas.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "A transformação digital da administração pública buscará simplificar procedimentos, reduzir burocracias, integrar sistemas, ampliar a interoperabilidade entre os órgãos estaduais e facilitar o acesso da população aos serviços públicos."
+            },
+            {
+              "id": "s15",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "PRA FRENTE TOCANTINS PLANO DE GOVERNO 2027 / 2030 EIXO I Governança, Inovação e Transformação Digital “GOVERNAR BEM SIGNIFICA UTILIZAR CADA CENTAVO DOS RECURSOS PÚBLICOS"
+            },
+            {
+              "id": "s16",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "A boa governança, a inovação e a transformação digital serão os pilares da modernização do Estado, promovendo serviços públicos mais ágeis, transparentes, acessíveis, integrados e centrados nas necessidades da população. A transformação digital deverá evoluir de um modelo baseado apenas na disponibilização de serviços eletrônicos para um Estado integrado, orientado por dados e capaz de oferecer serviços cada vez mais proativos, antecipando necessidades e facilitando o acesso da população aos seus direitos e às políticas públicas."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "PRA FRENTE TOCANTINS sistemas, simplificar processos administrativos, ampliar a oferta de serviços públicos digitais e utilizar, de forma ética, segura e responsável, tecnologias inovadoras, incluindo soluções baseadas em Inteligência Artificial, para aprimorar a gestão pública e a experiência do cidadão."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Política Estadual de Transformação Digital • Instituir a Política Estadual de Transformação Digital como estratégia permanente de modernização da administração pública."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Instituir diretrizes para a adoção ética, segura e responsável de soluções baseadas em Inteligência Artificial na administração pública, visando ampliar a eficiência da gestão, apoiar a tomada de decisões e aprimorar os serviços prestados à população. • Apoiar os 139 municípios tocantinenses na modernização administrativa e na transformação digital, promovendo o compartilhamento de soluções, conhecimentos e experiências, respeitada a autonomia municipal."
+            },
+            {
+              "id": "s20",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "• Preparar os servidores para os desafios da transformação digital, incluindo o uso responsável de dados, automação e Inteligência Artificial."
+            },
+            {
+              "id": "s31",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Modernizar o Estado significa simplificar processos, integrar instituições, ampliar a transformação digital e oferecer serviços públicos cada vez mais eficientes, acessíveis e centrados no cidadão. A transformação digital, a integração entre os órgãos estaduais, a utilização de dados e indicadores, a inovação permanente e a gestão orientada por resultados serão instrumentos fundamentais para fortalecer a capacidade institucional do Estado, aumentar a eficiência administrativa e ampliar a confiança da sociedade nas instituições públicas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 7,
+          "page_end": 22,
+          "topics": [
+            "governance"
+          ],
+          "summary": "PRA FRENTE TOCANTINS TRANSPARÊNCIA, INTEGRIDADE E GOVERNANÇA A confiança da sociedade é construída diariamente por meio da ética, da transparência e da responsabilidade na gestão pública. Ouvir a população, valorizar diferentes perspectivas e estimular a participação social permitirá que as decisões governamentais sejam mais legítimas, mais eficientes e mais próximas das necessidades reais dos tocantinenses. Cada eixo reúne prioridades voltadas ao fortalecimento da economia, da qualidade de vida da população, da infraestrutura, da gestão pública e das instituições, formando um conjunto de políticas públicas articuladas e orientadas para resultados.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "PRA FRENTE TOCANTINS TRANSPARÊNCIA, INTEGRIDADE E GOVERNANÇA A confiança da sociedade é construída diariamente por meio da ética, da transparência e da responsabilidade na gestão pública."
+            },
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Ouvir a população, valorizar diferentes perspectivas e estimular a participação social permitirá que as decisões governamentais sejam mais legítimas, mais eficientes e mais próximas das necessidades reais dos tocantinenses."
+            },
+            {
+              "id": "s14",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Cada eixo reúne prioridades voltadas ao fortalecimento da economia, da qualidade de vida da população, da infraestrutura, da gestão pública e das instituições, formando um conjunto de políticas públicas articuladas e orientadas para resultados."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "PRA FRENTE TOCANTINS sistemas, simplificar processos administrativos, ampliar a oferta de serviços públicos digitais e utilizar, de forma ética, segura e responsável, tecnologias inovadoras, incluindo soluções baseadas em Inteligência Artificial, para aprimorar a gestão pública e a experiência do cidadão."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "• Implantar plataformas de participação social, permitindo que o cidadão contribua com decisões e acompanhe políticas públicas. • Construir um Estado Inteligente, integrado, inovador e orientado por dados, fortalecendo a eficiência da gestão pública."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Gestão Pública e Inovação • Modernizar os processos administrativos com foco na eficiência, inovação e qualidade dos serviços públicos. • Incentivar parcerias com universidades, centros de pesquisa, setor produtivo e ecossistemas de inovação, incluindo iniciativas GovTech e projetos-piloto, para desenvolver e testar soluções aplicadas à gestão pública."
+            },
+            {
+              "id": "s20",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Valorização dos Servidores Públicos • Investir na capacitação permanente e no desenvolvimento profissional dos servidores, fortalecendo competências digitais, inovação, liderança e gestão pública. • Promover ações voltadas à saúde, qualidade de vida e valorização do serviço público."
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "PRA FRENTE TOCANTINS A governança do Plano também estará fundamentada na inovação, no uso de dados para apoiar a tomada de decisões e na participação da sociedade, fortalecendo uma gestão pública moderna, responsável e comprometida com a entrega de resultados que promovam o desenvolvimento sustentável do Tocantins."
+            },
+            {
+              "id": "s24",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A implementação deste Plano de Governo será orientada pelos seguintes princípios: • Planejamento estratégico como instrumento permanente de gestão; • Integração entre órgãos e instituições, promovendo atuação coordenada e colaborativa; • Gestão orientada por resultados, com foco na efetividade das políticas públicas; • Monitoramento e avaliação contínua das ações governamentais; • Eficiência e responsabilidade na gestão dos recursos públicos; • Transparência e prestação de contas, fortalecendo o controle social; • Participação social, valorizando o diálogo permanente com a população."
+            },
+            {
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Esse processo contribuirá para fortalecer a gestão pública, ampliar a transparência, aperfeiçoar a tomada de decisões e assegurar que os compromissos assumidos neste Plano sejam efetivamente transformados em resultados para a população tocantinense."
+            },
+            {
+              "id": "s26",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Esse alinhamento reforça o compromisso com uma gestão pública responsável, inovadora, transparente e orientada para resultados, contribuindo para a redução das desigualdades, a promoção da inclusão social, o fortalecimento da economia, a preservação ambiental e a melhoria da qualidade de vida da população tocantinense."
+            },
+            {
+              "id": "s27",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Essa visão de futuro orienta todas as propostas apresentadas neste Plano de Governo e servirá como referência para o planejamento, a execução, o monitoramento e a avaliação das políticas públicas, reafirmando o compromisso com uma gestão pública moderna, transparente, inovadora e comprometida com resultados que promovam o desenvolvimento e o bem-estar da população tocantinense."
+            },
+            {
+              "id": "s30",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "O desenvolvimento humano continuará sendo o principal indicador do sucesso da gestão pública."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002544544",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002544544_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002544544_01.pdf",
+      "sha256": "60cfd10f7f71f2bffb914b85924f0d7471322ea91fa2ba7e033cc2a73d08f255",
+      "summary": "Contratação e formação contínua de professores auxiliares e mediadores para alunos com TEA (Transtorno do Espectro Autista) e outras deficiências na rede estadual. Precisa cuidar da saúde, investir na educação, fortalecer a segurança pública, apoiar quem produz, gerar oportunidades para a juventude, proteger nossas mulheres, valorizar os idosos, garantir inclusão às pessoas com deficiência e criar condições para que cada município possa crescer de acordo com sua vocação. Safra garantida de arroz/semente e segurança alimentar no Tocantins. Economia Criativa, Identidade e Qualidade de Vida Urbana. Autonomia e Direitos da Pessoa com Deficiência (PcD).",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 4,
+          "page_end": 4,
+          "topics": [
+            "education"
+          ],
+          "summary": "Contratação e formação contínua de professores auxiliares e mediadores para alunos com TEA (Transtorno do Espectro Autista) e outras deficiências na rede estadual.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Contratação e formação contínua de professores auxiliares e mediadores para alunos com TEA (Transtorno do Espectro Autista) e outras deficiências na rede estadual. Redução da evasão escolar e aprendizado efetivo."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Precisa cuidar da saúde, investir na educação, fortalecer a segurança pública, apoiar quem produz, gerar oportunidades para a juventude, proteger nossas mulheres, valorizar os idosos, garantir inclusão às pessoas com deficiência e criar condições para que cada município possa crescer de acordo com sua vocação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Precisa cuidar da saúde, investir na educação, fortalecer a segurança pública, apoiar quem produz, gerar oportunidades para a juventude, proteger nossas mulheres, valorizar os idosos, garantir inclusão às pessoas com deficiência e criar condições para que cada município possa crescer de acordo com sua vocação."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 7,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Safra garantida de arroz/semente e segurança alimentar no Tocantins.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Safra garantida de arroz/semente e segurança alimentar no Tocantins."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 7,
+          "page_end": 7,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Economia Criativa, Identidade e Qualidade de Vida Urbana.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Economia Criativa, Identidade e Qualidade de Vida Urbana."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 4,
+          "page_end": 4,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Autonomia e Direitos da Pessoa com Deficiência (PcD).",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Autonomia e Direitos da Pessoa com Deficiência (PcD)."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002544599",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002544599_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002544599_01.pdf",
+      "sha256": "072b645112fa8ca986cf2d8e57439a1e413b51b821461e71aea1204253e25536",
+      "summary": "O Estado, contudo, ainda precisa enfrentar as desigualdades territoriais, as perdas de aprendizagem e os desafios dos anos finais e do ensino médio. Educação Profissional, Ensino Superior e Transição para o Trabalho​ No Ensino Médio em tempo integral, o Estado é o primeiro do Norte e o segundo do país. No ensino superior, a taxa bruta de matrícula da população de 18 a 24 anos alcançou 48% e a líquida, 29%, ambas, acima das médias nacionais de 43% e 27%. Para uma família que vive em uma comunidade rural ou em um município distante de Palmas e de Araguaína, isso pode significar percorrer longas distâncias em busca de atendimento médico, de educação especializada, de emprego ou de serviços públicos. ●​ Implantar programa estadual de educação socioemocional integrado ao currículo, dos anos iniciais do Ensino Fundamental ao Ensino Médio, com formação dos professores e com materiais específicos.​ ●​ Estabelecer protocolo estadual obrigatório de prevenção e de enfrentamento ao bullying, ao cyberbullying, à violência e à automutilação em todas as escolas, com capacitação das equipes e com fluxo de encaminhamento.​ ●​ Implementar a Política Nacional de Saúde Mental nas Escolas, nos termos da Lei nº 14.819/2024, com ações preventivas e programas de promoção de saúde mental para profissionais e para estudantes.​ ●​ Implantar programa institucional de saúde e bem-estar do profissional da educação, com exames periódicos obrigatórios, acompanhamento em saúde mental, readaptação funcional digna, espaços de acolhimento e escuta, prevenção do burnout, ginástica laboral e práticas corporais nas unidades, campanhas de prevenção e autocuidado e parce Em localidades pequenas e distantes dos grandes centros, é mais caro manter hospitais, escolas, sistemas de saneamento, segurança pública, conectividade e serviços especializados. Valorização do trabalhador e educação em saúde 3.Segurança Pública,Desenvolvimento Social e Direitos Humanos ●​ Fortalecer a integração entre Educação, Segurança Pública e demais instituições para prevenção e enfrentamento da violência no ambiente escolar. Este eixo trata de segurança pública e penal, desenvolvimento social e direitos humanos como uma política transversal, e não como três agendas paralelas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 9,
+          "page_end": 64,
+          "topics": [
+            "education"
+          ],
+          "summary": "O Estado, contudo, ainda precisa enfrentar as desigualdades territoriais, as perdas de aprendizagem e os desafios dos anos finais e do ensino médio. Educação Profissional, Ensino Superior e Transição para o Trabalho​ No Ensino Médio em tempo integral, o Estado é o primeiro do Norte e o segundo do país. No ensino superior, a taxa bruta de matrícula da população de 18 a 24 anos alcançou 48% e a líquida, 29%, ambas, acima das médias nacionais de 43% e 27%.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "O Estado, contudo, ainda precisa enfrentar as desigualdades territoriais, as perdas de aprendizagem e os desafios dos anos finais e do ensino médio."
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Educação Infantil e Alfabetização na Idade Certa​ 2. Educação Profissional, Ensino Superior e Transição para o Trabalho​"
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "No Ensino Médio em tempo integral, o Estado é o primeiro do Norte e o segundo do país. No ensino superior, a taxa bruta de matrícula da população de 18 a 24 anos alcançou 48% e a líquida, 29%, ambas, acima das médias nacionais de 43% e 27%."
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "●​ Instituir política estadual de enfrentamento à violência sexual contra crianças e adolescentes e ao trabalho infantil.​ ●​ Concluir e ocupar o Centro de Atendimento Socioeducativo de Araguaína.​ ●​ Ampliar o acesso das juventudes negras, indígenas, quilombolas e periféricas ao ensino técnico, ao ensino superior e à formação profissional, com programas de primeiro emprego e apoio à economia criativa.​ ●​ Estruturar e ampliar o Programa Jovem Trabalhador."
+            },
+            {
+              "id": "s26",
+              "page_start": 51,
+              "page_end": 60,
+              "text": "●​ Estimular meninas, estudantes indígenas, quilombolas e de baixa renda a ingressarem em carreiras científicas."
+            },
+            {
+              "id": "s27",
+              "page_start": 60,
+              "page_end": 64,
+              "text": "PROPOSTAS ●​ Criar o Programa Estadual de apoio ao Planejamento Municipal, com equipe técnica à disposição das prefeituras de menor porte; ●​ Ampliar o saneamento básico para os 119 municípios que ainda não têm sistema de esgotamento sanitário; ●​ Acelerar as regularizações fundiárias urbana e rural em todas as regiões do Estado, modernizando cadastramento, georreferenciamento e emissão de títulos por meio de tecnologia digital, por meio de parceria com a Universidade; ●​ Instituir regiões estratégicas de desenvolvimento como modelo permanente de planejamento territorial, fortalecendo cidades-polo e criando Conselhos; ●​ Regionais de Desenvolvimento com participações de municípios, de setor produtivo, de universidades e da sociedade civil; ●​ Apoiar a capacitação permanente de servidores municipais em planejamento urbano e regularização fundiária; ●​ Criar um índice de priorização orçamentária por desigualdade regional, direcionando mais investimento às regiões menos desenvolvidas; ●​ Criar um sistema de acompanhamento trimestral da execução orçamentária por região, com alerta automático de atraso; ●​ Desenvolver um painel público anual de Convergência Regional, com dados de PIB, e"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 6,
+          "page_end": 76,
+          "topics": [
+            "health"
+          ],
+          "summary": "Para uma família que vive em uma comunidade rural ou em um município distante de Palmas e de Araguaína, isso pode significar percorrer longas distâncias em busca de atendimento médico, de educação especializada, de emprego ou de serviços públicos. ●​ Implantar programa estadual de educação socioemocional integrado ao currículo, dos anos iniciais do Ensino Fundamental ao Ensino Médio, com formação dos professores e com materiais específicos.​ ●​ Estabelecer protocolo estadual obrigatório de prevenção e de enfrentamento ao bullying, ao cyberbullying, à violência e à automutilação em todas as escolas, com capacitação das equipes e com fluxo de encaminhamento.​ ●​ Implementar a Política Nacional de Saúde Mental nas Escolas, nos termos da Lei nº 14.819/2024, com ações preventivas e programas de promoção de saúde mental para profissionais e para estudantes.​ ●​ Implantar programa institucional de saúde e bem-estar do profissional da educação, com exames periódicos obrigatórios, acompanhamento em saúde mental, readaptação funcional digna, espaços de acolhimento e escuta, prevenção do burnout, ginástica laboral e práticas corporais nas unidades, campanhas de prevenção e autocuidado e parce",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Para uma família que vive em uma comunidade rural ou em um município distante de Palmas e de Araguaína, isso pode significar percorrer longas distâncias em busca de atendimento médico, de educação especializada, de emprego ou de serviços públicos."
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "●​ Implantar programa estadual de educação socioemocional integrado ao currículo, dos anos iniciais do Ensino Fundamental ao Ensino Médio, com formação dos professores e com materiais específicos.​ ●​ Estabelecer protocolo estadual obrigatório de prevenção e de enfrentamento ao bullying, ao cyberbullying, à violência e à automutilação em todas as escolas, com capacitação das equipes e com fluxo de encaminhamento.​ ●​ Implementar a Política Nacional de Saúde Mental nas Escolas, nos termos da Lei nº 14.819/2024, com ações preventivas e programas de promoção de saúde mental para profissionais e para estudantes.​ ●​ Implantar programa institucional de saúde e bem-estar do profissional da educação, com exames periódicos obrigatórios, acompanhamento em saúde mental, readaptação funcional digna, espaços de acolhimento e escuta, prevenção do burnout, ginástica laboral e práticas corporais nas unidades, campanhas de prevenção e autocuidado e parcerias com clínicas, academias e drogarias credenciadas por chamamento público, com descontos aos servidores da educação e sem ônus ao erário.​ ●​ Criar canais seguros e efetivos de denúncia de assédios moral e sexual no ambiente escolar, com protoco"
+            },
+            {
+              "id": "s23",
+              "page_start": 31,
+              "page_end": 40,
+              "text": "Rede de Atenção Psicossocial​ ●​ Ampliar o número de leitos de saúde mental nos Hospitais Estaduais, sendo 10 leitos em Gurupi, 25 leitos em Araguaína, incluindo a criação de leitos exclusivos para a população infantojuvenil; ●​ Fomentar a implantação do Centro de Atenção Psicossocial (CAPS) na região do Jalapão; ●​ Fomentar a implantação CAPS III com funcionamento de 24 horas por dia para o atendimento de pessoas com sofrimento psíquico grave e persistente, oferecendo acolhimento noturno e evitando internações hospitalares; ●​ Ofertar o serviço de Telepsiquiatria; ●​ Revisar a contrapartida estadual dos medicamentos de Saúde Mental. ●​ Integrar​ as ações da Atenção Primária com a assistência social, saúde mental e políticas de redução de danos; ●​ Facilitar o acesso à documentação, vacinação e acompanhamento clínico."
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "Cuidar dos animais é também cuidar da saúde pública, da convivência urbana e da formação de uma cultura de respeito à vida."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 76,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Em localidades pequenas e distantes dos grandes centros, é mais caro manter hospitais, escolas, sistemas de saneamento, segurança pública, conectividade e serviços especializados. Valorização do trabalhador e educação em saúde 3.Segurança Pública,Desenvolvimento Social e Direitos Humanos ●​ Fortalecer a integração entre Educação, Segurança Pública e demais instituições para prevenção e enfrentamento da violência no ambiente escolar. Este eixo trata de segurança pública e penal, desenvolvimento social e direitos humanos como uma política transversal, e não como três agendas paralelas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Em localidades pequenas e distantes dos grandes centros, é mais caro manter hospitais, escolas, sistemas de saneamento, segurança pública, conectividade e serviços especializados."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Valorização do trabalhador e educação em saúde 3.Segurança Pública,Desenvolvimento Social e Direitos Humanos"
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "●​ Fortalecer a integração entre Educação, Segurança Pública e demais instituições para prevenção e enfrentamento da violência no ambiente escolar."
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "Este eixo trata de segurança pública e penal, desenvolvimento social e direitos humanos como uma política transversal, e não como três agendas paralelas. Na segurança pública, a ação estadual será focada nos municípios que concentram as maiores taxas de letalidade violenta, com política própria de enfrentamento às violências de gênero."
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "Biodiversidade, Clima e Florestas ●​ Concluir, revisar e implementar os Planos de Manejo das Unidades de Conservação e das Áreas de Proteção Ambiental (APAs), fortalecendo a gestão dessas áreas e garantindo segurança jurídica para conservação, pesquisa, turismo e para uso sustentável dos recursos naturais; ●​ Melhorar a infraestrutura de visitação e implantar centros de visitantes com inteligência ambiental e fiscalização no Parque Estadual do Jalapão, no Parque Estadual do Lajeado, no Parque Estadual do Cantão, no Monumento Natural das Árvores Fossilizadas e nas demais Unidades de Conservação estaduais; ●​ Implementar o Plano Estadual de Prevenção e Controle do Desmatamento e Incêndios Florestais (PPCDIF), consolidando-o como política pública permanente; ●​ Implementar o Plano Estadual de Manejo Integrado do Fogo, incorporando as melhores práticas nacionais e internacionais de prevenção a incêndios florestais; ●​ Reforçar a prevenção e o combate aos incêndios florestais nas Unidades de Conservação, ampliando a capacidade operacional das brigadas do Naturatins e a integração com o Corpo de Bombeiros Militar, a Defesa Civil, os municípios, as brigadas comunitárias e demais instituiç"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 84,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "COMPREENDER O CONTEXTO PARA AVANÇAR COM EFICÁCIA O crescimento econômico é necessário, mas não é suficiente. O Tocantins precisa transformar sua capacidade produtiva em desenvolvimento sustentável, trabalho digno, autonomia municipal, em serviços públicos de qualidade, com redução da pobreza e em conservação dos recursos naturais. O mercado de trabalho tocantinense apresentou uma melhora importante.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "COMPREENDER O CONTEXTO PARA AVANÇAR COM EFICÁCIA O crescimento econômico é necessário, mas não é suficiente. O Tocantins precisa transformar sua capacidade produtiva em desenvolvimento sustentável, trabalho digno, autonomia municipal, em serviços públicos de qualidade, com redução da pobreza e em conservação dos recursos naturais."
+            },
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "O mercado de trabalho tocantinense apresentou uma melhora importante."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "O Tocantins avançou na geração de empregos e na criação de novas oportunidades para sua população."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Deve também reduzir as desigualdades regionais, melhorar os serviços públicos e assegurar que o crescimento econômico se transforme em oportunidades reais para todas as famílias."
+            },
+            {
+              "id": "s14",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Conectividade e Inclusão Digital 5. Desenvolvimento Econômico e Sustentável 1. Indústria e Transformação Econômica​ 2. Cadeias Produtivas do Agronegócio​ 3. Ciência, Tecnologia e Inovação​"
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Economia Criativa, Empreendedorismo e Desenvolvimento Econômico​ 4."
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "Educação de Jovens e Adultos​ ●​ Estimular a EJA na rede estadual, com ampliação da oferta em horários flexíveis, inclusive aos fins de semana e na modalidade semipresencial, material didático específico para adultos e formação de professores com metodologias adequadas aos públicos jovem e adulto.​ ●​ Instituir programa estadual de alfabetização de adultos, com metas por município, com profissionais dedicados, com busca ativa de analfabetos em comunidades rurais e urbanas e acompanhamento de egressos.​ ●​ Integrar a EJA à qualificação profissional, para que o estudante aprenda e se profissionalize simultaneamente, com certificação reconhecida pelo mercado de trabalho.​ ●​ Regularizar regime de colaboração para oferta de EJA comum nos municípios."
+            },
+            {
+              "id": "s26",
+              "page_start": 51,
+              "page_end": 60,
+              "text": "o Tocantins tem vantagens estruturais relevantes, posição estratégica no Centro-Norte do país, a Ferrovia Norte-Sul, energia disponível, produção agropecuária em expansão e um patrimônio natural e mineral pouco explorado, mas ainda exporta grande parte de sua riqueza como matéria-prima bruta, sem agregar valor, sem gerar empregos qualificados ou reter conhecimento dentro do território. ●​ Criar o Observatório da Indústria do Tocantins, com dados de produção, emprego e investimento."
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "O Estado reúne condições para consolidar um modelo de desenvolvimento que combine crescimento econômico, inclusão social e preservação ambiental."
+            },
+            {
+              "id": "s30",
+              "page_start": 76,
+              "page_end": 81,
+              "text": "●​ Criar Centros Regionais de Formação Artística; ●​ Desenvolver programas de iniciação artística nas escolas; ●​ Fortalecer os programas estaduais de bandas, corais, fanfarras e orquestras; ●​ Criar programas de residência artística; ●​ Estimular a produção audiovisual e as artes digitais; ●​ Desenvolver programas permanentes de capacitação para gestores culturais do Estado e dos municípios; ●​ Economia criativa, empreendedorismo e desenvolvimento econômico; ●​ Elaborar e implementar o Plano Estadual de Economia Criativa."
+            },
+            {
+              "id": "s31",
+              "page_start": 81,
+              "page_end": 84,
+              "text": "Diretrizes do Eixo​ ●​ Colocar o cidadão no centro da transformação digital;​ ●​ Inovação como instrumento de desenvolvimento econômico; ​ ●​ Garantir a confiança digital;​ ●​ Ampliar a transparência e a integridade pública na administração pública;​ ●​ Consolidar a cultura da inovação na administração pública;​ ●​ Fundamentar cada política na realidade do território e em evidência técnica."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 81,
+          "page_end": 84,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "PROPOSTAS Governança, planejamento e capacidade institucional ●​ Assegurar a sustentabilidade fiscal e previdenciária do Estado como base de execução de todo o plano; ●​ Desenvolver e aperfeiçoar ferramentas tecnológicas de execução e de monitoramento do planejamento estadual, articulando eixos, diretrizes, ações, metas e indicadores ao orçamento público; ●​ Instituir a Política Estadual de Governança Digital; ●​ Implantar o Programa Tocantins Inteligente, para coordenar, de forma unificada, a estratégia estadual de transformação digital e garantir a integração entre os demais programas; ●​ Fortalecer a Agência de Tecnologia da Informação (ATI), ampliando sua capacidade de desenvolvimento tecnológico, inovação e prestação de serviços ao Estado e aos municípios; ●​ Criar o Escritório de Projetos, unidade técnica de apoio aos municípios na estruturação de propostas e na captação de recursos junto a ministérios, autarquias, agências e a bancos públicos;​ ●​ Garantir o cumprimento dos Planos de Cargos, Carreiras e Remuneração (PCCR) dos servidores do Poder Executivo; ●​ Fortalecer a estrutura de controle e de gestão do Instituto de Gestão Previdenciária do Estado do Tocantins (IGEPREV)",
+          "excerpts": [
+            {
+              "id": "s31",
+              "page_start": 81,
+              "page_end": 84,
+              "text": "PROPOSTAS Governança, planejamento e capacidade institucional ●​ Assegurar a sustentabilidade fiscal e previdenciária do Estado como base de execução de todo o plano; ●​ Desenvolver e aperfeiçoar ferramentas tecnológicas de execução e de monitoramento do planejamento estadual, articulando eixos, diretrizes, ações, metas e indicadores ao orçamento público; ●​ Instituir a Política Estadual de Governança Digital; ●​ Implantar o Programa Tocantins Inteligente, para coordenar, de forma unificada, a estratégia estadual de transformação digital e garantir a integração entre os demais programas; ●​ Fortalecer a Agência de Tecnologia da Informação (ATI), ampliando sua capacidade de desenvolvimento tecnológico, inovação e prestação de serviços ao Estado e aos municípios; ●​ Criar o Escritório de Projetos, unidade técnica de apoio aos municípios na estruturação de propostas e na captação de recursos junto a ministérios, autarquias, agências e a bancos públicos;​ ●​ Garantir o cumprimento dos Planos de Cargos, Carreiras e Remuneração (PCCR) dos servidores do Poder Executivo; ●​ Fortalecer a estrutura de controle e de gestão do Instituto de Gestão Previdenciária do Estado do Tocantins (IGEPREV)"
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 13,
+          "page_end": 71,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Assistência Social, Segurança Alimentar e Inclusão Produtiva​ Saúde, proteção social e bem-estar na comunidade escolar​ ●​ Regulamentar em norma estadual e expandir o atendimento multiprofissional de psicólogos e assistentes sociais na rede, com equipes de referência por SRE e atuação articulada à rede de proteção, nos termos da Lei nº 13.935/2019.​ ●​ Implantar a RIGA — Rede Intersetorial para Garantia da Aprendizagem, articulando em cada SRE e município a educação, a saúde, a assistência social, os conselhos tutelares, o Ministério Público e as organizações comunitárias em torno de protocolos comuns e do acompanhamento integral dos estudantes. ​ Equidade e educação especial inclusiva ●​ Criar o Índice de Vulnerabilidade Educacional do Tocantins (IVE-TO), composto por indicadores de Ideb, taxa de rendimento, infraestrutura, conectividade, proporção de professores efetivos e perfil socioeconômico, para classificar escolas e municípios e orientar a alocação diferenciada de recursos.​ ●​ Instituir programa de apoio intensivo às escolas e municípios com os piores indicadores educacionais, com equipe técnica dedicada, formação diferenciada, recursos adicionais e acompanhamento mensal.​",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Assistência Social, Segurança Alimentar e Inclusão Produtiva​"
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "Saúde, proteção social e bem-estar na comunidade escolar​ ●​ Regulamentar em norma estadual e expandir o atendimento multiprofissional de psicólogos e assistentes sociais na rede, com equipes de referência por SRE e atuação articulada à rede de proteção, nos termos da Lei nº 13.935/2019.​ ●​ Implantar a RIGA — Rede Intersetorial para Garantia da Aprendizagem, articulando em cada SRE e município a educação, a saúde, a assistência social, os conselhos tutelares, o Ministério Público e as organizações comunitárias em torno de protocolos comuns e do acompanhamento integral dos estudantes. ​ Equidade e educação especial inclusiva ●​ Criar o Índice de Vulnerabilidade Educacional do Tocantins (IVE-TO), composto por indicadores de Ideb, taxa de rendimento, infraestrutura, conectividade, proporção de professores efetivos e perfil socioeconômico, para classificar escolas e municípios e orientar a alocação diferenciada de recursos.​ ●​ Instituir programa de apoio intensivo às escolas e municípios com os piores indicadores educacionais, com equipe técnica dedicada, formação diferenciada, recursos adicionais e acompanhamento mensal.​ ●​ Monitorar e publicar anualmente o mapa das desigualdades e"
+            },
+            {
+              "id": "s23",
+              "page_start": 31,
+              "page_end": 40,
+              "text": "●​ Integrar​ as ações da Atenção Primária com a assistência social, saúde mental e políticas de redução de danos; ●​ Facilitar o acesso à documentação, vacinação e acompanhamento clínico."
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "No desenvolvimento social, o compromisso é levar documentação civil, proteção social e saúde especializada aos territórios onde o acesso ainda depende do local de nascimento e da cor da pele. Assistência social, segurança alimentar e inclusão produtiva ●​ Implementar a Lei Estadual do SUAS, assegurando segurança jurídica, continuidade das ações, cofinanciamento estadual e integração efetiva entre o Estado e os 139 municípios;​ ●​ Dobrar o cofinanciamento do Benefício Eventual aos municípios; ●​ Ampliar o Projeto Alimento, priorizando segurança alimentar na primeira infância;​ ●​ Criar a Escola do SUAS Tocantins, centro permanente de formação dos trabalhadores da assistência social do Estado e dos municípios;​ ●​ Instituir o Prêmio de Excelência na Gestão da Assistência Social do Tocantins, reconhecendo boas práticas, inovação, transparência e qualidade dos serviços socioassistenciais nos municípios;​ ●​ Ampliar as unidades da Casa do Trabalhador em Taquaralto (Palmas), Araguaína e Gurupi."
+            },
+            {
+              "id": "s26",
+              "page_start": 51,
+              "page_end": 60,
+              "text": "Missões Tocantins de Pesquisa e Inovação ●​ Lançar chamadas orientadas a missões em saúde, água, clima, em segurança alimentar e em mineração sustentável; ●​ Fortalecer a pesquisa nas linhas de agropecuária, de biotecnologia e de saúde animal."
+            },
+            {
+              "id": "s28",
+              "page_start": 64,
+              "page_end": 71,
+              "text": "●​ Consolidar a excelência sanitária e a rastreabilidade como ativos de acesso a mercados; ●​ Elevar a produtividade e a competitividade das cadeias de proteína animal; ●​ Reduzir o custo logístico e ampliar a infraestrutura de escoamento; ●​ Fortalecer a agricultura familiar como política de renda, segurança alimentar e desenvolvimento regional; ●​ Promover a produção sustentável e a diversificação econômica do meio rural; ●​ Modernizar a gestão pública do setor."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 14,
+          "page_end": 76,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Infraestrutura Urbana, Saneamento e Resíduos Sólidos​ ●​ Apoiar os municípios na execução de pavimentação, de drenagem, de saneamento e de acessibilidade, priorizando áreas de risco e de vulnerabilidade social;​ ●​ Consolidar a regionalização da gestão de resíduos sólidos, apoiando o encerramento ambientalmente adequado dos lixões municipais;​ ●​ Elaborar o Plano Estadual de Saneamento Básico com metas anuais de cobertura de água e esgoto compatíveis com o prazo de 2033;​ ●​ Apoiar a estruturação de blocos regionais de prestação, viabilizando escala para os municípios de menor porte;​ ●​ Estruturar carteira de projetos de estações de tratamento de esgoto para os municípios ainda sem cobertura, com captação junto a fontes federais e multilaterais. PROPOSTAS ●​ Criar o Programa Estadual de apoio ao Planejamento Municipal, com equipe técnica à disposição das prefeituras de menor porte; ●​ Ampliar o saneamento básico para os 119 municípios que ainda não têm sistema de esgotamento sanitário; ●​ Acelerar as regularizações fundiárias urbana e rural em todas as regiões do Estado, modernizando cadastramento, georreferenciamento e emissão de títulos por meio de tecnologia digital, por meio d",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Infraestrutura Urbana, Saneamento e Resíduos Sólidos​"
+            },
+            {
+              "id": "s25",
+              "page_start": 47,
+              "page_end": 51,
+              "text": "Infraestrutura urbana, saneamento e resíduos sólidos ●​ Apoiar os municípios na execução de pavimentação, de drenagem, de saneamento e de acessibilidade, priorizando áreas de risco e de vulnerabilidade social;​ ●​ Consolidar a regionalização da gestão de resíduos sólidos, apoiando o encerramento ambientalmente adequado dos lixões municipais;​ ●​ Elaborar o Plano Estadual de Saneamento Básico com metas anuais de cobertura de água e esgoto compatíveis com o prazo de 2033;​ ●​ Apoiar a estruturação de blocos regionais de prestação, viabilizando escala para os municípios de menor porte;​ ●​ Estruturar carteira de projetos de estações de tratamento de esgoto para os municípios ainda sem cobertura, com captação junto a fontes federais e multilaterais."
+            },
+            {
+              "id": "s27",
+              "page_start": 60,
+              "page_end": 64,
+              "text": "PROPOSTAS ●​ Criar o Programa Estadual de apoio ao Planejamento Municipal, com equipe técnica à disposição das prefeituras de menor porte; ●​ Ampliar o saneamento básico para os 119 municípios que ainda não têm sistema de esgotamento sanitário; ●​ Acelerar as regularizações fundiárias urbana e rural em todas as regiões do Estado, modernizando cadastramento, georreferenciamento e emissão de títulos por meio de tecnologia digital, por meio de parceria com a Universidade; ●​ Instituir regiões estratégicas de desenvolvimento como modelo permanente de planejamento territorial, fortalecendo cidades-polo e criando Conselhos; ●​ Regionais de Desenvolvimento com participações de municípios, de setor produtivo, de universidades e da sociedade civil; ●​ Apoiar a capacitação permanente de servidores municipais em planejamento urbano e regularização fundiária; ●​ Criar um índice de priorização orçamentária por desigualdade regional, direcionando mais investimento às regiões menos desenvolvidas; ●​ Criar um sistema de acompanhamento trimestral da execução orçamentária por região, com alerta automático de atraso; ●​ Desenvolver um painel público anual de Convergência Regional, com dados de PIB, e"
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "●​ Conservar a biodiversidade, as florestas e o equilíbrio climático do território tocantinense; ●​ Assegurar a segurança hídrica do Tocantins; ●​ Promover a economia circular e a gestão adequada dos resíduos sólidos; ●​ Garantir a proteção e o bem-estar animal. ●​ Fortalecer o Programa Lixão Zero; ●​ Consolidar a regionalização da gestão dos resíduos sólidos, ampliando a eficiência dos serviços públicos e reduzindo custos para os municípios; ●​ Modernizar o Sistema Informatizado de Gestão dos Resíduos Sólidos (SIGERS); ●​ Fortalecer a implantação da logística reversa prevista na Política Nacional de Resíduos Sólidos; ●​ Fortalecer o Programa Pró-Catadores Recicla + Tocantins, ampliando a inclusão socioprodutiva desses trabalhadores; ●​ Elaborar e monitorar os Planos de Recuperação de Áreas Degradadas (PRAD)."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 14,
+          "page_end": 76,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O objetivo é transformar o meio ambiente em um ativo estratégico para o desenvolvimento sustentável do Estado. ●​ Implementar o Programa Estadual de Controle Populacional Ético e Microchipagem de cães e gatos, estruturado em corresponsabilidade com os municípios para ampliar a oferta de castração gratuita; ●​ Criação da Secretaria Estadual da Proteção e Bem estar Animal; ●​ Realizar campanhas permanentes de encoleiramento, vacinação e microchipagem, voltadas ao combate a viroses, parasitoses, raiva e leishmaniose em cães e gatos; ●​ Instituir o Banco Estadual de Ração, destinado a protetores independentes e organizações de proteção animal; ●​ Fortalecer a relação com ONGs e protetores independentes no apoio a animais vulneráveis, com oferta de crédito em clínicas veterinárias conveniadas; ●​ Instituir legislação estadual de proteção animal, com sanções administrativas e cadastro estadual de infratores; ●​ Enrijecer a fiscalização e a apuração de maus-tratos, com a criação de departamento específico nas Delegacias do Meio Ambiente.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Meio Ambiente, Sustentabilidade e Causa Animal 1."
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "O objetivo é transformar o meio ambiente em um ativo estratégico para o desenvolvimento sustentável do Estado. ●​ Implementar o Programa Estadual de Controle Populacional Ético e Microchipagem de cães e gatos, estruturado em corresponsabilidade com os municípios para ampliar a oferta de castração gratuita; ●​ Criação da Secretaria Estadual da Proteção e Bem estar Animal; ●​ Realizar campanhas permanentes de encoleiramento, vacinação e microchipagem, voltadas ao combate a viroses, parasitoses, raiva e leishmaniose em cães e gatos; ●​ Instituir o Banco Estadual de Ração, destinado a protetores independentes e organizações de proteção animal; ●​ Fortalecer a relação com ONGs e protetores independentes no apoio a animais vulneráveis, com oferta de crédito em clínicas veterinárias conveniadas; ●​ Instituir legislação estadual de proteção animal, com sanções administrativas e cadastro estadual de infratores; ●​ Enrijecer a fiscalização e a apuração de maus-tratos, com a criação de departamento específico nas Delegacias do Meio Ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 14,
+          "page_end": 71,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "●​ Implantar programa estadual de educação socioemocional integrado ao currículo, dos anos iniciais do Ensino Fundamental ao Ensino Médio, com formação dos professores e com materiais específicos.​ ●​ Estabelecer protocolo estadual obrigatório de prevenção e de enfrentamento ao bullying, ao cyberbullying, à violência e à automutilação em todas as escolas, com capacitação das equipes e com fluxo de encaminhamento.​ ●​ Implementar a Política Nacional de Saúde Mental nas Escolas, nos termos da Lei nº 14.819/2024, com ações preventivas e programas de promoção de saúde mental para profissionais e para estudantes.​ ●​ Implantar programa institucional de saúde e bem-estar do profissional da educação, com exames periódicos obrigatórios, acompanhamento em saúde mental, readaptação funcional digna, espaços de acolhimento e escuta, prevenção do burnout, ginástica laboral e práticas corporais nas unidades, campanhas de prevenção e autocuidado e parcerias com clínicas, academias e drogarias credenciadas por chamamento público, com descontos aos servidores da educação e sem ônus ao erário.​ ●​ Criar canais seguros e efetivos de denúncia de assédios moral e sexual no ambiente escolar, com protoco",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Agricultura Familiar, Cooperativismo e Inclusão Produtiva​ 4."
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "●​ Implantar programa estadual de educação socioemocional integrado ao currículo, dos anos iniciais do Ensino Fundamental ao Ensino Médio, com formação dos professores e com materiais específicos.​ ●​ Estabelecer protocolo estadual obrigatório de prevenção e de enfrentamento ao bullying, ao cyberbullying, à violência e à automutilação em todas as escolas, com capacitação das equipes e com fluxo de encaminhamento.​ ●​ Implementar a Política Nacional de Saúde Mental nas Escolas, nos termos da Lei nº 14.819/2024, com ações preventivas e programas de promoção de saúde mental para profissionais e para estudantes.​ ●​ Implantar programa institucional de saúde e bem-estar do profissional da educação, com exames periódicos obrigatórios, acompanhamento em saúde mental, readaptação funcional digna, espaços de acolhimento e escuta, prevenção do burnout, ginástica laboral e práticas corporais nas unidades, campanhas de prevenção e autocuidado e parcerias com clínicas, academias e drogarias credenciadas por chamamento público, com descontos aos servidores da educação e sem ônus ao erário.​ ●​ Criar canais seguros e efetivos de denúncia de assédios moral e sexual no ambiente escolar, com protoco"
+            },
+            {
+              "id": "s28",
+              "page_start": 64,
+              "page_end": 71,
+              "text": "A agricultura familiar responde por cerca de 17% do valor bruto da produção estadual, participação inferior à média nacional em razão do peso do agronegócio empresarial, mas concentra a maior parte dos estabelecimentos rurais, das ocupações no campo e da produção de alimentos destinada ao mercado interno, tais como, mandioca, feijão, frutas, hortaliças, leite, ovos e pequenos animais que abastecem feiras, escolas pelo PNAE e programas de aquisição de alimentos. ●​ Consolidar a excelência sanitária e a rastreabilidade como ativos de acesso a mercados; ●​ Elevar a produtividade e a competitividade das cadeias de proteína animal; ●​ Reduzir o custo logístico e ampliar a infraestrutura de escoamento; ●​ Fortalecer a agricultura familiar como política de renda, segurança alimentar e desenvolvimento regional; ●​ Promover a produção sustentável e a diversificação econômica do meio rural; ●​ Modernizar a gestão pública do setor."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 13,
+          "page_end": 84,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Dados, Inteligência Artificial e Decisão Baseada em Evidência​ ●​ Implantar política estadual de educação digital, com formação massiva de professores em competências digitais e uso pedagógico de inteligência artificial e programa de letramento digital para estudantes, com certificação de competências e diretrizes éticas de uso de IA e de proteção de dados de crianças e adolescentes. ●​ Incorporar a inteligência artificial como ferramenta de apoio ao professor, para personalização do ensino e identificação precoce de dificuldades de aprendizagem, com formação prévia obrigatória e avaliação de impacto. ●​ Realizar ações intersetoriais para reduzir a mortalidade por acidentes de transporte terrestre (ATT); Transformação Digital e Inovação (Saúde Digital)​ ●​ Ofertar atendimento de Telessaúde em cardiologia, neurologia e obstetrícia, em parceria com a Universidade Federal do Tocantins – UFT; ●​ Efetivar a Rede Nacional de Dados em Saúde no Estado do Tocantins; ●​ Implantar o Sistema de Gestão Hospitalar integrado e sustentável nas unidades da rede estadual de saúde; ●​ Fortalecer o Centro de Inteligência Estratégica para a Gestão do SUS no Estado do Tocantins; ●​ Estruturar o programa",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Transformação Digital e Inovação (Saúde Digital)​ 6."
+            },
+            {
+              "id": "s21",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Dados, Inteligência Artificial e Decisão Baseada em Evidência​"
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "●​ Implantar política estadual de educação digital, com formação massiva de professores em competências digitais e uso pedagógico de inteligência artificial e programa de letramento digital para estudantes, com certificação de competências e diretrizes éticas de uso de IA e de proteção de dados de crianças e adolescentes. ●​ Incorporar a inteligência artificial como ferramenta de apoio ao professor, para personalização do ensino e identificação precoce de dificuldades de aprendizagem, com formação prévia obrigatória e avaliação de impacto."
+            },
+            {
+              "id": "s23",
+              "page_start": 31,
+              "page_end": 40,
+              "text": "●​ Realizar ações intersetoriais para reduzir a mortalidade por acidentes de transporte terrestre (ATT); Transformação Digital e Inovação (Saúde Digital)​ ●​ Ofertar atendimento de Telessaúde em cardiologia, neurologia e obstetrícia, em parceria com a Universidade Federal do Tocantins – UFT; ●​ Efetivar a Rede Nacional de Dados em Saúde no Estado do Tocantins; ●​ Implantar o Sistema de Gestão Hospitalar integrado e sustentável nas unidades da rede estadual de saúde; ●​ Fortalecer o Centro de Inteligência Estratégica para a Gestão do SUS no Estado do Tocantins; ●​ Estruturar o programa estadual de formação e educação permanente em saúde digital; ●​ Apoiar a estruturação dos núcleos de saúde digital nos municípios; ●​ Modernizar a infraestrutura digital dos municípios; ●​ Fomentar o PET-Saúde Digital em parceria com a UFT."
+            },
+            {
+              "id": "s25",
+              "page_start": 47,
+              "page_end": 51,
+              "text": "Serviços digitais e segurança cibernética ●​ Digitalizar e redesenhar os principais serviços estaduais, com login integrado e cartas de serviço, reduzindo etapas e tempo de atendimento e tornando-os acessíveis, proativos e centrados na experiência do cidadão;​ ●​ Estruturar uma rede cooperativa de transformação digital que apoia tecnicamente os 139 municípios tocantinenses;​ ●​ Implantar centro de operações de segurança cibernética, tratando a proteção de dados e a continuidade dos serviços estaduais como infraestrutura crítica."
+            },
+            {
+              "id": "s26",
+              "page_start": 51,
+              "page_end": 60,
+              "text": "●​ Implantar e fomentar o Parque Tecnológico do Tocantins; ●​ Executar projetos cooperativos com Senai, Sebrae, universidades e o Parque Tecnológico."
+            },
+            {
+              "id": "s31",
+              "page_start": 81,
+              "page_end": 84,
+              "text": "Planejamento, governança, transparência e transformação digital são os instrumentos que organizam um Estado eficiente nos meios, eficaz nas metas e efetivo nos resultados entregues à população, sustentado pelo trabalho de seus agentes públicos. Diretrizes do Eixo​ ●​ Colocar o cidadão no centro da transformação digital;​ ●​ Inovação como instrumento de desenvolvimento econômico; ​ ●​ Garantir a confiança digital;​ ●​ Ampliar a transparência e a integridade pública na administração pública;​ ●​ Consolidar a cultura da inovação na administração pública;​ ●​ Fundamentar cada política na realidade do território e em evidência técnica."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 7,
+          "page_end": 81,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "As Comunidades como Mumbuca (no Jalapão, berço do artesanato em capim-dourado), Lagoa da Pedra e Cocalinho são guardiãs de patrimônio cultural imaterial inestimável. Governança da Cultura, do Turismo e da Economia Criativa​ Economia Criativa, Empreendedorismo e Desenvolvimento Econômico​ 4. Educação profissional, ensino superior e transição para o trabalho​ ●​ Ampliar a oferta de Ensino Médio integrado à educação profissional em todas as regionais, com cursos técnicos alinhados às vocações econômicas de cada território: agronegócio, turismo, tecnologia, saúde e energias renováveis e parcerias com o IFTO, com o Sistema S e com o setor produtivo.​ ●​ Estruturar laboratórios de profissionalização vinculados aos cursos técnicos e aos itinerários da educação profissional: unidades agrícolas pedagógicas, cozinhas, oficinas e laboratórios de informática, saúde e serviços, alinhados aos arranjos produtivos de cada região e com certificação em parceria com o IFTO e com o Sistema S.​ ●​ Estabelecer Acordo de Cooperação Técnica entre a Seduc, a Seagro, o Ruraltins e a Adapec para a gestão, o monitoramento, o acompanhamento e para a avaliação dos processos de gestão, de ensino e de aprendizage",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "As Comunidades como Mumbuca (no Jalapão, berço do artesanato em capim-dourado), Lagoa da Pedra e Cocalinho são guardiãs de patrimônio cultural imaterial inestimável."
+            },
+            {
+              "id": "s19",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Governança da Cultura, do Turismo e da Economia Criativa​"
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Economia Criativa, Empreendedorismo e Desenvolvimento Econômico​ 4."
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "Educação profissional, ensino superior e transição para o trabalho​ ●​ Ampliar a oferta de Ensino Médio integrado à educação profissional em todas as regionais, com cursos técnicos alinhados às vocações econômicas de cada território: agronegócio, turismo, tecnologia, saúde e energias renováveis e parcerias com o IFTO, com o Sistema S e com o setor produtivo.​ ●​ Estruturar laboratórios de profissionalização vinculados aos cursos técnicos e aos itinerários da educação profissional: unidades agrícolas pedagógicas, cozinhas, oficinas e laboratórios de informática, saúde e serviços, alinhados aos arranjos produtivos de cada região e com certificação em parceria com o IFTO e com o Sistema S.​ ●​ Estabelecer Acordo de Cooperação Técnica entre a Seduc, a Seagro, o Ruraltins e a Adapec para a gestão, o monitoramento, o acompanhamento e para a avaliação dos processos de gestão, de ensino e de aprendizagem das Escolas Agrícolas do Estado.​ ●​ Implantar programa estadual de orientação profissional e de projeto de vida desde o 9º ano do Ensino Fundamental, com equipe de orientadores, visitas técnicas, feira de profissões e mentorias.​ ●​ Implantar programa de empreendedorismo e de economia cri"
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "●​ Instituir política estadual de enfrentamento à violência sexual contra crianças e adolescentes e ao trabalho infantil.​ ●​ Concluir e ocupar o Centro de Atendimento Socioeducativo de Araguaína.​ ●​ Ampliar o acesso das juventudes negras, indígenas, quilombolas e periféricas ao ensino técnico, ao ensino superior e à formação profissional, com programas de primeiro emprego e apoio à economia criativa.​ ●​ Estruturar e ampliar o Programa Jovem Trabalhador."
+            },
+            {
+              "id": "s30",
+              "page_start": 76,
+              "page_end": 81,
+              "text": "Este eixo está organizado em sete diretrizes estratégicas, que articulam cultura, turismo e economia criativa como políticas públicas complementares e mutuamente fortalecedoras. As diretrizes estruturam programas, projetos e ações voltados ao fortalecimento institucional, à valorização da identidade tocantinense, à preservação do patrimônio cultural, à formação artística, ao desenvolvimento da economia criativa, à qualificação do turismo, à ampliação da infraestrutura cultural e à participação social, estabelecendo uma agenda integrada de desenvolvimento capaz de posicionar o Tocantins como referência nacional na valorização de seus territórios, de sua diversidade cultural e de seu potencial turístico."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 7,
+          "page_end": 81,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Xerente (cerca de 4.500 pessoas, na região Central), Krahô (3.200, no Norte), Apinajé (2.400, no Bico do Papagaio), Javaé e Karajá (na Ilha do Bananal), Krahô-Kanela e Avá-Canoeiro. Valorização do trabalhador e educação em saúde 3.Segurança Pública,Desenvolvimento Social e Direitos Humanos Rede de Cuidados à Pessoa com Deficiência ●​ Ampliar os Centros Especializados em Transtorno do Espectro Autista (CETEA) nos municípios-polo de referência regional;​ ●​ Fomentar as Associações de Pais e Amigos dos Excepcionais (APAEs) para apoiar a Rede de atenção às pessoas com Transtorno do Espectro Autista (TEA);​ ●​ Integrar o Centro de Atendimento educacional especializado da SEDUC à rede de atenção às pessoas com Transtorno do Espectro Autista (TEA);​ ●​ Construir o Centro Especializado em Reabilitação – CER III em Dianópolis, Porto Nacional, Paraíso, Guaraí e Araguatins;​ ●​ Construir uma nova sede do Centro Especializado em Reabilitação - CER III em Palmas. Atenção à saúde dos povos indígenas ●​ Desenvolver ações integradas com os Distritos Sanitários Especiais Indígenas (DSEIs), respeitando a autonomia e as especificidades culturais dos povos indígenas; ●​ Capacitar profissionais para at",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "Xerente (cerca de 4.500 pessoas, na região Central), Krahô (3.200, no Norte), Apinajé (2.400, no Bico do Papagaio), Javaé e Karajá (na Ilha do Bananal), Krahô-Kanela e Avá-Canoeiro."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Valorização do trabalhador e educação em saúde 3.Segurança Pública,Desenvolvimento Social e Direitos Humanos"
+            },
+            {
+              "id": "s23",
+              "page_start": 31,
+              "page_end": 40,
+              "text": "Rede de Cuidados à Pessoa com Deficiência ●​ Ampliar os Centros Especializados em Transtorno do Espectro Autista (CETEA) nos municípios-polo de referência regional;​ ●​ Fomentar as Associações de Pais e Amigos dos Excepcionais (APAEs) para apoiar a Rede de atenção às pessoas com Transtorno do Espectro Autista (TEA);​ ●​ Integrar o Centro de Atendimento educacional especializado da SEDUC à rede de atenção às pessoas com Transtorno do Espectro Autista (TEA);​ ●​ Construir o Centro Especializado em Reabilitação – CER III em Dianópolis, Porto Nacional, Paraíso, Guaraí e Araguatins;​ ●​ Construir uma nova sede do Centro Especializado em Reabilitação - CER III em Palmas. Atenção à saúde dos povos indígenas ●​ Desenvolver ações integradas com os Distritos Sanitários Especiais Indígenas (DSEIs), respeitando a autonomia e as especificidades culturais dos povos indígenas; ●​ Capacitar profissionais para atuação com competência intercultural; ●​ Cuidado às comunidades quilombolas e populações tradicionais; ●​ Desenvolver estratégias de atenção à saúde em comunidades de difícil acesso; ●​ Fortalecer ações de prevenção, promoção da saúde e controle das doenças crônicas; ●​ Ampliar o acesso aos "
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "Este eixo trata de segurança pública e penal, desenvolvimento social e direitos humanos como uma política transversal, e não como três agendas paralelas. Nos direitos humanos, ganham ênfase as políticas voltadas aos povos indígenas, quilombolas e comunidades tradicionais, à primeira infância, à pessoa idosa, à mulher, à infância e às juventudes."
+            },
+            {
+              "id": "s30",
+              "page_start": 76,
+              "page_end": 81,
+              "text": "●​ Inventariar os bens culturais materiais e imateriais do Estado; ●​ Fortalecer as políticas estaduais de preservação do patrimônio histórico e arquitetônico; ●​ Criar o Cadastro Estadual de Mestres da Cultura e instituir bolsas de salvaguarda; ●​ Executar a Cartografia Territorial do Artesanato Tocantinense nos 139 municípios e implantar o Portal do Artesanato Tocantinense; ●​ Desenvolver programas permanentes de educação patrimonial; ●​ Fortalecer as políticas culturais voltadas aos povos indígenas, quilombolas e comunidades tradicionais; ●​ Apoiar a preservação das festas populares, celebrações, saberes e manifestações culturais."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 14,
+          "page_end": 84,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Unidades de Conservação, Biodiversidade e Planos de Manejo das Áreas de Proteção Ambiental​ ●​ Elaborar e aprovar, com ampla participação social, o novo Plano Estadual de Educação, em consonância com o PNE (Lei nº 15.388/2026) e com os planos municipais. Gestão escolar democrática e participação social​ ●​ Implementar a seleção de diretores escolares combinando critérios técnicos de mérito e desempenho com consulta à comunidade escolar em 100% das escolas estaduais, conforme a condicionalidade do VAAR, articulada a padrões institucionais de governança das unidades e à capacitação permanente dos gestores.​ ●​ Fortalecer os Conselhos Escolares, com formação, com autonomia deliberativa, com competência sobre questões pedagógicas, administrativas e financeiras, mandato vigente e reuniões periódicas documentadas.​ ●​ Constituir os Fóruns de Educação e Gestão Compartilhada, estadual e regionais, como instância permanente de participação, de acompanhamento e controle social da política educacional, retomando sua realização anual. Controle Social ●​ Construir a sede do Conselho Estadual de Saúde;​ ●​ Fortalecer os Conselhos Municipais e Locais de Saúde;​ ●​ Garantir a realização da Conferê",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Meio Ambiente, Sustentabilidade e Causa Animal 1. Unidades de Conservação, Biodiversidade e Planos de Manejo das Áreas de Proteção Ambiental​"
+            },
+            {
+              "id": "s22",
+              "page_start": 14,
+              "page_end": 31,
+              "text": "●​ Elaborar e aprovar, com ampla participação social, o novo Plano Estadual de Educação, em consonância com o PNE (Lei nº 15.388/2026) e com os planos municipais. Gestão escolar democrática e participação social​ ●​ Implementar a seleção de diretores escolares combinando critérios técnicos de mérito e desempenho com consulta à comunidade escolar em 100% das escolas estaduais, conforme a condicionalidade do VAAR, articulada a padrões institucionais de governança das unidades e à capacitação permanente dos gestores.​ ●​ Fortalecer os Conselhos Escolares, com formação, com autonomia deliberativa, com competência sobre questões pedagógicas, administrativas e financeiras, mandato vigente e reuniões periódicas documentadas.​ ●​ Constituir os Fóruns de Educação e Gestão Compartilhada, estadual e regionais, como instância permanente de participação, de acompanhamento e controle social da política educacional, retomando sua realização anual."
+            },
+            {
+              "id": "s23",
+              "page_start": 31,
+              "page_end": 40,
+              "text": "Controle Social ●​ Construir a sede do Conselho Estadual de Saúde;​ ●​ Fortalecer os Conselhos Municipais e Locais de Saúde;​ ●​ Garantir a realização da Conferência Estadual de Saúde."
+            },
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "articulada, territorializada, orçada, mensurável e submetida ao controle social. Diretrizes Orientadoras ●​ Consolidar a cooperação federativa e a articulação com o sistema de justiça, integrando Estado, municípios, Ministério Público, Defensoria Pública, Poder Judiciário e universidades públicas; ●​ Inteligência no combate ao crime; ●​ Assegurar a dignidade da pessoa humana e a indivisibilidade dos direitos; ●​ Territorializar e Regionalizar as políticas públicas de segurança pública, desenvolvimento social e direitos humanos; ●​ Garantir proteção integral e prioridade absoluta às pessoas e aos grupos em situação de vulnerabilidade; ●​ Enfrentar os racismos estrutural, institucional e religioso e promover a igualdade racial; ●​ Promover a igualdade de gênero e enfrentar as violências contra as mulheres com tecnologias emergentes; ●​ Assegurar a participação social e o controle democrático."
+            },
+            {
+              "id": "s28",
+              "page_start": 64,
+              "page_end": 71,
+              "text": "O que falta é permanência institucional, infraestrutura logística e hídrica à altura da produção, segurança jurídica fundiária e uma gestão pública capaz de decidir com base em dados. ●​ Consolidar a excelência sanitária e a rastreabilidade como ativos de acesso a mercados; ●​ Elevar a produtividade e a competitividade das cadeias de proteína animal; ●​ Reduzir o custo logístico e ampliar a infraestrutura de escoamento; ●​ Fortalecer a agricultura familiar como política de renda, segurança alimentar e desenvolvimento regional; ●​ Promover a produção sustentável e a diversificação econômica do meio rural; ●​ Modernizar a gestão pública do setor."
+            },
+            {
+              "id": "s29",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "Entretanto, o ritmo de crescimento do Tocantins exige uma nova etapa de modernização da gestão pública ambiental, baseada em inovação tecnológica, segurança jurídica, eficiência administrativa, educação ambiental e fortalecimento das instituições. A prevenção dos impactos ambientais, por meio da educação, da conscientização, da participação social e do planejamento, produz resultados mais duradouros, reduz conflitos e fortalece a cultura da sustentabilidade."
+            },
+            {
+              "id": "s30",
+              "page_start": 76,
+              "page_end": 81,
+              "text": "As diretrizes estruturam programas, projetos e ações voltados ao fortalecimento institucional, à valorização da identidade tocantinense, à preservação do patrimônio cultural, à formação artística, ao desenvolvimento da economia criativa, à qualificação do turismo, à ampliação da infraestrutura cultural e à participação social, estabelecendo uma agenda integrada de desenvolvimento capaz de posicionar o Tocantins como referência nacional na valorização de seus territórios, de sua diversidade cultural e de seu potencial turístico. Diretrizes Orientadoras ●​ Fortalecer a governança da cultura, do turismo e da economia criativa;​ ●​ Preservar o patrimônio cultural tocantinense e valorizar a diversidade;​ ●​ Democratizar o acesso à formação artística;​ ●​ Desenvolver a economia criativa como vetor de emprego e de renda;​ ●​ Integrar cultura e turismo como estratégia de desenvolvimento territorial;​ ●​ Ampliar e interiorizar a infraestrutura cultural;​ ●​ Consolidar a cooperação federativa e a participação social."
+            },
+            {
+              "id": "s31",
+              "page_start": 81,
+              "page_end": 84,
+              "text": "Transparência e integridade pública ●​ Lançar o Portal de Dados Abertos 2.0, com dados reutilizáveis e painéis em tempo real de acompanhamento das obras públicas e da execução orçamentária; ●​ Implantar plataforma digital de participação social, deslocando o cidadão da condição de usuário passivo para a de partícipe do monitoramento das políticas públicas; ●​ Empregar inteligência artificial para agilizar as respostas aos pedidos formulados com base na Lei de Acesso à Informação (Lei nº 12.527/2011); ●​ Instituir a Comissão de Integridade Estadual, com competência para acompanhar contratos acima de R$1 milhão, publicar ranking de transparência municipal e conceder selo de integridade; ●​ Criar canal de denúncia com garantia de anonimato e proteção ao denunciante, nos termos da Lei nº 13.608/2018, em articulação com o Ministério Público e a Controladoria-Geral do Estado; ●​ Fortalecer a Controladoria-Geral do Estado no monitoramento de todas as ações de integridade do Governo."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 51,
+          "page_end": 60,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Energia Competitiva para Produzir ●​ Posicionar o Tocantins como polo de geração de energia renovável e atração de investimento na transição energética; ●​ Implantar programa escalável de geração solar para cooperativas e pequenos negócios; ●​ Estimular biomassa, biogás e eficiência energética nas indústrias. ●​ Ampliar o conhecimento geológico estadual por meio de programas de pesquisa mineral; ●​ Apoiar pesquisas voltadas aos minerais críticos associados à transição energética.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 51,
+              "page_end": 60,
+              "text": "Energia Competitiva para Produzir ●​ Posicionar o Tocantins como polo de geração de energia renovável e atração de investimento na transição energética; ●​ Implantar programa escalável de geração solar para cooperativas e pequenos negócios; ●​ Estimular biomassa, biogás e eficiência energética nas indústrias. ●​ Ampliar o conhecimento geológico estadual por meio de programas de pesquisa mineral; ●​ Apoiar pesquisas voltadas aos minerais críticos associados à transição energética."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 40,
+          "page_end": 47,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Diretrizes Orientadoras ●​ Consolidar a cooperação federativa e a articulação com o sistema de justiça, integrando Estado, municípios, Ministério Público, Defensoria Pública, Poder Judiciário e universidades públicas; ●​ Inteligência no combate ao crime; ●​ Assegurar a dignidade da pessoa humana e a indivisibilidade dos direitos; ●​ Territorializar e Regionalizar as políticas públicas de segurança pública, desenvolvimento social e direitos humanos; ●​ Garantir proteção integral e prioridade absoluta às pessoas e aos grupos em situação de vulnerabilidade; ●​ Enfrentar os racismos estrutural, institucional e religioso e promover a igualdade racial; ●​ Promover a igualdade de gênero e enfrentar as violências contra as mulheres com tecnologias emergentes; ●​ Assegurar a participação social e o controle democrático.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 40,
+              "page_end": 47,
+              "text": "Diretrizes Orientadoras ●​ Consolidar a cooperação federativa e a articulação com o sistema de justiça, integrando Estado, municípios, Ministério Público, Defensoria Pública, Poder Judiciário e universidades públicas; ●​ Inteligência no combate ao crime; ●​ Assegurar a dignidade da pessoa humana e a indivisibilidade dos direitos; ●​ Territorializar e Regionalizar as políticas públicas de segurança pública, desenvolvimento social e direitos humanos; ●​ Garantir proteção integral e prioridade absoluta às pessoas e aos grupos em situação de vulnerabilidade; ●​ Enfrentar os racismos estrutural, institucional e religioso e promover a igualdade racial; ●​ Promover a igualdade de gênero e enfrentar as violências contra as mulheres com tecnologias emergentes; ●​ Assegurar a participação social e o controle democrático."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002546368",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002546368_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002546368_01.pdf",
+      "sha256": "9bad6ccc0ed2763fe4d4d3844c5ae833547cd399f86f0655a9c80368df66b995",
+      "summary": " Modernizar as bibliotecas das escolas públicas. Segurança Pública  Criar um sistema único de segurança pública para combater o crime organizado, compartilhar informações e realizar operações em conjunto: polícia Militar, polícia Civil, polícia Penal e Guarda municipal. Desenvolvimento Econômico  Transparecia dos Gastos Público. Meio Ambiente  Reduzir o desmatamento ilegal e incentivar o uso sustentável dos recursos naturais. Considerações Finais  Agradeço a Deus, todo poderoso, pela oportunidade de identificar as falhas nos serviços públicos, dando sabedoria para resolver todos obstáculos, mostrando que é possível governar com honestidade, valorizando os cidadãos tocantinenses oferecendo serviço público de qualidade e complexidade essenciais para sobrevivência humano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": " Modernizar as bibliotecas das escolas públicas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": " Modernizar as bibliotecas das escolas públicas."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança Pública  Criar um sistema único de segurança pública para combater o crime organizado, compartilhar informações e realizar operações em conjunto: polícia Militar, polícia Civil, polícia Penal e Guarda municipal.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Segurança Pública  Criar um sistema único de segurança pública para combater o crime organizado, compartilhar informações e realizar operações em conjunto: polícia Militar, polícia Civil, polícia Penal e Guarda municipal.  Valorizar os profissionais da segurança pública."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Desenvolvimento Econômico  Transparecia dos Gastos Público.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Desenvolvimento Econômico  Transparecia dos Gastos Público."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Meio Ambiente  Reduzir o desmatamento ilegal e incentivar o uso sustentável dos recursos naturais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Meio Ambiente  Reduzir o desmatamento ilegal e incentivar o uso sustentável dos recursos naturais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Considerações Finais  Agradeço a Deus, todo poderoso, pela oportunidade de identificar as falhas nos serviços públicos, dando sabedoria para resolver todos obstáculos, mostrando que é possível governar com honestidade, valorizando os cidadãos tocantinenses oferecendo serviço público de qualidade e complexidade essenciais para sobrevivência humano.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Considerações Finais  Agradeço a Deus, todo poderoso, pela oportunidade de identificar as falhas nos serviços públicos, dando sabedoria para resolver todos obstáculos, mostrando que é possível governar com honestidade, valorizando os cidadãos tocantinenses oferecendo serviço público de qualidade e complexidade essenciais para sobrevivência humano."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002548412",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002548412_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002548412_01.pdf",
+      "sha256": "8e41a0158c92bbeb9a694df21f5009a1dee4349b4be5ee4b09eb91dcd3f3c7c3",
+      "summary": "O acesso à escola é fundamental, mas insuficiente se não houver alfabetização, aprendizagem, permanência e conexão com o ensino superior, a formação profissional e o mercado de trabalho. Regionalizar, ampliar capacidade e reduzir filas A saúde será prioridade de governo. é a dificuldade de transformar orçamento em atendimento no tempo adequado. Saneamento será tratado como política de saúde, ambiente e desenvolvimento urbano. • Segurança pública com déficit de efetivo, necessidade de ampliar inteligência, investigação, perícia e presença territorial. O Corpo de Bombeiros terá planejamento de expansão, defesa civil e resposta a incêndios e emergências. Eleições 2026 | Página 14 Análise de vínculos financeiros e patrimoniais do crime organizado. Visão Construir um Tocantins reconhecido pela qualidade da gestão pública, pelo equilíbrio fiscal, pela segurança jurídica, pelo desenvolvimento econômico e pela capacidade de oferecer serviços públicos dignos em todas as regiões. Emprego, investimento e agregação de valor O desenvolvimento econômico sustentável é a base para ampliar renda, reduzir dependência de transferências e financiar serviços públicos. O desafio é transformar essas condições em resultados concretos por meio de planejamento, responsabilidade fiscal, gestão profissional, transparência e coragem para enfrentar desperdícios, privilégios e estruturas que não entregam serviços públicos compatíveis com as necessidades da população. Eleições 2026 | Página 7 CAPÍTULO – RESPONSABILIDADE FISCAL E REFORMA ADMINISTRATIVA Reduzir desperdícios, reorganizar a máquina e recuperar capacidade de investimento A responsabilidade fiscal é condição para que o governo cumpra compromissos sociais. A política de redução da carga tributária sobre energia será vinculada à responsabilidade fiscal e à competitividade. 11.1 Assistência social Fortalecimento da rede de proteção. 10.4 Saneamento O governo apoiará municípios e prestadores na expansão de água, esgoto, resíduos sólidos e drenagem. o objetivo é segurança jurídica, licenciamento eficiente, prevenção de danos e valorização dos ativos naturais. O plano integra grandes produtores, agricultura familiar, cooperativas, pesquisa, defesa agropecuária, infraestrutura, regularização fundiária e mercados.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 15,
+          "page_end": 17,
+          "topics": [
+            "education"
+          ],
+          "summary": "O acesso à escola é fundamental, mas insuficiente se não houver alfabetização, aprendizagem, permanência e conexão com o ensino superior, a formação profissional e o mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "O acesso à escola é fundamental, mas insuficiente se não houver alfabetização, aprendizagem, permanência e conexão com o ensino superior, a formação profissional e o mercado de trabalho. 7.2 Ensino médio Redução da evasão e busca ativa de estudantes."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 11,
+          "page_end": 23,
+          "topics": [
+            "health"
+          ],
+          "summary": "Regionalizar, ampliar capacidade e reduzir filas A saúde será prioridade de governo. é a dificuldade de transformar orçamento em atendimento no tempo adequado. Saneamento será tratado como política de saúde, ambiente e desenvolvimento urbano.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 13,
+              "text": "Regionalizar, ampliar capacidade e reduzir filas A saúde será prioridade de governo. é a dificuldade de transformar orçamento em atendimento no tempo adequado."
+            },
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 23,
+              "text": "Saneamento será tratado como política de saúde, ambiente e desenvolvimento urbano."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "• Segurança pública com déficit de efetivo, necessidade de ampliar inteligência, investigação, perícia e presença territorial. O Corpo de Bombeiros terá planejamento de expansão, defesa civil e resposta a incêndios e emergências. Eleições 2026 | Página 14 Análise de vínculos financeiros e patrimoniais do crime organizado.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "• Segurança pública com déficit de efetivo, necessidade de ampliar inteligência, investigação, perícia e presença territorial."
+            },
+            {
+              "id": "s06",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "O Corpo de Bombeiros terá planejamento de expansão, defesa civil e resposta a incêndios e emergências. Eleições 2026 | Página 14 Análise de vínculos financeiros e patrimoniais do crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 32,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Visão Construir um Tocantins reconhecido pela qualidade da gestão pública, pelo equilíbrio fiscal, pela segurança jurídica, pelo desenvolvimento econômico e pela capacidade de oferecer serviços públicos dignos em todas as regiões. O acesso à escola é fundamental, mas insuficiente se não houver alfabetização, aprendizagem, permanência e conexão com o ensino superior, a formação profissional e o mercado de trabalho. Emprego, investimento e agregação de valor O desenvolvimento econômico sustentável é a base para ampliar renda, reduzir dependência de transferências e financiar serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "Visão Construir um Tocantins reconhecido pela qualidade da gestão pública, pelo equilíbrio fiscal, pela segurança jurídica, pelo desenvolvimento econômico e pela capacidade de oferecer serviços públicos dignos em todas as regiões."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "O acesso à escola é fundamental, mas insuficiente se não houver alfabetização, aprendizagem, permanência e conexão com o ensino superior, a formação profissional e o mercado de trabalho. • Preparação para exames, ensino superior e mercado de trabalho."
+            },
+            {
+              "id": "s08",
+              "page_start": 17,
+              "page_end": 19,
+              "text": "Emprego, investimento e agregação de valor O desenvolvimento econômico sustentável é a base para ampliar renda, reduzir dependência de transferências e financiar serviços públicos."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 32,
+              "text": "O Tocantins não precisa escolher entre crescimento econômico e políticas sociais, nem entre austeridade e investimento."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 2,
+          "page_end": 32,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "O desafio é transformar essas condições em resultados concretos por meio de planejamento, responsabilidade fiscal, gestão profissional, transparência e coragem para enfrentar desperdícios, privilégios e estruturas que não entregam serviços públicos compatíveis com as necessidades da população. Eleições 2026 | Página 7 CAPÍTULO – RESPONSABILIDADE FISCAL E REFORMA ADMINISTRATIVA Reduzir desperdícios, reorganizar a máquina e recuperar capacidade de investimento A responsabilidade fiscal é condição para que o governo cumpra compromissos sociais. A política de redução da carga tributária sobre energia será vinculada à responsabilidade fiscal e à competitividade.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "O desafio é transformar essas condições em resultados concretos por meio de planejamento, responsabilidade fiscal, gestão profissional, transparência e coragem para enfrentar desperdícios, privilégios e estruturas que não entregam serviços públicos compatíveis com as necessidades da população. • Responsabilidade fiscal e respeito ao contribuinte."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "Eleições 2026 | Página 7 CAPÍTULO – RESPONSABILIDADE FISCAL E REFORMA ADMINISTRATIVA Reduzir desperdícios, reorganizar a máquina e recuperar capacidade de investimento A responsabilidade fiscal é condição para que o governo cumpra compromissos sociais."
+            },
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 23,
+              "text": "A política de redução da carga tributária sobre energia será vinculada à responsabilidade fiscal e à competitividade."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 32,
+              "text": "As propostas serão executadas dentro das competências legais, da responsabilidade fiscal e dos instrumentos de planejamento."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 23,
+          "page_end": 25,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "11.1 Assistência social Fortalecimento da rede de proteção.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "11.1 Assistência social Fortalecimento da rede de proteção."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 19,
+          "page_end": 23,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "10.4 Saneamento O governo apoiará municípios e prestadores na expansão de água, esgoto, resíduos sólidos e drenagem.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 23,
+              "text": "10.4 Saneamento O governo apoiará municípios e prestadores na expansão de água, esgoto, resíduos sólidos e drenagem."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 25,
+          "page_end": 27,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "o objetivo é segurança jurídica, licenciamento eficiente, prevenção de danos e valorização dos ativos naturais.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 25,
+              "page_end": 27,
+              "text": "o objetivo é segurança jurídica, licenciamento eficiente, prevenção de danos e valorização dos ativos naturais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 19,
+          "page_end": 23,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O plano integra grandes produtores, agricultura familiar, cooperativas, pesquisa, defesa agropecuária, infraestrutura, regularização fundiária e mercados. 9.2 Agricultura familiar A agricultura familiar receberá assistência técnica, apoio à organização, comercialização e acesso a programas de compras públicas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 23,
+              "text": "O plano integra grandes produtores, agricultura familiar, cooperativas, pesquisa, defesa agropecuária, infraestrutura, regularização fundiária e mercados. 9.2 Agricultura familiar A agricultura familiar receberá assistência técnica, apoio à organização, comercialização e acesso a programas de compras públicas."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 9,
+          "page_end": 11,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Serviços simples, dados integrados e prevenção da corrupção A transformação digital não se resume a converter formulários em arquivos eletrônicos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Serviços simples, dados integrados e prevenção da corrupção A transformação digital não se resume a converter formulários em arquivos eletrônicos."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 23,
+          "page_end": 25,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "11.7 Povos indígenas e comunidades tradicionais As políticas respeitarão identidade, direitos, consulta e especificidades territoriais, com atenção à saúde, educação, proteção ambiental e desenvolvimento sustentável.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "11.7 Povos indígenas e comunidades tradicionais As políticas respeitarão identidade, direitos, consulta e especificidades territoriais, com atenção à saúde, educação, proteção ambiental e desenvolvimento sustentável."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 2,
+          "page_end": 9,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Missão Promover o desenvolvimento do Tocantins por meio de uma gestão pública eficiente, ética, transparente e responsável, transformando recursos públicos em oportunidades, serviços de qualidade e melhoria concreta da vida das pessoas. Visão Construir um Tocantins reconhecido pela qualidade da gestão pública, pelo equilíbrio fiscal, pela segurança jurídica, pelo desenvolvimento econômico e pela capacidade de oferecer serviços públicos dignos em todas as regiões. 2.4 Participação social O diálogo com municípios, servidores, setor produtivo, universidades e organizações sociais será incorporado ao processo de planejamento.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "Missão Promover o desenvolvimento do Tocantins por meio de uma gestão pública eficiente, ética, transparente e responsável, transformando recursos públicos em oportunidades, serviços de qualidade e melhoria concreta da vida das pessoas. Visão Construir um Tocantins reconhecido pela qualidade da gestão pública, pelo equilíbrio fiscal, pela segurança jurídica, pelo desenvolvimento econômico e pela capacidade de oferecer serviços públicos dignos em todas as regiões."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "2.4 Participação social O diálogo com municípios, servidores, setor produtivo, universidades e organizações sociais será incorporado ao processo de planejamento."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002550458",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002550458_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002550458_01.pdf",
+      "sha256": "e3e7ee44f2bbf3777d8c46dfaff1042e041642c27460560f039c52a2a1af7cf7",
+      "summary": "Expandir educação em tempo integral conforme demanda e capacidade, integrando estudo, esporte, cultura, tecnologia e projeto de vida. Matrículas em tempo integral e indicadores de aprendizagem/permanência. Ampliar itinerários e cursos técnicos em agronegócio, logística, turismo, tecnologia, saúde, energias renováveis e indústria. Integrar educação, saúde e assistência para prevenção de violência, sofrimento psíquico, bullying, automutilação e adoecimento de profissionais. Instituir agenda permanente de cooperação técnica com prefeituras em saúde, saneamento, engenharia, regularização, defesa civil, gestão e captação de recursos. LGPD, política de segurança da informação e atos de governança de IA. Redução do descompasso entre formação e mercado de trabalho. governar com metas, responsabilidade fiscal, cooperação municipal, segurança jurídica, transparência e avaliação de resultados.  A Lei de Responsabilidade Fiscal exige planejamento para renúncias de receita, novas despesas e equilíbrio das contas públicas. Governança, Municipalismo, Transparência e Estado Digital Construir uma administração pública que planeje, execute, meça resultados e preste contas, com responsabilidade fiscal e cooperação permanente com os 139 municípios. Saúde especializada, formação técnica, segurança, assistência social, atendimento ao cidadão e infraestrutura precisam seguir critérios de demanda, distância, vulnerabilidade e impacto regional. Estabelecer regras para uso responsável de dados e IA em saúde, educação, segurança, arrecadação e gestão, sempre com supervisão humana e proteção de dados. O local onde a pessoa vive não pode definir a qualidade do serviço público que recebe. Realizar consultas digitais, audiências regionais, conferências e devolutivas públicas sobre prioridades e execução das políticas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "education"
+          ],
+          "summary": "Expandir educação em tempo integral conforme demanda e capacidade, integrando estudo, esporte, cultura, tecnologia e projeto de vida. Matrículas em tempo integral e indicadores de aprendizagem/permanência. Ampliar itinerários e cursos técnicos em agronegócio, logística, turismo, tecnologia, saúde, energias renováveis e indústria.",
+          "excerpts": [
+            {
+              "id": "s22",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Expandir educação em tempo integral conforme demanda e capacidade, integrando estudo, esporte, cultura, tecnologia e projeto de vida. Matrículas em tempo integral e indicadores de aprendizagem/permanência."
+            },
+            {
+              "id": "s24",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Ampliar itinerários e cursos técnicos em agronegócio, logística, turismo, tecnologia, saúde, energias renováveis e indústria. Redução do descompasso entre formação e mercado de trabalho."
+            },
+            {
+              "id": "s27",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Fortalecer conteúdos de educação financeira, cidadania econômica e empreendedorismo no currículo e em projetos escolares. Jovens mais preparados para escolhas financeiras, trabalho e negócios."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 9,
+          "topics": [
+            "health"
+          ],
+          "summary": "Integrar educação, saúde e assistência para prevenção de violência, sofrimento psíquico, bullying, automutilação e adoecimento de profissionais.",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Integrar educação, saúde e assistência para prevenção de violência, sofrimento psíquico, bullying, automutilação e adoecimento de profissionais. Ambientes escolares mais seguros e acolhedores."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Instituir agenda permanente de cooperação técnica com prefeituras em saúde, saneamento, engenharia, regularização, defesa civil, gestão e captação de recursos. LGPD, política de segurança da informação e atos de governança de IA.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Instituir agenda permanente de cooperação técnica com prefeituras em saúde, saneamento, engenharia, regularização, defesa civil, gestão e captação de recursos."
+            },
+            {
+              "id": "s11",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "LGPD, política de segurança da informação e atos de governança de IA."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 8,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Redução do descompasso entre formação e mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Redução do descompasso entre formação e mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 2,
+          "page_end": 6,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "governar com metas, responsabilidade fiscal, cooperação municipal, segurança jurídica, transparência e avaliação de resultados.  A Lei de Responsabilidade Fiscal exige planejamento para renúncias de receita, novas despesas e equilíbrio das contas públicas. Governança, Municipalismo, Transparência e Estado Digital Construir uma administração pública que planeje, execute, meça resultados e preste contas, com responsabilidade fiscal e cooperação permanente com os 139 municípios.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "governar com metas, responsabilidade fiscal, cooperação municipal, segurança jurídica, transparência e avaliação de resultados.  A Lei de Responsabilidade Fiscal exige planejamento para renúncias de receita, novas despesas e equilíbrio das contas públicas."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Governança, Municipalismo, Transparência e Estado Digital Construir uma administração pública que planeje, execute, meça resultados e preste contas, com responsabilidade fiscal e cooperação permanente com os 139 municípios."
+            },
+            {
+              "id": "s14",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Criar rotina de revisão de despesas, contratos recorrentes, subsídios e programas para priorizar o que entrega resultado. Mais espaço fiscal para serviços essenciais e investimento."
+            },
+            {
+              "id": "s16",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Leis de carreira, responsabilidade fiscal e planejamento de pessoal."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 4,
+          "page_end": 9,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Saúde especializada, formação técnica, segurança, assistência social, atendimento ao cidadão e infraestrutura precisam seguir critérios de demanda, distância, vulnerabilidade e impacto regional.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Saúde especializada, formação técnica, segurança, assistência social, atendimento ao cidadão e infraestrutura precisam seguir critérios de demanda, distância, vulnerabilidade e impacto regional."
+            },
+            {
+              "id": "s22",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Mais permanência, aprendizagem e proteção social."
+            },
+            {
+              "id": "s31",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Orçamento educacional e assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Estabelecer regras para uso responsável de dados e IA em saúde, educação, segurança, arrecadação e gestão, sempre com supervisão humana e proteção de dados.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Recursos de custeio e transformação digital."
+            },
+            {
+              "id": "s11",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "Estabelecer regras para uso responsável de dados e IA em saúde, educação, segurança, arrecadação e gestão, sempre com supervisão humana e proteção de dados."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 4,
+          "page_end": 8,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O local onde a pessoa vive não pode definir a qualidade do serviço público que recebe. Realizar consultas digitais, audiências regionais, conferências e devolutivas públicas sobre prioridades e execução das políticas.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "O local onde a pessoa vive não pode definir a qualidade do serviço público que recebe."
+            },
+            {
+              "id": "s08",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Maior controle social e prevenção de desperdícios."
+            },
+            {
+              "id": "s18",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Realizar consultas digitais, audiências regionais, conferências e devolutivas públicas sobre prioridades e execução das políticas."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "270002554375",
+      "state_code": "TO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026TO270002554375_01.pdf",
+      "public_path": "/propostas/2026/TO/2026TO270002554375_01.pdf",
+      "sha256": "4fe5618450e7f3ecbde2d2ed128138028b4389e625a3304aa0cabf47d59746b7",
+      "summary": "democratizar o acesso ao ensino superior, formar mão de obra qualificada, gerar oportunidades para os jovens e utilizar o conhecimento como força de desenvolvimento em todas as regiões do Tocantins. A educação básica deve preparar o estudante não apenas para concluir uma etapa escolar, mas para construir seu futuro. A proposta envolve ampliação de consultas especializadas, exames, diagnósticos, cirurgias eletivas, telemedicina, saúde da mulher, saúde mental e atendimento hospitalar regional, além de uma gestão moderna e transparente. Segurança pública exige presença, integração, inteligência e tecnologia. Também prevê atenção ao combate ao crime organizado e às diferentes formas de violência, ao lado de políticas sociais e oportunidades destinadas especialmente aos jovens. O desenvolvimento econômico será tratado como política permanente de Estado. ampliar investimentos, fortalecer empresas, estimular novos empreendimentos e transformar crescimento econômico em emprego, renda e qualidade de vida para a população. garantir aprendizagem efetiva e oferecer aos jovens uma educação capaz de abrir caminhos para a universidade, o mercado de trabalho, o empreendedorismo e a cidadania. Responsabilidade fiscal será condição para que o Estado tenha capacidade permanente de investir. tecnologia abrirá novas oportunidades; responsabilidade fiscal protegerá os investimentos; infraestrutura aproximará municípios e mercados; e o crescimento econômico deverá retornar à sociedade na forma de saúde, segurança, emprego, renda e qualidade de vida. Crescimento econômico e preservação ambiental devem caminhar juntos. A proposta busca proteger recursos hídricos, nascentes, florestas e biodiversidade, ao mesmo tempo em que estimula energia limpa, economia circular, gestão de resíduos e atividades produtivas sustentáveis. A atenção à agricultura familiar deverá permitir que pequenos produtores deixem de atuar apenas na subsistência e passem a participar de cadeias produtivas organizadas e rentáveis. Entre as áreas prioritárias estão software, inteligência artificial, robótica, eletrônica, segurança cibernética, biotecnologia, equipamentos médicos, drones, agricultura de precisão, tecnologias ambientais e energias renováveis.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "education"
+          ],
+          "summary": "democratizar o acesso ao ensino superior, formar mão de obra qualificada, gerar oportunidades para os jovens e utilizar o conhecimento como força de desenvolvimento em todas as regiões do Tocantins. A educação básica deve preparar o estudante não apenas para concluir uma etapa escolar, mas para construir seu futuro.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "democratizar o acesso ao ensino superior, formar mão de obra qualificada, gerar oportunidades para os jovens e utilizar o conhecimento como força de desenvolvimento em todas as regiões do Tocantins."
+            },
+            {
+              "id": "s07",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "A educação básica deve preparar o estudante não apenas para concluir uma etapa escolar, mas para construir seu futuro."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 2,
+          "page_end": 2,
+          "topics": [
+            "health"
+          ],
+          "summary": "A proposta envolve ampliação de consultas especializadas, exames, diagnósticos, cirurgias eletivas, telemedicina, saúde da mulher, saúde mental e atendimento hospitalar regional, além de uma gestão moderna e transparente.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "A proposta envolve ampliação de consultas especializadas, exames, diagnósticos, cirurgias eletivas, telemedicina, saúde da mulher, saúde mental e atendimento hospitalar regional, além de uma gestão moderna e transparente."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 4,
+          "page_end": 4,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança pública exige presença, integração, inteligência e tecnologia. Também prevê atenção ao combate ao crime organizado e às diferentes formas de violência, ao lado de políticas sociais e oportunidades destinadas especialmente aos jovens.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Segurança pública exige presença, integração, inteligência e tecnologia. Também prevê atenção ao combate ao crime organizado e às diferentes formas de violência, ao lado de políticas sociais e oportunidades destinadas especialmente aos jovens."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O desenvolvimento econômico será tratado como política permanente de Estado. ampliar investimentos, fortalecer empresas, estimular novos empreendimentos e transformar crescimento econômico em emprego, renda e qualidade de vida para a população. garantir aprendizagem efetiva e oferecer aos jovens uma educação capaz de abrir caminhos para a universidade, o mercado de trabalho, o empreendedorismo e a cidadania.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "O desenvolvimento econômico será tratado como política permanente de Estado. ampliar investimentos, fortalecer empresas, estimular novos empreendimentos e transformar crescimento econômico em emprego, renda e qualidade de vida para a população."
+            },
+            {
+              "id": "s07",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "garantir aprendizagem efetiva e oferecer aos jovens uma educação capaz de abrir caminhos para a universidade, o mercado de trabalho, o empreendedorismo e a cidadania."
+            },
+            {
+              "id": "s14",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Crescimento econômico e preservação ambiental devem caminhar juntos."
+            },
+            {
+              "id": "s19",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "tecnologia abrirá novas oportunidades; responsabilidade fiscal protegerá os investimentos; infraestrutura aproximará municípios e mercados; e o crescimento econômico deverá retornar à sociedade na forma de saúde, segurança, emprego, renda e qualidade de vida."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Responsabilidade fiscal será condição para que o Estado tenha capacidade permanente de investir. tecnologia abrirá novas oportunidades; responsabilidade fiscal protegerá os investimentos; infraestrutura aproximará municípios e mercados; e o crescimento econômico deverá retornar à sociedade na forma de saúde, segurança, emprego, renda e qualidade de vida.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Responsabilidade fiscal será condição para que o Estado tenha capacidade permanente de investir."
+            },
+            {
+              "id": "s19",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "tecnologia abrirá novas oportunidades; responsabilidade fiscal protegerá os investimentos; infraestrutura aproximará municípios e mercados; e o crescimento econômico deverá retornar à sociedade na forma de saúde, segurança, emprego, renda e qualidade de vida."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Crescimento econômico e preservação ambiental devem caminhar juntos. A proposta busca proteger recursos hídricos, nascentes, florestas e biodiversidade, ao mesmo tempo em que estimula energia limpa, economia circular, gestão de resíduos e atividades produtivas sustentáveis.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Crescimento econômico e preservação ambiental devem caminhar juntos. A proposta busca proteger recursos hídricos, nascentes, florestas e biodiversidade, ao mesmo tempo em que estimula energia limpa, economia circular, gestão de resíduos e atividades produtivas sustentáveis."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "A atenção à agricultura familiar deverá permitir que pequenos produtores deixem de atuar apenas na subsistência e passem a participar de cadeias produtivas organizadas e rentáveis.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "A atenção à agricultura familiar deverá permitir que pequenos produtores deixem de atuar apenas na subsistência e passem a participar de cadeias produtivas organizadas e rentáveis."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 5,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Entre as áreas prioritárias estão software, inteligência artificial, robótica, eletrônica, segurança cibernética, biotecnologia, equipamentos médicos, drones, agricultura de precisão, tecnologias ambientais e energias renováveis.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Entre as áreas prioritárias estão software, inteligência artificial, robótica, eletrônica, segurança cibernética, biotecnologia, equipamentos médicos, drones, agricultura de precisão, tecnologias ambientais e energias renováveis."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 6,
+          "page_end": 6,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "O programa pretende articular Governo, instituições do Sistema de Justiça, municípios, universidades e entidades para ampliar mecanismos de conciliação, mediação, arbitragem, digitalização e prevenção de litígios.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "O programa pretende articular Governo, instituições do Sistema de Justiça, municípios, universidades e entidades para ampliar mecanismos de conciliação, mediação, arbitragem, digitalização e prevenção de litígios."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

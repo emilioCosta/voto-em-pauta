@@ -57,11 +57,14 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
         run: python scripts/analyze_plans.py --year 2026 --use-llm
 
+      - name: Coletar propostas de candidaturas ao Senado
+        run: python scripts/collect_senator_proposals.py --year 2026
+
       - name: Guardar snapshot e propostas no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A public/data/voto_em_pauta.sqlite3 public/data/source-info.json public/data/plan-analysis.json public/propostas public/fotos public/vendor/sql-wasm.wasm
+          git add -A public/data/voto_em_pauta.sqlite3 public/data/source-info.json public/data/plan-analysis.json public/data/plan-analysis public/data/senator-proposals public/propostas public/fotos public/vendor/sql-wasm.wasm
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza snapshot público do TSE"
             git push

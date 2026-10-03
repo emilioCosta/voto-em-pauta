@@ -1,0 +1,421 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "vice-governador",
+  "state_code": "PE",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "170002540338",
+      "state_code": "PE",
+      "office": "VICE-GOVERNADOR",
+      "candidate_type": "vice-governador",
+      "file_name": "2026PE170002540338_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002540338_01.pdf",
+      "sha256": "cee039360efea5a9a11be2624b3f8aa23e384eb17ba8100d664b93ba5bb44f6c",
+      "summary": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral. a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias. a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo est Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território. A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes. No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho. agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 10,
+          "page_end": 16,
+          "topics": [
+            "education"
+          ],
+          "summary": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral. a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias. a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo est",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 23,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território. A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes. a) Reforma do Funcultura para permitir que pessoa física ou jurídica, de qualquer porte, opte por uma nova modalidade de aporte com participação proporcional nos resultados econômicos do projeto apoiado (bilheteria, royalties, receitas turísticas), mantendo a modalidade atual de dedução simples para quem preferir o modelo já conhecido; b) Base tributária inicial sobre o ITCMD, tributo estadual que não depende de deliberação do CONFAZ, com expansão negociada ao ICMS por convênio; cláusula de adequação ao IBS a partir do início de sua transição em relação ao ICMS, entre 2029 e 2032, com vigência plena em 2033; c) Critérios de aprovação por pontuação objetiva e pública, contrapartida social, enraizamento pernambucano, viabilidade econômica e geração de emprego local; d) Conselho Gestor com representação da Secretaria de Cultura/Fundarpe, da Sefaz-PE, especialistas setoriais com mandato fixo e representantes da sociedade civil; e) Critério de conteúdo com salvaguardas institucionais: definição legal objetiva do que constitui apologia ao crime organiza"
+            },
+            {
+              "id": "s27",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "para Apologia ao Crime - Estruturação de um marco legal e administrativo rigoroso que proíbe o uso de recursos do Governo de Pernambuco (incluindo estatais, Fundarpe e Empetur) para a contratação, fomento ou patrocínio de artistas e eventos que enalteçam a criminalidade, garantindo o absoluto respeito à segurança pública e ao dinheiro do pagador de impostos."
+            },
+            {
+              "id": "s32",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "de equipamentos esportivos, reconhecendo o esporte como política de segurança pública de baixo custo e alto impacto."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 10,
+          "page_end": 20,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho. b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Isso exige menos burocracia, mais transparência, distribuição regional dos recursos e integração com áreas como infraestrutura, educação, segurança e geração de emprego. a) Reforma do Funcultura para permitir que pessoa física ou jurídica, de qualquer porte, opte por uma nova modalidade de aporte com participação proporcional nos resultados econômicos do projeto apoiado (bilheteria, royalties, receitas turísticas), mantendo a modalidade atual de dedução simples para quem preferir o modelo já conhecido; b) Base tributária inicial sobre o ITCMD, tributo estadual que não depende de deliberação do CONFAZ, com expansão negociada ao ICMS por convênio; cláusula de adequação ao IBS a partir do início de sua transição em relação ao ICMS, entre 2029 e 2032, com vigência plena em 2033; c) Critérios de aprovação por pontuação objetiva e pública, contrapartida social, enraizamento pernambucano, viabilidade econômica e geração de emprego local; d) Conselho Gestor com representação da Secretaria de Cultura/Fundarpe, da Sefaz-PE, especialistas setoriais com mandato fixo e representantes da sociedade civil; e) Critério de conteúdo com salvaguardas institucionais: definição legal objetiva do que con"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Diagnóstico A assistência social de Pernambuco ainda está muito concentrada na transferência de renda e pouco conectada a oportunidades permanentes de qualificação profissional, emprego e geração de renda. Em 2026, o Fundo Estadual de Assistência Social alcançou um valor recorde de R$147 milhões. b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Diagnóstico A assistência social de Pernambuco ainda está muito concentrada na transferência de renda e pouco conectada a oportunidades permanentes de qualificação profissional, emprego e geração de renda. Em 2026, o Fundo Estadual de Assistência Social alcançou um valor recorde de R$147 milhões."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "normativa e regularidade do fluxo financeiro do cofinanciamento estadual da assistência social."
+            },
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "a) Ampliar o SIGAS-PE para incluir, em acesso público aberto, indicadores de taxas de participação, evasão e percentual de egressos empregados das trilhas de qualificação; b) Fixar metas quadrienais, reduzir em 20% as famílias em extrema pobreza, alfabetizar 10.000 adultos, qualificar 50.000 pessoas e gerar 5.000 vagas formais, com desagregação por macrorregião (Sertão, Agreste, Zona da Mata, RMR); c) Acompanhar aumento médio de renda familiar (ciclo de 2 a 4 anos) e variação da dependência de programas de transferência de renda; d) Publicar cronograma oficial: 30–90 dias para diagnósticos/pilotos, 1 ano para estabilização de turmas, 2–4 anos para expansão; e) Remeter relatórios periódicos à Assembleia Legislativa de Pernambuco e ao CEAS."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 5,
+          "page_end": 13,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O Agreste concentra a avicultura, a suinocultura, a produção de leite e a agricultura familiar, enquanto a Mata Sul apresenta potencial para o cultivo de cacau fino e para sistemas agroflorestais. b) Integrar as bases de dados do IPA, da ADAGRO, do MAPA, do INCRA, de bancos e de prefeituras, hoje fragmentadas, em cadastro único; c) Usar georreferenciamento e cruzamento de dados para corrigir distorções e prevenir fraudes em cadastros de produtores, propriedades e rebanhos; d) Vincular crédito, seguro e compras públicas à documentação regular; e) Execução pelo IPA, pela ADAGRO, pelo INCRA e por prefeituras, com meta de cadastro produtivo estadual atualizado e integrado em até dois anos. a) Criar fundo estadual de crédito orientado ao agronegócio pernambucano, inspirado em modelos já testados em outros estados, como o FEAP/BANAGRO de São Paulo, distinto do FUNDAGRO (Fundo de Defesa Agropecuária de Pernambuco, hoje voltado apenas à defesa sanitária); b) Criar fundo garantidor para cooperativas e pequenos produtores; c) Simplificar o acesso ao PRONAF, ao PRONAMP e a linhas do Banco do Nordeste; d) Ampliar o acesso do pequeno produtor pernambucano ao Programa de Aquisição de Alimentos (",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "O Agreste concentra a avicultura, a suinocultura, a produção de leite e a agricultura familiar, enquanto a Mata Sul apresenta potencial para o cultivo de cacau fino e para sistemas agroflorestais. Outro desafio é a baixa industrialização da produção rural."
+            },
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "b) Integrar as bases de dados do IPA, da ADAGRO, do MAPA, do INCRA, de bancos e de prefeituras, hoje fragmentadas, em cadastro único; c) Usar georreferenciamento e cruzamento de dados para corrigir distorções e prevenir fraudes em cadastros de produtores, propriedades e rebanhos; d) Vincular crédito, seguro e compras públicas à documentação regular; e) Execução pelo IPA, pela ADAGRO, pelo INCRA e por prefeituras, com meta de cadastro produtivo estadual atualizado e integrado em até dois anos."
+            },
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "a) Criar fundo estadual de crédito orientado ao agronegócio pernambucano, inspirado em modelos já testados em outros estados, como o FEAP/BANAGRO de São Paulo, distinto do FUNDAGRO (Fundo de Defesa Agropecuária de Pernambuco, hoje voltado apenas à defesa sanitária); b) Criar fundo garantidor para cooperativas e pequenos produtores; c) Simplificar o acesso ao PRONAF, ao PRONAMP e a linhas do Banco do Nordeste; d) Ampliar o acesso do pequeno produtor pernambucano ao Programa de Aquisição de Alimentos (PAA) e ao Programa Nacional de Alimentação Escolar (PNAE), como garantia de mercado e redução de desperdício; e) Digitalizar e modernizar a plataforma de conexão entre produtores, cooperativas e compradores hoje operada pela CEASA/PE (Centro de Abastecimento e Logística de Pernambuco), que já atua como entreposto físico e regulador de preços, mas ainda tem integração apenas parcial de seus sistemas informatizados, com meta de aumento percentual das compras públicas da agricultura familiar em até quatro anos."
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "a) Formalizar acordo permanente com a FIEPE para mapeamento de gargalos de mão de obra e com o SENAI para abertura de vagas sociais preferenciais; b) Ampliar convênios com plataformas de ensino a distância (Fundação Bradesco, UPE Virtual e Educa Pernambuco) voltadas à informática e empreendedorismo; c) Criar incubadoras municipais de economia solidária equipadas com treinamento em contabilidade e gestão, priorizando municípios do interior com menor cobertura atual; d) Fomentar, com apoio do terceiro setor e de fundos de microcrédito privados/mistos, a estruturação de cooperativas de costura, agricultura familiar, alimentação e logística rural; e) Implementar incentivos fiscais (ICMS/ISS conforme competência) para empresas que contratarem egressos das turmas sociais das incubadoras."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 16,
+          "page_end": 18,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process"
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "a)​ Ampliar e qualificar o financiamento por meio da FACEPE (Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco), reforçando os gatilhos de interiorização já existentes, como os programas de bolsas de produtividade voltados à interiorização, que priorizam propostas fora da Região Metropolitana do Recife, e aproximando os editais das demandas sociais e econômicas de cada região; b)​ Consolidar o Porto Digital como principal parque tecnológico e parceiro estratégico do Estado na transformação digital, na captação de recursos e no desenvolvimento de novos polos de serviços especializados, dando continuidade a parcerias já em curso entre ATI-PE, UFPE (via CIn/UFPE) e Porto Digital em projetos de inteligência artificial e cibersegurança; c)​ Usar a Lei do Bem (Lei nº 11.196/2005) e o modelo de partilha de risco da Embrapii (Associação Brasileira de Pesquisa e Inovação Industrial) para induzir as indústrias instaladas (Suape e Goiana) a contratarem Instituições de Ciência e Tecnologia pernambucanas, com a negociação de propriedade intelectual ocorrendo diretamente entre empresa contratante e a unidade Embrapii ou ICT envolvida, conforme prevê o Manual de Operação da Embrap"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 14,
+          "page_end": 15,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Ao mesmo tempo em que abriga o Porto Digital, um dos principais polos de inovação e economia criativa do país, o próprio Governo do Estado ainda enfrenta dificuldades para modernizar seus serviços e integrar suas informações.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Ao mesmo tempo em que abriga o Porto Digital, um dos principais polos de inovação e economia criativa do país, o próprio Governo do Estado ainda enfrenta dificuldades para modernizar seus serviços e integrar suas informações."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 13,
+          "page_end": 17,
+          "topics": [
+            "governance"
+          ],
+          "summary": "do SIGAS-PE como instrumento de controle social ativo, com novos indicadores de inclusão produtiva. O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana. trânsito de talentos entre a universidade, o serviço público e o mercado.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "do SIGAS-PE como instrumento de controle social ativo, com novos indicadores de inclusão produtiva."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana."
+            },
+            {
+              "id": "s21",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "trânsito de talentos entre a universidade, o serviço público e o mercado."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

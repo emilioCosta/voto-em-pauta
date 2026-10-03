@@ -1,0 +1,1691 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "RR",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "230002549223",
+      "state_code": "RR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RR230002549223_01.pdf",
+      "public_path": "/propostas/2026/RR/2026RR230002549223_01.pdf",
+      "sha256": "26da448b0ec767981835b0d5936275875f1631cc8f06ab65a29efa01b23805d3",
+      "summary": "Isso significa que, aqui, o resultado educacional depende da gestão estadual mais do que em qualquer outra unidade da Federação. Nesse sentido, é preciso elevar, até a edição de 2029 do Índice de Desenvolvimento da Educação Básica (Ideb), o resultado da rede estadual de Roraima de 4,4 para pelo menos 5,0 nos anos finais do ensino fundamental e de 3,8 para pelo menos 4,5 no ensino médio. 4.3 Ensino superior ​ Buscar melhorias na estrutura da Universidade Estadual de Roraima para aumentarem os índices de qualidade acadêmica de seus cursos. • ​Equipes de Estratégia Saúde da Família mais que duplicadas, de 60 para 149. •​ Prioridade para abastecimento de água tratada e esgotamento sanitário nas sedes municipais do interior, onde a carência é maior e o impacto na saúde pública é direto. •​ Protocolo de resposta imediata da Defesa Civil com travessia alternativa garantida em até 72 horas enquanto a obra definitiva não é concluída, para que nenhuma comunidade fique sem acesso a atendimento de saúde e a abastecimento. Toda conta de saúde, de vaga escolar e de segurança pública, precisa partir desse número, e não da população de dez anos atrás. 127,1 casos por 100 mil habitantes, mais de três vezes a média nacional, de 39,5, com 939 vítimas de estupro e estupro de vulnerável. • Cada programa do governo terá objetivos, metas e indicadores de desempenho para acompanhar o que está sendo entregue em áreas como saúde, educação, segurança, infraestrutura e desenvolvimento econômico. As escolas de Roraima precisam formar cidadãos capazes de exercer seu aprendizado ocupando espaços dignos no mercado de trabalho. • ​Painel estadual unificado com Polícia Civil, Polícia Militar, Judiciário e assistência social, para identificar risco e reincidência. A capital Boa Vista alcançou níveis próximos à universalização no abastecimento de água potável (96,4%) e esgotamento sanitário (92,1%), já tendo atingido as metas estipuladas no âmbito federal pelo Novo Marco Legal do Saneamento. Agro, meio ambiente e comunidades indígenas ​Mais de R$ 60 milhões investidos em agricultura na zona rural. O desafio é tornar Roraima a nova potência agro do Brasil com as condicionantes de respeito ao meio ambiente e às comunidades originárias.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 19,
+          "page_end": 22,
+          "topics": [
+            "education"
+          ],
+          "summary": "Isso significa que, aqui, o resultado educacional depende da gestão estadual mais do que em qualquer outra unidade da Federação. Nesse sentido, é preciso elevar, até a edição de 2029 do Índice de Desenvolvimento da Educação Básica (Ideb), o resultado da rede estadual de Roraima de 4,4 para pelo menos 5,0 nos anos finais do ensino fundamental e de 3,8 para pelo menos 4,5 no ensino médio. 4.3 Ensino superior ​ Buscar melhorias na estrutura da Universidade Estadual de Roraima para aumentarem os índices de qualidade acadêmica de seus cursos.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "88,9% dos alunos dessa etapa estudam em escolas do Estado. Isso significa que, aqui, o resultado educacional depende da gestão estadual mais do que em qualquer outra unidade da Federação."
+            },
+            {
+              "id": "s18",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Nesse sentido, é preciso elevar, até a edição de 2029 do Índice de Desenvolvimento da Educação Básica (Ideb), o resultado da rede estadual de Roraima de 4,4 para pelo menos 5,0 nos anos finais do ensino fundamental e de 3,8 para pelo menos 4,5 no ensino médio."
+            },
+            {
+              "id": "s19",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "4.3 Ensino superior ​ Buscar melhorias na estrutura da Universidade Estadual de Roraima para aumentarem os índices de qualidade acadêmica de seus cursos."
+            },
+            {
+              "id": "s20",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "•​ Expansão das escolas em tempo integral, com cronograma de mandato."
+            },
+            {
+              "id": "s21",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "roraimense ​ Roraima tem um dos piores Ideb de ensino médio do país. O foco não é abandono escolar, que já vem caindo, e sim aprendizagem, que é onde o próximo salto precisa ocorrer.​ A proposta é criar um fundo estadual com destinação exclusiva para o ensino médio, alimentado por receitas do subsolo e dos ativos ambientais do Estado."
+            },
+            {
+              "id": "s23",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Desde o Decreto federal nº 12.915, de 30 de março de 2026, o Enem integra o Saeb e passou a servir de instrumento de avaliação da qualidade do ensino médio. • ​Bônus de conclusão, pago em parcela única após a aprovação final no ensino médio."
+            },
+            {
+              "id": "s24",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "As escolas de ensino médio que apresentarem melhor desempenho e maior evolução nos indicadores oficiais receberão bonificação anual destinada a toda a equipe escolar, e não apenas ao corpo docente."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 11,
+          "page_end": 17,
+          "topics": [
+            "health"
+          ],
+          "summary": "• ​Equipes de Estratégia Saúde da Família mais que duplicadas, de 60 para 149. •​ Prioridade para abastecimento de água tratada e esgotamento sanitário nas sedes municipais do interior, onde a carência é maior e o impacto na saúde pública é direto. •​ Protocolo de resposta imediata da Defesa Civil com travessia alternativa garantida em até 72 horas enquanto a obra definitiva não é concluída, para que nenhuma comunidade fique sem acesso a atendimento de saúde e a abastecimento.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 13,
+              "text": "• ​Equipes de Estratégia Saúde da Família mais que duplicadas, de 60 para 149."
+            },
+            {
+              "id": "s13",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "•​ Prioridade para abastecimento de água tratada e esgotamento sanitário nas sedes municipais do interior, onde a carência é maior e o impacto na saúde pública é direto."
+            },
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "•​ Protocolo de resposta imediata da Defesa Civil com travessia alternativa garantida em até 72 horas enquanto a obra definitiva não é concluída, para que nenhuma comunidade fique sem acesso a atendimento de saúde e a abastecimento."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 10,
+          "page_end": 25,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Toda conta de saúde, de vaga escolar e de segurança pública, precisa partir desse número, e não da população de dez anos atrás. •​ Protocolo de resposta imediata da Defesa Civil com travessia alternativa garantida em até 72 horas enquanto a obra definitiva não é concluída, para que nenhuma comunidade fique sem acesso a atendimento de saúde e a abastecimento. 127,1 casos por 100 mil habitantes, mais de três vezes a média nacional, de 39,5, com 939 vítimas de estupro e estupro de vulnerável.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Toda conta de saúde, de vaga escolar e de segurança pública, precisa partir desse número, e não da população de dez anos atrás."
+            },
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "•​ Protocolo de resposta imediata da Defesa Civil com travessia alternativa garantida em até 72 horas enquanto a obra definitiva não é concluída, para que nenhuma comunidade fique sem acesso a atendimento de saúde e a abastecimento."
+            },
+            {
+              "id": "s25",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "127,1 casos por 100 mil habitantes, mais de três vezes a média nacional, de 39,5, com 939 vítimas de estupro e estupro de vulnerável."
+            },
+            {
+              "id": "s30",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "A legislação federal de 2026 aumentou de 5% para 6% a fatia do Fundo Nacional de Segurança Pública destinada ao enfrentamento da violência contra a mulher, com prioridade justamente para tornozeleiras e dispositivos de alerta."
+            },
+            {
+              "id": "s31",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Hoje 6,27% dos presos em regime fechado de Roraima trabalham, o equivalente a 121 detentos de um total aproximado de 1.520, segundo levantamento de agosto de 2024. A meta é pelo menos triplicar esse percentual, e não apenas no regime semiaberto, com remição de pena de um dia a cada três trabalhados em atividades como capina, limpeza e manutenção de via pública."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 13,
+          "page_end": 19,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "• Cada programa do governo terá objetivos, metas e indicadores de desempenho para acompanhar o que está sendo entregue em áreas como saúde, educação, segurança, infraestrutura e desenvolvimento econômico. As escolas de Roraima precisam formar cidadãos capazes de exercer seu aprendizado ocupando espaços dignos no mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "• Cada programa do governo terá objetivos, metas e indicadores de desempenho para acompanhar o que está sendo entregue em áreas como saúde, educação, segurança, infraestrutura e desenvolvimento econômico."
+            },
+            {
+              "id": "s17",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "As escolas de Roraima precisam formar cidadãos capazes de exercer seu aprendizado ocupando espaços dignos no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 23,
+          "page_end": 25,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "• ​Painel estadual unificado com Polícia Civil, Polícia Militar, Judiciário e assistência social, para identificar risco e reincidência.",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "• ​Painel estadual unificado com Polícia Civil, Polícia Militar, Judiciário e assistência social, para identificar risco e reincidência."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "A capital Boa Vista alcançou níveis próximos à universalização no abastecimento de água potável (96,4%) e esgotamento sanitário (92,1%), já tendo atingido as metas estipuladas no âmbito federal pelo Novo Marco Legal do Saneamento.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "A capital Boa Vista alcançou níveis próximos à universalização no abastecimento de água potável (96,4%) e esgotamento sanitário (92,1%), já tendo atingido as metas estipuladas no âmbito federal pelo Novo Marco Legal do Saneamento."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 11,
+          "page_end": 19,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Agro, meio ambiente e comunidades indígenas ​Mais de R$ 60 milhões investidos em agricultura na zona rural. O desafio é tornar Roraima a nova potência agro do Brasil com as condicionantes de respeito ao meio ambiente e às comunidades originárias.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 13,
+              "text": "Agro, meio ambiente e comunidades indígenas ​Mais de R$ 60 milhões investidos em agricultura na zona rural."
+            },
+            {
+              "id": "s16",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "O desafio é tornar Roraima a nova potência agro do Brasil com as condicionantes de respeito ao meio ambiente e às comunidades originárias."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 18,
+          "page_end": 19,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Rorainópolis, São Luiz do Anauá e São João da Baliza formam um importante corredor agropecuário no sul do Estado, combinando agricultura familiar, pecuária, cacau, café e fruticultura. A política agrícola estadual deve respeitar as características de cada região, estimulando tanto a agricultura empresarial quanto a agricultura familiar, os povos indígenas produtores, a piscicultura, a fruticultura, a pecuária e as cadeias de maior valor agregado.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Rorainópolis, São Luiz do Anauá e São João da Baliza formam um importante corredor agropecuário no sul do Estado, combinando agricultura familiar, pecuária, cacau, café e fruticultura. A política agrícola estadual deve respeitar as características de cada região, estimulando tanto a agricultura empresarial quanto a agricultura familiar, os povos indígenas produtores, a piscicultura, a fruticultura, a pecuária e as cadeias de maior valor agregado."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 18,
+          "page_end": 23,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "A política agrícola estadual deve respeitar as características de cada região, estimulando tanto a agricultura empresarial quanto a agricultura familiar, os povos indígenas produtores, a piscicultura, a fruticultura, a pecuária e as cadeias de maior valor agregado. Falta reforço de efetivo e capacidade de investigação, sobretudo diante do público mais atingido: Reforço de efetivo e de capacidade investigativa da DERCC, em ação conjunta com a Delegacia de Proteção ao Idoso e à Pessoa com Deficiência (DPIPD), que já vem realizando mutirões de atendimento a vítimas de golpe idosas em Boa Vista e no interior.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "A política agrícola estadual deve respeitar as características de cada região, estimulando tanto a agricultura empresarial quanto a agricultura familiar, os povos indígenas produtores, a piscicultura, a fruticultura, a pecuária e as cadeias de maior valor agregado."
+            },
+            {
+              "id": "s29",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Falta reforço de efetivo e capacidade de investigação, sobretudo diante do público mais atingido: Reforço de efetivo e de capacidade investigativa da DERCC, em ação conjunta com a Delegacia de Proteção ao Idoso e à Pessoa com Deficiência (DPIPD), que já vem realizando mutirões de atendimento a vítimas de golpe idosas em Boa Vista e no interior."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 10,
+          "page_end": 14,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Entrou para o serviço público municipal em 2013, como Secretário Extraordinário de Inclusão Digital. Entrega mais rápida de obra e serviço público depende de processo ágil, projeto bem feito, servidor capacitado e acompanhamento sistemático — o tipo de investimento que não aparece em nenhum balanço, mas é o que determina se a obra sai do papel no prazo certo.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 10,
+              "page_end": 10,
+              "text": "Entrou para o serviço público municipal em 2013, como Secretário Extraordinário de Inclusão Digital."
+            },
+            {
+              "id": "s08",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Entrega mais rápida de obra e serviço público depende de processo ágil, projeto bem feito, servidor capacitado e acompanhamento sistemático — o tipo de investimento que não aparece em nenhum balanço, mas é o que determina se a obra sai do papel no prazo certo."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "230002549294",
+      "state_code": "RR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RR230002549294_01.pdf",
+      "public_path": "/propostas/2026/RR/2026RR230002549294_01.pdf",
+      "sha256": "09fc3c344948de9a25943f79f9d6b93e216048ca4231163164df45783edd8808",
+      "summary": "ampliação progressiva da jornada ampliada, com atividades esportivas, culturais e de reforço escolar. expansão de cursos técnicos integrados ao ensino médio, alinhados às vocações econômicas de cada região do Estado. A saúde pública é a maior urgência sentida pela população de Roraima. Nosso governo vai colocar o paciente no centro da política de saúde, com gestão eficiente, tecnologia a favor do atendimento e valorização de quem trabalha na ponta: médicos, enfermeiros, técnicos e agentes de saúde. A segurança pública é condição essencial para o desenvolvimento de qualquer Estado. Roraima, por sua posição de fronteira, enfrenta desafios específicos relacionados ao crime organizado, ao contrabando e à criminalidade transnacional. Um pacto pela geração de empregos, por uma saúde que funcione, por uma educação que transforme, por segurança para as famílias, por respeito a quem produz no campo, por infraestrutura digna e por um governo transparente, moderno e próximo do cidadão. O nosso governo vai tratar o desenvolvimento econômico como prioridade de Estado, com metas claras, parcerias com o setor produtivo e uma gestão que reduza a burocracia para quem quer empreender e gerar empregos. Roraima precisa de escolas modernas, conectadas e seguras, de um ensino técnico e profissionalizante forte, que prepare os jovens para o mercado de trabalho, e de professores valorizados, bem remunerados e com condições dignas de ensinar. Essa visão se traduz em um governo presente em todas as regiões do Estado, que planeja com responsabilidade fiscal, que executa com transparência e que mede seus resultados pela melhoria concreta na vida de cada roraimense. Melhorar a qualidade de vida da população e impulsionar o desenvolvimento econômico com obras estruturantes em todo o Estado. Aproveitar as riquezas naturais de Roraima de forma responsável, gerando renda com respeito ao meio ambiente. compras públicas de alimentos da agricultura familiar para merenda escolar e programas sociais. construção e manutenção de pontes estratégicas para o escoamento da produção rural. uso de tecnologia para otimizar processos, prever demandas e reduzir custos operacionais. Nossos Valores compromisso inegociável com a verdade e com a ética na gestão pública. A modernização da gestão pública é essencial para garantir mais eficiência, menos burocracia e mais transparência no uso do dinheiro público.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "education"
+          ],
+          "summary": "ampliação progressiva da jornada ampliada, com atividades esportivas, culturais e de reforço escolar. expansão de cursos técnicos integrados ao ensino médio, alinhados às vocações econômicas de cada região do Estado.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "ampliação progressiva da jornada ampliada, com atividades esportivas, culturais e de reforço escolar. expansão de cursos técnicos integrados ao ensino médio, alinhados às vocações econômicas de cada região do Estado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "health"
+          ],
+          "summary": "A saúde pública é a maior urgência sentida pela população de Roraima. Nosso governo vai colocar o paciente no centro da política de saúde, com gestão eficiente, tecnologia a favor do atendimento e valorização de quem trabalha na ponta: médicos, enfermeiros, técnicos e agentes de saúde.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A saúde pública é a maior urgência sentida pela população de Roraima. Nosso governo vai colocar o paciente no centro da política de saúde, com gestão eficiente, tecnologia a favor do atendimento e valorização de quem trabalha na ponta: médicos, enfermeiros, técnicos e agentes de saúde."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 9,
+          "page_end": 10,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública é condição essencial para o desenvolvimento de qualquer Estado. Roraima, por sua posição de fronteira, enfrenta desafios específicos relacionados ao crime organizado, ao contrabando e à criminalidade transnacional.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A segurança pública é condição essencial para o desenvolvimento de qualquer Estado. Roraima, por sua posição de fronteira, enfrenta desafios específicos relacionados ao crime organizado, ao contrabando e à criminalidade transnacional."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Um pacto pela geração de empregos, por uma saúde que funcione, por uma educação que transforme, por segurança para as famílias, por respeito a quem produz no campo, por infraestrutura digna e por um governo transparente, moderno e próximo do cidadão. O nosso governo vai tratar o desenvolvimento econômico como prioridade de Estado, com metas claras, parcerias com o setor produtivo e uma gestão que reduza a burocracia para quem quer empreender e gerar empregos. Roraima precisa de escolas modernas, conectadas e seguras, de um ensino técnico e profissionalizante forte, que prepare os jovens para o mercado de trabalho, e de professores valorizados, bem remunerados e com condições dignas de ensinar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Um pacto pela geração de empregos, por uma saúde que funcione, por uma educação que transforme, por segurança para as famílias, por respeito a quem produz no campo, por infraestrutura digna e por um governo transparente, moderno e próximo do cidadão."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O nosso governo vai tratar o desenvolvimento econômico como prioridade de Estado, com metas claras, parcerias com o setor produtivo e uma gestão que reduza a burocracia para quem quer empreender e gerar empregos."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Roraima precisa de escolas modernas, conectadas e seguras, de um ensino técnico e profissionalizante forte, que prepare os jovens para o mercado de trabalho, e de professores valorizados, bem remunerados e com condições dignas de ensinar."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Melhorar a qualidade de vida da população e impulsionar o desenvolvimento econômico com obras estruturantes em todo o Estado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Essa visão se traduz em um governo presente em todas as regiões do Estado, que planeja com responsabilidade fiscal, que executa com transparência e que mede seus resultados pela melhoria concreta na vida de cada roraimense.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Essa visão se traduz em um governo presente em todas as regiões do Estado, que planeja com responsabilidade fiscal, que executa com transparência e que mede seus resultados pela melhoria concreta na vida de cada roraimense."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Melhorar a qualidade de vida da população e impulsionar o desenvolvimento econômico com obras estruturantes em todo o Estado.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Melhorar a qualidade de vida da população e impulsionar o desenvolvimento econômico com obras estruturantes em todo o Estado. Infraestrutura é a base para o desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Aproveitar as riquezas naturais de Roraima de forma responsável, gerando renda com respeito ao meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Aproveitar as riquezas naturais de Roraima de forma responsável, gerando renda com respeito ao meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 10,
+          "page_end": 12,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "compras públicas de alimentos da agricultura familiar para merenda escolar e programas sociais. construção e manutenção de pontes estratégicas para o escoamento da produção rural.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "compras públicas de alimentos da agricultura familiar para merenda escolar e programas sociais."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "construção e manutenção de pontes estratégicas para o escoamento da produção rural."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 14,
+          "page_end": 15,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "uso de tecnologia para otimizar processos, prever demandas e reduzir custos operacionais.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "uso de tecnologia para otimizar processos, prever demandas e reduzir custos operacionais."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 15,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Nossos Valores compromisso inegociável com a verdade e com a ética na gestão pública. A modernização da gestão pública é essencial para garantir mais eficiência, menos burocracia e mais transparência no uso do dinheiro público. canais permanentes de participação popular na fiscalização dos gastos públicos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Nossos Valores compromisso inegociável com a verdade e com a ética na gestão pública."
+            },
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "A modernização da gestão pública é essencial para garantir mais eficiência, menos burocracia e mais transparência no uso do dinheiro público. canais permanentes de participação popular na fiscalização dos gastos públicos."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "230002551571",
+      "state_code": "RR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RR230002551571_01.pdf",
+      "public_path": "/propostas/2026/RR/2026RR230002551571_01.pdf",
+      "sha256": "88182c074ac156ceb9defcbbf4c6af623125298ed2160109c20fd68ed50c9f6b",
+      "summary": "Da creche ao Ensino Superior, da escola indígena à escola profissionalizante, do professor à família, o Estado precisa estar do lado de quem ensina e de quem aprende. Em Roraima, a política educacional convive com a diversidade de territórios — urbano, rural, ribeirinho, indígena — e com a necessidade de articulação permanente entre rede estadual e redes municipais. novas vias de atendimento do transporte escolar; construção, reforma e revitalização das escolas indígenas; ampliação do quadro de professores indígenas, inclusive com componentes on-line pela Rede de Inovação para a Educação Híbrida (RIEH); valorização da cultura e da língua materna; merenda regionalizada. Apresentação A saúde pública é, ao mesmo tempo, o serviço de maior expectativa popular e o de maior complexidade de gestão. Apoiar a ampliação da Estratégia Saúde da Família, ampliação do prénatal e acompanhamento sistemático de hipertensos e diabéticos, reduzindo internações evitáveis e desafogando hospitais. Rede estadual conectando municípios e especialistas em cardiologia, neurologia, psiquiatria, dermatologia e pediatria, com redução de remoções desnecessárias e acesso rápido ao especialista. necessidade de fortalecer o trabalho de inteligência para combater o crime organizado, ampliar campanhas e blitz educativas no trânsito para reduzir acidentes e mortes no trânsito e intensificar o enfrentamento à violência contra a mulher e ao feminicídio. Família, Primeira Infância, Mulheres e Assistência Social Eixo 5. Em um Estado de fronteira, com áreas urbanas em expansão acelerada e vastos territórios rurais e indígenas, segurança pública e defesa social precisam ser tratadas como política integrada, articulando polícias, Corpo de Bombeiros, Defesa Civil, sistema socioeducativo, DETRAN, órgãos de inteligência e a rede de proteção à mulher e à infância. Desenvolvimento econômico em todas as regiões do Estado, respeitando a vocação amazônica do Estado e protegendo seus recursos para as próximas gerações. Desenvolvimento Econômico, Emprego, Renda e Tributação Justa Eixo 8. • Preparar estudantes para ENEM, vestibulares e mercado de trabalho. Missão Organizar o Estado, com responsabilidade fiscal, transparência e foco em resultados, aproximando o poder público das pessoas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 21,
+          "page_end": 24,
+          "topics": [
+            "education"
+          ],
+          "summary": "Da creche ao Ensino Superior, da escola indígena à escola profissionalizante, do professor à família, o Estado precisa estar do lado de quem ensina e de quem aprende. Em Roraima, a política educacional convive com a diversidade de territórios — urbano, rural, ribeirinho, indígena — e com a necessidade de articulação permanente entre rede estadual e redes municipais. novas vias de atendimento do transporte escolar; construção, reforma e revitalização das escolas indígenas; ampliação do quadro de professores indígenas, inclusive com componentes on-line pela Rede de Inovação para a Educação Híbrida (RIEH); valorização da cultura e da língua materna; merenda regionalizada.",
+          "excerpts": [
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Da creche ao Ensino Superior, da escola indígena à escola profissionalizante, do professor à família, o Estado precisa estar do lado de quem ensina e de quem aprende. Em Roraima, a política educacional convive com a diversidade de territórios — urbano, rural, ribeirinho, indígena — e com a necessidade de articulação permanente entre rede estadual e redes municipais."
+            },
+            {
+              "id": "s27",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "novas vias de atendimento do transporte escolar; construção, reforma e revitalização das escolas indígenas; ampliação do quadro de professores indígenas, inclusive com componentes on-line pela Rede de Inovação para a Educação Híbrida (RIEH); valorização da cultura e da língua materna; merenda regionalizada."
+            },
+            {
+              "id": "s30",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Programa estadual de preparação para o ENEM, parcerias com universidades, fortalecimento da educação técnica e profissionalizante e laboratórios maker e de robótica nas escolas."
+            },
+            {
+              "id": "s31",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Pacto estadual com as 15 prefeituras para estimular o atendimento na primeira infância, com apoio técnico e articulação com o Programa Colo de Mãe e demais ações do Eixo 4."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 15,
+          "page_end": 18,
+          "topics": [
+            "health"
+          ],
+          "summary": "Apresentação A saúde pública é, ao mesmo tempo, o serviço de maior expectativa popular e o de maior complexidade de gestão. Apoiar a ampliação da Estratégia Saúde da Família, ampliação do prénatal e acompanhamento sistemático de hipertensos e diabéticos, reduzindo internações evitáveis e desafogando hospitais. Rede estadual conectando municípios e especialistas em cardiologia, neurologia, psiquiatria, dermatologia e pediatria, com redução de remoções desnecessárias e acesso rápido ao especialista.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Apresentação A saúde pública é, ao mesmo tempo, o serviço de maior expectativa popular e o de maior complexidade de gestão."
+            },
+            {
+              "id": "s18",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Apoiar a ampliação da Estratégia Saúde da Família, ampliação do prénatal e acompanhamento sistemático de hipertensos e diabéticos, reduzindo internações evitáveis e desafogando hospitais."
+            },
+            {
+              "id": "s21",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Rede estadual conectando municípios e especialistas em cardiologia, neurologia, psiquiatria, dermatologia e pediatria, com redução de remoções desnecessárias e acesso rápido ao especialista."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 2,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "necessidade de fortalecer o trabalho de inteligência para combater o crime organizado, ampliar campanhas e blitz educativas no trânsito para reduzir acidentes e mortes no trânsito e intensificar o enfrentamento à violência contra a mulher e ao feminicídio. Família, Primeira Infância, Mulheres e Assistência Social Eixo 5. Em um Estado de fronteira, com áreas urbanas em expansão acelerada e vastos territórios rurais e indígenas, segurança pública e defesa social precisam ser tratadas como política integrada, articulando polícias, Corpo de Bombeiros, Defesa Civil, sistema socioeducativo, DETRAN, órgãos de inteligência e a rede de proteção à mulher e à infância.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "necessidade de fortalecer o trabalho de inteligência para combater o crime organizado, ampliar campanhas e blitz educativas no trânsito para reduzir acidentes e mortes no trânsito e intensificar o enfrentamento à violência contra a mulher e ao feminicídio."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Educação que Valoriza, Inclui e Prepara o Futuro Eixo 4. Família, Primeira Infância, Mulheres e Assistência Social Eixo 5."
+            },
+            {
+              "id": "s06",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Em um Estado de fronteira, com áreas urbanas em expansão acelerada e vastos territórios rurais e indígenas, segurança pública e defesa social precisam ser tratadas como política integrada, articulando polícias, Corpo de Bombeiros, Defesa Civil, sistema socioeducativo, DETRAN, órgãos de inteligência e a rede de proteção à mulher e à infância. Na Polícia Civil, indicadores como mortes a esclarecer, avanço do crime organizado, mortalidade no trânsito, violência sexual e feminicídio apontam para a necessidade de reforço de inteligência, prevenção e proximidade."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Concurso público para aproximadamente 300 vagas, em execução, ampliando e recompondo o efetivo da corporação, com reflexos diretos sobre o combate a incêndio, salvamento, atendimento pré-hospitalar e defesa civil, tanto na capital quanto no interior."
+            },
+            {
+              "id": "s10",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Realização de estudos técnicos, jurídicos, administrativos e orçamentários para recomposição gradual do efetivo da Polícia Militar de Roraima, com anúncio e elaboração do edital de concurso público para aproximadamente 600 vagas, observadas as limitações legais, fiscais e orçamentárias aplicáveis ao último ano de mandato, visando fortalecer o policiamento ostensivo, ampliar a presença do Estado nos municípios e melhorar a capacidade operacional da segurança pública em todo o território roraimense."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Articulação do Plano de Prevenção e Combate ao Desmatamento e Queimadas (PPCDQ/RR) com o Comitê de Queimadas e a Operação Verão Sem Fogo, em apoio a produtores rurais, agricultores familiares e comunidades indígenas, prevenindo os efeitos do El Niño e dos eventos climáticos extremos. Plano de Governo — Soldado Sampaio | 10 Eixos para Reconstruir Roraima Coligação Soldado Sampaio Governador | Roraima 2026 | Página 14 de 60 Entregas no tempo Imediato Estruturante Legado (bases para 2027–2030) Edital do concurso do CBMRR 300 vagas) lançado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 22,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Desenvolvimento econômico em todas as regiões do Estado, respeitando a vocação amazônica do Estado e protegendo seus recursos para as próximas gerações. Desenvolvimento Econômico, Emprego, Renda e Tributação Justa Eixo 8. • Preparar estudantes para ENEM, vestibulares e mercado de trabalho.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "Desenvolvimento econômico em todas as regiões do Estado, respeitando a vocação amazônica do Estado e protegendo seus recursos para as próximas gerações."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Desenvolvimento Econômico, Emprego, Renda e Tributação Justa Eixo 8."
+            },
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "• Preparar estudantes para ENEM, vestibulares e mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 2,
+          "page_end": 9,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Missão Organizar o Estado, com responsabilidade fiscal, transparência e foco em resultados, aproximando o poder público das pessoas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "Missão Organizar o Estado, com responsabilidade fiscal, transparência e foco em resultados, aproximando o poder público das pessoas."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 2,
+          "page_end": 24,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Em 100 dias, reorganizamos a saúde, a assistência social e devolvemos a dignidade e a esperança às pessoas. Família, Primeira Infância, Mulheres e Assistência Social Eixo 5. Estratégia integrada de busca ativa de estudantes fora da escola, fortalecimento do Programa Cesta da Família e da assistência social, articulação com Conselhos Tutelares e os pais, além de ações específicas voltadas a comunidades indígenas e rurais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "Em 100 dias, reorganizamos a saúde, a assistência social e devolvemos a dignidade e a esperança às pessoas."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Família, Primeira Infância, Mulheres e Assistência Social Eixo 5."
+            },
+            {
+              "id": "s32",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Estratégia integrada de busca ativa de estudantes fora da escola, fortalecimento do Programa Cesta da Família e da assistência social, articulação com Conselhos Tutelares e os pais, além de ações específicas voltadas a comunidades indígenas e rurais."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 2,
+          "page_end": 9,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Desafios de manutenção, modernização e expansão dos sistemas, perdas elevadas de água potável, lixões em operação em municípios do Estado e baixa cobertura de coleta seletiva e reciclagem.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "Desafios de manutenção, modernização e expansão dos sistemas, perdas elevadas de água potável, lixões em operação em municípios do Estado e baixa cobertura de coleta seletiva e reciclagem."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 2,
+          "page_end": 9,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "apesar da elevada cobertura alcançada pela CAER na capital e no interior, persistem reclamações dos usuários em relação à qualidade da água e à regularidade do abastecimento. Desenvolvimento Econômico, Emprego, Renda e Tributação Justa Eixo 8.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "apesar da elevada cobertura alcançada pela CAER na capital e no interior, persistem reclamações dos usuários em relação à qualidade da água e à regularidade do abastecimento."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Desenvolvimento Econômico, Emprego, Renda e Tributação Justa Eixo 8. Gestão Pública Moderna, Digital e Transparente Eixo 9."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 2,
+          "page_end": 23,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Na segurança, na educação, na agricultura familiar, novos concursos públicos, fortalecimento da indústria, recomposição salarial e reajuste para servidores da Caer. Desenvolvimento Rural, Pesca e Agricultura Familiar modernização da estrutura de gestão; fomento e fortalecimento das Associações de Pais e Mestres (APMs); merenda escolar de qualidade e atrativa, com valorização da agricultura familiar; fomento aos grêmios estudantis; educação empreendedora.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "Na segurança, na educação, na agricultura familiar, novos concursos públicos, fortalecimento da indústria, recomposição salarial e reajuste para servidores da Caer."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Desenvolvimento Rural, Pesca e Agricultura Familiar"
+            },
+            {
+              "id": "s28",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "modernização da estrutura de gestão; fomento e fortalecimento das Associações de Pais e Mestres (APMs); merenda escolar de qualidade e atrativa, com valorização da agricultura familiar; fomento aos grêmios estudantis; educação empreendedora."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 2,
+          "page_end": 17,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "É o menor Estado da Federação em população, com 15 municípios, fronteira internacional ativa, presença marcante de povos indígenas e uma economia em transformação, marcada pela expansão do agronegócio, do comércio fronteiriço e dos serviços. Infelizmente o que está sendo feito ainda está longe de representar um alívio para os povos indígenas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 9,
+              "text": "É o menor Estado da Federação em população, com 15 municípios, fronteira internacional ativa, presença marcante de povos indígenas e uma economia em transformação, marcada pela expansão do agronegócio, do comércio fronteiriço e dos serviços."
+            },
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Infelizmente o que está sendo feito ainda está longe de representar um alívio para os povos indígenas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 9,
+          "page_end": 9,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Gestão Pública Moderna, Digital e Transparente Eixo 9.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Gestão Pública Moderna, Digital e Transparente Eixo 9."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "230002552060",
+      "state_code": "RR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RR230002552060_01.pdf",
+      "public_path": "/propostas/2026/RR/2026RR230002552060_01.pdf",
+      "sha256": "944f94444990130a27c4b894baa58da3dfd43eb082bf3bd124ef297f864229d6",
+      "summary": "Reformar e equipar as escolas com infraestrutura adequada (climatização, acessibilidade, laboratórios de ciências e informática, bibliotecas, internet). Expandir o ensino em tempo integral com foco em diversidade étnica/racial e inclusão, e implementar o ensino bilíngue (português/espanhol). Promover a valorização profissional com formação continuada consistente (que não sobrecarregue), planos de carreira, saúde mental e condições dignas de trabalho. Ampliar a estratégia de saúde da família para cobertura universal. Quadriplicar o atendimento do CAPS no Estado de maneira ampliada, com foco no tratamento de abuso de substâncias e problemas psicológicos, criando uma rede de cuidado pós-pandemia para atender o sofrimento psíquico de estudantes, professores, policiais e servidores. Denunciamos o braço político do crime organizado e a necessidade de uma polícia cidadã, com inteligência e respeito aos direitos humanos. Fazer a inteligência policial funcionar para prender e reprimir o crime sem matar inocentes, combatendo a violência policial e o extermínio da juventude negra, indígena e periférica. Criar o Programa Estadual Mulher Segura e Autônoma, integrando segurança pública, saúde, assistência social, educação, Defensoria, Ministério Público, Judiciário e municípios. Implementar políticas de inclusão para egressos do sistema socioeducativo e prisional, com bolsas de estágio e apoio para ingresso no mercado de trabalho. • Desenvolver programas permanentes de inserção laboral, empreendedorismo e qualificação profissional, articulando o Sistema Nacional de Emprego (SINE), instituições de ensino, cooperativas e setor produtivo para ampliar o acesso ao trabalho digno. Reestruturar os conselhos estaduais (juventude, mulheres, indígenas, LGBT+, cultura, segurança alimentar e meio ambiente). Ampliar compras públicas da agricultura familiar para merenda escolar, hospitais, presídios e equipamentos de assistência social. Promover a universalização do saneamento com foco em água, esgoto, resíduos sólidos e drenagem. Criar política de coleta seletiva, logística reversa, cooperativas, compostagem e encerramento progressivo de lixões, com inclusão socioeconômica dos catadores. Investir no saneamento como política de saúde, meio ambiente, dignidade e desenvolvimento.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 4,
+          "topics": [
+            "education"
+          ],
+          "summary": "Reformar e equipar as escolas com infraestrutura adequada (climatização, acessibilidade, laboratórios de ciências e informática, bibliotecas, internet). Expandir o ensino em tempo integral com foco em diversidade étnica/racial e inclusão, e implementar o ensino bilíngue (português/espanhol).",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "Reformar e equipar as escolas com infraestrutura adequada (climatização, acessibilidade, laboratórios de ciências e informática, bibliotecas, internet). Expandir o ensino em tempo integral com foco em diversidade étnica/racial e inclusão, e implementar o ensino bilíngue (português/espanhol)."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 9,
+          "topics": [
+            "health"
+          ],
+          "summary": "Promover a valorização profissional com formação continuada consistente (que não sobrecarregue), planos de carreira, saúde mental e condições dignas de trabalho. Ampliar a estratégia de saúde da família para cobertura universal. Quadriplicar o atendimento do CAPS no Estado de maneira ampliada, com foco no tratamento de abuso de substâncias e problemas psicológicos, criando uma rede de cuidado pós-pandemia para atender o sofrimento psíquico de estudantes, professores, policiais e servidores.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "Promover a valorização profissional com formação continuada consistente (que não sobrecarregue), planos de carreira, saúde mental e condições dignas de trabalho."
+            },
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Ampliar a estratégia de saúde da família para cobertura universal. Quadriplicar o atendimento do CAPS no Estado de maneira ampliada, com foco no tratamento de abuso de substâncias e problemas psicológicos, criando uma rede de cuidado pós-pandemia para atender o sofrimento psíquico de estudantes, professores, policiais e servidores."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Carreira, formação continuada, equipamentos, saúde mental, apoio às famílias e corregedoria independente."
+            },
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Investir no saneamento como política de saúde, meio ambiente, dignidade e desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 12,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Denunciamos o braço político do crime organizado e a necessidade de uma polícia cidadã, com inteligência e respeito aos direitos humanos. Fazer a inteligência policial funcionar para prender e reprimir o crime sem matar inocentes, combatendo a violência policial e o extermínio da juventude negra, indígena e periférica. Propostas Prioritárias: Criar o Programa Estadual Mulher Segura e Autônoma, integrando segurança pública, saúde, assistência social, educação, Defensoria, Ministério Público, Judiciário e municípios.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Denunciamos o braço político do crime organizado e a necessidade de uma polícia cidadã, com inteligência e respeito aos direitos humanos. Fazer a inteligência policial funcionar para prender e reprimir o crime sem matar inocentes, combatendo a violência policial e o extermínio da juventude negra, indígena e periférica."
+            },
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Propostas Prioritárias: Criar o Programa Estadual Mulher Segura e Autônoma, integrando segurança pública, saúde, assistência social, educação, Defensoria, Ministério Público, Judiciário e municípios."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "• Instituir uma Política Estadual para Migrantes, Refugiados e Apátridas, integrada às áreas de saúde, assistência social, educação, trabalho, habitação, cultura e segurança pública, em consonância com a Política Nacional de Migrações, Refúgio e Apatridia."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 5,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Implementar políticas de inclusão para egressos do sistema socioeducativo e prisional, com bolsas de estágio e apoio para ingresso no mercado de trabalho. • Desenvolver programas permanentes de inserção laboral, empreendedorismo e qualificação profissional, articulando o Sistema Nacional de Emprego (SINE), instituições de ensino, cooperativas e setor produtivo para ampliar o acesso ao trabalho digno.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Implementar políticas de inclusão para egressos do sistema socioeducativo e prisional, com bolsas de estágio e apoio para ingresso no mercado de trabalho."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "• Desenvolver programas permanentes de inserção laboral, empreendedorismo e qualificação profissional, articulando o Sistema Nacional de Emprego (SINE), instituições de ensino, cooperativas e setor produtivo para ampliar o acesso ao trabalho digno."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 12,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Reestruturar os conselhos estaduais (juventude, mulheres, indígenas, LGBT+, cultura, segurança alimentar e meio ambiente). Ampliar compras públicas da agricultura familiar para merenda escolar, hospitais, presídios e equipamentos de assistência social. Propostas Prioritárias: Criar o Programa Estadual Mulher Segura e Autônoma, integrando segurança pública, saúde, assistência social, educação, Defensoria, Ministério Público, Judiciário e municípios.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Reestruturar os conselhos estaduais (juventude, mulheres, indígenas, LGBT+, cultura, segurança alimentar e meio ambiente)."
+            },
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Ampliar compras públicas da agricultura familiar para merenda escolar, hospitais, presídios e equipamentos de assistência social."
+            },
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Propostas Prioritárias: Criar o Programa Estadual Mulher Segura e Autônoma, integrando segurança pública, saúde, assistência social, educação, Defensoria, Ministério Público, Judiciário e municípios."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "• Instituir uma Política Estadual para Migrantes, Refugiados e Apátridas, integrada às áreas de saúde, assistência social, educação, trabalho, habitação, cultura e segurança pública, em consonância com a Política Nacional de Migrações, Refúgio e Apatridia."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Promover a universalização do saneamento com foco em água, esgoto, resíduos sólidos e drenagem. Criar política de coleta seletiva, logística reversa, cooperativas, compostagem e encerramento progressivo de lixões, com inclusão socioeconômica dos catadores.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Promover a universalização do saneamento com foco em água, esgoto, resíduos sólidos e drenagem. Criar política de coleta seletiva, logística reversa, cooperativas, compostagem e encerramento progressivo de lixões, com inclusão socioeconômica dos catadores."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 7,
+          "page_end": 9,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Reestruturar os conselhos estaduais (juventude, mulheres, indígenas, LGBT+, cultura, segurança alimentar e meio ambiente). Investir no saneamento como política de saúde, meio ambiente, dignidade e desenvolvimento.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Reestruturar os conselhos estaduais (juventude, mulheres, indígenas, LGBT+, cultura, segurança alimentar e meio ambiente)."
+            },
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Investir no saneamento como política de saúde, meio ambiente, dignidade e desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Fortalecer crédito, assistência técnica, mecanização apropriada, irrigação eficiente, sementes, agroecologia, piscicultura, pesca artesanal e beneficiamento local. Ampliar compras públicas da agricultura familiar para merenda escolar, hospitais, presídios e equipamentos de assistência social.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Fortalecer crédito, assistência técnica, mecanização apropriada, irrigação eficiente, sementes, agroecologia, piscicultura, pesca artesanal e beneficiamento local. Ampliar compras públicas da agricultura familiar para merenda escolar, hospitais, presídios e equipamentos de assistência social."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Apoiar o calendário de festivais de cultura indígena, popular e migrante. Plano estadual, conselho fortalecido, editais descentralizados, economia criativa, memória material e imaterial e calendário cultural regional.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Apoiar o calendário de festivais de cultura indígena, popular e migrante. Plano estadual, conselho fortalecido, editais descentralizados, economia criativa, memória material e imaterial e calendário cultural regional."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 4,
+          "page_end": 12,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Atuar de forma cooperativa com a União e os DSEIs para garantir vigilância, nutrição, saneamento, logística humanitária e proteção contra violência para os povos indígenas e migrantes. Denunciamos o braço político do crime organizado e a necessidade de uma polícia cidadã, com inteligência e respeito aos direitos humanos. Roraima deve ser referência nacional em respeito aos povos indígenas, suas línguas, culturas, territórios e modos de vida, com cooperação federativa.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Atuar de forma cooperativa com a União e os DSEIs para garantir vigilância, nutrição, saneamento, logística humanitária e proteção contra violência para os povos indígenas e migrantes."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Denunciamos o braço político do crime organizado e a necessidade de uma polícia cidadã, com inteligência e respeito aos direitos humanos."
+            },
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "Roraima deve ser referência nacional em respeito aos povos indígenas, suas línguas, culturas, territórios e modos de vida, com cooperação federativa."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "• Desenvolver políticas específicas para mulheres migrantes, crianças, adolescentes, idosos, pessoas LGBTQIA+, pessoas com deficiência, povos indígenas transfronteiriços e vítimas de violência, exploração e tráfico de pessoas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 4,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Dividir o estado em regiões administrativas para audiências públicas e orçamento participativo. Modernizar a gestão pública com governo digital, simplificação de serviços e combate à burocracia. • Implantar um Conselho Estadual de Direitos dos Migrantes, Refugiados e Apátridas, com participação efetiva da sociedade civil, universidades, organismos internacionais e representantes eleitos das próprias comunidades migrantes, garantindo o controle social das políticas públicas.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Fortalecer o controle social pelo Conselho Estadual de Saúde."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Dividir o estado em regiões administrativas para audiências públicas e orçamento participativo. Modernizar a gestão pública com governo digital, simplificação de serviços e combate à burocracia."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 12,
+              "text": "• Implantar um Conselho Estadual de Direitos dos Migrantes, Refugiados e Apátridas, com participação efetiva da sociedade civil, universidades, organismos internacionais e representantes eleitos das próprias comunidades migrantes, garantindo o controle social das políticas públicas."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "230002553857",
+      "state_code": "RR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RR230002553857_01.pdf",
+      "public_path": "/propostas/2026/RR/2026RR230002553857_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

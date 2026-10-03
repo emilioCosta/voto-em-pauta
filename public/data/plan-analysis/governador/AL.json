@@ -1,0 +1,1434 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "AL",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "20002539642",
+      "state_code": "AL",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AL20002539642_01.pdf",
+      "public_path": "/propostas/2026/AL/2026AL20002539642_01.pdf",
+      "sha256": "bfe8500d3185468c1746b71f5de9edaba8b380c63b68cb834e6b2c435f2803f6",
+      "summary": "fim do lucro na educação; garantia de livre acesso do povo à universidade e/ou cursos técnicos profissionalizantes; fim do vestibular, vestibulinho ou qualquer processo seletivo. Reestruturação do conselho do fundo para garantir 50% de representação da sociedade civil (entidades comunitárias, instituições de ensino superior, centrais sindicais e movimentos sociais). Fortalecimento da Atenção Básica e Preventiva considerando que são a primeira linha de defesa contra o Aedes aegypti (vetor do Zika, Dengue e Chikungunya) e fundamentais para a vigilância em saúde no território alagoano Direcionar a produção para atender integralmente Saúde pública 100% SUS Página 12 a demanda da Secretaria de Estado da Saúde de Alagoas (Sesau), priorizando remédios para diabetes, hipertensão, saúde da mulher e antibióticos básicos. Garantia de leitos de retaguarda para crises agudas exclusivamente em hospitais públicos gerais, humanizados e de curta permanência. profissionais de educação física, fisioterapia e nutrição às equipes da Atenção Básica do SUS (Núcleos de Apoio à Saúde da Família). Centro Integrado de Monitoramento e Alerta da Defesa Civil de Maceió e criação de Salas de Alerta no interior. Criar um Comitê Estadual Intersetorial da Crise Climática:Articulação permanente entre Semarh, Defesa Civil, Agricultura, Saúde e Assistência Social. Neste sentido, auditar a dívida pública do Estado de Alagoas, bem como rever as isenções fiscais dadas aos latifundiários e empresários. grupos mais vulneráveis, construção e estruturação e ampliação do período de funcionamento de restaurantes populares (atualmente funcionam só durante os dias úteis, e há 3 unidades em Maceió – Estádio Rei Pelé, Benedito Bentes e Jacintinho, e 1 unidade em Arapiraca – todos de gestão do governo estadual). proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região. Fortalecer o Instituto do Meio Ambiente de Alagoas (IMA-AL) e instituir auditorias técnicas externas com dados abertos e monitoramento em tempo real para qualquer atividade de lavra e extração mineral em Alagoas. Utilizar recursos públicos para financiar cooperativas de trabalhadores, agricultura familiar, assentamentos da reforma agrária e empreendimentos da economia solidária, eliminando a dependência dos bancos privados.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "education"
+          ],
+          "summary": "fim do lucro na educação; garantia de livre acesso do povo à universidade e/ou cursos técnicos profissionalizantes; fim do vestibular, vestibulinho ou qualquer processo seletivo. Reestruturação do conselho do fundo para garantir 50% de representação da sociedade civil (entidades comunitárias, instituições de ensino superior, centrais sindicais e movimentos sociais).",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "fim do lucro na educação; garantia de livre acesso do povo à universidade e/ou cursos técnicos profissionalizantes; fim do vestibular, vestibulinho ou qualquer processo seletivo."
+            },
+            {
+              "id": "s25",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Reestruturação do conselho do fundo para garantir 50% de representação da sociedade civil (entidades comunitárias, instituições de ensino superior, centrais sindicais e movimentos sociais)."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "health"
+          ],
+          "summary": "Fortalecimento da Atenção Básica e Preventiva considerando que são a primeira linha de defesa contra o Aedes aegypti (vetor do Zika, Dengue e Chikungunya) e fundamentais para a vigilância em saúde no território alagoano Direcionar a produção para atender integralmente Saúde pública 100% SUS Página 12 a demanda da Secretaria de Estado da Saúde de Alagoas (Sesau), priorizando remédios para diabetes, hipertensão, saúde da mulher e antibióticos básicos. Garantia de leitos de retaguarda para crises agudas exclusivamente em hospitais públicos gerais, humanizados e de curta permanência. profissionais de educação física, fisioterapia e nutrição às equipes da Atenção Básica do SUS (Núcleos de Apoio à Saúde da Família).",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "fim da exploração dos planos de saúde privados."
+            },
+            {
+              "id": "s15",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Fortalecimento da Atenção Básica e Preventiva"
+            },
+            {
+              "id": "s16",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "considerando que são a primeira linha de defesa contra o Aedes aegypti (vetor do Zika, Dengue e Chikungunya) e fundamentais para a vigilância em saúde no território alagoano"
+            },
+            {
+              "id": "s17",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Direcionar a produção para atender integralmente Saúde pública 100% SUS Página 12 a demanda da Secretaria de Estado da Saúde de Alagoas (Sesau), priorizando remédios para diabetes, hipertensão, saúde da mulher e antibióticos básicos."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Garantia de leitos de retaguarda para crises agudas exclusivamente em hospitais públicos gerais, humanizados e de curta permanência."
+            },
+            {
+              "id": "s19",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "profissionais de educação física, fisioterapia e nutrição às equipes da Atenção Básica do SUS (Núcleos de Apoio à Saúde da Família). Substituição da lógica da medicalização excessiva pela garantia de acesso a atividades físicas orientadas e planejadas para a saúde mental."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 11,
+          "page_end": 11,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Centro Integrado de Monitoramento e Alerta da Defesa Civil de Maceió e criação de Salas de Alerta no interior. Criar um Comitê Estadual Intersetorial da Crise Climática:Articulação permanente entre Semarh, Defesa Civil, Agricultura, Saúde e Assistência Social.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Centro Integrado de Monitoramento e Alerta da Defesa Civil de Maceió e criação de Salas de Alerta no interior. Criar um Comitê Estadual Intersetorial da Crise Climática:Articulação permanente entre Semarh, Defesa Civil, Agricultura, Saúde e Assistência Social."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Neste sentido, auditar a dívida pública do Estado de Alagoas, bem como rever as isenções fiscais dadas aos latifundiários e empresários.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Neste sentido, auditar a dívida pública do Estado de Alagoas, bem como rever as isenções fiscais dadas aos latifundiários e empresários."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 11,
+          "page_end": 13,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Criar um Comitê Estadual Intersetorial da Crise Climática:Articulação permanente entre Semarh, Defesa Civil, Agricultura, Saúde e Assistência Social. grupos mais vulneráveis, construção e estruturação e ampliação do período de funcionamento de restaurantes populares (atualmente funcionam só durante os dias úteis, e há 3 unidades em Maceió – Estádio Rei Pelé, Benedito Bentes e Jacintinho, e 1 unidade em Arapiraca – todos de gestão do governo estadual).",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Criar um Comitê Estadual Intersetorial da Crise Climática:Articulação permanente entre Semarh, Defesa Civil, Agricultura, Saúde e Assistência Social."
+            },
+            {
+              "id": "s20",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "grupos mais vulneráveis, construção e estruturação e ampliação do período de funcionamento de restaurantes populares (atualmente funcionam só durante os dias úteis, e há 3 unidades em Maceió – Estádio Rei Pelé, Benedito Bentes e Jacintinho, e 1 unidade em Arapiraca – todos de gestão do governo estadual)."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 11,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região. Fortalecer o Instituto do Meio Ambiente de Alagoas (IMA-AL) e instituir auditorias técnicas externas com dados abertos e monitoramento em tempo real para qualquer atividade de lavra e extração mineral em Alagoas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Fortalecer o Instituto do Meio Ambiente de Alagoas (IMA-AL) e instituir auditorias técnicas externas com dados abertos e monitoramento em tempo real para qualquer atividade de lavra e extração mineral em Alagoas."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 14,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Utilizar recursos públicos para financiar cooperativas de trabalhadores, agricultura familiar, assentamentos da reforma agrária e empreendimentos da economia solidária, eliminando a dependência dos bancos privados. Alimentos (PAA) de ambientes públicos estruturados (mercados públicos, feiras de rua) e estabelecimentos (quitanda, sacolão) que ofertem e comercializem alimentos saudáveis em territórios periféricos e estratégicos, em que o deslocamento das pessoas, comerciantes e consumidores seja facilitado (terminais urbanos de ônibus e trens, rodoviárias). calamidade pública ou de forma permanente para populações em situação de vulnerabilidade) deve contemplar alimentos saudáveis e provenientes da agricultura familiar, pois movimenta e fortalece a economia local e estimula a agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "nacionalização da terra e fim do monopólio privado da terra."
+            },
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Utilizar recursos públicos para financiar cooperativas de trabalhadores, agricultura familiar, assentamentos da reforma agrária e empreendimentos da economia solidária, eliminando a dependência dos bancos privados."
+            },
+            {
+              "id": "s21",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Alimentos (PAA) de ambientes públicos estruturados (mercados públicos, feiras de rua) e estabelecimentos (quitanda, sacolão) que ofertem e comercializem alimentos saudáveis em territórios periféricos e estratégicos, em que o deslocamento das pessoas, comerciantes e consumidores seja facilitado (terminais urbanos de ônibus e trens, rodoviárias)."
+            },
+            {
+              "id": "s22",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "calamidade pública ou de forma permanente para populações em situação de vulnerabilidade) deve contemplar alimentos saudáveis e provenientes da agricultura familiar, pois movimenta e fortalece a economia local e estimula a agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "associações de marisqueiras, pescadores, quilombolas e povos indígenas para oferecerem vivências Página 11 turísticas geridas por eles próprios (gastronomia ancestral, passeios ecológicos guias locais, hospedagem familiar).",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "associações de marisqueiras, pescadores, quilombolas e povos indígenas para oferecerem vivências Página 11 turísticas geridas por eles próprios (gastronomia ancestral, passeios ecológicos guias locais, hospedagem familiar)."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O Programa Nacional da UP defende: planificação da economia para atender às necessidades da população e acabar com as desigualdades regionais e sociais. Estadual de Saúde e incentivo à criação de comitês locais de usuários e trabalhadores para fiscalização das unidades de saúde. Reestatização do Patrimônio do Laboratório Industrial Farmacêutico de Alagoas - Lifal e controle operário.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "O Programa Nacional da UP defende: planificação da economia para atender às necessidades da população e acabar com as desigualdades regionais e sociais."
+            },
+            {
+              "id": "s17",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Estadual de Saúde e incentivo à criação de comitês locais de usuários e trabalhadores para fiscalização das unidades de saúde. Reestatização do Patrimônio do Laboratório Industrial Farmacêutico de Alagoas - Lifal e controle operário."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "20002552502",
+      "state_code": "AL",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AL20002552502_01.pdf",
+      "public_path": "/propostas/2026/AL/2026AL20002552502_01.pdf",
+      "sha256": "3ff42d2562fcac3d5e7874b8d685395a78472858d5365cd6531253b114a8396d",
+      "summary": "I Ampliação do tempo destinado ao planejamento pedagógico; I Implantação de programas de bonificação por desempenho; I Expansão das Escolas Técnicas Estaduais; I Criação do Instituto Estadual de Robótica e Inteligência Artificial; I Inserção do empreendedorismo na educação básica; I Programa Jovem Aprendiz em parceria com empresas; I Incentivo às áreas de ciência, tecnologia e inovação. I Integração eletrônica dos prontuários médicos; I Ampliação do uso da telemedicina; I Fortalecimento da atenção básica; I Ampliação dos programas preventivos; I Prioridade para investimentos em tecnologia médica; I Programas permanentes de promoção da qualidade de vida. I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico. Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular. I Estímulo à inovação tecnológica; I Apoio ao empreendedorismo; I Desburocratização dos serviços públicos para atração de investimentos. I Simplificação de processos administrativos; I Redução da burocracia.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "education"
+          ],
+          "summary": "I Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; I Valorização salarial e profissional dos professores; I Ampliação do tempo destinado ao planejamento pedagógico; I Implantação de programas de bonificação por desempenho; I Expansão das Escolas Técnicas Estaduais; I Criação do Instituto Estadual de Robótica e Inteligência Artificial; I Inserção do empreendedorismo na educação básica; I Programa Jovem Aprendiz em parceria com empresas; I Incentivo às áreas de ciência, tecnologia e inovação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; I Valorização salarial e profissional dos professores; I Ampliação do tempo destinado ao planejamento pedagógico; I Implantação de programas de bonificação por desempenho; I Expansão das Escolas Técnicas Estaduais; I Criação do Instituto Estadual de Robótica e Inteligência Artificial; I Inserção do empreendedorismo na educação básica; I Programa Jovem Aprendiz em parceria com empresas; I Incentivo às áreas de ciência, tecnologia e inovação."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "health"
+          ],
+          "summary": "I Implantação de Hospital especializado no atendimento à pessoa idosa; I Informatização completa da rede estadual de saúde; I Integração eletrônica dos prontuários médicos; I Ampliação do uso da telemedicina; I Fortalecimento da atenção básica; I Ampliação dos programas preventivos; I Prioridade para investimentos em tecnologia médica; I Programas permanentes de promoção da qualidade de vida.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Implantação de Hospital especializado no atendimento à pessoa idosa; I Informatização completa da rede estadual de saúde; I Integração eletrônica dos prontuários médicos; I Ampliação do uso da telemedicina; I Fortalecimento da atenção básica; I Ampliação dos programas preventivos; I Prioridade para investimentos em tecnologia médica; I Programas permanentes de promoção da qualidade de vida."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "I Implantação do Programa Pindorama para desenvolvimento regional; I Incentivo à agricultura familiar e ao agronegócio; I Estímulo à inovação tecnológica; I Apoio ao empreendedorismo; I Desburocratização dos serviços públicos para atração de investimentos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Implantação do Programa Pindorama para desenvolvimento regional; I Incentivo à agricultura familiar e ao agronegócio; I Estímulo à inovação tecnológica; I Apoio ao empreendedorismo; I Desburocratização dos serviços públicos para atração de investimentos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. I Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; I Valorização salarial e profissional dos professores; I Ampliação do tempo destinado ao planejamento pedagógico; I Implantação de programas de bonificação por desempenho; I Expansão das Escolas Técnicas Estaduais; I Criação do Instituto Estadual de Robótica e Inteligência Artificial; I Inserção do empreendedorismo na educação básica; I Programa Jovem Aprendiz em parceria com empresas; I Incentivo às áreas de ciência, tecnologia e inovação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. I Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; I Valorização salarial e profissional dos professores; I Ampliação do tempo destinado ao planejamento pedagógico; I Implantação de programas de bonificação por desempenho; I Expansão das Escolas Técnicas Estaduais; I Criação do Instituto Estadual de Robótica e Inteligência Artificial; I Inserção do empreendedorismo na educação básica; I Programa Jovem Aprendiz em parceria com empresas; I Incentivo às áreas de ciência, tecnologia e inovação."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "governance"
+          ],
+          "summary": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. I Uso intensivo de tecnologia em toda a administração; I Implantação do Programa Pindorama para integração da gestão pública; I Simplificação de processos administrativos; I Redução da burocracia.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "I Modernização da gestão pública; I Segurança pública baseada em inteligência e tecnologia; I Saúde humanizada e eficiente; I Educação transformadora; I Desenvolvimento econômico sustentável; I Inclusão social; I Mobilidade urbana e rural; I Transformação digital; I Valorização da cultura e do esporte; I Desenvolvimento regional integrado. I Uso intensivo de tecnologia em toda a administração; I Implantação do Programa Pindorama para integração da gestão pública; I Simplificação de processos administrativos; I Redução da burocracia."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "20002553350",
+      "state_code": "AL",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AL20002553350_01.pdf",
+      "public_path": "/propostas/2026/AL/2026AL20002553350_01.pdf",
+      "sha256": "014a6e4fdb624cbdbf0fa0bff8c1c3cc69f94588edbad970e5b00d9400e6717b",
+      "summary": "Apenas 25% das escolas alagoanas dispõem de quadra de esportes, contra uma média nacional de 36,2% das escolas públicas. O abandono no ensino médio tem mediana municipal de 3,1% e chega a 15,1% em Olivença. a que não é alfabetizada no tempo certo abandona o ensino médio; a família que é atendida cinco vezes por políticas públicas que não se falam permanece no mesmo lugar. Ele aparece quando o atendimento de saúde chega mais perto, quando a escola acolhe e ensina melhor, quando a água chega com regularidade, quando a estrada permite escoar a produção, quando a moradia dá segurança à família, quando o pequeno negócio recebe apoio, quando a juventude enxerga futuro onde nasceu e quando o poder público trata cada cidadão com respeito. com CAPS regionais, equipes itinerantes e retaguarda de leito em hospital geral; 3. O objetivo das propostas é garantir que todo alagoano tenha acesso a atendimento de saúde no tempo certo e o mais perto possível de onde vive, reduzindo filas, deslocamentos até a capital e desigualdades entre a capital e o interior. ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Muitos problemas que afetam a vida das pessoas dependem de cooperação: saúde, educação, assistência social, segurança pública, saneamento, habitação, mobilidade, segurança hídrica, desenvolvimento urbano, proteção ambiental e geração de oportunidades. A violência letal alagoana se interiorizou, e o desenho institucional da segurança pública não acompanhou essa transformação. Saúde, Educação, Primeira Infância, e Assistência e Proteção Social B ALAGOAS SEGURA Segurança pública C ALAGOAS PRODUTIVA E DE OPORTUNIDADES Trabalho, Empreendedorismo e Desenvolvimento Produtivo; Turismo, Esporte e Cultura D Reduzir a taxa de crimes em cada uma das quatro RISPs (Regiões Integradas de Segurança Pública), com Territórios da Paz definidos por critério técnico publicado; Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos. Programa estadual de responsabilidade fiscal, transparência e qualidade do gasto para garantir que Alagoas preserve sua capacidade de investir e sustentar serviços públicos ao longo do tempo.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 5,
+          "page_end": 52,
+          "topics": [
+            "education"
+          ],
+          "summary": "Apenas 25% das escolas alagoanas dispõem de quadra de esportes, contra uma média nacional de 36,2% das escolas públicas. O abandono no ensino médio tem mediana municipal de 3,1% e chega a 15,1% em Olivença. a que não é alfabetizada no tempo certo abandona o ensino médio; a família que é atendida cinco vezes por políticas públicas que não se falam permanece no mesmo lugar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 5,
+              "page_end": 13,
+              "text": "Apenas 25% das escolas alagoanas dispõem de quadra de esportes, contra uma média nacional de 36,2% das escolas públicas. O abandono no ensino médio tem mediana municipal de 3,1% e chega a 15,1% em Olivença."
+            },
+            {
+              "id": "s13",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "a que não é alfabetizada no tempo certo abandona o ensino médio; a família que é atendida cinco vezes por políticas públicas que não se falam permanece no mesmo lugar."
+            },
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 23,
+              "text": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 PROPOSTAS EDUCAÇÃO O objetivo das propostas é garantir que toda criança alagoana aprenda na idade certa, que nenhum estudante avance acumulando defasagens e que a escola pública prepare os jovens para continuar estudando, trabalhar e construir seu futuro em Alagoas. O estado ainda tem a maior taxa de analfabetismo do Brasil e, em 2025, o ensino médio da rede estadual alcançou Ideb de 4,2, abaixo da média do Brasil, de 4,3."
+            },
+            {
+              "id": "s15",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "O passivo estadual de 40 mil vagas de creche não concluídas mostra a distância entre promessa e entrega na educação infantil. ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Programa Gigantinhos Alagoas, com cofinanciamento estadual para ampliar a oferta de vagas em creches nos municípios, por meio de aporte por vaga criada, projetos arquitetônicos padronizados, assistência técnica para obras e licitações e formação continuada de professores e gestores da educação infantil."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "A agenda articulará o Escola Gigante, com permanência no ensino médio, idiomas, robótica, projeto de vida e preparação para o Enem; o Alagoas Porta pro Futuro, com formação técnica ligada às vocações regionais, estágio, aprendizagem e primeiro emprego; o Alagoas Lab, com formação digital e inteligência artificial; o Cultura por Todo Canto, ampliando oportunidades culturais nas periferias e no interior; e o Arena Alagoas, com esporte comunitário, iniciação esportiva e atividades no contraturno."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 41,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ele aparece quando o atendimento de saúde chega mais perto, quando a escola acolhe e ensina melhor, quando a água chega com regularidade, quando a estrada permite escoar a produção, quando a moradia dá segurança à família, quando o pequeno negócio recebe apoio, quando a juventude enxerga futuro onde nasceu e quando o poder público trata cada cidadão com respeito. com CAPS regionais, equipes itinerantes e retaguarda de leito em hospital geral; 3. Publicar o Padrão Escola Gigante e o percentual de escolas que o atendem, com acompanhamento anual por município e território; O objetivo das propostas é garantir que todo alagoano tenha acesso a atendimento de saúde no tempo certo e o mais perto possível de onde vive, reduzindo filas, deslocamentos até a capital e desigualdades entre a capital e o interior.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 5,
+              "page_end": 13,
+              "text": "Ele aparece quando o atendimento de saúde chega mais perto, quando a escola acolhe e ensina melhor, quando a água chega com regularidade, quando a estrada permite escoar a produção, quando a moradia dá segurança à família, quando o pequeno negócio recebe apoio, quando a juventude enxerga futuro onde nasceu e quando o poder público trata cada cidadão com respeito. Alagoas tem 7 CAPS, e 42 municípios não têm nenhum."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "com CAPS regionais, equipes itinerantes e retaguarda de leito em hospital geral; 3. Publicar o Padrão Escola Gigante e o percentual de escolas que o atendem, com acompanhamento anual por município e território;"
+            },
+            {
+              "id": "s13",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "O objetivo das propostas é garantir que todo alagoano tenha acesso a atendimento de saúde no tempo certo e o mais perto possível de onde vive, reduzindo filas, deslocamentos até a capital e desigualdades entre a capital e o interior. A estratégia também enfrenta gargalos específicos que hoje comprometem a continuidade do cuidado, como baixa cobertura vacinal, dificuldade de fixação de profissionais no interior, demora no tratamento do câncer, fragilidades da atenção materno-infantil e insuficiência da rede territorial de saúde mental."
+            },
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 23,
+              "text": "A agenda se completa com uma nova política de saúde mental, baseada em CAPS regionais, equipes itinerantes, atenção à crise, cuidado infantojuvenil e ampliação da rede para dependência química, além de a criação de uma política inovadora de prevenção de zoonoses, saúde animal atendimento veterinário público com o SUS Animal voltado à população de baixa renda, para bichos de companhia, e aos rebanhos de micro e pequenos produtores rurais. garantir cuidado em saúde mental de base territorial e regional em todo o estado, com atenção à crise e sem estigma, com a implementação de uma rede de CAPS regionais e equipes itinerantes de atendimento psicossocial, além do estabelecimento de urgência psiquiátrica e leitos de saúde mental em unidades hospitalares."
+            },
+            {
+              "id": "s21",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "Também incluirá transformação digital dos processos de trabalho, saúde e saúde mental do servidor e gestão de desempenho institucional."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 5,
+          "page_end": 52,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Muitos problemas que afetam a vida das pessoas dependem de cooperação: saúde, educação, assistência social, segurança pública, saneamento, habitação, mobilidade, segurança hídrica, desenvolvimento urbano, proteção ambiental e geração de oportunidades. A violência letal alagoana se interiorizou, e o desenho institucional da segurança pública não acompanhou essa transformação. Saúde, Educação, Primeira Infância, e Assistência e Proteção Social B ALAGOAS SEGURA Segurança pública C ALAGOAS PRODUTIVA E DE OPORTUNIDADES Trabalho, Empreendedorismo e Desenvolvimento Produtivo; Turismo, Esporte e Cultura D Reduzir a taxa de crimes em cada uma das quatro RISPs (Regiões Integradas de Segurança Pública), com Territórios da Paz definidos por critério técnico publicado; Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 5,
+              "page_end": 13,
+              "text": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Muitos problemas que afetam a vida das pessoas dependem de cooperação: saúde, educação, assistência social, segurança pública, saneamento, habitação, mobilidade, segurança hídrica, desenvolvimento urbano, proteção ambiental e geração de oportunidades. A violência letal alagoana se interiorizou, e o desenho institucional da segurança pública não acompanhou essa transformação."
+            },
+            {
+              "id": "s03",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Saúde, Educação, Primeira Infância, e Assistência e Proteção Social B ALAGOAS SEGURA Segurança pública C ALAGOAS PRODUTIVA E DE OPORTUNIDADES Trabalho, Empreendedorismo e Desenvolvimento Produtivo; Turismo, Esporte e Cultura D"
+            },
+            {
+              "id": "s07",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Reduzir a taxa de crimes em cada uma das quatro RISPs (Regiões Integradas de Segurança Pública), com Territórios da Paz definidos por critério técnico publicado;"
+            },
+            {
+              "id": "s15",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos. O objetivo das propostas é garantir segurança em todo o território alagoano, enfrentando a interiorização do crime organizado, integrando Estado e municípios e fortalecendo a capacidade de prevenção, investigação e resposta das forças de segurança."
+            },
+            {
+              "id": "s16",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "Parceria permanente entre Estado e municípios para integrar as forças de segurança e ampliar a capacidade de enfrentamento ao crime organizado, especialmente no interior. Política estadual de ressocialização para reduzir a reincidência criminal e impedir que o sistema prisional continue funcionando como espaço de recrutamento pelo crime organizado."
+            },
+            {
+              "id": "s22",
+              "page_start": 41,
+              "page_end": 42,
+              "text": "O programa criará o Plano Estadual de Adaptação Climática, com mapas municipais de risco, sistemas de alerta, fortalecimento da Defesa Civil e planos de contingência pactuados com os municípios."
+            },
+            {
+              "id": "s23",
+              "page_start": 42,
+              "page_end": 44,
+              "text": "Também implantará um programa permanente de perfuração, recuperação e manutenção de poços e dessalinizadores, fortalecerá a gestão e a outorga dos recursos hídricos e organizará ações permanentes de convivência com a seca, separando a política de segurança hídrica das ações de saneamento."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 IBGE (Censo 2022, PNAD Contínua, Produção Agrícola Municipal, Pesquisa Pecuária Municipal, Valor Adicionado Bruto municipal, SIDRA); DATASUS (SIM, SINASC, SIH, SIA) e CNES; Ministério da Saúde, painel Cobertura Vacinal do Calendário Nacional por residência, alimentado pela Rede Nacional de Dados em Saúde; SEVISA/SESAU, Nota Informativa nº 30/2025, e Relatório Anual de Gestão 2024; INEP (Censo Escolar, Ideb 2023 e 2025, Saeb, taxas de rendimento); SINISA e Sistema Nacional de Informações sobre Saneamento; Cadastro Único, VISDATA e rede SUAS; Novo CAGED; MDIC e ComexStat; SINESP e bases estaduais de segurança pública; NEAC/SSP-AL, boletins anuais de CVLI; Atlas da Violência 2026 e Anuário Brasileiro de Segurança Pública 2026 (Ipea e Fórum Brasileiro de Segurança Pública); Jonathan Lins jhcdopovo tiojhc jhc Tesouro Nacional (Capacidade de Pagamento dos Estados, prévia da CAPAG municipal, SICONFI, DCA e RREO); INPI (Índice Brasil de Inovação e Desenvolvimento, IBID, e microdados BADEPI de marcas, patentes e programas de computador); Pesquisa CNT de Rodovias 2024; Programa Nacional de Transparência Públi"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 17,
+          "page_end": 39,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A estratégia, por isso, combina alfabetização na idade certa, combate ao analfabetismo de jovens e adultos, recomposição da aprendizagem, valorização dos professores e transformação do ensino médio, aproximando formação técnica, universidade e mercado de trabalho. entre jovens em situação de vulnerabilidade, além de oferecer um apoio financeiro adicional no momento de transição para o ensino superior, a formação profissional e o ingresso no mercado de trabalho. Para quem deixa o sistema prisional, haverá ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 acompanhamento do egresso, regularização documental, apoio para ingresso no mercado de trabalho e ações de reinserção social, com monitoramento permanente das taxas de reincidência.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 23,
+              "text": "A estratégia, por isso, combina alfabetização na idade certa, combate ao analfabetismo de jovens e adultos, recomposição da aprendizagem, valorização dos professores e transformação do ensino médio, aproximando formação técnica, universidade e mercado de trabalho. entre jovens em situação de vulnerabilidade, além de oferecer um apoio financeiro adicional no momento de transição para o ensino superior, a formação profissional e o ingresso no mercado de trabalho."
+            },
+            {
+              "id": "s16",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "Para quem deixa o sistema prisional, haverá ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 acompanhamento do egresso, regularização documental, apoio para ingresso no mercado de trabalho e ações de reinserção social, com monitoramento permanente das taxas de reincidência."
+            },
+            {
+              "id": "s17",
+              "page_start": 28,
+              "page_end": 28,
+              "text": "falta trabalho para uma parcela grande demais da população. O objetivo das propostas é fazer o crescimento econômico chegar à vida das pessoas na forma de trabalho, renda e oportunidade em todos os 102 municípios de Alagoas."
+            },
+            {
+              "id": "s18",
+              "page_start": 28,
+              "page_end": 32,
+              "text": "O programa terá painel de emprego e ocupação por município, metas específicas de geração de empregos formais fora da Região Metropolitana, intermediação de mão de obra e acompanhamento da subutilização e da renda do trabalho em cada território."
+            },
+            {
+              "id": "s19",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "Uma política tributária estadual para deixar o estado mais competitivo, com simplificação de procedimentos e criação de incentivos para estimular a geração de empregos, a chegada de investimentos e o desenvolvimento de cadeias produtivas estratégicas. não há acesso adequado aos serviços públicos quando comunidades permanecem isoladas ou quando o transporte é caro e desarticulado; e nenhuma política se sustenta sem planejamento, recursos, servidores preparados e capacidade de manutenção."
+            },
+            {
+              "id": "s20",
+              "page_start": 35,
+              "page_end": 39,
+              "text": "Estratégia estadual para transformar a energia em vantagem competitiva para a industrialização, a geração de empregos e a interiorização do desenvolvimento em Alagoas."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 44,
+          "page_end": 47,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Programa estadual de responsabilidade fiscal, transparência e qualidade do gasto para garantir que Alagoas preserve sua capacidade de investir e sustentar serviços públicos ao longo do tempo.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 44,
+              "page_end": 47,
+              "text": "Programa estadual de responsabilidade fiscal, transparência e qualidade do gasto para garantir que Alagoas preserve sua capacidade de investir e sustentar serviços públicos ao longo do tempo."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 5,
+          "page_end": 52,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Muitos problemas que afetam a vida das pessoas dependem de cooperação: saúde, educação, assistência social, segurança pública, saneamento, habitação, mobilidade, segurança hídrica, desenvolvimento urbano, proteção ambiental e geração de oportunidades. Saúde, Educação, Primeira Infância, e Assistência e Proteção Social B ALAGOAS SEGURA Segurança pública C ALAGOAS PRODUTIVA E DE OPORTUNIDADES Trabalho, Empreendedorismo e Desenvolvimento Produtivo; Turismo, Esporte e Cultura D Por isso, a gestão integrada de casos, a busca ativa e o cofinanciamento com padrão de qualidade atravessam todas as áreas que dizem respeito a essa dimensão: Saúde, Educação, Primeira Infância e Assistência e Proteção Social. Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 5,
+              "page_end": 13,
+              "text": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 Muitos problemas que afetam a vida das pessoas dependem de cooperação: saúde, educação, assistência social, segurança pública, saneamento, habitação, mobilidade, segurança hídrica, desenvolvimento urbano, proteção ambiental e geração de oportunidades."
+            },
+            {
+              "id": "s03",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Saúde, Educação, Primeira Infância, e Assistência e Proteção Social B ALAGOAS SEGURA Segurança pública C ALAGOAS PRODUTIVA E DE OPORTUNIDADES Trabalho, Empreendedorismo e Desenvolvimento Produtivo; Turismo, Esporte e Cultura D"
+            },
+            {
+              "id": "s13",
+              "page_start": 15,
+              "page_end": 17,
+              "text": "Por isso, a gestão integrada de casos, a busca ativa e o cofinanciamento com padrão de qualidade atravessam todas as áreas que dizem respeito a essa dimensão: Saúde, Educação, Primeira Infância e Assistência e Proteção Social."
+            },
+            {
+              "id": "s15",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos. O programa também garantirá alimentação escolar durante o recesso e ações de educação alimentar, com prioridade para famílias em insegurança alimentar grave, população em situação de rua e estudantes da rede pública."
+            },
+            {
+              "id": "s16",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "Escola, esporte, cultura, juventude, iluminação pública, assistência social, qualificação e emprego atuarão de forma integrada para recuperar territórios vulneráveis e impedir o avanço das facções, com prioridade para o interior. O programa ampliará o número e o horário de atendimento - para 24 horas por dia - das Delegacias da Mulher no interior, além de criar casas-abrigo e acolhimento sigiloso, patrulhas de proteção e monitoramento de medidas protetivas, com protocolo único de avaliação de risco entre segurança, saúde e assistência social."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "a Operação Água e Esgoto e o Água que Não Falta levarão soluções de abastecimento e saneamento adequadas às características de cada território; e o Alagoas que Produz fortalecerá pesca artesanal, piscicultura, maricultura, cooperativas e outras atividades produtivas tradicionais."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 13,
+          "page_end": 52,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Energia; Governo Digital e Gestão por Resultados E ALAGOAS PARA VIVER MELHOR Meio Ambiente; Água e Saneamento; Cidades e Habitação F Abaixo, portanto, estão as propostas de Meio Ambiente, Água e Saneamento e Cidades e Habitação. Alagoas precisa transformar sua riqueza ambiental em proteção, qualidade de vida e desenvolvimento sustentável. O estado convive ao mesmo tempo com degradação de ecossistemas, erosão costeira, enchentes, secas e baixa capacidade de reciclagem, enquanto ainda possui uma estrutura pública de conservação muito limitada: das 79 unidades de conservação de jurisdição estadual, 76 são RPPNs — reservas particulares — e Alagoas não possui hoje nenhum Parque Estadual.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Energia; Governo Digital e Gestão por Resultados E ALAGOAS PARA VIVER MELHOR Meio Ambiente; Água e Saneamento; Cidades e Habitação F"
+            },
+            {
+              "id": "s21",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "Abaixo, portanto, estão as propostas de Meio Ambiente, Água e Saneamento e Cidades e Habitação."
+            },
+            {
+              "id": "s22",
+              "page_start": 41,
+              "page_end": 42,
+              "text": "Alagoas precisa transformar sua riqueza ambiental em proteção, qualidade de vida e desenvolvimento sustentável. O estado convive ao mesmo tempo com degradação de ecossistemas, erosão costeira, enchentes, secas e baixa capacidade de reciclagem, enquanto ainda possui uma estrutura pública de conservação muito limitada: das 79 unidades de conservação de jurisdição estadual, 76 são RPPNs — reservas particulares — e Alagoas não possui hoje nenhum Parque Estadual."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 IBGE (Censo 2022, PNAD Contínua, Produção Agrícola Municipal, Pesquisa Pecuária Municipal, Valor Adicionado Bruto municipal, SIDRA); DATASUS (SIM, SINASC, SIH, SIA) e CNES; Ministério da Saúde, painel Cobertura Vacinal do Calendário Nacional por residência, alimentado pela Rede Nacional de Dados em Saúde; SEVISA/SESAU, Nota Informativa nº 30/2025, e Relatório Anual de Gestão 2024; INEP (Censo Escolar, Ideb 2023 e 2025, Saeb, taxas de rendimento); SINISA e Sistema Nacional de Informações sobre Saneamento; Cadastro Único, VISDATA e rede SUAS; Novo CAGED; MDIC e ComexStat; SINESP e bases estaduais de segurança pública; NEAC/SSP-AL, boletins anuais de CVLI; Atlas da Violência 2026 e Anuário Brasileiro de Segurança Pública 2026 (Ipea e Fórum Brasileiro de Segurança Pública); Jonathan Lins jhcdopovo tiojhc jhc Tesouro Nacional (Capacidade de Pagamento dos Estados, prévia da CAPAG municipal, SICONFI, DCA e RREO); INPI (Índice Brasil de Inovação e Desenvolvimento, IBID, e microdados BADEPI de marcas, patentes e programas de computador); Pesquisa CNT de Rodovias 2024; Programa Nacional de Transparência Públi"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 23,
+          "page_end": 25,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Expansão da política de segurança alimentar para o interior de Alagoas, por meio da implantação de restaurantes populares e cozinhas comunitárias, fortalecimento do PAA estadual com compra de alimentos da agricultura familiar e criação de bancos de alimentos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 32,
+          "page_end": 52,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Também lançará desafios públicos para desenvolver e testar soluções para problemas do Estado, ampliará a formação em tecnologia, inteligência artificial e economia digital e ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 estimulará áreas como bioeconomia, química verde e economia azul. Também incluirá transformação digital dos processos de trabalho, saúde e saúde mental do servidor e gestão de desempenho institucional. A agenda articulará o Escola Gigante, com permanência no ensino médio, idiomas, robótica, projeto de vida e preparação para o Enem; o Alagoas Porta pro Futuro, com formação técnica ligada às vocações regionais, estágio, aprendizagem e primeiro emprego; o Alagoas Lab, com formação digital e inteligência artificial; o Cultura por Todo Canto, ampliando oportunidades culturais nas periferias e no interior; e o Arena Alagoas, com esporte comunitário, iniciação esportiva e atividades no contraturno.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "Também lançará desafios públicos para desenvolver e testar soluções para problemas do Estado, ampliará a formação em tecnologia, inteligência artificial e economia digital e ALAGOAS GIGANTE | DO SERTÃO AO LITORAL, UM SÓ FUTURO | PLANO DE GOVERNO 2027 ~ 2030 estimulará áreas como bioeconomia, química verde e economia azul."
+            },
+            {
+              "id": "s21",
+              "page_start": 39,
+              "page_end": 41,
+              "text": "Também incluirá transformação digital dos processos de trabalho, saúde e saúde mental do servidor e gestão de desempenho institucional."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "A agenda articulará o Escola Gigante, com permanência no ensino médio, idiomas, robótica, projeto de vida e preparação para o Enem; o Alagoas Porta pro Futuro, com formação técnica ligada às vocações regionais, estágio, aprendizagem e primeiro emprego; o Alagoas Lab, com formação digital e inteligência artificial; o Cultura por Todo Canto, ampliando oportunidades culturais nas periferias e no interior; e o Arena Alagoas, com esporte comunitário, iniciação esportiva e atividades no contraturno."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 32,
+          "page_end": 35,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "quando um jovem consegue transformar talento em profissão; quando uma manifestação tradicional gera renda para quem a mantém viva; ou quando uma vocação local se converte em turismo, economia criativa e novos negócios. O Cultura por Todo Canto levará programação, formação e apoio à produção cultural ao interior e às periferias, enquanto o Parque Biblioteca criará espaços permanentes de leitura, cultura, convivência e economia criativa.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "quando um jovem consegue transformar talento em profissão; quando uma manifestação tradicional gera renda para quem a mantém viva; ou quando uma vocação local se converte em turismo, economia criativa e novos negócios. O Cultura por Todo Canto levará programação, formação e apoio à produção cultural ao interior e às periferias, enquanto o Parque Biblioteca criará espaços permanentes de leitura, cultura, convivência e economia criativa."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 13,
+          "page_end": 52,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Transparência e Combate à Corrupção G ALAGOAS PARA TODOS Juventude, PCD, Terceira Idade, Mulheres, Igualdade Racial e Povos Tradicionais 1. Juventude, Mulheres, Igualdade Racial, Pessoas Idosas, Pessoas com Deficiência, Povos Tradicionais e Direitos Humanos têm necessidades específicas que aparecem na saúde, na educação, no trabalho, na segurança, na mobilidade, na habitação, na cultura e no acesso aos serviços públicos. O Cultura por Todo Canto valorizará a memória, a cultura negra e quilombola, incluindo o Memorial da Igualdade Racial Zumbi dos Palmares, enquanto o Alagoas, Meu Lugar Gigante apoiará regularização fundiária e melhorias urbanas em territórios negros, quilombolas e periféricos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Transparência e Combate à Corrupção G ALAGOAS PARA TODOS Juventude, PCD, Terceira Idade, Mulheres, Igualdade Racial e Povos Tradicionais 1."
+            },
+            {
+              "id": "s25",
+              "page_start": 47,
+              "page_end": 49,
+              "text": "Juventude, Mulheres, Igualdade Racial, Pessoas Idosas, Pessoas com Deficiência, Povos Tradicionais e Direitos Humanos têm necessidades específicas que aparecem na saúde, na educação, no trabalho, na segurança, na mobilidade, na habitação, na cultura e no acesso aos serviços públicos."
+            },
+            {
+              "id": "s26",
+              "page_start": 49,
+              "page_end": 52,
+              "text": "O Cultura por Todo Canto valorizará a memória, a cultura negra e quilombola, incluindo o Memorial da Igualdade Racial Zumbi dos Palmares, enquanto o Alagoas, Meu Lugar Gigante apoiará regularização fundiária e melhorias urbanas em territórios negros, quilombolas e periféricos. Garantia de direitos dos povos indígenas, comunidades quilombolas, pescadores artesanais, ciganos, assentados e demais comunidades tradicionais de Alagoas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Transparência e Combate à Corrupção G ALAGOAS PARA TODOS Juventude, PCD, Terceira Idade, Mulheres, Igualdade Racial e Povos Tradicionais 1.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Transparência e Combate à Corrupção G ALAGOAS PARA TODOS Juventude, PCD, Terceira Idade, Mulheres, Igualdade Racial e Povos Tradicionais 1."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 35,
+          "page_end": 39,
+          "topics": [
+            "energy"
+          ],
+          "summary": "A proposta é transformar o potencial energético de Alagoas em uma vantagem competitiva para o desenvolvimento, conectando fontes renováveis, inovação e política industrial. O programa estimulará a expansão das fontes renováveis, com energia solar para pequenos produtores, biodigestores no Canal do Sertão e atração de fabricantes de componentes fotovoltaicos e sistemas de armazenamento de energia.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 35,
+              "page_end": 39,
+              "text": "A proposta é transformar o potencial energético de Alagoas em uma vantagem competitiva para o desenvolvimento, conectando fontes renováveis, inovação e política industrial. O programa estimulará a expansão das fontes renováveis, com energia solar para pequenos produtores, biodigestores no Canal do Sertão e atração de fabricantes de componentes fotovoltaicos e sistemas de armazenamento de energia."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "20002553745",
+      "state_code": "AL",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AL20002553745_01.pdf",
+      "public_path": "/propostas/2026/AL/2026AL20002553745_01.pdf",
+      "sha256": "eb63d902254580f39a69404a85f8a89df27ac59d891226eed88be50548c02d58",
+      "summary": "IMPLANTAR A ESCOLA GLOBAL EO PROGRAMA INGLÊS PARA O MUNDO, COM ENSINO INTENSIVO DE INSTITUIR O CURSINHO POPULAR DO ENEM, COM OFERTA PRESENCIAL E DIGITAL, COBERTURA REGIONAL, MATERIAL DIDÁTICO, ORIENTAÇÃO VOCACIONAL E APOIO AO ACESSO DOS ESTUDANTES AO ENSINO SUPERIOR. TRANSFORMAR O PROFESSOR MENTOR EM UMA REDE ESTADUAL INTEGRADA DE MENTORES, CONECTANDO ESTUDANTES A PROFESSORES, PESQUISADORES, PROFISSIONAIS, EMPREENDEDORES E PAZ, JUSTIÇA E INSTITUIÇÕES FORTES Esta missão organiza a presença do Estado em torno das pessoas e das famílias, e não de serviços que funcionam de forma isolada. Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia. Garantir consulta, exame, tratamento, cirurgia e leito de referência na própria região de saúde, com regulação integrada e continuidade do cuidado. transformar capacidade ﬁscal em melhores serviços, infraestrutura em desenvolvimento regional, educação em oportunidades, investimento em emprego e crescimento econômico em renda para as famílias. Esta missão liga a escola, a qualiﬁcação, a ciência e a empresa para transformar crescimento econômico em trabalho melhor e renda maior. Oferecer serviços públicos simples, integrados, acessíveis e transparentes, preservar a responsabilidade ﬁscal e valorizar os servidores que fazem o Estado funcionar. Organizar uma rede de cuidado que acompanhe as pessoas ao longo de toda a vida, da gestação ao envelhecimento, integrando saúde, proteção social, segurança, esporte e garantia de direitos. OBJETIVO 2 · GARANTIR TRAJETÓRIA CONTÍNUA DE PROTEÇÃO SOCIAL Acompanhar pessoas e famílias ao longo das diferentes fases da vida, articulando prevenção, proteção social, segurança alimentar, atenção domiciliar e acesso a direitos. Mudanças demográﬁcas, inteligência artiﬁcial, transição energética, transformação do trabalho e alterações climáticas já estão redesenhando o mundo. LANÇAR O PROGRAMA EDUCAÇÃO IA DE EDUCAÇÃO DIGITAL, COM ENSINO DE PROGRAMAÇÃO, ROBÓTICA, INTELIGÊNCIA ARTIFICIAL E CIÊNCIA DE DADOS, USO ÉTICO, SEGURO E PEDAGOGICAMENTE INVESTIDORES, MORADIA ESTUDANTIL, CULTURA E ECONOMIA CRIATIVA.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 13,
+          "page_end": 13,
+          "topics": [
+            "education"
+          ],
+          "summary": "IMPLANTAR A ESCOLA GLOBAL EO PROGRAMA INGLÊS PARA O MUNDO, COM ENSINO INTENSIVO DE INSTITUIR O CURSINHO POPULAR DO ENEM, COM OFERTA PRESENCIAL E DIGITAL, COBERTURA REGIONAL, MATERIAL DIDÁTICO, ORIENTAÇÃO VOCACIONAL E APOIO AO ACESSO DOS ESTUDANTES AO ENSINO SUPERIOR. TRANSFORMAR O PROFESSOR MENTOR EM UMA REDE ESTADUAL INTEGRADA DE MENTORES, CONECTANDO ESTUDANTES A PROFESSORES, PESQUISADORES, PROFISSIONAIS, EMPREENDEDORES E",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "IMPLANTAR A ESCOLA GLOBAL EO PROGRAMA INGLÊS PARA O MUNDO, COM ENSINO INTENSIVO DE"
+            },
+            {
+              "id": "s21",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "INSTITUIR O CURSINHO POPULAR DO ENEM, COM OFERTA PRESENCIAL E DIGITAL, COBERTURA REGIONAL, MATERIAL DIDÁTICO, ORIENTAÇÃO VOCACIONAL E APOIO AO ACESSO DOS ESTUDANTES AO ENSINO SUPERIOR."
+            },
+            {
+              "id": "s24",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "ESTÁGIO, APRENDIZAGEM E OPORTUNIDADES DE CONTRATAÇÃO. TRANSFORMAR O PROFESSOR MENTOR EM UMA REDE ESTADUAL INTEGRADA DE MENTORES, CONECTANDO ESTUDANTES A PROFESSORES, PESQUISADORES, PROFISSIONAIS, EMPREENDEDORES E"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 7,
+          "topics": [
+            "health"
+          ],
+          "summary": "PAZ, JUSTIÇA E INSTITUIÇÕES FORTES Esta missão organiza a presença do Estado em torno das pessoas e das famílias, e não de serviços que funcionam de forma isolada. Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia. Garantir consulta, exame, tratamento, cirurgia e leito de referência na própria região de saúde, com regulação integrada e continuidade do cuidado.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "PAZ, JUSTIÇA E INSTITUIÇÕES FORTES Esta missão organiza a presença do Estado em torno das pessoas e das famílias, e não de serviços que funcionam de forma isolada. Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia."
+            },
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Garantir consulta, exame, tratamento, cirurgia e leito de referência na própria região de saúde, com regulação integrada e continuidade do cuidado. OBJETIVO 2 · GARANTIR TRAJETÓRIA CONTÍNUA DE PROTEÇÃO SOCIAL Acompanhar pessoas e famílias ao longo das diferentes fases da vida, articulando prevenção, proteção social, segurança alimentar, atenção domiciliar e acesso a direitos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 4,
+          "page_end": 12,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "transformar capacidade ﬁscal em melhores serviços, infraestrutura em desenvolvimento regional, educação em oportunidades, investimento em emprego e crescimento econômico em renda para as famílias. Esta missão liga a escola, a qualiﬁcação, a ciência e a empresa para transformar crescimento econômico em trabalho melhor e renda maior.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "transformar capacidade ﬁscal em melhores serviços, infraestrutura em desenvolvimento regional, educação em oportunidades, investimento em emprego e crescimento econômico em renda para as famílias."
+            },
+            {
+              "id": "s14",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Esta missão liga a escola, a qualiﬁcação, a ciência e a empresa para transformar crescimento econômico em trabalho melhor e renda maior."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Oferecer serviços públicos simples, integrados, acessíveis e transparentes, preservar a responsabilidade ﬁscal e valorizar os servidores que fazem o Estado funcionar.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Oferecer serviços públicos simples, integrados, acessíveis e transparentes, preservar a responsabilidade ﬁscal e valorizar os servidores que fazem o Estado funcionar."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 5,
+          "page_end": 11,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Organizar uma rede de cuidado que acompanhe as pessoas ao longo de toda a vida, da gestação ao envelhecimento, integrando saúde, proteção social, segurança, esporte e garantia de direitos. Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia. OBJETIVO 2 · GARANTIR TRAJETÓRIA CONTÍNUA DE PROTEÇÃO SOCIAL Acompanhar pessoas e famílias ao longo das diferentes fases da vida, articulando prevenção, proteção social, segurança alimentar, atenção domiciliar e acesso a direitos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Organizar uma rede de cuidado que acompanhe as pessoas ao longo de toda a vida, da gestação ao envelhecimento, integrando saúde, proteção social, segurança, esporte e garantia de direitos."
+            },
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia."
+            },
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "OBJETIVO 2 · GARANTIR TRAJETÓRIA CONTÍNUA DE PROTEÇÃO SOCIAL Acompanhar pessoas e famílias ao longo das diferentes fases da vida, articulando prevenção, proteção social, segurança alimentar, atenção domiciliar e acesso a direitos."
+            },
+            {
+              "id": "s12",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "IMPLEMENTAR UMA POLÍTICA INTEGRADA DE SEGURANÇA ESCOLAR, COM PROTOCOLO ÚNICO ENTRE ESCOLA, POLÍCIA, SAÚDE E ASSISTÊNCIA SOCIAL, FORMAÇÃO DAS EQUIPES, CANAL DE ALERTA,"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 5,
+          "page_end": 13,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Mudanças demográﬁcas, inteligência artiﬁcial, transição energética, transformação do trabalho e alterações climáticas já estão redesenhando o mundo. LANÇAR O PROGRAMA EDUCAÇÃO IA DE EDUCAÇÃO DIGITAL, COM ENSINO DE PROGRAMAÇÃO, ROBÓTICA, INTELIGÊNCIA ARTIFICIAL E CIÊNCIA DE DADOS, USO ÉTICO, SEGURO E PEDAGOGICAMENTE",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Mudanças demográﬁcas, inteligência artiﬁcial, transição energética, transformação do trabalho e alterações climáticas já estão redesenhando o mundo."
+            },
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "LANÇAR O PROGRAMA EDUCAÇÃO IA DE EDUCAÇÃO DIGITAL, COM ENSINO DE PROGRAMAÇÃO, ROBÓTICA, INTELIGÊNCIA ARTIFICIAL E CIÊNCIA DE DADOS, USO ÉTICO, SEGURO E PEDAGOGICAMENTE"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 14,
+          "page_end": 14,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "INVESTIDORES, MORADIA ESTUDANTIL, CULTURA E ECONOMIA CRIATIVA.",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "INVESTIDORES, MORADIA ESTUDANTIL, CULTURA E ECONOMIA CRIATIVA."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 7,
+          "page_end": 7,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia. A missão dará atenção prioritária às mulheres, crianças, jovens, pessoas idosas, pessoas com deﬁciência, povos indígenas, comunidades quilombolas e famílias que enfrentam maiores barreiras de acesso aos serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Da gestação ao envelhecimento, saúde, assistência social, direitos humanos, segurança, esporte e lazer devem formar trajetórias contínuas de cuidado, proteção e promoção da autonomia. A missão dará atenção prioritária às mulheres, crianças, jovens, pessoas idosas, pessoas com deﬁciência, povos indígenas, comunidades quilombolas e famílias que enfrentam maiores barreiras de acesso aos serviços públicos."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 11,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Ampliar o acesso ao esporte, ao lazer, à acessibilidade e à participação social, criando oportunidades para que pessoas de todas as idades e condições desenvolvam suas capacidades e vivam com dignidade.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "E onde o serviço público seja cada vez mais eﬁcaz."
+            },
+            {
+              "id": "s11",
+              "page_start": 7,
+              "page_end": 11,
+              "text": "Ampliar o acesso ao esporte, ao lazer, à acessibilidade e à participação social, criando oportunidades para que pessoas de todas as idades e condições desenvolvam suas capacidades e vivam com dignidade."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Mudanças demográﬁcas, inteligência artiﬁcial, transição energética, transformação do trabalho e alterações climáticas já estão redesenhando o mundo. gás natural produzido em seu território, recursos vinculados à expansão da educação proﬁssional por meio do Propag, uma malha rodoviária que voltou a receber investimentos e uma matriz elétrica predominantemente renovável.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Mudanças demográﬁcas, inteligência artiﬁcial, transição energética, transformação do trabalho e alterações climáticas já estão redesenhando o mundo."
+            },
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "gás natural produzido em seu território, recursos vinculados à expansão da educação proﬁssional por meio do Propag, uma malha rodoviária que voltou a receber investimentos e uma matriz elétrica predominantemente renovável."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

@@ -1,0 +1,1507 @@
+{
+  "state_code": "ES",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "80002542401",
+      "state_code": "ES",
+      "ballot_name": "CALLEGARI",
+      "party_code": "DC",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002553265",
+      "state_code": "ES",
+      "ballot_name": "EVAIR DE MELO",
+      "party_code": "REPUBLICANOS",
+      "sources": [
+        {
+          "url": "https://senadorevair100.com.br/",
+          "title": "Faça parte do Time Evair — Espírito Santo",
+          "sha256": "2d2903bd005416224ec7e19341355c2fff3a774afbfdf841a405da3f38f36ffc",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:30+00:00"
+        },
+        {
+          "url": "https://evairdemelo.com.br/",
+          "title": "Deputado Federal Evair de Melo: Home",
+          "sha256": "674057564a826502983ddeae52df935fda00af5dee553927576a9ad3da136574",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:31+00:00"
+        },
+        {
+          "url": "https://evairdemelo.com.br/noticias/sao-gabriel-da-palha-pode-ser-capital-nacional-do-cafe-conilon-por-projeto-de-evair",
+          "title": "Deputado Federal Evair de Melo: Noticias",
+          "sha256": "757762435bb1fb53e1fd68d966b6d924895468e9d36915a73fdc3a081342bd20",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:31+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://senadorevair100.com.br/",
+        "https://evairdemelo.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002550187",
+      "state_code": "ES",
+      "ballot_name": "FABIANO CONTARATO",
+      "party_code": "PT",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "https://WWW.FABIANOCONTARATO.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002530022",
+      "state_code": "ES",
+      "ballot_name": "LEONARDO MONJARDIM",
+      "party_code": "NOVO",
+      "sources": [
+        {
+          "url": "https://LEONARDOMONJARDIM.COM.BR/",
+          "title": "Vereador Leonardo Monjardim",
+          "sha256": "0df54f1a0994a1095677313651b268cd904ecaf131ff724cf4caad7915fd55c5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:34+00:00"
+        },
+        {
+          "url": "https://leonardomonjardim.com.br/projetos/",
+          "title": "projetos - Vereador Leonardo Monjardim",
+          "sha256": "5b32b43db48ab0f6e4acf9b37d2c86c1653ba3ec896ed3744530d83b6458975f",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:37+00:00"
+        },
+        {
+          "url": "https://leonardomonjardim.com.br/projetos/#content",
+          "title": "projetos - Vereador Leonardo Monjardim",
+          "sha256": "edf26afb454ababd3ea2dd3e4199833ecb5f626eb97573670313002900fe01fd",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:39+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://LEONARDOMONJARDIM.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002553269",
+      "state_code": "ES",
+      "ballot_name": "MAGUINHA MALTA",
+      "party_code": "PL",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "https://www.malta222.com.br/",
+        "https://www.maguinhamalta222.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002538202",
+      "state_code": "ES",
+      "ballot_name": "MARCOS DO VAL",
+      "party_code": "AVANTE",
+      "sources": [
+        {
+          "url": "https://AVERDADEDOCUMENTADA.COM.BR/",
+          "title": "A Verdade Documentada!",
+          "sha256": "61907f473af2b928ab22f48f11eb4817bea95486b4c7d402cfc5cc5a313c4dc0",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:42+00:00"
+        },
+        {
+          "url": "https://SENADORTRANSPARENTE.COM.BR/",
+          "title": "Recursos - Senador Marcos do Val",
+          "sha256": "0713f57f99f57c9a93f21aa350a4d7bcc08c479b0086355c099dd08065444027",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:44+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://MARCOSDOVAL.COM.BR/",
+        "https://AVERDADEDOCUMENTADA.COM.BR/",
+        "https://SENADORTRANSPARENTE.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002549404",
+      "state_code": "ES",
+      "ballot_name": "PROFESSOR FABIAN",
+      "party_code": "PSOL",
+      "sources": [
+        {
+          "url": "https://PROFESSORFABIAN.COM.BR/",
+          "title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação.",
+          "section_title": "Minhas Propostas",
+          "topics": [
+            "education"
+          ],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        },
+        {
+          "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
+          "section_title": "Minhas Propostas",
+          "topics": [
+            "public-safety",
+            "culture-sports-tourism"
+          ],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        },
+        {
+          "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
+          "section_title": "Minhas Propostas",
+          "topics": [
+            "health",
+            "culture-sports-tourism"
+          ],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        },
+        {
+          "text": "Os movimentos no combate ao racismo, ao machismo e à LGBTfobia carecem de representação no Congresso que lute pelas suas pautas históricas. Quero ampliar o diálogo institucional com essas bases, fortalecendo pautas historicamente tratadas como secundárias pelo Congresso.",
+          "section_title": "Minhas Propostas",
+          "topics": [],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        },
+        {
+          "text": "Ajudei a construir, junto à Arquidiocese de Vitória, o caderno de política de proteção à infância, e quero levar essa experiência para o Senado. Defendo políticas transversais de formação de crianças e jovens através da educação, da cultura e do esporte, com foco especial em quem teve o direito à liberdade negado pela falta de acesso a oportunidades.",
+          "section_title": "Minhas Propostas",
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        },
+        {
+          "text": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
+          "section_title": "Minhas Propostas",
+          "topics": [
+            "rights-inclusion"
+          ],
+          "source_url": "https://PROFESSORFABIAN.COM.BR/",
+          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+          "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+          "collected_at": "2026-10-03T13:08:46+00:00"
+        }
+      ],
+      "status": "proposals-found",
+      "declared_sites": [
+        "https://PROFESSORFABIAN.COM.BR/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação.",
+          "excerpts": [
+            {
+              "text": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "education"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
+          "excerpts": [
+            {
+              "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "health",
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar.",
+          "excerpts": [
+            {
+              "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "public-safety",
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar.",
+          "excerpts": [
+            {
+              "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "public-safety",
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            },
+            {
+              "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "health",
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            },
+            {
+              "text": "Ajudei a construir, junto à Arquidiocese de Vitória, o caderno de política de proteção à infância, e quero levar essa experiência para o Senado. Defendo políticas transversais de formação de crianças e jovens através da educação, da cultura e do esporte, com foco especial em quem teve o direito à liberdade negado pela falta de acesso a oportunidades.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "culture-sports-tourism"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
+          "excerpts": [
+            {
+              "text": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
+              "section_title": "Minhas Propostas",
+              "topics": [
+                "rights-inclusion"
+              ],
+              "source_url": "https://PROFESSORFABIAN.COM.BR/",
+              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
+              "source_sha256": "451ad332cc28e5cc4edd0cfa6cdf011f13b2dca79375cecef2a25ac43111a194",
+              "collected_at": "2026-10-03T13:08:46+00:00"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002551370",
+      "state_code": "ES",
+      "ballot_name": "RENATO CASAGRANDE",
+      "party_code": "PSB",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
+      "declared_sites": [
+        "http://www.renatocasagrande.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002552373",
+      "state_code": "ES",
+      "ballot_name": "RODNEY MIRANDA",
+      "party_code": "PRTB",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002551368",
+      "state_code": "ES",
+      "ballot_name": "ROSE DE FREITAS",
+      "party_code": "MDB",
+      "sources": [],
+      "statements": [],
+      "status": "no-candidate-website-in-tse",
+      "declared_sites": [],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "candidate_id": "80002552692",
+      "state_code": "ES",
+      "ballot_name": "SERGIO MENEGUELLI",
+      "party_code": "PSD",
+      "sources": [
+        {
+          "url": "https://sergiomeneguelli.com.br/",
+          "title": "Sergio Meneguelli – Prefeito de Colatina",
+          "sha256": "8b2ea2057294da2816643a4be0f97ee92bb2fba31b3bd18f310e4c08be67505a",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T13:08:51+00:00"
+        }
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
+      "declared_sites": [
+        "https://sergiomeneguelli.com.br/"
+      ],
+      "sections": [
+        {
+          "id": "education",
+          "label": "Educação",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "label": "Saúde",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "label": "Segurança pública",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "label": "Economia e emprego",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "label": "Orçamento e tributos",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "label": "Proteção social",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "label": "Infraestrutura e mobilidade",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "label": "Moradia e saneamento",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "label": "Meio ambiente e clima",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "label": "Agropecuária e desenvolvimento rural",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "label": "Ciência, inovação e digital",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "label": "Cultura, esporte e turismo",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "label": "Direitos e inclusão",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "label": "Gestão pública e transparência",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "label": "Energia e mineração",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "label": "Justiça e defesa",
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
+        }
+      ]
+    }
+  ]
+}

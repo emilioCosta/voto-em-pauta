@@ -301,6 +301,7 @@ def main() -> None:
             FROM sources
             WHERE dataset_slug = ? AND (
                 resource_name = 'Candidatos' OR resource_name = 'Histórico de candidaturas'
+                OR resource_name = 'Redes sociais de candidatos'
                 OR resource_name LIKE '%Proposta de governo'
                 OR resource_name LIKE '%Fotos de candidatos'
             )

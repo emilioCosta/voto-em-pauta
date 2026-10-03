@@ -1,0 +1,447 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "vice-governador",
+  "state_code": "ES",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "80002541013",
+      "state_code": "ES",
+      "office": "VICE-GOVERNADOR",
+      "candidate_type": "vice-governador",
+      "file_name": "2026ES80002541013_01.pdf",
+      "public_path": "/propostas/2026/ES/2026ES80002541013_01.pdf",
+      "sha256": "aa288d9a332f2e7aeec90ceab6b82b80c07cf288011ae59b3f1607aa2cbff972",
+      "summary": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S. Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado. Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego. Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população. A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil. o avanço do crime organizado, cada vez mais consolidado no território capixaba. A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania. Outro objetivo é garantir o desenvolvimento econômico dessas regiões. Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas. Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 35,
+          "page_end": 61,
+          "topics": [
+            "education"
+          ],
+          "summary": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S. Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. Ensino Técnico integrado Integraremos, ao máximo, o Ensino Médio ao Ensino Técnico, por meio de parcerias com universidades, com o setor produtivo e com o Sistema S."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Além disso, será territorialmente descentralizada, de modo a levar o ensino superior especializado aos polos estratégicos de desenvolvimento do estado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 32,
+          "page_end": 61,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego. Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 32,
+              "page_end": 34,
+              "text": "Ao mesmo tempo, a concentração de serviços em poucos polos urbanos obriga a população a realizar deslocamentos cada vez maior para acessar escolas, serviços públicos, atendimento de saúde, comércio e oportunidades de emprego."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Caso a integridade física ou a saúde mental do corpo docente e discente esteja em risco, a direção da unidade poderá determinar o afastamento preventivo do estudante de forma temporária, garantindo-se o regime de estudos domiciliares até que os órgãos competentes definam as medidas aplicáveis ou a realocação assistida do aluno. Universidade Estadual do Espírito Santo A saúde pública no Espírito Santo enfrenta desafios estruturais crônicos que comprometem o atendimento à população."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 42,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil. o avanço do crime organizado, cada vez mais consolidado no território capixaba.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "A violência ainda é endêmica, e o crime organizado avança sem resistência. SEGURANÇA PÚBLICA É diagnóstico indiscutível na Missão a existência de uma guerra efetiva no Brasil."
+            },
+            {
+              "id": "s02",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "o avanço do crime organizado, cada vez mais consolidado no território capixaba. Isso, porém, não significa uma melhora na segurança pública, mas, sim, que cada vez mais capixabas têm suas vidas influenciadas pelas decisões e pelas ações do crime organizado."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A vida, a propriedade e o direito de ir e vir são apenas alguns dos direitos fundamentais violados pela inação do governo, a qual condena milhares de capixabas a viverem sob o jugo do mais bárbaro dos regimes: o do crime organizado. O Bairro da Penha, o Flexal II, o São Torquato, a Grande Santa Rita e a Grande São Pedro são apenas alguns exemplos de bairros e favelas tomados pelo crime organizado, onde a lei brasileira não impera totalmente."
+            },
+            {
+              "id": "s04",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "prender criminosos é necessário, mas retirar seus recursos financeiros é indispensável."
+            },
+            {
+              "id": "s05",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "No entanto, essas iniciativas ainda não ocupam a posição estratégica que deveriam dentro da política estadual de segurança pública. (I) a recuperação de ativos como indicador estratégico, com metas permanentes de identificação, bloqueio e recuperação de patrimônio vinculado ao crime organizado; (II) o fortalecimento da inteligência patrimonial, criando-se maior integração entre Polícia Civil, Polícia Militar, Receita Estadual, Ministério Público e demais órgãos competentes; (III) o combate à infiltração econômica, política e institucional das facções no Estado e na economia formal; e (IV) o reinvestimento dos recursos recuperados, prioritariamente, na segurança pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Construção de um presídio para membros de facções criminosas Há, atualmente, um déficit no sistema prisional capixaba de cerca de dez mil vagas — conforme apontado pelo próprio Poder Judiciário —, situação que tende a se agravar no momento em que começarmos as operações de reocupação territorial. Dessa forma, não só garantiremos o isolamento desses indivíduos de alta periculosidade, evitando que continuem praticando crimes a partir do interior do sistema prisional, como os afastaremos por completo do convívio com detentos comuns."
+            },
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Atuação junto à bancada capixaba no Congresso Nacional para reformar as leis penais e de execução penal do país Boa parte dos problemas de segurança pública enfrentados no Brasil encontra origem nas leis penais e de execução penal, excessivamente lenientes para com os criminosos. Valorização da carreira militar Nenhuma política de segurança pública é capaz de produzir resultados duradouros sem profissionais motivados, valorizados e conscientes da importância da missão que desempenham."
+            },
+            {
+              "id": "s08",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Apesar disso, a estrutura remuneratória dessas carreiras tem se tornado cada vez mais complexa ao longo dos anos, dificultando a compreensão da progressão funcional e criando distorções que comprometem a previsibilidade da carreira. Defendemos a criação de uma política permanente de valorização das forças militares estaduais, baseada na transparência, na previsibilidade e na proporcionalidade remuneratória entre postos e graduações."
+            },
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas. Nosso compromisso é garantir que a valorização da carreira militar deixe de depender exclusivamente de negociações pontuais e passe a integrar uma política permanente de Estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Cooperação com outros estados em matéria de segurança pública Atuaremos em conjunto com o máximo de estados possíveis no compartilhamento de inteligência relativo às organizações criminosas."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Ademais, são terrenos férteis para o crime organizado, que se aproveita da infraestrutura urbana precária e da falta de perspectiva para expandir seus quadros e atividades, bem como para se blindar da repressão do Estado. Tornar cidadãos plenos os habitantes desses locais e destruir o crime organizado requerem, pois, a destruição da própria ideia de favela."
+            },
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "Somado à erradicação do crime organizado e ao processo de desfavelização, garantiremos, assim, a inserção dos jovens das comunidades à sociedade brasileira de fato, por meio da disciplina rígida."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 42,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania. Outro objetivo é garantir o desenvolvimento econômico dessas regiões. Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 8,
+              "text": "A nossa educação, não obstante as boas posições nos indicadores nacionais, ainda falha em preparar nossos estudantes para o mercado de trabalho e para a cidadania."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Outro objetivo é garantir o desenvolvimento econômico dessas regiões."
+            },
+            {
+              "id": "s17",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Mais do que uma obra de infraestrutura, o metrô representa um investimento estratégico na produtividade, na qualidade de vida e no desenvolvimento econômico da Grande Vitória, reduzindo significativamente os tempos de deslocamento e aproximando trabalhadores, estudantes e empresas."
+            },
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "garantir que os estudantes concluam o Ensino Fundamental com domínio perfeito de português e de matemática e que o Ensino Médio cumpra a função de prepará-los para o mercado de trabalho do século XXI. O objetivo é assegurar que esses estudantes materializem suas potencialidades, equiparando-lhes as oportunidades às daqueles de maior renda, o que lhes permitirá concorrer de igual para igual tanto nos processos seletivos e vestibulares quanto no mercado de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Buscaremos, em conjunto com a Assembleia Legislativa, realizar estudos técnicos, atuariais e financeiros para viabilizar a implantação gradual desse modelo, sempre observando a responsabilidade fiscal e a sustentabilidade das contas públicas."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 42,
+          "page_end": 61,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A não resolução dos problemas de indisciplina no ambiente escolar implicará no acionamento de uma Rede de Proteção Externa, como o Conselho Tutelar, o Ministério Público e os órgãos de assistência social do município, para a aplicação das medidas protetivas e de responsabilização cabíveis fora o ambiente escolar.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "A não resolução dos problemas de indisciplina no ambiente escolar implicará no acionamento de uma Rede de Proteção Externa, como o Conselho Tutelar, o Ministério Público e os órgãos de assistência social do município, para a aplicação das medidas protetivas e de responsabilização cabíveis fora o ambiente escolar."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 16,
+          "page_end": 17,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Por sua vez, a função do Corpo de Bombeiros Militar é a proteção da vida, do patrimônio e do meio ambiente por meio de atividades operacionais especializadas.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Por sua vez, a função do Corpo de Bombeiros Militar é a proteção da vida, do patrimônio e do meio ambiente por meio de atividades operacionais especializadas."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 13,
+          "page_end": 61,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Trata-se de um sistema que conecta milhares de câmeras públicas e privadas a uma central de controle unificada, que utiliza inteligência artificial para identificar crimes, capturar foragidos e localizar pessoas desaparecidas em tempo real. Propomos a criação de um Sistema Estadual de Monitoramento Territorial Permanente, integrado aos municípios e apoiado em ferramentas modernas de georreferenciamento, inteligência artificial, sensoriamento remoto por satélite e monitoramento por drones. Telas e inteligência artificial Implementaremos políticas de desestímulo ao uso de telas, incluindo a proibição completa do uso de aparelhos celulares em sala de aula por parte dos alunos, com punições claras para quem descumprir as regras.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Trata-se de um sistema que conecta milhares de câmeras públicas e privadas a uma central de controle unificada, que utiliza inteligência artificial para identificar crimes, capturar foragidos e localizar pessoas desaparecidas em tempo real."
+            },
+            {
+              "id": "s11",
+              "page_start": 17,
+              "page_end": 25,
+              "text": "Propomos a criação de um Sistema Estadual de Monitoramento Territorial Permanente, integrado aos municípios e apoiado em ferramentas modernas de georreferenciamento, inteligência artificial, sensoriamento remoto por satélite e monitoramento por drones."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Telas e inteligência artificial Implementaremos políticas de desestímulo ao uso de telas, incluindo a proibição completa do uso de aparelhos celulares em sala de aula por parte dos alunos, com punições claras para quem descumprir as regras."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 35,
+          "page_end": 61,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A gestão das escolas se submete cada vez mais aos interesses políticos de ocasião, mais interessados em maquiar dados do que em entregar um serviço público de qualidade. Racionalização e controle social das emendas parlamentarem em saúde SAÚDE Como parte central dessa reversão, condicionaremos a habilitação dos repasses e a aprovação dos planos de trabalho de emendas parlamentares estaduais em saúde à apresentação de manifestação prévia de conformidade emitida pelo respectivo Conselho Municipal de Saúde do ente beneficiário, garantindo transparência, participação social e o estrito alinhamento dos recursos com as necessidades prioritárias identificadas nos instrumentos de planejamento do SUS. A proposta é desenhada para produzir controle social real dentro desse limite, e não contra ele: como isso é competência plena do Poder Executivo, o Estado assume o compromisso de estruturar e ampliar os mecanismos ordinários de repasse e cofinanciamento estadual, reduzindo a dependência de municípios e unidades de saúde de recursos discricionários e imprevisíveis vindos de emendas.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 35,
+              "page_end": 42,
+              "text": "A gestão das escolas se submete cada vez mais aos interesses políticos de ocasião, mais interessados em maquiar dados do que em entregar um serviço público de qualidade."
+            },
+            {
+              "id": "s21",
+              "page_start": 42,
+              "page_end": 61,
+              "text": "Racionalização e controle social das emendas parlamentarem em saúde SAÚDE Como parte central dessa reversão, condicionaremos a habilitação dos repasses e a aprovação dos planos de trabalho de emendas parlamentares estaduais em saúde à apresentação de manifestação prévia de conformidade emitida pelo respectivo Conselho Municipal de Saúde do ente beneficiário, garantindo transparência, participação social e o estrito alinhamento dos recursos com as necessidades prioritárias identificadas nos instrumentos de planejamento do SUS. A proposta é desenhada para produzir controle social real dentro desse limite, e não contra ele: como isso é competência plena do Poder Executivo, o Estado assume o compromisso de estruturar e ampliar os mecanismos ordinários de repasse e cofinanciamento estadual, reduzindo a dependência de municípios e unidades de saúde de recursos discricionários e imprevisíveis vindos de emendas."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 13,
+          "page_end": 14,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "a volta da prisão em segunda instância; o fim do auxílio-reclusão, da progressão de regime, das audiências de custódia e do juiz de garantias; e a implantação do direito penal do inimigo contra faccionados.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "a volta da prisão em segunda instância; o fim do auxílio-reclusão, da progressão de regime, das audiências de custódia e do juiz de garantias; e a implantação do direito penal do inimigo contra faccionados."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

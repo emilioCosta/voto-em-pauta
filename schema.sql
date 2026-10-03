@@ -31,6 +31,16 @@ CREATE TABLE IF NOT EXISTS candidates (
     UNIQUE (election_year, tse_candidate_id)
 );
 
+CREATE TABLE IF NOT EXISTS candidate_social_links (
+    id INTEGER PRIMARY KEY,
+    candidate_id TEXT NOT NULL,
+    state_code TEXT,
+    order_number TEXT,
+    url TEXT NOT NULL,
+    source_id INTEGER NOT NULL REFERENCES sources(id),
+    UNIQUE (candidate_id, state_code, order_number, url)
+);
+
 CREATE TABLE IF NOT EXISTS declared_assets (
     id INTEGER PRIMARY KEY,
     election_year INTEGER NOT NULL,

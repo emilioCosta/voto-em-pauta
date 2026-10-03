@@ -67,7 +67,8 @@ def selected_resources(year: int, public_only: bool = False) -> list[dict[str, A
             if category == "candidaturas":
                 if public_only:
                     wanted = name in {
-                        "candidatos", "bens de candidatos", "historico de candidaturas"
+                        "candidatos", "bens de candidatos", "historico de candidaturas",
+                        "redes sociais de candidatos",
                     } or "proposta de governo" in name or name.endswith("fotos de candidatos")
                 else:
                     wanted = (
@@ -208,6 +209,7 @@ def import_csv(connection: sqlite3.Connection, item: dict[str, Any], source_id: 
     is_candidate_file = resource_name == "candidatos"
     is_asset_file = resource_name == "bens de candidatos"
     is_history_file = resource_name == "historico de candidaturas"
+    is_social_file = resource_name == "redes sociais de candidatos"
     for row_number, row in enumerate(rows, start=1):
         if is_candidate_file:
             candidate_id = value_for(row, "SQ_CANDIDATO", "ID_CANDIDATO")
@@ -271,6 +273,19 @@ def import_csv(connection: sqlite3.Connection, item: dict[str, Any], source_id: 
                         value_for(row, "DS_SIT_TOT_TURNO"), source_id,
                     ),
                 )
+        elif is_social_file:
+            candidate_id = value_for(row, "SQ_CANDIDATO")
+            url = value_for(row, "DS_URL")
+            if candidate_id and url:
+                connection.execute(
+                    """INSERT OR IGNORE INTO candidate_social_links (
+                        candidate_id, state_code, order_number, url, source_id
+                    ) VALUES (?, ?, ?, ?, ?)""",
+                    (
+                        candidate_id, value_for(row, "SG_UF"),
+                        value_for(row, "NR_ORDEM_REDE_SOCIAL"), url, source_id,
+                    ),
+                )
     return len(rows)
 
 
@@ -286,7 +301,8 @@ def import_resource(connection: sqlite3.Connection, item: dict[str, Any], year: 
             suffix = PurePosixPath(member_name).suffix.casefold()
             resource_name = normalize(item["resource_name"])
             if suffix in {".csv", ".txt"} and resource_name in {
-                "candidatos", "bens de candidatos", "historico de candidaturas"
+                "candidatos", "bens de candidatos", "historico de candidaturas",
+                "redes sociais de candidatos",
             }:
                 total_rows += import_csv(
                     connection, item, source_id, member_name, archive.read(member), year
@@ -323,7 +339,7 @@ def main() -> None:
     parser.add_argument("--year", type=int, default=2026, help="Ano eleitoral (padrão: 2026).")
     parser.add_argument("--refresh", action="store_true", help="Baixa novamente mesmo se o ZIP já existir.")
     parser.add_argument("--offline", action="store_true", help="Usa apenas ZIPs já arquivados localmente.")
-    parser.add_argument("--public-only", action="store_true", help="Baixa apenas candidaturas, histórico e planos para publicação estática; não busca bens, contas nem processos.")
+    parser.add_argument("--public-only", action="store_true", help="Baixa candidaturas, histórico, propostas, fotos e URLs públicos declarados ao TSE; não busca contas nem processos.")
     args = parser.parse_args()
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -356,7 +372,7 @@ def main() -> None:
         connection.execute("PRAGMA foreign_keys = ON")
         connection.executescript((ROOT / "schema.sql").read_text(encoding="utf-8"))
         for table in (
-            "proposal_documents", "candidacy_history", "declared_assets",
+            "proposal_documents", "candidate_social_links", "candidacy_history", "declared_assets",
             "candidates", "source_rows", "sources",
         ):
             connection.execute(f"DELETE FROM {table}")

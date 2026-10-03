@@ -1,0 +1,2694 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "PE",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "170002536575",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002536575_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002536575_01.pdf",
+      "sha256": "ddad81bd495da44f7265519d745e4cb51133ea67256b9ef51e64d46fdc653f41",
+      "summary": "*Revogação das propostas curriculares elaboradas pelos grandes empresários da educação e fundações privadas (BNCC e Novo Ensino Médio). Por uma formação completa, crítica e científica nas escolas públicas. SAÚDE * Defesa do SUS público, universal, gratuito e 100% estatal * Fim da privatização e da gestão privada da saúde (OSs, fundações e PPPs) * Proibição da transferência de leitos públicos para planos privados * Ampliação do investimento público em saúde, com prioridade para atenção básica em todo o Estado * Construção de hospitais de média e alta complexidade no interior para que haja uma transição programada dos que não seja necessário o Tratamento Fora de Domicílio, os TFD’s. *É preciso enfrentar o agronegócio e os governos capitalistas e defender medidas visando o fim do uso de agrotóxicos, a recuperação de áreas degradadas, a promoção da agroecologia e a aceleração da demarcação de terras indígenas e territórios quilombolas: *Fim dos créditos públicos e dos subsídios estatais ao agronegócio; *Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio; *Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais; *Reconhecimento e reparação das populações atingidas por crimes ambientais; *Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente, diante da violência patronal e estatal * Planos de prevenção contra os efeitos do aquecimento global tal como: -prevenção contra enchentes - prevenção contra deslizamentos de áreas de risco que atinge as moradias mais precárias *planos de emergência e defesa civil:alertas e evacuação, com participação comunitária * impedir que a ocupação do solo seja feita pela especulação imobiliária; * reflorestamento urbano; * defesas dos rios e recursos hídricos que foram privatizados * É TRABALHO E SALÁRIO PELO DIREITO À VIDA ALÉM DO TRABALHO * Salário mínimo estadual, rumo ao salário-mínimo necessário, calculado pelo DIEESE, para a garantia dos direitos básicos constitucionais: moradia, transporte, saúde, educação e lazer. *Por reforma agrária e por uma revolução na estrutura do campo brasileiro!",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "*Revogação das propostas curriculares elaboradas pelos grandes empresários da educação e fundações privadas (BNCC e Novo Ensino Médio). Por uma formação completa, crítica e científica nas escolas públicas. Desencarceramento em massa; Verba pública só para a educação pública.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "*Revogação das propostas curriculares elaboradas pelos grandes empresários da educação e fundações privadas (BNCC e Novo Ensino Médio). Por uma formação completa, crítica e científica nas escolas públicas."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Desencarceramento em massa; Verba pública só para a educação pública. • Contra a proposta de intervalo bíblico nas escolas públicas de PE, o ensino deve ser garantido de forma laica."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "health"
+          ],
+          "summary": "SAÚDE * Defesa do SUS público, universal, gratuito e 100% estatal * Fim da privatização e da gestão privada da saúde (OSs, fundações e PPPs) * Proibição da transferência de leitos públicos para planos privados * Ampliação do investimento público em saúde, com prioridade para atenção básica em todo o Estado * Construção de hospitais de média e alta complexidade no interior para que haja uma transição programada dos que não seja necessário o Tratamento Fora de Domicílio, os TFD’s.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "SAÚDE * Defesa do SUS público, universal, gratuito e 100% estatal * Fim da privatização e da gestão privada da saúde (OSs, fundações e PPPs) * Proibição da transferência de leitos públicos para planos privados * Ampliação do investimento público em saúde, com prioridade para atenção básica em todo o Estado * Construção de hospitais de média e alta complexidade no interior para que haja uma transição programada dos que não seja necessário o Tratamento Fora de Domicílio, os TFD’s."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "*É preciso enfrentar o agronegócio e os governos capitalistas e defender medidas visando o fim do uso de agrotóxicos, a recuperação de áreas degradadas, a promoção da agroecologia e a aceleração da demarcação de terras indígenas e territórios quilombolas: *Fim dos créditos públicos e dos subsídios estatais ao agronegócio; *Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio; *Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais; *Reconhecimento e reparação das populações atingidas por crimes ambientais; *Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente, diante da violência patronal e estatal * Planos de prevenção contra os efeitos do aquecimento global tal como: -prevenção contra enchentes - prevenção contra deslizamentos de áreas de risco que atinge as moradias mais precárias *planos de emergência e defesa civil:alertas e evacuação, com participação comunitária * impedir que a ocupação do solo seja feita pela especulação imobiliária; * reflorestamento urbano; * defesas dos rios e recursos hídricos que foram privatizados * É ",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "*É preciso enfrentar o agronegócio e os governos capitalistas e defender medidas visando o fim do uso de agrotóxicos, a recuperação de áreas degradadas, a promoção da agroecologia e a aceleração da demarcação de terras indígenas e territórios quilombolas: *Fim dos créditos públicos e dos subsídios estatais ao agronegócio; *Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio; *Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais; *Reconhecimento e reparação das populações atingidas por crimes ambientais; *Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente, diante da violência patronal e estatal * Planos de prevenção contra os efeitos do aquecimento global tal como: -prevenção contra enchentes - prevenção contra deslizamentos de áreas de risco que atinge as moradias mais precárias *planos de emergência e defesa civil:alertas e evacuação, com participação comunitária * impedir que a ocupação do solo seja feita pela especulação imobiliária; * reflorestamento urbano; * defesas dos rios e recursos hídricos que foram privatizados * É "
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "• Combater o crime organizado, as máfias, facções e demais organizações criminosas por meio da investigação, inteligência e desarticulação de seus negócios, atingindo seu patrimônio, suas fontes de financiamento e suas relações com agentes públicos, políticos, empresários e, especialmente, com o sistema financeiro, em vez de operações militares que vitimam principalmente a população trabalhadora. Pois o crime organizado e o narcotráfico são empresas capitalistas ilegais que mantêm relações com o sistema financeiro, setores do Estado e empresários."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "TRABALHO E SALÁRIO PELO DIREITO À VIDA ALÉM DO TRABALHO * Salário mínimo estadual, rumo ao salário-mínimo necessário, calculado pelo DIEESE, para a garantia dos direitos básicos constitucionais: moradia, transporte, saúde, educação e lazer.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "TRABALHO E SALÁRIO PELO DIREITO À VIDA ALÉM DO TRABALHO * Salário mínimo estadual, rumo ao salário-mínimo necessário, calculado pelo DIEESE, para a garantia dos direitos básicos constitucionais: moradia, transporte, saúde, educação e lazer."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 3,
+          "page_end": 5,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "*É preciso enfrentar o agronegócio e os governos capitalistas e defender medidas visando o fim do uso de agrotóxicos, a recuperação de áreas degradadas, a promoção da agroecologia e a aceleração da demarcação de terras indígenas e territórios quilombolas: *Fim dos créditos públicos e dos subsídios estatais ao agronegócio; *Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio; *Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais; *Reconhecimento e reparação das populações atingidas por crimes ambientais; *Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente, diante da violência patronal e estatal * Planos de prevenção contra os efeitos do aquecimento global tal como: -prevenção contra enchentes - prevenção contra deslizamentos de áreas de risco que atinge as moradias mais precárias *planos de emergência e defesa civil:alertas e evacuação, com participação comunitária * impedir que a ocupação do solo seja feita pela especulação imobiliária; * reflorestamento urbano; * defesas dos rios e recursos hídricos que foram privatizados * É",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "*É preciso enfrentar o agronegócio e os governos capitalistas e defender medidas visando o fim do uso de agrotóxicos, a recuperação de áreas degradadas, a promoção da agroecologia e a aceleração da demarcação de terras indígenas e territórios quilombolas: *Fim dos créditos públicos e dos subsídios estatais ao agronegócio; *Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio; *Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais; *Reconhecimento e reparação das populações atingidas por crimes ambientais; *Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente, diante da violência patronal e estatal * Planos de prevenção contra os efeitos do aquecimento global tal como: -prevenção contra enchentes - prevenção contra deslizamentos de áreas de risco que atinge as moradias mais precárias *planos de emergência e defesa civil:alertas e evacuação, com participação comunitária * impedir que a ocupação do solo seja feita pela especulação imobiliária; * reflorestamento urbano; * defesas dos rios e recursos hídricos que foram privatizados * É "
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "*Por reforma agrária e por uma revolução na estrutura do campo brasileiro!",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "*Por reforma agrária e por uma revolução na estrutura do campo brasileiro!"
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 8,
+          "page_end": 8,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "*Direito a reparações aos Povos Indígenas IMIGRANTES *Basta de Xenofobia e superexploração!",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "*Direito a reparações aos Povos Indígenas IMIGRANTES *Basta de Xenofobia e superexploração!"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 5,
+          "page_end": 7,
+          "topics": [
+            "governance"
+          ],
+          "summary": "• Garantir que as instituições de segurança pública atuem na segurança da população — e não no seu controle social — é parte da luta pelos direitos democráticos da população trabalhadora. Direito e estímulo à organização da autodefesa A luta para que as instituições de segurança pública atuem para garantir a segurança da população — e não seu controle social — é parte da luta pelos direitos democráticos da população trabalhadora.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "• Garantir que as instituições de segurança pública atuem na segurança da população — e não no seu controle social — é parte da luta pelos direitos democráticos da população trabalhadora. Direito e estímulo à organização da autodefesa A luta para que as instituições de segurança pública atuem para garantir a segurança da população — e não seu controle social — é parte da luta pelos direitos democráticos da população trabalhadora."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002537227",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002537227_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002537227_01.pdf",
+      "sha256": "3041874e9c767aa94d623b2e62ff85ccfa62949c70ea9f07dc6876e8a7483850",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    },
+    {
+      "candidate_id": "170002537230",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002537230_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002537230_01.pdf",
+      "sha256": "1aa6a600b86302301a350eaec58dc1d7c0180b0bd7ceaa13f145370f6115520f",
+      "summary": "Educação e Esportes Pernambuco já provou que a educação pública pode mudar o destino de uma geração quando é tratada como prioridade. A escola pública pernambucana precisa ser uma ponte permanente para o futuro. • Fortalecer a escola pública pernambucana, elevando a equidade e a qualidade do ensino, ampliando o tempo integral e valorizando professores e os demais profissionais da educação. Atenção básica, média e alta complexidade precisam funcionar com regulação eficiente, encaminhamento seguro entre os serviços e acompanhamento contínuo do paciente João Campos ao longo de sua jornada de cuidado. • Garantir o acesso à telessaúde em Pernambuco, especialmente na Saúde Mental (consultas e consultoria com psiquiatras, psicólogos) e no acompanhamento de pacientes com condições crônicas (consultas e consultoria com endocrinologista, cardiologistas, pneumologistas, nutricionistas). • Criar uma política estadual de fortalecimento da Atenção Primária para expansão da Estratégia de Saúde da Família, priorizando áreas rurais, comunidades de difícil acesso e territórios com vazios assistenciais. Segurança Cidadã Pernambuco precisa voltar a tratar a segurança pública com comando, método e cobrança de resultado. Esse método precisa ser retomado e atualizado para os desafios de hoje, especialmente diante do avanço do crime organizado, da persistência dos homicídios e da violência contra a mulher. • Fortalecer o enfrentamento às facções criminosas e à impunidade, ampliando a capacidade operacional e investigativa das forças de segurança, e garantindo valorização dos profissionais de segurança pública. a demonstração de que crescimento econômico, investimentos estruturantes, educação, saúde, segurança e inclusão social podiam caminhar juntos para mudar o patamar do Estado e nos consolidar como líderes do Nordeste. É um compromisso com um novo ciclo de desenvolvimento para Pernambuco, construído para transformar potencialidades em oportunidades e crescimento econômico em melhoria concreta da vida das pessoas. • Fomentar estratégias de promoção da autonomia, priorizando grupos vulneráveis através do acesso à educação qualificada, ao trabalho digno, à sustentabilidade financeira e ao desenvolvimento pessoal.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 7,
+          "page_end": 16,
+          "topics": [
+            "education"
+          ],
+          "summary": "Educação e Esportes Pernambuco já provou que a educação pública pode mudar o destino de uma geração quando é tratada como prioridade. A escola pública pernambucana precisa ser uma ponte permanente para o futuro. • Fortalecer a escola pública pernambucana, elevando a equidade e a qualidade do ensino, ampliando o tempo integral e valorizando professores e os demais profissionais da educação.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "Educação e Esportes Pernambuco já provou que a educação pública pode mudar o destino de uma geração quando é tratada como prioridade. A escola pública pernambucana precisa ser uma ponte permanente para o futuro."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "• Fortalecer a escola pública pernambucana, elevando a equidade e a qualidade do ensino, ampliando o tempo integral e valorizando professores e os demais profissionais da educação. • Garantir uma trajetória educacional completa e de qualidade, da primeira infância ao ensino superior e primeiro emprego, com aprendizagem, permanência e acompanhamento de cada estudante pernambucano."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Os êxitos de Mãe Coruja, o Pacto pela Vida, a rede de Escolas de Tempo Integral e mais recentemente o Compaz tornaram-se inspiração direta para as políticas públicas nacionais."
+            },
+            {
+              "id": "s09",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "• Ampliar o auxílio-permanência e fortalecer o programa PE no Campus para estudantes vindos do Ensino Médio, além da implantação de Restaurantes Universitários (RUs) e Moradias Estudantis nos campi da UPE, priorizando cursos de tempo integral."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 26,
+          "topics": [
+            "health"
+          ],
+          "summary": "Atenção básica, média e alta complexidade precisam funcionar com regulação eficiente, encaminhamento seguro entre os serviços e acompanhamento contínuo do paciente João Campos ao longo de sua jornada de cuidado. • Garantir o acesso à telessaúde em Pernambuco, especialmente na Saúde Mental (consultas e consultoria com psiquiatras, psicólogos) e no acompanhamento de pacientes com condições crônicas (consultas e consultoria com endocrinologista, cardiologistas, pneumologistas, nutricionistas). • Criar uma política estadual de fortalecimento da Atenção Primária para expansão da Estratégia de Saúde da Família, priorizando áreas rurais, comunidades de difícil acesso e territórios com vazios assistenciais.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Atenção básica, média e alta complexidade precisam funcionar com regulação eficiente, encaminhamento seguro entre os serviços e acompanhamento contínuo do paciente João Campos ao longo de sua jornada de cuidado."
+            },
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "• Garantir o acesso à telessaúde em Pernambuco, especialmente na Saúde Mental (consultas e consultoria com psiquiatras, psicólogos) e no acompanhamento de pacientes com condições crônicas (consultas e consultoria com endocrinologista, cardiologistas, pneumologistas, nutricionistas). • Criar uma política estadual de fortalecimento da Atenção Primária para expansão da Estratégia de Saúde da Família, priorizando áreas rurais, comunidades de difícil acesso e territórios com vazios assistenciais."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Ampliar a política de saúde da mulher ao longo de todo o ciclo de vida, contemplando prevenção, diagnóstico e tratamento de doenças que atingem especialmente as mulheres."
+            },
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "• Estruturar o diagnóstico e o acompanhamento de doenças relacionadas ao envelhecimento desde a Atenção Primária à Média e Alta Complexidades, com implementação de programa de saúde mental, reabilitação domiciliar e suporte técnico para a capacitação dos familiares cuidadores."
+            },
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Garantir suporte contínuo em saúde mental para a população LGBTQIAPN+ em todas as macrorregiões do estado e capacitação obrigatória na rede pública quanto ao uso do nome social."
+            },
+            {
+              "id": "s14",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "• Ampliar a articulação do Estado com a política de saúde indígena, garantindo atenção adequada às especificidades territoriais, culturais e epidemiológicas dos povos indígenas."
+            },
+            {
+              "id": "s21",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Cuidar dos recursos naturais, enfrentar as mudanças climáticas, proteger a biodiversidade e assegurar os direitos dos animais são responsabilidades inegociáveis de um Estado comprometido com a qualidade de vida, a saúde pública e o futuro das próximas gerações."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 11,
+          "page_end": 26,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança Cidadã Pernambuco precisa voltar a tratar a segurança pública com comando, método e cobrança de resultado. Esse método precisa ser retomado e atualizado para os desafios de hoje, especialmente diante do avanço do crime organizado, da persistência dos homicídios e da violência contra a mulher. • Fortalecer o enfrentamento às facções criminosas e à impunidade, ampliando a capacidade operacional e investigativa das forças de segurança, e garantindo valorização dos profissionais de segurança pública.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Segurança Cidadã Pernambuco precisa voltar a tratar a segurança pública com comando, método e cobrança de resultado. Esse método precisa ser retomado e atualizado para os desafios de hoje, especialmente diante do avanço do crime organizado, da persistência dos homicídios e da violência contra a mulher."
+            },
+            {
+              "id": "s05",
+              "page_start": 12,
+              "page_end": 14,
+              "text": "• Fortalecer o enfrentamento às facções criminosas e à impunidade, ampliando a capacidade operacional e investigativa das forças de segurança, e garantindo valorização dos profissionais de segurança pública. • Instituir espaço permanente de diálogo com os profissionais de segurança pública, buscando fortalecer a carreira, discutindo condições de trabalho, atualizando as políticas de formação e de valorização das categorias."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Instituir a Gratificação de Proteção à Mulher para profissionais de segurança pública que atuam nas Delegacias Especializadas de Atendimento à Mulher (DEAMs) e Salas Lilás."
+            },
+            {
+              "id": "s21",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Enfrentar esses problemas exige prevenção, planejamento de longo prazo, fiscalização efetiva e integração entre meio ambiente, saneamento, recursos hídricos, desenvolvimento urbano, infraestrutura, defesa civil e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 26,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "a demonstração de que crescimento econômico, investimentos estruturantes, educação, saúde, segurança e inclusão social podiam caminhar juntos para mudar o patamar do Estado e nos consolidar como líderes do Nordeste. É um compromisso com um novo ciclo de desenvolvimento para Pernambuco, construído para transformar potencialidades em oportunidades e crescimento econômico em melhoria concreta da vida das pessoas. • Fomentar estratégias de promoção da autonomia, priorizando grupos vulneráveis através do acesso à educação qualificada, ao trabalho digno, à sustentabilidade financeira e ao desenvolvimento pessoal.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "a demonstração de que crescimento econômico, investimentos estruturantes, educação, saúde, segurança e inclusão social podiam caminhar juntos para mudar o patamar do Estado e nos consolidar como líderes do Nordeste. É um compromisso com um novo ciclo de desenvolvimento para Pernambuco, construído para transformar potencialidades em oportunidades e crescimento econômico em melhoria concreta da vida das pessoas."
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "• Fomentar estratégias de promoção da autonomia, priorizando grupos vulneráveis através do acesso à educação qualificada, ao trabalho digno, à sustentabilidade financeira e ao desenvolvimento pessoal."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "• Continuar o processo de interiorização da UPE, entendendo a educação superior como um dos principais vetores de desenvolvimento econômico que podem existir, além de oferecer cursos alinhados às vocações econômicas e às demandas de cada território."
+            },
+            {
+              "id": "s08",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Nosso compromisso é cuidar das diversas juventudes a partir de uma abordagem integral que viabilize a formação, o deslocamento seguro e o ingresso qualificado no mercado de trabalho."
+            },
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "• Reestruturar políticas ativas de qualificação e inserção no mercado de trabalho formal aliadas a editais de fomento específicos para a produção artística da comunidade."
+            },
+            {
+              "id": "s16",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Desenvolvimento Econômico e Turístico Transformar Pernambuco em uma potência econômica regional exige que o Estado volte a liderar, de forma ativa, a atração de investimentos, o fortalecimento das cadeias produtivas e a interiorização do desenvolvimento."
+            },
+            {
+              "id": "s17",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "A política priorizará o adensamento das cadeias produtivas, a inovação e a geração de empregos formais, qualificados, com melhores salários e condições de trabalho, reduzindo a dependência de ocupações precárias e ampliando as oportunidades para os pernambucanos. • Reformular a ADEPE, devolvendo à agência protagonismo na política de desenvolvimento econômico do Estado, retomando sua atuação ativa na atração de indústrias âncoras, prospecção de empresas, interiorização dos investimentos e fortalecimento das cadeias produtivas regionais."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "No cenário da Reforma Tributária, com a redução progressiva da capacidade dos estados de utilizar incentivos de ICMS como instrumento de atração, a infraestrutura passa a assumir papel ainda mais decisivo na política de desenvolvimento econômico."
+            },
+            {
+              "id": "s21",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Enfrentar esses problemas exige prevenção, planejamento de longo prazo, fiscalização efetiva e integração entre meio ambiente, saneamento, recursos hídricos, desenvolvimento urbano, infraestrutura, defesa civil e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 22,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "saúde com saneamento, habitação e assistência social; segurança com prevenção e oportunidades para a juventude; infraestrutura com desenvolvimento regional; ciência e tecnologia com inclusão produtiva. Desenvolvimento econômico, educação, saúde, segurança, infraestrutura, sustentabilidade e proteção social precisam atuar de maneira integrada, considerando as diferentes realidades territoriais e colocando a inclusão das pessoas no centro das decisões. • Articular com o Governo do Brasil e com os municípios uma governança capaz de reduzir desigualdades, dialogando permanentemente com saúde, educação, habitação, segurança alimentar e trabalho.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "saúde com saneamento, habitação e assistência social; segurança com prevenção e oportunidades para a juventude; infraestrutura com desenvolvimento regional; ciência e tecnologia com inclusão produtiva. Desenvolvimento econômico, educação, saúde, segurança, infraestrutura, sustentabilidade e proteção social precisam atuar de maneira integrada, considerando as diferentes realidades territoriais e colocando a inclusão das pessoas no centro das decisões."
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "• Articular com o Governo do Brasil e com os municípios uma governança capaz de reduzir desigualdades, dialogando permanentemente com saúde, educação, habitação, segurança alimentar e trabalho. João Campos Implantar e modernizar as Gerências Regionais de Assistência Social, que atuarão como braços regionais da gestão estadual do Sistema Único de Assistência Social."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "• Fortalecer a educação especial inclusiva, garantindo condições adequadas de aprendizagem e desenvolvimento aos estudantes com deficiência, TEA e outras condições do neurodesenvolvimento, em articulação com as famílias e as redes de saúde e assistência social."
+            },
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "João Campos Implantar o Mãe Coruja Atípica para garantir às famílias de crianças com TEA e outras condições do neurodesenvolvimento acompanhamento integrado, orientação sobre direitos, acesso a benefícios e apoio contínuo entre saúde, assistência social e educação. • Atenção especial às mães pernambucanas atípicas para garantir às famílias de crianças com TEA uma rede que melhore as condições de neurodesenvolvimento, acompanhamento integrado, orientação sobre direitos, acesso a benefícios e apoio contínuo de saúde, assistência social e educação."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Ampliar a rede de Salas Lilás em Pernambuco, garantindo espaço reservado, equipe capacitada e protocolo especializado para atendimento de mulheres vítimas de violência, em especial, nas Delegacias 24h e delegacias ordinárias ou em equipamentos da Assistência Social ou da Saúde."
+            },
+            {
+              "id": "s10",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "• Implantar serviço estadual de enfrentamento ao etarismo, atendendo denúncias, acolhendo e garantindo encaminhamento para os serviços de Saúde e Assistência Social."
+            },
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "• Apoiar a implantação de abrigos integrados de proteção social para o acolhimento de pessoas em situação de vulnerabilidade ou abandono familiar, oferecendo suporte psicossocial, jurídico e reinserção social. • Implantar serviço estadual de combate a LGBTfobia, atendendo denúncias, acolhendo e garantindo encaminhamento para os serviços de Saúde e Assistência Social."
+            },
+            {
+              "id": "s17",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Isso significa integrar pesquisa, extensão rural, regularização fundiária, infraestrutura hídrica, energia, conectividade, financiamento e proteção social em uma estratégia permanente de desenvolvimento do campo. Fortalecer o desenvolvimento agrário é interiorizar renda, reduzir desigualdades, assegurar segurança alimentar e criar novas perspectivas para quem vive e trabalha nas áreas rurais de Pernambuco."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 26,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "» Desenvolvimento Social e Enfrentamento à Pobreza » Educação e Esportes » Saúde » Segurança Cidadã » Políticas para as Mulheres » Garantia de Direitos e Diversidades » Cultura e Economia Criativa » Ciência, Tecnologia e Inovação » Desenvolvimento Econômico e Turístico » Desenvolvimento Agrário » Infraestrutura e Recursos Hídricos » Desenvolvimento Urbano e Mobilidade » Habitabilidade » Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais » Gestão Integrada, Regionalizada, Participativa e Digital. Ao mesmo tempo, o campo pernambucano precisa estar preparado para os desafios da mudança climática e para uma nova etapa de inovação produtiva. Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais Não existe desenvolvimento sustentável que não envolva preservação do meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "» Desenvolvimento Social e Enfrentamento à Pobreza » Educação e Esportes » Saúde » Segurança Cidadã » Políticas para as Mulheres » Garantia de Direitos e Diversidades » Cultura e Economia Criativa » Ciência, Tecnologia e Inovação » Desenvolvimento Econômico e Turístico » Desenvolvimento Agrário » Infraestrutura e Recursos Hídricos » Desenvolvimento Urbano e Mobilidade » Habitabilidade » Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais » Gestão Integrada, Regionalizada, Participativa e Digital."
+            },
+            {
+              "id": "s17",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Ao mesmo tempo, o campo pernambucano precisa estar preparado para os desafios da mudança climática e para uma nova etapa de inovação produtiva."
+            },
+            {
+              "id": "s21",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais Não existe desenvolvimento sustentável que não envolva preservação do meio ambiente. Enfrentar esses problemas exige prevenção, planejamento de longo prazo, fiscalização efetiva e integração entre meio ambiente, saneamento, recursos hídricos, desenvolvimento urbano, infraestrutura, defesa civil e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 23,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Estruturaremos uma rede integrada de combate à fome que une o fortalecimento da agricultura familiar, o incentivo aos circuitos locais de produção e o apoio direto às famílias em situação de extrema vulnerabilidade. • Ampliar o acesso das mulheres rurais e jovens agricultores nas políticas de apoio à agricultura familiar, estimulando autonomia econômica, sucessão rural e permanência no campo. • Financiar a agricultura familiar e a fruticultura de sequeiro com a entrega de kits de irrigação, associado à inclusão estratégica e comercial do artesanato indígena nos Centros Estaduais de Artesanato.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Estruturaremos uma rede integrada de combate à fome que une o fortalecimento da agricultura familiar, o incentivo aos circuitos locais de produção e o apoio direto às famílias em situação de extrema vulnerabilidade."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Ampliar o acesso das mulheres rurais e jovens agricultores nas políticas de apoio à agricultura familiar, estimulando autonomia econômica, sucessão rural e permanência no campo."
+            },
+            {
+              "id": "s14",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "• Financiar a agricultura familiar e a fruticultura de sequeiro com a entrega de kits de irrigação, associado à inclusão estratégica e comercial do artesanato indígena nos Centros Estaduais de Artesanato."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "• Fortalecer a presença do Estado no campo, reconstruindo a capacidade de planejamento, pesquisa, assistência técnica e extensão rural para garantir apoio permanente aos produtores e à agricultura familiar em todas as regiões de Pernambuco. • Apoiar a reforma agrária e a democratização do acesso à terra, garantindo condições para que agricultores familiares e famílias assentadas possam produzir, gerar renda e viver com dignidade no campo."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 30,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Vivemos tempos de disrupção, convivendo com a inteligência artificial, as novas infraestruturas digitais, a crise climática, a transição energética e as mudanças no mundo do trabalho que reorganizam economias, governos e relações sociais em velocidade inédita. • Implantar a gestão unificada das filas, com todos os procedimentos inseridos no sistema de regulação e utilizando Inteligência Artificial, evitando filas paralelas e garantindo uma classificação de risco real, com priorização no atendimento dos casos mais graves. • Implantar o Ecossistema da Saúde, Biotecnologia e Ciências da Vida, articulando LAFEPE, Hemobrás, Fiocruz, universidades, hospitais e empresas para fortalecer a pesquisa e a produção de medicamentos, vacinas, hemoderivados, biofármacos e diagnósticos, além de ampliar pesquisas clínicas, estudos sobre doenças tropicais e o uso de inteligência artificial na saúde.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Vivemos tempos de disrupção, convivendo com a inteligência artificial, as novas infraestruturas digitais, a crise climática, a transição energética e as mudanças no mundo do trabalho que reorganizam economias, governos e relações sociais em velocidade inédita."
+            },
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "• Implantar a gestão unificada das filas, com todos os procedimentos inseridos no sistema de regulação e utilizando Inteligência Artificial, evitando filas paralelas e garantindo uma classificação de risco real, com priorização no atendimento dos casos mais graves."
+            },
+            {
+              "id": "s16",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "• Implantar o Ecossistema da Saúde, Biotecnologia e Ciências da Vida, articulando LAFEPE, Hemobrás, Fiocruz, universidades, hospitais e empresas para fortalecer a pesquisa e a produção de medicamentos, vacinas, hemoderivados, biofármacos e diagnósticos, além de ampliar pesquisas clínicas, estudos sobre doenças tropicais e o uso de inteligência artificial na saúde."
+            },
+            {
+              "id": "s22",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "O diálogo permitirá formular políticas mais próximas das necessidades de cada região e a transformação digital será parte dessa nova cultura de gestão: mais do que digitalizar processos, é preciso reorganizar o Estado a partir das necessidades das pessoas."
+            },
+            {
+              "id": "s23",
+              "page_start": 28,
+              "page_end": 30,
+              "text": "• Utilizar inteligência artificial para automatizar processos administrativos, apoiar a tomada de decisão, reduzir burocracias, antecipar demandas da população e ampliar a eficiência dos serviços públicos, sempre com supervisão humana, transparência e respeito à Lei Geral de Proteção de Dados."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 1,
+          "page_end": 19,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "» Desenvolvimento Social e Enfrentamento à Pobreza » Educação e Esportes » Saúde » Segurança Cidadã » Políticas para as Mulheres » Garantia de Direitos e Diversidades » Cultura e Economia Criativa » Ciência, Tecnologia e Inovação » Desenvolvimento Econômico e Turístico » Desenvolvimento Agrário » Infraestrutura e Recursos Hídricos » Desenvolvimento Urbano e Mobilidade » Habitabilidade » Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais » Gestão Integrada, Regionalizada, Participativa e Digital. É a partir dessa força que vamos desenvolver uma economia criativa com identidade pernambucana, capaz de transformar talento em trabalho e inclusão produtiva. • Valorizar quem faz cultura, fortalecendo a economia criativa e criando mais condições para transformar talento em trabalho e renda.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "» Desenvolvimento Social e Enfrentamento à Pobreza » Educação e Esportes » Saúde » Segurança Cidadã » Políticas para as Mulheres » Garantia de Direitos e Diversidades » Cultura e Economia Criativa » Ciência, Tecnologia e Inovação » Desenvolvimento Econômico e Turístico » Desenvolvimento Agrário » Infraestrutura e Recursos Hídricos » Desenvolvimento Urbano e Mobilidade » Habitabilidade » Meio Ambiente, Sustentabilidade & Proteção e Direito dos Animais » Gestão Integrada, Regionalizada, Participativa e Digital."
+            },
+            {
+              "id": "s14",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "Cultura e Economia Criativa Pernambuco é terra de criação. É a partir dessa força que vamos desenvolver uma economia criativa com identidade pernambucana, capaz de transformar talento em trabalho e inclusão produtiva."
+            },
+            {
+              "id": "s15",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "• Valorizar quem faz cultura, fortalecendo a economia criativa e criando mais condições para transformar talento em trabalho e renda. • Tirar do papel o Programa de Fomento à Economia Criativa e estruturá-lo como política de Estado, conectando experiências já existentes, como o Portomídia e o Armazém da Criatividade formando uma rede estadual capaz de apoiar trabalhadores e empreendimentos desde a formação ao acesso a mercados."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 7,
+          "page_end": 18,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "• Incentivar a criação de uma rede de Centros de Direitos Humanos, ofertando acolhimento, assegurando direitos e referenciando as redes municipais de atendimento à População em Situação de Rua, comunidade LGBTQIAPN+, povos indígenas e comunidades quilombolas e demais grupos populacionais em suas diversidades. A igualdade racial e a equidade racial serão tratadas como políticas orientadas por evidências e fundamentadas na preservação da vida da juventude, na autonomia jurídica e na emancipação econômica. • Ampliar as políticas de igualdade racial na saúde e na educação, fortalecendo a atenção integral à saúde da população negra, a formação dos profissionais para o enfrentamento das desigualdades raciais e a educação antirracista na rede estadual de ensino.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "• Incentivar a criação de uma rede de Centros de Direitos Humanos, ofertando acolhimento, assegurando direitos e referenciando as redes municipais de atendimento à População em Situação de Rua, comunidade LGBTQIAPN+, povos indígenas e comunidades quilombolas e demais grupos populacionais em suas diversidades."
+            },
+            {
+              "id": "s12",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "A igualdade racial e a equidade racial serão tratadas como políticas orientadas por evidências e fundamentadas na preservação da vida da juventude, na autonomia jurídica e na emancipação econômica."
+            },
+            {
+              "id": "s13",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "• Ampliar as políticas de igualdade racial na saúde e na educação, fortalecendo a atenção integral à saúde da população negra, a formação dos profissionais para o enfrentamento das desigualdades raciais e a educação antirracista na rede estadual de ensino. Povos Originários A soberania das comunidades indígenas consolida-se por meio da autonomia, dos direitos territoriais e dos projetos próprios de desenvolvimento dos povos indígenas."
+            },
+            {
+              "id": "s14",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "• Apoiar a educação escolar indígena, respeitando as identidades, línguas, culturas e especificidades territoriais dos povos indígenas de Pernambuco. • Ampliar a articulação do Estado com a política de saúde indígena, garantindo atenção adequada às especificidades territoriais, culturais e epidemiológicas dos povos indígenas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 14,
+          "page_end": 30,
+          "topics": [
+            "governance"
+          ],
+          "summary": "• Reduzir as desigualdades que limitam a liberdade e as oportunidades das mulheres, ampliando o acesso a políticas de cuidado, saúde, educação e participação social. • Ampliar a participação social e o controle social nas decisões de Governo, criando mecanismos permanentes de escuta, pactuação de prioridades e acompanhamento das políticas públicas, com práticas de governo aberto, transparência ativa e ampliação da oferta de dados abertos.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "• Reduzir as desigualdades que limitam a liberdade e as oportunidades das mulheres, ampliando o acesso a políticas de cuidado, saúde, educação e participação social."
+            },
+            {
+              "id": "s23",
+              "page_start": 28,
+              "page_end": 30,
+              "text": "• Ampliar a participação social e o controle social nas decisões de Governo, criando mecanismos permanentes de escuta, pactuação de prioridades e acompanhamento das políticas públicas, com práticas de governo aberto, transparência ativa e ampliação da oferta de dados abertos."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 1,
+          "page_end": 28,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Vivemos tempos de disrupção, convivendo com a inteligência artificial, as novas infraestruturas digitais, a crise climática, a transição energética e as mudanças no mundo do trabalho que reorganizam economias, governos e relações sociais em velocidade inédita. • Expandir a rede de gás natural para pólos industriais, oferecendo energia mais competitiva e menos poluente. • Promover a transição energética do Polo Gesseiro do Araripe, substituindo gradualmente as fontes mais poluentes por gás natural, energia solar e tecnologias de maior eficiência energética e gerando renda por meio da produção local de energia.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Vivemos tempos de disrupção, convivendo com a inteligência artificial, as novas infraestruturas digitais, a crise climática, a transição energética e as mudanças no mundo do trabalho que reorganizam economias, governos e relações sociais em velocidade inédita."
+            },
+            {
+              "id": "s19",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "• Expandir a rede de gás natural para pólos industriais, oferecendo energia mais competitiva e menos poluente."
+            },
+            {
+              "id": "s22",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "• Promover a transição energética do Polo Gesseiro do Araripe, substituindo gradualmente as fontes mais poluentes por gás natural, energia solar e tecnologias de maior eficiência energética e gerando renda por meio da produção local de energia."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002537320",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002537320_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002537320_01.pdf",
+      "sha256": "be2bd27896589c390b04d04ce233997a8e74e335f6f5a88023f6cbf255a85e9f",
+      "summary": "Ampliação da rede de creches e melhoria da infraestrutura para as creches sucateadas, da capital ao sertão, garantindo vagas em tempo integral com profissionais habilitados para atendimento às crianças típicas e atípicas. Luta contra o sucateamento das escolas públicas e expansão de vagas na universidade pública no interior. Como partido que possui em suas bases trabalhadoras do SUS, especialmente na enfermagem, a UP defende o fim do repasse de verbas públicas para organizações sociais privadas (OSs) que gerenciam a saúde. plena garantia à liberdade religiosa; 15.​Defesa e proteção do meio ambiente e da natureza; proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região; 16.​Demarcação e posse imediata de todas as terras indígenas; garantia de escolas diferenciadas para os indígenas e incentivo e apoio às línguas indígenas; defesa da cultura e dos direitos dos povos originários; 17.​Garantia de saúde pública e gratuita para todos; fim da exploração dos planos de saúde privados; 18.​Defesa e incentivo à cultura nacional e popular; nacionalização de todas as companhias gravadoras de música e produtoras de filmes; 19.​Jornada de trabalho: redução para seis horas para todos os trabalhadores e aumento geral dos salários; 20.​Estabelecimento de lei garantindo o descanso em dias festivos, domingos e feriados para os trabalhadores, excetuando os setores essenciais; 21.​Garantia de moradia digna, saneamento e coleta de lix Apoio institucional irrestrito ao fim da escala 6x1 e defesa de aumento de 100% do salário mínimo para recuperar o poder de compra da população. A prioridade é combater a escala 6x1, com aumento de 100% do salário mínimo e realizar fiscalizações rigorosas nas confecções e comércios para garantir o pagamento de FGTS, horas extras e fornecimento de EPIs. Participação popular no orçamento público Em vez de destinar bilhões para o pagamento da dívida pública aos banqueiros ou gastar milhões em propagandas e shows, o governo estadual priorizará conselhos populares formados por trabalhadores e movimentos como o Movimento nos Bairros, Vilas e Favelas (MLB) e o Movimento Luta de Classes (MLC) para deliberar sobre investimentos em saneamento, transporte e creches.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "Ampliação da rede de creches e melhoria da infraestrutura para as creches sucateadas, da capital ao sertão, garantindo vagas em tempo integral com profissionais habilitados para atendimento às crianças típicas e atípicas. Luta contra o sucateamento das escolas públicas e expansão de vagas na universidade pública no interior.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Ampliação da rede de creches e melhoria da infraestrutura para as creches sucateadas, da capital ao sertão, garantindo vagas em tempo integral com profissionais habilitados para atendimento às crianças típicas e atípicas. Luta contra o sucateamento das escolas públicas e expansão de vagas na universidade pública no interior."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "fim do lucro na educação."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "health"
+          ],
+          "summary": "Como partido que possui em suas bases trabalhadoras do SUS, especialmente na enfermagem, a UP defende o fim do repasse de verbas públicas para organizações sociais privadas (OSs) que gerenciam a saúde. plena garantia à liberdade religiosa; 15.​Defesa e proteção do meio ambiente e da natureza; proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região; 16.​Demarcação e posse imediata de todas as terras indígenas; garantia de escolas diferenciadas para os indígenas e incentivo e apoio às línguas indígenas; defesa da cultura e dos direitos dos povos originários; 17.​Garantia de saúde pública e gratuita para todos; fim da exploração dos planos de saúde privados; 18.​Defesa e incentivo à cultura nacional e popular; nacionalização de todas as companhias gravadoras de música e produtoras de filmes; 19.​Jornada de trabalho: redução para seis horas para todos os trabalhadores e aumento geral dos salários; 20.​Estabelecimento de lei garantindo o descanso em dias festivos, domingos e feriados para os trabalhadores, excetuando os setores essenciais; 21.​Garantia de moradia digna, saneamento e coleta de lix",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Como partido que possui em suas bases trabalhadoras do SUS, especialmente na enfermagem, a UP defende o fim do repasse de verbas públicas para organizações sociais privadas (OSs) que gerenciam a saúde."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "plena garantia à liberdade religiosa; 15.​Defesa e proteção do meio ambiente e da natureza; proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região; 16.​Demarcação e posse imediata de todas as terras indígenas; garantia de escolas diferenciadas para os indígenas e incentivo e apoio às línguas indígenas; defesa da cultura e dos direitos dos povos originários; 17.​Garantia de saúde pública e gratuita para todos; fim da exploração dos planos de saúde privados; 18.​Defesa e incentivo à cultura nacional e popular; nacionalização de todas as companhias gravadoras de música e produtoras de filmes; 19.​Jornada de trabalho: redução para seis horas para todos os trabalhadores e aumento geral dos salários; 20.​Estabelecimento de lei garantindo o descanso em dias festivos, domingos e feriados para os trabalhadores, excetuando os setores essenciais; 21.​Garantia de moradia digna, saneamento e coleta de lixo para todas as famílias brasileiras; destinar os imóveis abandonados para resolver o déficit habitacional; realização de uma profunda reforma urbana; 22.​Julgamento, prisão e confisco dos bens de todos"
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Apoio institucional irrestrito ao fim da escala 6x1 e defesa de aumento de 100% do salário mínimo para recuperar o poder de compra da população. A prioridade é combater a escala 6x1, com aumento de 100% do salário mínimo e realizar fiscalizações rigorosas nas confecções e comércios para garantir o pagamento de FGTS, horas extras e fornecimento de EPIs.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Apoio institucional irrestrito ao fim da escala 6x1 e defesa de aumento de 100% do salário mínimo para recuperar o poder de compra da população. A prioridade é combater a escala 6x1, com aumento de 100% do salário mínimo e realizar fiscalizações rigorosas nas confecções e comércios para garantir o pagamento de FGTS, horas extras e fornecimento de EPIs."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Participação popular no orçamento público Em vez de destinar bilhões para o pagamento da dívida pública aos banqueiros ou gastar milhões em propagandas e shows, o governo estadual priorizará conselhos populares formados por trabalhadores e movimentos como o Movimento nos Bairros, Vilas e Favelas (MLB) e o Movimento Luta de Classes (MLC) para deliberar sobre investimentos em saneamento, transporte e creches.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Participação popular no orçamento público Em vez de destinar bilhões para o pagamento da dívida pública aos banqueiros ou gastar milhões em propagandas e shows, o governo estadual priorizará conselhos populares formados por trabalhadores e movimentos como o Movimento nos Bairros, Vilas e Favelas (MLB) e o Movimento Luta de Classes (MLC) para deliberar sobre investimentos em saneamento, transporte e creches."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "plena garantia à liberdade religiosa; 15.​Defesa e proteção do meio ambiente e da natureza; proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região; 16.​Demarcação e posse imediata de todas as terras indígenas; garantia de escolas diferenciadas para os indígenas e incentivo e apoio às línguas indígenas; defesa da cultura e dos direitos dos povos originários; 17.​Garantia de saúde pública e gratuita para todos; fim da exploração dos planos de saúde privados; 18.​Defesa e incentivo à cultura nacional e popular; nacionalização de todas as companhias gravadoras de música e produtoras de filmes; 19.​Jornada de trabalho: redução para seis horas para todos os trabalhadores e aumento geral dos salários; 20.​Estabelecimento de lei garantindo o descanso em dias festivos, domingos e feriados para os trabalhadores, excetuando os setores essenciais; 21.​Garantia de moradia digna, saneamento e coleta de lixo para todas as famílias brasileiras; destinar os imóveis abandonados para resolver o déficit habitacional; realização de uma profunda reforma urbana; 22.​Julgamento, prisão e confisco dos bens de todos",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "plena garantia à liberdade religiosa; 15.​Defesa e proteção do meio ambiente e da natureza; proibição da destruição de florestas; estabelecimento do controle popular sobre a Amazônia e expulsão de todos os monopólios estrangeiros da região; 16.​Demarcação e posse imediata de todas as terras indígenas; garantia de escolas diferenciadas para os indígenas e incentivo e apoio às línguas indígenas; defesa da cultura e dos direitos dos povos originários; 17.​Garantia de saúde pública e gratuita para todos; fim da exploração dos planos de saúde privados; 18.​Defesa e incentivo à cultura nacional e popular; nacionalização de todas as companhias gravadoras de música e produtoras de filmes; 19.​Jornada de trabalho: redução para seis horas para todos os trabalhadores e aumento geral dos salários; 20.​Estabelecimento de lei garantindo o descanso em dias festivos, domingos e feriados para os trabalhadores, excetuando os setores essenciais; 21.​Garantia de moradia digna, saneamento e coleta de lixo para todas as famílias brasileiras; destinar os imóveis abandonados para resolver o déficit habitacional; realização de uma profunda reforma urbana; 22.​Julgamento, prisão e confisco dos bens de todos"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 8,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Os recursos estaduais e o crédito devem ser canalizados para a agricultura familiar e para garantir infraestrutura digna (cobertura, segurança, saneamento) para feirantes e pequenos comerciantes locais. Implementação de programas estatais para a construção de cisternas, pequenos barreiros e sistemas de irrigação voltados exclusivamente para os assentamentos da reforma agrária e produtores da agricultura familiar, combatendo os efeitos da especulação e do coronelismo da água. proibição da exploração do trabalho infantil; 6.​ Reforma agrária popular; nacionalização da terra e fim do monopólio privado da terra.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "Os recursos estaduais e o crédito devem ser canalizados para a agricultura familiar e para garantir infraestrutura digna (cobertura, segurança, saneamento) para feirantes e pequenos comerciantes locais. Implementação de programas estatais para a construção de cisternas, pequenos barreiros e sistemas de irrigação voltados exclusivamente para os assentamentos da reforma agrária e produtores da agricultura familiar, combatendo os efeitos da especulação e do coronelismo da água."
+            },
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "proibição da exploração do trabalho infantil; 6.​ Reforma agrária popular; nacionalização da terra e fim do monopólio privado da terra."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "ampliação do acesso de Profilaxia Pré Exposição (PREP) e Pós Exposição para a população de travestis e transexuais (PEP) e educação em direitos humanos para profissionais da saúde.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 6,
+              "text": "ampliação do acesso de Profilaxia Pré Exposição (PREP) e Pós Exposição para a população de travestis e transexuais (PEP) e educação em direitos humanos para profissionais da saúde."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "governance"
+          ],
+          "summary": "planificação da economia para atender às necessidades da população e acabar com as desigualdades regionais e sociais.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "planificação da economia para atender às necessidades da população e acabar com as desigualdades regionais e sociais."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002538097",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002538097_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002538097_01.pdf",
+      "sha256": "feb9103e4f14b03ab120f3232de5d2db0dac6861719332e823c8cda0e9aa6404",
+      "summary": "Além da ampliação desses equipamentos, há necessidade de manutenção permanente, melhoria dos banheiros, espaços para higiene e convivência e adaptação das escolas de tempo integral, que nem sempre possuem estrutura adequada ou oferta diversificada de atividades culturais, esportivas e artísticas. ●​ Criar um sistema estadual de prevenção à evasão e ao abandono escolar, com acompanhamento individualizado da trajetória dos estudantes desde os anos finais do ensino fundamental até a conclusão do ensino médio. Um marco importante foi a conexão de mais de 70% das escolas públicas à internet, o que representa avanço para a inclusão digital e para a modernização das práticas pedagógicas. Apesar dos avanços nacionais recentes no fortalecimento do SUS, especialmente com a retomada de programas federais e a ampliação de investimentos em áreas estratégicas, o Estado ainda mantém uma postura insuficiente em temas centrais como atenção básica, vigilância em saúde, saúde mental, regionalização da atenção especializada, saúde do trabalhador e gestão técnica dos serviços. Embora os municípios sejam responsáveis pela execução direta da atenção básica, o governo estadual tem papel fundamental no cofinanciamento, na formação das equipes, no apoio técnico, na estruturação dos serviços e na redução das desigualdades regionais. A saúde mental dos trabalhadores e trabalhadoras do SUAS também deve ser reconhecida como prioridade. Na segurança pública, o medo restringe a liberdade, transforma a rotina das cidades e dos territórios, enquanto a letalidade policial e a desconfiança nas instituições exigem uma mudança profunda na política de defesa social. SEGURANÇA Pesquisa do Instituto Sou da Paz, intitulada “O que pensa a população brasileira sobre segurança pública?”, revela que a insegurança faz parte da vida cotidiana da população brasileira. Não por acaso, a segurança pública passou a figurar como a principal preocupação das cidadãs e dos cidadãos brasileiros, superando temas como saúde e economia. Pernambuco também precisa avançar na construção de uma política séria sobre cannabis,, pesquisa científica e desenvolvimento econômico. Promover em Pernambuco um encontro estadual sobre cannabis medicinal, pesquisa, inovação, negócios, indústria têxtil, alimentos, insumos e desenvolvimento econômico, apresentando o potencial produtivo da cadeia da cannabis..",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 71,
+          "topics": [
+            "education"
+          ],
+          "summary": "Além da ampliação desses equipamentos, há necessidade de manutenção permanente, melhoria dos banheiros, espaços para higiene e convivência e adaptação das escolas de tempo integral, que nem sempre possuem estrutura adequada ou oferta diversificada de atividades culturais, esportivas e artísticas. ●​ Criar um sistema estadual de prevenção à evasão e ao abandono escolar, com acompanhamento individualizado da trajetória dos estudantes desde os anos finais do ensino fundamental até a conclusão do ensino médio. Um marco importante foi a conexão de mais de 70% das escolas públicas à internet, o que representa avanço para a inclusão digital e para a modernização das práticas pedagógicas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Além da ampliação desses equipamentos, há necessidade de manutenção permanente, melhoria dos banheiros, espaços para higiene e convivência e adaptação das escolas de tempo integral, que nem sempre possuem estrutura adequada ou oferta diversificada de atividades culturais, esportivas e artísticas. ●​ Criar um sistema estadual de prevenção à evasão e ao abandono escolar, com acompanhamento individualizado da trajetória dos estudantes desde os anos finais do ensino fundamental até a conclusão do ensino médio."
+            },
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "Um marco importante foi a conexão de mais de 70% das escolas públicas à internet, o que representa avanço para a inclusão digital e para a modernização das práticas pedagógicas."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "●​ Implementar programas de educação pública voltados ao enfrentamento do machismo, da violência contra as mulheres e das desigualdades de gênero. ●​ Criar política de cotas para pessoas trans, incluindo mulheres trans, homens trans, travestis e pessoas não binárias, nos cursos da Universidade de Pernambuco, como forma de ampliar o acesso dessa população ao ensino superior público e enfrentar desigualdades históricas de acesso à educação."
+            },
+            {
+              "id": "s07",
+              "page_start": 69,
+              "page_end": 71,
+              "text": "No âmbito educativo, a exclusão é estrutural, com cerca de 82% da população trans e travesti abandonando a escola ainda na educação básica devido ao preconceito e à falta de políticas de acolhimento escolar. ●​ Estabelecer cotas para pessoas trans e travestis no ingresso ao ensino superior, em concursos públicos e em vagas de estágio na administração direta e empresas terceirizadas pelo poder público."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 3,
+          "page_end": 76,
+          "topics": [
+            "health"
+          ],
+          "summary": "Apesar dos avanços nacionais recentes no fortalecimento do SUS, especialmente com a retomada de programas federais e a ampliação de investimentos em áreas estratégicas, o Estado ainda mantém uma postura insuficiente em temas centrais como atenção básica, vigilância em saúde, saúde mental, regionalização da atenção especializada, saúde do trabalhador e gestão técnica dos serviços. Embora os municípios sejam responsáveis pela execução direta da atenção básica, o governo estadual tem papel fundamental no cofinanciamento, na formação das equipes, no apoio técnico, na estruturação dos serviços e na redução das desigualdades regionais. A saúde mental dos trabalhadores e trabalhadoras do SUAS também deve ser reconhecida como prioridade.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Apesar dos avanços nacionais recentes no fortalecimento do SUS, especialmente com a retomada de programas federais e a ampliação de investimentos em áreas estratégicas, o Estado ainda mantém uma postura insuficiente em temas centrais como atenção básica, vigilância em saúde, saúde mental, regionalização da atenção especializada, saúde do trabalhador e gestão técnica dos serviços. Embora os municípios sejam responsáveis pela execução direta da atenção básica, o governo estadual tem papel fundamental no cofinanciamento, na formação das equipes, no apoio técnico, na estruturação dos serviços e na redução das desigualdades regionais."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "A saúde mental dos trabalhadores e trabalhadoras do SUAS também deve ser reconhecida como prioridade. Criar uma política permanente de saúde e cuidado para os trabalhadores do SUAS, com acompanhamento psicossocial, ações de prevenção ao adoecimento e suporte às equipes expostas a situações de violência, violações de direitos, sobrecarga emocional e esgotamento profissional."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "deve incluir saúde mental, doenças crônicas, envelhecimento, deficiência, sexualidade, autonomia corporal, sofrimento psíquico, violência, cuidado e condições de vida. A saúde mental de meninas, adolescentes e mulheres aparece como uma preocupação crescente."
+            },
+            {
+              "id": "s08",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "A ausência de uma política de redução de danos articulada à saúde mental, à assistência social, à educação e à proteção social impede que o uso de drogas e outras vulnerabilidades sejam enfrentados a partir das condições sociais, familiares e territoriais dos adolescentes.."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 76,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Na segurança pública, o medo restringe a liberdade, transforma a rotina das cidades e dos territórios, enquanto a letalidade policial e a desconfiança nas instituições exigem uma mudança profunda na política de defesa social. SEGURANÇA Pesquisa do Instituto Sou da Paz, intitulada “O que pensa a população brasileira sobre segurança pública?”, revela que a insegurança faz parte da vida cotidiana da população brasileira. Não por acaso, a segurança pública passou a figurar como a principal preocupação das cidadãs e dos cidadãos brasileiros, superando temas como saúde e economia.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Na segurança pública, o medo restringe a liberdade, transforma a rotina das cidades e dos territórios, enquanto a letalidade policial e a desconfiança nas instituições exigem uma mudança profunda na política de defesa social."
+            },
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "SEGURANÇA Pesquisa do Instituto Sou da Paz, intitulada “O que pensa a população brasileira sobre segurança pública?”, revela que a insegurança faz parte da vida cotidiana da população brasileira. Não por acaso, a segurança pública passou a figurar como a principal preocupação das cidadãs e dos cidadãos brasileiros, superando temas como saúde e economia."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "A rede precisa estar preparada para atuar de forma integrada com saúde, educação, habitação, segurança alimentar, direitos humanos, sistema de justiça e defesa civil. A resposta do Estado não pode ser a remoção automática dessas comunidades, mas a realização de estudos técnicos, obras de mitigação, adaptação climática, defesa civil comunitária e soluções construídas com participação popular."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "●​ Instituir a Política Estadual de Justiça Climática e Adaptação, integrando as políticas de meio ambiente, recursos hídricos, planejamento territorial, defesa civil, saúde, habitação e infraestrutura para reduzir as desigualdades socioambientais e proteger as populações mais vulneráveis aos impactos das mudanças climáticas. O programa deverá articular ações de despoluição e recuperação do rio, proteção de nascentes e matas ciliares, drenagem urbana, saneamento, adaptação climática, redução do risco de inundações, fortalecimento da participação comunitária e integração das políticas de habitação, meio ambiente, recursos hídricos e defesa civil."
+            },
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "Diante disso, Pernambuco precisa construir um governo digital orientado por direitos humanos, com plena implementação da Lei Geral de Proteção de Dados, controle público sobre tecnologias de alto risco e proibição do reconhecimento facial na segurança pública. ●​ Banir o uso de reconhecimento facial na segurança pública em Pernambuco, especialmente em espaços públicos e sistemas de monitoramento em massa."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "MULHERES As mulheres são maioria da população pernambucana e, por isso, todos os grandes problemas do Estado também atravessam suas vidas: segurança pública, saúde, trabalho, renda, moradia, mobilidade, educação, assistência social, cultura, meio ambiente e participação política. O Estado ainda carece de uma rede pública realmente integrada, capaz de articular atendimento psicossocial, saúde, segurança pública, assistência social, moradia, mobilidade, trabalho, renda e proteção territorial."
+            },
+            {
+              "id": "s08",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "Essa situação reduz sua capacidade de coordenar uma política transversal, considerando que os direitos de crianças e adolescentes dependem da atuação conjunta das áreas de educação, saúde, assistência social, segurança pública, justiça, cultura e trabalho. Na segurança pública, as delegacias especializadas para atender crianças e adolescentes encontra-se concentrada na Região Metropolitana do Recife, nos municípios de Paulista, Recife e Jaboatão dos Guararapes."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 3,
+          "page_end": 69,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Pernambuco também precisa avançar na construção de uma política séria sobre cannabis,, pesquisa científica e desenvolvimento econômico. Promover em Pernambuco um encontro estadual sobre cannabis medicinal, pesquisa, inovação, negócios, indústria têxtil, alimentos, insumos e desenvolvimento econômico, apresentando o potencial produtivo da cadeia da cannabis.. Ao articular transferência direta de renda, assistência social, segurança alimentar e inclusão produtiva, Pernambuco pode construir uma política permanente de proteção social, capaz de garantir renda mínima, reduzir desigualdades e fortalecer a autonomia das famílias.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Pernambuco também precisa avançar na construção de uma política séria sobre cannabis,, pesquisa científica e desenvolvimento econômico. Promover em Pernambuco um encontro estadual sobre cannabis medicinal, pesquisa, inovação, negócios, indústria têxtil, alimentos, insumos e desenvolvimento econômico, apresentando o potencial produtivo da cadeia da cannabis.."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "Ao articular transferência direta de renda, assistência social, segurança alimentar e inclusão produtiva, Pernambuco pode construir uma política permanente de proteção social, capaz de garantir renda mínima, reduzir desigualdades e fortalecer a autonomia das famílias."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "O Índice de Gini, que mede a desigualdade de renda, em torno de 0,52, revela que o crescimento econômico não tem se convertido em distribuição justa de renda e melhoria das condições de vida para a maioria da população."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "●​ Desenvolver programas específicos de geração de emprego para mulheres, com prioridade para mulheres negras, periféricas, rurais, chefes de família, com deficiência, trans, travestis e em situação de vulnerabilidade socioeconômica."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 3,
+          "page_end": 76,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Isso revela que proteger meninas e mulheres exige uma atuação integrada entre segurança pública, justiça, saúde, assistência social e educação, com prevenção, acolhimento, investigação qualificada e responsabilização dos agressores. ●​ Ampliar e fortalecer a “Medida Protetiva Eletrônica”, implementada pelo Tribunal de Justiça de Pernambuco em 2025, criando canais digitais estaduais complementares para orientação das vítimas, acompanhamento do cumprimento das medidas e encaminhamento rápido para serviços de proteção social e saúde mental. ​ A Assistência Social é uma política pública essencial para enfrentar a pobreza, a fome, as desigualdades sociais e as múltiplas formas de violação de direitos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Isso revela que proteger meninas e mulheres exige uma atuação integrada entre segurança pública, justiça, saúde, assistência social e educação, com prevenção, acolhimento, investigação qualificada e responsabilização dos agressores. ●​ Ampliar e fortalecer a “Medida Protetiva Eletrônica”, implementada pelo Tribunal de Justiça de Pernambuco em 2025, criando canais digitais estaduais complementares para orientação das vítimas, acompanhamento do cumprimento das medidas e encaminhamento rápido para serviços de proteção social e saúde mental."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "​ A Assistência Social é uma política pública essencial para enfrentar a pobreza, a fome, as desigualdades sociais e as múltiplas formas de violação de direitos. Em Pernambuco, esse debate é ainda mais urgente diante da persistência de altos índices de vulnerabilidade social, insegurança alimentar, precarização do trabalho, desigualdades territoriais e dificuldades de acesso a serviços públicos em áreas urbanas periféricas, rurais, indígenas e quilombolas."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "O Estado possui uma das maiores economias do Nordeste, com PIB estimado em aproximadamente R$268 bilhões, mas esse dinamismo econômico convive com forte desigualdade social, concentração de renda, insegurança alimentar, déficit de saneamento, vulnerabilidade climática e degradação ambiental."
+            },
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "O crescimento do trabalho remoto, do empreendedorismo digital, da digitalização de pequenos negócios e das plataformas de serviços, como transporte por aplicativo e delivery, cria novas oportunidades econômicas, mas também amplia desafios relacionados à precarização do trabalho, insegurança de renda e falta de proteção social para trabalhadores da economia de plataformas."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "A ausência dessas políticas impacta diretamente as condições de saúde, segurança alimentar e qualidade de vida da população quilombola. O enfrentamento dessas desigualdades exige uma política estadual estruturada para os povos e comunidades tradicionais, construída com participação direta das comunidades, respeito à autonomia dos territórios e articulação entre regularização fundiária, educação, cultura, infraestrutura, segurança alimentar, proteção ambiental e desenvolvimento sustentável."
+            },
+            {
+              "id": "s08",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "Essa situação reduz sua capacidade de coordenar uma política transversal, considerando que os direitos de crianças e adolescentes dependem da atuação conjunta das áreas de educação, saúde, assistência social, segurança pública, justiça, cultura e trabalho. A ausência de uma política de redução de danos articulada à saúde mental, à assistência social, à educação e à proteção social impede que o uso de drogas e outras vulnerabilidades sejam enfrentados a partir das condições sociais, familiares e territoriais dos adolescentes.."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 47,
+          "page_end": 69,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Na área de resíduos sólidos, Pernambuco avançou na destinação formal dos resíduos para aterros sanitários licenciados. ●​ Instituir a Política Estadual das Águas, orientada pela gestão integrada dos recursos hídricos, pela universalização do acesso à água potável e ao saneamento básico, pela recuperação e proteção de rios, nascentes e bacias hidrográficas e pela promoção da segurança hídrica em todas as regiões do estado. Muitas localidades enfrentam dificuldades de acesso à água potável, saneamento básico, mobilidade e manutenção de estradas, sobretudo em territórios rurais e afastados dos centros urbanos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "Na área de resíduos sólidos, Pernambuco avançou na destinação formal dos resíduos para aterros sanitários licenciados. ●​ Instituir a Política Estadual das Águas, orientada pela gestão integrada dos recursos hídricos, pela universalização do acesso à água potável e ao saneamento básico, pela recuperação e proteção de rios, nascentes e bacias hidrográficas e pela promoção da segurança hídrica em todas as regiões do estado."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "Muitas localidades enfrentam dificuldades de acesso à água potável, saneamento básico, mobilidade e manutenção de estradas, sobretudo em territórios rurais e afastados dos centros urbanos. ●​ Garantir acesso à água potável nas comunidades quilombolas e indígenas por meio da construção de cisternas, poços e sistemas simplificados de abastecimento."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 3,
+          "page_end": 69,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O caminho para enfrentar esses desafios passa pelo fortalecimento do SUS em todas as regiões do Estado, com cofinanciamento da atenção básica, ampliação da saúde mental, estruturação da redução de danos, valorização dos trabalhadores, fortalecimento da vigilância em saúde, interiorização da atenção especializada, gestão técnica dos equipamentos e integração entre saúde, ciência, educação, meio ambiente, trabalho e desenvolvimento social. Patrimônio natural de grande relevância para a história, o meio ambiente e a drenagem urbana do Estado, o rio encontra-se em situação crítica após décadas de investimentos insuficientes, poluição, ocupação desordenada de suas margens e ausência de ações estruturantes. ●​ Instituir a Política Estadual de Justiça Climática e Adaptação, integrando as políticas de meio ambiente, recursos hídricos, planejamento territorial, defesa civil, saúde, habitação e infraestrutura para reduzir as desigualdades socioambientais e proteger as populações mais vulneráveis aos impactos das mudanças climáticas.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "O caminho para enfrentar esses desafios passa pelo fortalecimento do SUS em todas as regiões do Estado, com cofinanciamento da atenção básica, ampliação da saúde mental, estruturação da redução de danos, valorização dos trabalhadores, fortalecimento da vigilância em saúde, interiorização da atenção especializada, gestão técnica dos equipamentos e integração entre saúde, ciência, educação, meio ambiente, trabalho e desenvolvimento social."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "Patrimônio natural de grande relevância para a história, o meio ambiente e a drenagem urbana do Estado, o rio encontra-se em situação crítica após décadas de investimentos insuficientes, poluição, ocupação desordenada de suas margens e ausência de ações estruturantes. ●​ Instituir a Política Estadual de Justiça Climática e Adaptação, integrando as políticas de meio ambiente, recursos hídricos, planejamento territorial, defesa civil, saúde, habitação e infraestrutura para reduzir as desigualdades socioambientais e proteger as populações mais vulneráveis aos impactos das mudanças climáticas."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "Há ainda registros apresentados em audiência pública da Comissão de Meio Ambiente da Assembleia Legislativa de Pernambuco, em outubro de 2025, indicando a existência de 206 comunidades registradas no território pernambucano. MULHERES As mulheres são maioria da população pernambucana e, por isso, todos os grandes problemas do Estado também atravessam suas vidas: segurança pública, saúde, trabalho, renda, moradia, mobilidade, educação, assistência social, cultura, meio ambiente e participação política."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 3,
+          "page_end": 47,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Há potencial para articular universidades, associações, agricultura familiar, laboratórios públicos, prescritores, pacientes e instituições de fomento em torno de uma política segura, legal, científica e socialmente comprometida. ECONOMIA Pernambuco reúne ativos econômicos estratégicos, como o Complexo Industrial Portuário de Suape, o Polo Automotivo e o Porto Digital, além de uma base diversificada formada pela agricultura familiar, pelo comércio, pelos serviços, pela cultura, pela economia solidária e por pequenos empreendimentos urbanos e rurais. Por isso, a assistência social deve estar articulada a políticas de combate à fome, cozinhas comunitárias, bancos de alimentos, agricultura familiar, transferência de renda, benefícios eventuais e fortalecimento do Sistema Nacional de Segurança Alimentar e Nutricional.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Há potencial para articular universidades, associações, agricultura familiar, laboratórios públicos, prescritores, pacientes e instituições de fomento em torno de uma política segura, legal, científica e socialmente comprometida. ECONOMIA Pernambuco reúne ativos econômicos estratégicos, como o Complexo Industrial Portuário de Suape, o Polo Automotivo e o Porto Digital, além de uma base diversificada formada pela agricultura familiar, pelo comércio, pelos serviços, pela cultura, pela economia solidária e por pequenos empreendimentos urbanos e rurais."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "Por isso, a assistência social deve estar articulada a políticas de combate à fome, cozinhas comunitárias, bancos de alimentos, agricultura familiar, transferência de renda, benefícios eventuais e fortalecimento do Sistema Nacional de Segurança Alimentar e Nutricional. As unidades também deverão promover formação, inserção produtiva, fortalecimento comunitário e aquisição de alimentos da agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 54,
+          "page_end": 60,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Pernambuco avançou nos últimos anos na modernização administrativa e na ampliação do acesso ao Estado por meio da internet, acompanhando uma tendência global de transformação digital. O uso acelerado de ferramentas como reconhecimento facial, inteligência artificial, integração massiva de bancos de dados e monitoramento digital tem ocorrido, muitas vezes, sem transparência, participação social, auditoria ou responsabilização adequada.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "Pernambuco avançou nos últimos anos na modernização administrativa e na ampliação do acesso ao Estado por meio da internet, acompanhando uma tendência global de transformação digital. O uso acelerado de ferramentas como reconhecimento facial, inteligência artificial, integração massiva de bancos de dados e monitoramento digital tem ocorrido, muitas vezes, sem transparência, participação social, auditoria ou responsabilização adequada."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 3,
+          "page_end": 37,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Também há fragilidades na preservação do patrimônio cultural material e imaterial, no apoio às festividades municipais e na execução de políticas já instituídas. ●​ Ampliar progressivamente os recursos do Funcultura, garantindo a continuidade das linhas de apoio à música, ao audiovisual, ao patrimônio cultural, à cultura popular e aos microprojetos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Também há fragilidades na preservação do patrimônio cultural material e imaterial, no apoio às festividades municipais e na execução de políticas já instituídas. ●​ Ampliar progressivamente os recursos do Funcultura, garantindo a continuidade das linhas de apoio à música, ao audiovisual, ao patrimônio cultural, à cultura popular e aos microprojetos."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 71,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Assumimos o compromisso com um governo feminista, antirracista, popular e comprometido com os direitos humanos, que reconheça as mulheres negras, quilombolas e indígenas como sujeitos políticos fundamentais e como forças centrais na construção de Pernambuco. A política de drogas precisa ser tratada como questão de saúde pública, direitos humanos, redução de danos e cuidado continuado. A expansão de grandes empreendimentos de mineração, energia e agronegócio tem provocado conflitos pelo uso da terra e da água, pressão sobre a Caatinga e impactos sobre povos indígenas, comunidades quilombolas, agricultores e outros povos tradicionais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Assumimos o compromisso com um governo feminista, antirracista, popular e comprometido com os direitos humanos, que reconheça as mulheres negras, quilombolas e indígenas como sujeitos políticos fundamentais e como forças centrais na construção de Pernambuco."
+            },
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "A política de drogas precisa ser tratada como questão de saúde pública, direitos humanos, redução de danos e cuidado continuado. A expansão de grandes empreendimentos de mineração, energia e agronegócio tem provocado conflitos pelo uso da terra e da água, pressão sobre a Caatinga e impactos sobre povos indígenas, comunidades quilombolas, agricultores e outros povos tradicionais."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "O mesmo ocorre em relação aos povos indígenas. A rede precisa estar preparada para atuar de forma integrada com saúde, educação, habitação, segurança alimentar, direitos humanos, sistema de justiça e defesa civil."
+            },
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "Diante disso, Pernambuco precisa construir um governo digital orientado por direitos humanos, com plena implementação da Lei Geral de Proteção de Dados, controle público sobre tecnologias de alto risco e proibição do reconhecimento facial na segurança pública."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "Essa diversidade é resultado da resistência dos povos indígenas diante de um processo histórico de escravização, expulsão territorial, violência e imposição cultural. Os povos indígenas enfrentam demora nos processos de demarcação e homologação, invasões, conflitos fundiários, exploração predatória dos recursos naturais, violência e discriminação."
+            },
+            {
+              "id": "s07",
+              "page_start": 69,
+              "page_end": 71,
+              "text": "A violência contra a população LGBTQIAPN+ permanece como uma grave violação de direitos humanos no Brasil."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 86,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Hospitais, unidades, contratos, filas e redes de cuidado devem ser conduzidos com critérios técnicos, planejamento, controle social e compromisso com o interesse público. A falta de implementação do Conselho e do Fundo Estadual de Economia Popular e Solidária enfraquece a participação social e impede a formação de uma política permanente para o setor. O SUAS foi construído com participação social, controle democrático e pactuação federativa.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Hospitais, unidades, contratos, filas e redes de cuidado devem ser conduzidos com critérios técnicos, planejamento, controle social e compromisso com o interesse público. A falta de implementação do Conselho e do Fundo Estadual de Economia Popular e Solidária enfraquece a participação social e impede a formação de uma política permanente para o setor."
+            },
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "O SUAS foi construído com participação social, controle democrático e pactuação federativa. Manter diálogo permanente com organizações e movimentos sociais, como o Fórum Estadual dos Trabalhadores do SUAS, a Associação de Trabalhadores da Assistência Social e o Movimento Estadual da População em Situação de Rua, garantindo participação social e controle democrático sobre a política estadual."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "Apesar disso, apenas cerca de 1% a 3% dos recicláveis são reaproveitados pela gestão pública na Região Metropolitana do Recife, enquanto aproximadamente 12% a 15% são recuperados pelo trabalho informal de catadores, sem remuneração pública adequada. A política deverá fortalecer a coleta seletiva, ampliar a recuperação de materiais recicláveis, incentivar a implantação de centrais de triagem, compostagem e biodigestores, remunerar cooperativas e associações de catadores pelos serviços ambientais prestados, recuperar áreas degradadas por antigos lixões e garantir transparência e participação social na gestão dos resíduos sólidos."
+            },
+            {
+              "id": "s05",
+              "page_start": 54,
+              "page_end": 60,
+              "text": "A Estratégia de Governo Digital 2024–2027 reconhece que esse processo deve ir além da simples automatização de procedimentos, buscando fortalecer a transparência, a participação social, a acessibilidade, a inclusão sociodigital e a proteção de dados. O uso acelerado de ferramentas como reconhecimento facial, inteligência artificial, integração massiva de bancos de dados e monitoramento digital tem ocorrido, muitas vezes, sem transparência, participação social, auditoria ou responsabilização adequada."
+            },
+            {
+              "id": "s06",
+              "page_start": 60,
+              "page_end": 69,
+              "text": "É preciso uma política integrada, territorializada e permanente, capaz de articular prevenção, proteção, autonomia econômica, saúde integral, cuidado, moradia, educação, segurança, mobilidade e participação social."
+            },
+            {
+              "id": "s08",
+              "page_start": 71,
+              "page_end": 76,
+              "text": "A participação social também permanece limitada."
+            },
+            {
+              "id": "s09",
+              "page_start": 76,
+              "page_end": 86,
+              "text": "A eleição é um momento decisivo desse caminho, mas a mudança continuará sendo construída todos os dias, com diálogo, controle social e compromisso coletivo."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 3,
+          "page_end": 54,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Incentivar a descarbonização dos setores produtivos e a expansão das energias renováveis, subordinando os projetos à proteção ambiental, à consulta das comunidades e à distribuição justa dos benefícios. A transição energética, embora necessária, também apresenta contradições.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 37,
+              "text": "Incentivar a descarbonização dos setores produtivos e a expansão das energias renováveis, subordinando os projetos à proteção ambiental, à consulta das comunidades e à distribuição justa dos benefícios."
+            },
+            {
+              "id": "s04",
+              "page_start": 47,
+              "page_end": 54,
+              "text": "A transição energética, embora necessária, também apresenta contradições."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 37,
+          "page_end": 47,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "A rede precisa estar preparada para atuar de forma integrada com saúde, educação, habitação, segurança alimentar, direitos humanos, sistema de justiça e defesa civil.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 37,
+              "page_end": 47,
+              "text": "A rede precisa estar preparada para atuar de forma integrada com saúde, educação, habitação, segurança alimentar, direitos humanos, sistema de justiça e defesa civil."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002540337",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002540337_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002540337_01.pdf",
+      "sha256": "cee039360efea5a9a11be2624b3f8aa23e384eb17ba8100d664b93ba5bb44f6c",
+      "summary": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral. a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias. a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo est Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território. A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes. No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho. agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 10,
+          "page_end": 16,
+          "topics": [
+            "education"
+          ],
+          "summary": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral. a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias. a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo est",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "O Programa Mãe Coruja será fortalecido e ampliado, oferecendo às gestantes e mães atendidas qualificação profissional, apoio ao associativismo, espaços de cuidado infantil é prioridade em creches de tempo integral."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "a) Criar o braço \"Mãe Empreendedora\" dentro da estrutura já existente do Mãe Coruja, em parceria formal com Sistema FIEPE (SENAI) e SDEC, aproveitando os \"Cantos Mãe Coruja\" já instalados; b) Inserir gestantes e puérperas cadastradas no Mãe Coruja em trilhas flexíveis (noturnas ou EAD) de qualificação profissional, associativismo e gestão financeira; c) Ofertar salas de cuidado infantil nos Cantos Mãe Coruja e nos CRAS (rede da SAS), e garantir prioridade em creches de tempo integral para romper a tripla jornada, reconhecendo que são duas redes distintas que precisam de acordo de cooperação formal entre Saúde e SAS; d) Instituir um fundo público rotativo de microcrédito, operado preferencialmente por agente financeiro estadual já existente para egressas do programa, fomentando formalização de microempreendimentos e cooperativas comunitárias."
+            },
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 23,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território. A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Tenho 36 anos, sou casado com uma pernambucana e filho de uma mãe dona de casa dedicada e de um pai servidor da segurança pública, que me ensinou, antes de qualquer coisa, a ser honesto. é a renúncia à própria soberania do Estado sobre seu povo e seu território."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "A interiorização do turismo esbarra na falta de estradas adequadas, saneamento, internet, segurança pública e investimentos permanentes. a) Reforma do Funcultura para permitir que pessoa física ou jurídica, de qualquer porte, opte por uma nova modalidade de aporte com participação proporcional nos resultados econômicos do projeto apoiado (bilheteria, royalties, receitas turísticas), mantendo a modalidade atual de dedução simples para quem preferir o modelo já conhecido; b) Base tributária inicial sobre o ITCMD, tributo estadual que não depende de deliberação do CONFAZ, com expansão negociada ao ICMS por convênio; cláusula de adequação ao IBS a partir do início de sua transição em relação ao ICMS, entre 2029 e 2032, com vigência plena em 2033; c) Critérios de aprovação por pontuação objetiva e pública, contrapartida social, enraizamento pernambucano, viabilidade econômica e geração de emprego local; d) Conselho Gestor com representação da Secretaria de Cultura/Fundarpe, da Sefaz-PE, especialistas setoriais com mandato fixo e representantes da sociedade civil; e) Critério de conteúdo com salvaguardas institucionais: definição legal objetiva do que constitui apologia ao crime organiza"
+            },
+            {
+              "id": "s27",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "para Apologia ao Crime - Estruturação de um marco legal e administrativo rigoroso que proíbe o uso de recursos do Governo de Pernambuco (incluindo estatais, Fundarpe e Empetur) para a contratação, fomento ou patrocínio de artistas e eventos que enalteçam a criminalidade, garantindo o absoluto respeito à segurança pública e ao dinheiro do pagador de impostos."
+            },
+            {
+              "id": "s32",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "de equipamentos esportivos, reconhecendo o esporte como política de segurança pública de baixo custo e alto impacto."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 10,
+          "page_end": 20,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho. b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "No entanto, faltam programas contínuos que reconheçam essas habilidades, complementem a formação e facilitem o acesso ao mercado de trabalho. Também vamos estabelecer uma parceria permanente com o SENAI, a FIEPE e outras instituições de formação profissional, garantindo vagas prioritárias e cursos definidos de acordo com as necessidades reais do mercado de trabalho."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana."
+            },
+            {
+              "id": "s24",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "Isso exige menos burocracia, mais transparência, distribuição regional dos recursos e integração com áreas como infraestrutura, educação, segurança e geração de emprego. a) Reforma do Funcultura para permitir que pessoa física ou jurídica, de qualquer porte, opte por uma nova modalidade de aporte com participação proporcional nos resultados econômicos do projeto apoiado (bilheteria, royalties, receitas turísticas), mantendo a modalidade atual de dedução simples para quem preferir o modelo já conhecido; b) Base tributária inicial sobre o ITCMD, tributo estadual que não depende de deliberação do CONFAZ, com expansão negociada ao ICMS por convênio; cláusula de adequação ao IBS a partir do início de sua transição em relação ao ICMS, entre 2029 e 2032, com vigência plena em 2033; c) Critérios de aprovação por pontuação objetiva e pública, contrapartida social, enraizamento pernambucano, viabilidade econômica e geração de emprego local; d) Conselho Gestor com representação da Secretaria de Cultura/Fundarpe, da Sefaz-PE, especialistas setoriais com mandato fixo e representantes da sociedade civil; e) Critério de conteúdo com salvaguardas institucionais: definição legal objetiva do que con"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 10,
+          "page_end": 14,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Diagnóstico A assistência social de Pernambuco ainda está muito concentrada na transferência de renda e pouco conectada a oportunidades permanentes de qualificação profissional, emprego e geração de renda. Em 2026, o Fundo Estadual de Assistência Social alcançou um valor recorde de R$147 milhões. b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Diagnóstico A assistência social de Pernambuco ainda está muito concentrada na transferência de renda e pouco conectada a oportunidades permanentes de qualificação profissional, emprego e geração de renda. Em 2026, o Fundo Estadual de Assistência Social alcançou um valor recorde de R$147 milhões."
+            },
+            {
+              "id": "s11",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "b) Promover alfabetização seguida de formação técnica rápida para adultos sem ensino fundamental completo, aproveitando seus ofícios prévios; c) Criar turmas preferenciais junto ao Sistema FIEPE (SENAI/SESI/IEL) alinhadas às vocações econômicas de cada macrorregião: agroindústria e energias renováveis no Sertão/Agreste; logística, tecnologia e saúde na Região Metropolitana do Recife; d) Garantir, por decreto estadual e dotação orçamentária específica, metas de elevação do emprego formal e redução da dependência de transferência de renda estadual."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "normativa e regularidade do fluxo financeiro do cofinanciamento estadual da assistência social."
+            },
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "a) Ampliar o SIGAS-PE para incluir, em acesso público aberto, indicadores de taxas de participação, evasão e percentual de egressos empregados das trilhas de qualificação; b) Fixar metas quadrienais, reduzir em 20% as famílias em extrema pobreza, alfabetizar 10.000 adultos, qualificar 50.000 pessoas e gerar 5.000 vagas formais, com desagregação por macrorregião (Sertão, Agreste, Zona da Mata, RMR); c) Acompanhar aumento médio de renda familiar (ciclo de 2 a 4 anos) e variação da dependência de programas de transferência de renda; d) Publicar cronograma oficial: 30–90 dias para diagnósticos/pilotos, 1 ano para estabilização de turmas, 2–4 anos para expansão; e) Remeter relatórios periódicos à Assembleia Legislativa de Pernambuco e ao CEAS."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 5,
+          "page_end": 13,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O Agreste concentra a avicultura, a suinocultura, a produção de leite e a agricultura familiar, enquanto a Mata Sul apresenta potencial para o cultivo de cacau fino e para sistemas agroflorestais. b) Integrar as bases de dados do IPA, da ADAGRO, do MAPA, do INCRA, de bancos e de prefeituras, hoje fragmentadas, em cadastro único; c) Usar georreferenciamento e cruzamento de dados para corrigir distorções e prevenir fraudes em cadastros de produtores, propriedades e rebanhos; d) Vincular crédito, seguro e compras públicas à documentação regular; e) Execução pelo IPA, pela ADAGRO, pelo INCRA e por prefeituras, com meta de cadastro produtivo estadual atualizado e integrado em até dois anos. a) Criar fundo estadual de crédito orientado ao agronegócio pernambucano, inspirado em modelos já testados em outros estados, como o FEAP/BANAGRO de São Paulo, distinto do FUNDAGRO (Fundo de Defesa Agropecuária de Pernambuco, hoje voltado apenas à defesa sanitária); b) Criar fundo garantidor para cooperativas e pequenos produtores; c) Simplificar o acesso ao PRONAF, ao PRONAMP e a linhas do Banco do Nordeste; d) Ampliar o acesso do pequeno produtor pernambucano ao Programa de Aquisição de Alimentos (",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 7,
+              "text": "O Agreste concentra a avicultura, a suinocultura, a produção de leite e a agricultura familiar, enquanto a Mata Sul apresenta potencial para o cultivo de cacau fino e para sistemas agroflorestais. Outro desafio é a baixa industrialização da produção rural."
+            },
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "b) Integrar as bases de dados do IPA, da ADAGRO, do MAPA, do INCRA, de bancos e de prefeituras, hoje fragmentadas, em cadastro único; c) Usar georreferenciamento e cruzamento de dados para corrigir distorções e prevenir fraudes em cadastros de produtores, propriedades e rebanhos; d) Vincular crédito, seguro e compras públicas à documentação regular; e) Execução pelo IPA, pela ADAGRO, pelo INCRA e por prefeituras, com meta de cadastro produtivo estadual atualizado e integrado em até dois anos."
+            },
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "a) Criar fundo estadual de crédito orientado ao agronegócio pernambucano, inspirado em modelos já testados em outros estados, como o FEAP/BANAGRO de São Paulo, distinto do FUNDAGRO (Fundo de Defesa Agropecuária de Pernambuco, hoje voltado apenas à defesa sanitária); b) Criar fundo garantidor para cooperativas e pequenos produtores; c) Simplificar o acesso ao PRONAF, ao PRONAMP e a linhas do Banco do Nordeste; d) Ampliar o acesso do pequeno produtor pernambucano ao Programa de Aquisição de Alimentos (PAA) e ao Programa Nacional de Alimentação Escolar (PNAE), como garantia de mercado e redução de desperdício; e) Digitalizar e modernizar a plataforma de conexão entre produtores, cooperativas e compradores hoje operada pela CEASA/PE (Centro de Abastecimento e Logística de Pernambuco), que já atua como entreposto físico e regulador de preços, mas ainda tem integração apenas parcial de seus sistemas informatizados, com meta de aumento percentual das compras públicas da agricultura familiar em até quatro anos."
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "a) Formalizar acordo permanente com a FIEPE para mapeamento de gargalos de mão de obra e com o SENAI para abertura de vagas sociais preferenciais; b) Ampliar convênios com plataformas de ensino a distância (Fundação Bradesco, UPE Virtual e Educa Pernambuco) voltadas à informática e empreendedorismo; c) Criar incubadoras municipais de economia solidária equipadas com treinamento em contabilidade e gestão, priorizando municípios do interior com menor cobertura atual; d) Fomentar, com apoio do terceiro setor e de fundos de microcrédito privados/mistos, a estruturação de cooperativas de costura, agricultura familiar, alimentação e logística rural; e) Implementar incentivos fiscais (ICMS/ISS conforme competência) para empresas que contratarem egressos das turmas sociais das incubadoras."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 16,
+          "page_end": 18,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "a)​ Regulamentar, no âmbito estadual, o regime de sandbox regulatório previsto na Lei Complementar Federal nº 182/2021, abrindo estruturas públicas, leitos do SUS, malhas rodoviárias, redes de utilidade pública e o Complexo Industrial Portuário de Suape, para que empresas e deeptechs testem soluções avançadas em escala real, sob a lógica de \"troca de mercado por inteligência\", sem custo de subvenção direta para o Estado; b)​ Exigir contrapartidas das empresas que usufruírem do ambiente: fixação de CNPJ em Pernambuco, contratação de percentuais mínimos de talentos formados em Instituições de Ciência e Tecnologia (ICTs) e Instituições de Ensino Superior (IES) sediadas em Pernambuco, e cessão da tecnologia validada para uso na rede pública estadual; c)​ Submeter a homologação das soluções a um comitê técnico multissetorial de avaliação, baseado em critérios objetivos de retorno social e fiscal, usando metodologia de SROI (Social Return on Investment), para validar tecnologias que ataquem gargalos operacionais específicos (ex: aplicação de inteligência artificial para redução de absenteísmo nas consultas e cirurgias do SUS, ou modelos preditivos em infraestrutura), protegendo o process"
+            },
+            {
+              "id": "s23",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "a)​ Ampliar e qualificar o financiamento por meio da FACEPE (Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco), reforçando os gatilhos de interiorização já existentes, como os programas de bolsas de produtividade voltados à interiorização, que priorizam propostas fora da Região Metropolitana do Recife, e aproximando os editais das demandas sociais e econômicas de cada região; b)​ Consolidar o Porto Digital como principal parque tecnológico e parceiro estratégico do Estado na transformação digital, na captação de recursos e no desenvolvimento de novos polos de serviços especializados, dando continuidade a parcerias já em curso entre ATI-PE, UFPE (via CIn/UFPE) e Porto Digital em projetos de inteligência artificial e cibersegurança; c)​ Usar a Lei do Bem (Lei nº 11.196/2005) e o modelo de partilha de risco da Embrapii (Associação Brasileira de Pesquisa e Inovação Industrial) para induzir as indústrias instaladas (Suape e Goiana) a contratarem Instituições de Ciência e Tecnologia pernambucanas, com a negociação de propriedade intelectual ocorrendo diretamente entre empresa contratante e a unidade Embrapii ou ICT envolvida, conforme prevê o Manual de Operação da Embrap"
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 14,
+          "page_end": 15,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Ao mesmo tempo em que abriga o Porto Digital, um dos principais polos de inovação e economia criativa do país, o próprio Governo do Estado ainda enfrenta dificuldades para modernizar seus serviços e integrar suas informações.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Ao mesmo tempo em que abriga o Porto Digital, um dos principais polos de inovação e economia criativa do país, o próprio Governo do Estado ainda enfrenta dificuldades para modernizar seus serviços e integrar suas informações."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 13,
+          "page_end": 17,
+          "topics": [
+            "governance"
+          ],
+          "summary": "do SIGAS-PE como instrumento de controle social ativo, com novos indicadores de inclusão produtiva. O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana. trânsito de talentos entre a universidade, o serviço público e o mercado.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "do SIGAS-PE como instrumento de controle social ativo, com novos indicadores de inclusão produtiva."
+            },
+            {
+              "id": "s17",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "O desafio, portanto, é aproximar a capacidade tecnológica existente no Estado da gestão pública e do desenvolvimento econômico, criando condições para atrair empresas inovadoras, reter talentos e transformar conhecimento em renda e oportunidades para a população pernambucana."
+            },
+            {
+              "id": "s21",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "trânsito de talentos entre a universidade, o serviço público e o mercado."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002541258",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002541258_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002541258_01.pdf",
+      "sha256": "5b4ca82a021b96f92f4d600242265c5b4a53d7861e6c4a7c4eac9b9106a50527",
+      "summary": "Valorização salarial e profissional dos professores; Ampliação do tempo destinado ao planejamento pedagógico; Implantação de programas de bonificação por desempenho; Expansão das Escolas Técnicas Estaduais; Criação do Instituto Estadual de Robótica e Inteligência Artificial; Inserção do empreendedorismo na educação básica; Programa Jovem Aprendiz em parceria com empresas; Incentivo às áreas de ciência, tecnologia e inovação. Informatização completa da rede estadual de saúde; Integração eletrônica dos prontuários médicos; Ampliação do uso da telemedicina; Fortalecimento da atenção básica; Ampliação dos programas preventivos; Prioridade para investimentos em tecnologia médica; Programas permanentes de promoção da qualidade de vida. Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico. CULTURA A cultura será valorizada como patrimônio histórico e instrumento de desenvolvimento econômico. Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular. Incentivo à agricultura familiar e ao agronegócio; Estímulo à inovação tecnológica; Apoio ao empreendedorismo; Desburocratização dos serviços públicos para atração de investimentos. A tecnologia será utilizada como ferramenta para aproximar o Governo da população. Implantação do Programa Pindorama para integração da gestão pública; Simplificação de processos administrativos; Redução da burocracia.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "education"
+          ],
+          "summary": "Propostas Ampliação e construção de Escolas Militares; Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; Valorização salarial e profissional dos professores; Ampliação do tempo destinado ao planejamento pedagógico; Implantação de programas de bonificação por desempenho; Expansão das Escolas Técnicas Estaduais; Criação do Instituto Estadual de Robótica e Inteligência Artificial; Inserção do empreendedorismo na educação básica; Programa Jovem Aprendiz em parceria com empresas; Incentivo às áreas de ciência, tecnologia e inovação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Propostas Ampliação e construção de Escolas Militares; Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; Valorização salarial e profissional dos professores; Ampliação do tempo destinado ao planejamento pedagógico; Implantação de programas de bonificação por desempenho; Expansão das Escolas Técnicas Estaduais; Criação do Instituto Estadual de Robótica e Inteligência Artificial; Inserção do empreendedorismo na educação básica; Programa Jovem Aprendiz em parceria com empresas; Incentivo às áreas de ciência, tecnologia e inovação."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "health"
+          ],
+          "summary": "Propostas Construção de um novo Hospital Evangélico para atendimento da população pernambucana e dos turistas; Implantação de Hospital especializado no atendimento à pessoa idosa; Informatização completa da rede estadual de saúde; Integração eletrônica dos prontuários médicos; Ampliação do uso da telemedicina; Fortalecimento da atenção básica; Ampliação dos programas preventivos; Prioridade para investimentos em tecnologia médica; Programas permanentes de promoção da qualidade de vida.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Propostas Construção de um novo Hospital Evangélico para atendimento da população pernambucana e dos turistas; Implantação de Hospital especializado no atendimento à pessoa idosa; Informatização completa da rede estadual de saúde; Integração eletrônica dos prontuários médicos; Ampliação do uso da telemedicina; Fortalecimento da atenção básica; Ampliação dos programas preventivos; Prioridade para investimentos em tecnologia médica; Programas permanentes de promoção da qualidade de vida."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 7,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico. CULTURA A cultura será valorizada como patrimônio histórico e instrumento de desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. EDUCAÇÃO A educação será o principal instrumento de transformação social e desenvolvimento econômico."
+            },
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "CULTURA A cultura será valorizada como patrimônio histórico e instrumento de desenvolvimento econômico."
+            },
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "O desenvolvimento econômico deverá ocorrer de forma sustentável, promovendo geração de emprego, renda e oportunidades."
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "Uma mobilidade eficiente melhora a qualidade de vida e impulsiona o desenvolvimento econômico."
+            },
+            {
+              "id": "s08",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Nossa gestão buscará promover desenvolvimento econômico com responsabilidade social, fortalecer os serviços públicos, valorizar os servidores, incentivar a inovação e aproximar o Governo da população."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 1,
+          "page_end": 4,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Nossa administração será fundamentada nos princípios da ética, eficiência, inovação, transparência, responsabilidade fiscal, desenvolvimento sustentável e participação popular."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Propostas Estudo para criação do Banco do Estado de Pernambuco; Implantação do Programa Pindorama para desenvolvimento regional; Incentivo à agricultura familiar e ao agronegócio; Estímulo à inovação tecnológica; Apoio ao empreendedorismo; Desburocratização dos serviços públicos para atração de investimentos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Propostas Estudo para criação do Banco do Estado de Pernambuco; Implantação do Programa Pindorama para desenvolvimento regional; Incentivo à agricultura familiar e ao agronegócio; Estímulo à inovação tecnológica; Apoio ao empreendedorismo; Desburocratização dos serviços públicos para atração de investimentos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. Propostas Ampliação e construção de Escolas Militares; Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; Valorização salarial e profissional dos professores; Ampliação do tempo destinado ao planejamento pedagógico; Implantação de programas de bonificação por desempenho; Expansão das Escolas Técnicas Estaduais; Criação do Instituto Estadual de Robótica e Inteligência Artificial; Inserção do empreendedorismo na educação básica; Programa Jovem Aprendiz em parceria com empresas; Incentivo às áreas de ciência, tecnologia e inovação. A tecnologia será utilizada como ferramenta para aproximar o Governo da população.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. Propostas Ampliação e construção de Escolas Militares; Revisão do modelo de progressão automática, assegurando aprendizagem efetiva; Valorização salarial e profissional dos professores; Ampliação do tempo destinado ao planejamento pedagógico; Implantação de programas de bonificação por desempenho; Expansão das Escolas Técnicas Estaduais; Criação do Instituto Estadual de Robótica e Inteligência Artificial; Inserção do empreendedorismo na educação básica; Programa Jovem Aprendiz em parceria com empresas; Incentivo às áreas de ciência, tecnologia e inovação."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 6,
+              "text": "A tecnologia será utilizada como ferramenta para aproximar o Governo da população. Propostas Implantação do Governo Digital; Expansão dos serviços públicos eletrônicos; Integração dos bancos de dados estaduais; Ampliação do Programa Pindorama como plataforma tecnológica do Estado."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 6,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado. Propostas Digitalização dos serviços públicos; Uso intensivo de tecnologia em toda a administração; Implantação do Programa Pindorama para integração da gestão pública; Simplificação de processos administrativos; Redução da burocracia.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 4,
+              "text": "Os principais eixos deste Plano de Governo são: Modernização da gestão pública; Segurança pública baseada em inteligência e tecnologia; Saúde humanizada e eficiente; Educação transformadora; Desenvolvimento econômico sustentável; Inclusão social; Mobilidade urbana e rural; Transformação digital; Valorização da cultura e do esporte; Desenvolvimento regional integrado."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Propostas Digitalização dos serviços públicos; Uso intensivo de tecnologia em toda a administração; Implantação do Programa Pindorama para integração da gestão pública; Simplificação de processos administrativos; Redução da burocracia."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "170002552776",
+      "state_code": "PE",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PE170002552776_01.pdf",
+      "public_path": "/propostas/2026/PE/2026PE170002552776_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

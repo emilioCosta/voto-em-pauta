@@ -1,0 +1,2905 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "SP",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "250002536915",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002536915_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002536915_01.pdf",
+      "sha256": "25d1d5ee8b4bcc79806c1a04b3973b3bf27b23c124a5ecc880affc826009f924",
+      "summary": "O desmonte dos serviços públicos e a entrega do patrimônio Essa ofensiva neoliberal tem como alvo prioritário a educação pública, alvo histórico do bolsonarismo. Através de cortes orçamentários asfixiantes, da tentativa contínua de redução das verbas e da imposição de plataformas digitais controladas por empresas privadas de tecnologia, o governo tenta desmontar o ensino público. escolas cívico-militares, acabar com a plataformização do ensino e retirar as fundações empresariais da definição das políticas educacionais. Ainda que UBSs, equipes de Saúde da Família e grande parte dos CAPS sejam administrados pelos municípios, cabe ao Estado organizar e financiar a rede regional, manter hospitais e serviços especializados, apoiar técnica e financeiramente as prefeituras e garantir que o acesso a consultas, exames e tratamentos não dependa do município onde a pessoa vive. Serviços públicos e infraestrutura coletiva Saúde pública 100% estatal ⬤Fim das Organizações Sociais e reestatização dos hospitais e serviços privatizados, com gestão pública direta e controle dos trabalhadores e usuários. ⬤Apoio técnico e financeiro do Estado aos municípios para ampliar UBSs, equipes de Saúde da Família, CAPS, residências terapêuticas, saúde bucal e vacinação. Pretos e pardos representam aproximadamente 41% dos paulistas, cerca de 18 milhões de pessoas, e estão desproporcionalmente concentrados nos empregos terceirizados e precários, nas periferias sem saneamento, entre as vítimas da violência policial e nas escolas e serviços públicos mais sucateados. O crime organizado expandiu sua influência territorial e econômica a ponto de se fundir às instituições oficiais, operando seus esquemas financeiros diretamente nos escritórios luxuosos da Faria Lima. Essa engrenagem de violência ganhou centralidade absoluta sob a gestão de Guilherme Derrite na Secretaria de Segurança Pública, cuja atuação personifica a face mais cruel e ideológica do projeto de extrema direita em São Paulo. bolsas permanência são insuficientes, e mesmo com a greve o reajuste não as faz sequer chegar perto do salário mínimo paulista. ⬤Bolsa-auxílio de um salário mínimo para todos os desempregados do estado de São Paulo, financiada pela taxação progressiva dos grandes grupos econômicos paulistas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 18,
+          "page_end": 41,
+          "topics": [
+            "education"
+          ],
+          "summary": "O desmonte dos serviços públicos e a entrega do patrimônio Essa ofensiva neoliberal tem como alvo prioritário a educação pública, alvo histórico do bolsonarismo. Através de cortes orçamentários asfixiantes, da tentativa contínua de redução das verbas e da imposição de plataformas digitais controladas por empresas privadas de tecnologia, o governo tenta desmontar o ensino público. escolas cívico-militares, acabar com a plataformização do ensino e retirar as fundações empresariais da definição das políticas educacionais.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 18,
+              "page_end": 22,
+              "text": "O desmonte dos serviços públicos e a entrega do patrimônio Essa ofensiva neoliberal tem como alvo prioritário a educação pública, alvo histórico do bolsonarismo. Através de cortes orçamentários asfixiantes, da tentativa contínua de redução das verbas e da imposição de plataformas digitais controladas por empresas privadas de tecnologia, o governo tenta desmontar o ensino público."
+            },
+            {
+              "id": "s18",
+              "page_start": 30,
+              "page_end": 30,
+              "text": "escolas cívico-militares, acabar com a plataformização do ensino e retirar as fundações empresariais da definição das políticas educacionais. implantar a Tarifa Zero por meio de um sistema de transporte público, integrado, reestatizado e administrado em função das necessidades da população, e não do lucro privado."
+            },
+            {
+              "id": "s23",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Educação pública ⬤Revogação imediata do projeto de militarização e das escolas cívico-militares, combatendo legislações de controle ideológico reacionário como o “Escola Sem Partido”. ⬤Revogação da PEC de Tarcísio e da ALESP que reduziu o investimento obrigatório em educação, restabelecendo a aplicação mínima de 30% da receita de impostos na educação pública estadual."
+            },
+            {
+              "id": "s24",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "⬤Pleno apoio à implementação da Lei 15.326/26 no enquadramento dos profissionais da educação na educação infantil."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 38,
+              "text": "⬤Combate à dupla jornada por meio da socialização do trabalho doméstico, construindo lavanderias públicas, restaurantes populares e creches públicas gratuitas em tempo integral em todos os bairros proletários."
+            },
+            {
+              "id": "s29",
+              "page_start": 40,
+              "page_end": 41,
+              "text": "⬤Fim imediato de qualquer repressão policial contra as ocupações estudantis e manifestações da juventude em defesa do ensino público."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 16,
+          "page_end": 38,
+          "topics": [
+            "health"
+          ],
+          "summary": "Ainda que UBSs, equipes de Saúde da Família e grande parte dos CAPS sejam administrados pelos municípios, cabe ao Estado organizar e financiar a rede regional, manter hospitais e serviços especializados, apoiar técnica e financeiramente as prefeituras e garantir que o acesso a consultas, exames e tratamentos não dependa do município onde a pessoa vive. Serviços públicos e infraestrutura coletiva Saúde pública 100% estatal ⬤Fim das Organizações Sociais e reestatização dos hospitais e serviços privatizados, com gestão pública direta e controle dos trabalhadores e usuários. ⬤Apoio técnico e financeiro do Estado aos municípios para ampliar UBSs, equipes de Saúde da Família, CAPS, residências terapêuticas, saúde bucal e vacinação.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Ainda que UBSs, equipes de Saúde da Família e grande parte dos CAPS sejam administrados pelos municípios, cabe ao Estado organizar e financiar a rede regional, manter hospitais e serviços especializados, apoiar técnica e financeiramente as prefeituras e garantir que o acesso a consultas, exames e tratamentos não dependa do município onde a pessoa vive."
+            },
+            {
+              "id": "s22",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Serviços públicos e infraestrutura coletiva Saúde pública 100% estatal ⬤Fim das Organizações Sociais e reestatização dos hospitais e serviços privatizados, com gestão pública direta e controle dos trabalhadores e usuários. ⬤Apoio técnico e financeiro do Estado aos municípios para ampliar UBSs, equipes de Saúde da Família, CAPS, residências terapêuticas, saúde bucal e vacinação."
+            },
+            {
+              "id": "s26",
+              "page_start": 37,
+              "page_end": 38,
+              "text": "⬤Descriminalização do consumo de drogas, tratando a adicção como uma questão de saúde pública, com tratamento médico, psicológico e preventivo gratuito pelo SUS."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 17,
+          "page_end": 42,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Pretos e pardos representam aproximadamente 41% dos paulistas, cerca de 18 milhões de pessoas, e estão desproporcionalmente concentrados nos empregos terceirizados e precários, nas periferias sem saneamento, entre as vítimas da violência policial e nas escolas e serviços públicos mais sucateados. O crime organizado expandiu sua influência territorial e econômica a ponto de se fundir às instituições oficiais, operando seus esquemas financeiros diretamente nos escritórios luxuosos da Faria Lima. Essa engrenagem de violência ganhou centralidade absoluta sob a gestão de Guilherme Derrite na Secretaria de Segurança Pública, cuja atuação personifica a face mais cruel e ideológica do projeto de extrema direita em São Paulo.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "Pretos e pardos representam aproximadamente 41% dos paulistas, cerca de 18 milhões de pessoas, e estão desproporcionalmente concentrados nos empregos terceirizados e precários, nas periferias sem saneamento, entre as vítimas da violência policial e nas escolas e serviços públicos mais sucateados. O crime organizado expandiu sua influência territorial e econômica a ponto de se fundir às instituições oficiais, operando seus esquemas financeiros diretamente nos escritórios luxuosos da Faria Lima."
+            },
+            {
+              "id": "s12",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "Essa engrenagem de violência ganhou centralidade absoluta sob a gestão de Guilherme Derrite na Secretaria de Segurança Pública, cuja atuação personifica a face mais cruel e ideológica do projeto de extrema direita em São Paulo. Sob o pretexto do combate à criminalidade, a cartilha implementada por Derrite promoveu um endurecimento sem precedentes da violência policial, convertendo as periferias em palcos de operações sanguinárias de ocupação militar."
+            },
+            {
+              "id": "s14",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "Ao prometer combater o crime organizado olhando apenas para as “estruturas de poder superiores”, enquanto aceita a lógica do mercado financeiro que drena o orçamento estadual, a postulação do PT demonstra que o partido busca apenas gerenciar as engrenagens do capitalismo com uma roupagem progressista."
+            },
+            {
+              "id": "s25",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "Segurança pública para o povo trabalhador Fim da violência de Estado e do genocídio negro ⬤Combate à violência policial e ao genocídio da população negra e periférica, com investigação independente e punição exemplar de todos os agentes envolvidos em assassinatos, chacinas, torturas e desaparecimentos. criação de uma força estadual especializada para investigar e desarticular as estruturas financeiras do crime organizado, atingindo a lavagem de dinheiro, empresas, bancos, contratos públicos e agentes estatais envolvidos."
+            },
+            {
+              "id": "s30",
+              "page_start": 41,
+              "page_end": 42,
+              "text": "Exigimos a suspensão e a ruptura imediata de todos os acordos militares, tecnológicos e de segurança pública firmados pelo governo de São Paulo com Israel ⬤Cancelamento imediato de todos os contratos de compra de armas, equipamentos de vigilância e tecnologias de espionagem produzidos pelas empresas sionistas que testam suas ferramentas de morte promovendo o genocídio na Faixa de Gaza."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 23,
+          "page_end": 36,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "bolsas permanência são insuficientes, e mesmo com a greve o reajuste não as faz sequer chegar perto do salário mínimo paulista. ⬤Bolsa-auxílio de um salário mínimo para todos os desempregados do estado de São Paulo, financiada pela taxação progressiva dos grandes grupos econômicos paulistas. para poder arcar com o “preço” da universidade, de viver na capital ou interior, aumentar as bolsas para R$1.874,36 e reajuste conforme inflação.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "bolsas permanência são insuficientes, e mesmo com a greve o reajuste não as faz sequer chegar perto do salário mínimo paulista."
+            },
+            {
+              "id": "s21",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "⬤Bolsa-auxílio de um salário mínimo para todos os desempregados do estado de São Paulo, financiada pela taxação progressiva dos grandes grupos econômicos paulistas."
+            },
+            {
+              "id": "s24",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "para poder arcar com o “preço” da universidade, de viver na capital ou interior, aumentar as bolsas para R$1.874,36 e reajuste conforme inflação."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 7,
+          "page_end": 46,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A frente ampla com Haddad, por sua vez, não oferece uma saída porque aceita governar dentro dos limites impostos pelos mesmos interesses que sustentam as privatizações, a dívida pública e a precarização. A vida da população é sequestrada pela inadimplência e pelo medo do desemprego, enriquecendo a mesma minoria de banqueiros que lucra com a dívida pública do Estado. A relação direta entre o reformismo e a ascensão da extrema direita Essa insistência na conciliação de classes e na submissão à responsabilidade fiscal é, precisamente, o combustível que choca o ovo da serpente da extrema direita de Tarcísio de Freitas e Guilherme Derrite.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 10,
+              "text": "A frente ampla com Haddad, por sua vez, não oferece uma saída porque aceita governar dentro dos limites impostos pelos mesmos interesses que sustentam as privatizações, a dívida pública e a precarização."
+            },
+            {
+              "id": "s09",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A vida da população é sequestrada pela inadimplência e pelo medo do desemprego, enriquecendo a mesma minoria de banqueiros que lucra com a dívida pública do Estado."
+            },
+            {
+              "id": "s14",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "A relação direta entre o reformismo e a ascensão da extrema direita Essa insistência na conciliação de classes e na submissão à responsabilidade fiscal é, precisamente, o combustível que choca o ovo da serpente da extrema direita de Tarcísio de Freitas e Guilherme Derrite."
+            },
+            {
+              "id": "s15",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "A construção de um futuro digno exige a ruptura imediata com os interesses dos banqueiros, a suspensão do pagamento da dívida pública e a reversão de todas as privatizações que entregaram a Sabesp, a Enel e o transporte metroferroviário aos parasitas do capital."
+            },
+            {
+              "id": "s31",
+              "page_start": 42,
+              "page_end": 46,
+              "text": "⬤Suspensão imediata do pagamento da dívida pública do estado de São Paulo aos grandes investidores, banqueiros e especuladores nacionais e internacionais, retendo esses bilhões para o financiamento dos serviços públicos e do plano de obras estatais; ⬤Instalação de uma ampla Auditoria Operária e Cidadã da Dívida Estadual, controlada pelos sindicatos e movimentos sociais, para investigar, expor e anular as fraudes e desvios cometidos pelo mercado financeiro contra o patrimônio do povo trabalhador; ⬤Tributação fortemente progressiva sobre os lucros empresariais e dividendos das corporações bilionárias e multinacionais, combinada à taxação e confisco das grandes fortunas acumuladas no topo da pirâmide pelas famílias herdeiras da exploração paulista; ⬤Criação de um banco público estadual e de um sistema público de crédito, financiados com recursos recuperados das privatizações, da revisão dos benefícios fiscais e da auditoria da dívida, para sustentar habitação, transporte, agricultura familiar e reindustrialização."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 14,
+          "page_end": 34,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "⬤Plano regional de concursos para medicina, enfermagem, psicologia, assistência social, fisioterapia, farmácia, odontologia, reabilitação e demais áreas da saúde. ⬤Defesa da saúde mental, com ampliação do cuidado em liberdade e integração entre CAPS, hospitais gerais, atenção básica, assistência social e moradia.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "tabilidade, a baixos salários e à ausência de proteção social."
+            },
+            {
+              "id": "s22",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "⬤Plano regional de concursos para medicina, enfermagem, psicologia, assistência social, fisioterapia, farmácia, odontologia, reabilitação e demais áreas da saúde. ⬤Defesa da saúde mental, com ampliação do cuidado em liberdade e integração entre CAPS, hospitais gerais, atenção básica, assistência social e moradia."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 15,
+          "page_end": 39,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "A Secretaria de Meio Ambiente, Infraestrutura e Logística perde 18,5% e passa a contar com R$ 8,9 bilhões. Cidade, moradia e meio ambiente Moradia popular e o direito à cidade ⬤A reversão imediata da privatização e da venda do centro de São Paulo aos bilionários, suspendendo todas as Parcerias Público-Privadas (PPPs) da habitação e as remoções violentas executadas pela CDHU em bairros como os Campos Elíseos e na Favela do Moinho.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "A Secretaria de Meio Ambiente, Infraestrutura e Logística perde 18,5% e passa a contar com R$ 8,9 bilhões."
+            },
+            {
+              "id": "s27",
+              "page_start": 38,
+              "page_end": 39,
+              "text": "Cidade, moradia e meio ambiente Moradia popular e o direito à cidade ⬤A reversão imediata da privatização e da venda do centro de São Paulo aos bilionários, suspendendo todas as Parcerias Público-Privadas (PPPs) da habitação e as remoções violentas executadas pela CDHU em bairros como os Campos Elíseos e na Favela do Moinho."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 24,
+          "page_end": 46,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "A agricultura familiar continuou recebendo uma fração muito menor. ⬤Taxação progressiva e expropriação das grandes fortunas de famílias herdeiras do escravismo paulista, direcionando esses recursos para o financiamento da agricultura familiar, indígena e quilombola. Soberania alimentar e combate à fome ⬤Superação do modelo destrutivo do agronegócio agroexportador, redirecionando o crédito público, os subsídios, a assistência técnica, a pesquisa e as compras governamentais para a agricultura familiar, as cooperativas e a agroecologia, incentivando a produção de alimentos saudáveis para abastecer a população paulista, o que exige o enfrentamento organizado dos agricultores familiares e trabalhadores rurais ao latifúndio e ao capital agroindustrial que controlam o Estado.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "A agricultura familiar continuou recebendo uma fração muito menor."
+            },
+            {
+              "id": "s27",
+              "page_start": 38,
+              "page_end": 39,
+              "text": "⬤Taxação progressiva e expropriação das grandes fortunas de famílias herdeiras do escravismo paulista, direcionando esses recursos para o financiamento da agricultura familiar, indígena e quilombola."
+            },
+            {
+              "id": "s28",
+              "page_start": 39,
+              "page_end": 40,
+              "text": "Soberania alimentar e combate à fome ⬤Superação do modelo destrutivo do agronegócio agroexportador, redirecionando o crédito público, os subsídios, a assistência técnica, a pesquisa e as compras governamentais para a agricultura familiar, as cooperativas e a agroecologia, incentivando a produção de alimentos saudáveis para abastecer a população paulista, o que exige o enfrentamento organizado dos agricultores familiares e trabalhadores rurais ao latifúndio e ao capital agroindustrial que controlam o Estado."
+            },
+            {
+              "id": "s29",
+              "page_start": 40,
+              "page_end": 41,
+              "text": "⬤Fortalecer a pesquisa e a assistência técnica públicas para a agricultura familiar, com realização de concursos, retomada da extensão rural, incorporação das estruturas de pesquisa das grandes corporações ao patrimônio público e desenvolvimento de tecnologias voltadas à agricultura familiar, à agroecologia e à produção de alimentos, rompendo a dependência das multinacionais do agronegócio. ⬤Crédito subsidiado e compras públicas para a agricultura familiar, assentamentos, cooperativas de trabalhadores e transição agroecológica."
+            },
+            {
+              "id": "s31",
+              "page_start": 42,
+              "page_end": 46,
+              "text": "⬤Suspensão imediata do pagamento da dívida pública do estado de São Paulo aos grandes investidores, banqueiros e especuladores nacionais e internacionais, retendo esses bilhões para o financiamento dos serviços públicos e do plano de obras estatais; ⬤Instalação de uma ampla Auditoria Operária e Cidadã da Dívida Estadual, controlada pelos sindicatos e movimentos sociais, para investigar, expor e anular as fraudes e desvios cometidos pelo mercado financeiro contra o patrimônio do povo trabalhador; ⬤Tributação fortemente progressiva sobre os lucros empresariais e dividendos das corporações bilionárias e multinacionais, combinada à taxação e confisco das grandes fortunas acumuladas no topo da pirâmide pelas famílias herdeiras da exploração paulista; ⬤Criação de um banco público estadual e de um sistema público de crédito, financiados com recursos recuperados das privatizações, da revisão dos benefícios fiscais e da auditoria da dívida, para sustentar habitação, transporte, agricultura familiar e reindustrialização."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 32,
+          "page_end": 33,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "⬤Criação de um polo estadual de tecnologia, semicondutores e inteligência artificial 100% público, vinculado às universidades estaduais.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "⬤Criação de um polo estadual de tecnologia, semicondutores e inteligência artificial 100% público, vinculado às universidades estaduais."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 22,
+          "page_end": 34,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O próprio Estado não publica de forma simples um retrato consolidado da idade, das aposentadorias previstas e das vagas por carreira, o que dificulta o planejamento e favorece a substituição silenciosa do serviço público pela iniciativa privada. No serviço público de São Paulo, como exemplo, nenhum trabalhador ou prestador de serviço trabalha em jornada 6x1 ou mais que 36 horas semanais. ⬤Proibição absoluta das terceirizações em todas as atividades do serviço público estadual, com a efetivação e incorporação imediata de todos os trabalhadores terceirizados com igualdade de salários e direitos.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "O próprio Estado não publica de forma simples um retrato consolidado da idade, das aposentadorias previstas e das vagas por carreira, o que dificulta o planejamento e favorece a substituição silenciosa do serviço público pela iniciativa privada."
+            },
+            {
+              "id": "s20",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "No serviço público de São Paulo, como exemplo, nenhum trabalhador ou prestador de serviço trabalha em jornada 6x1 ou mais que 36 horas semanais. ⬤Proibição absoluta das terceirizações em todas as atividades do serviço público estadual, com a efetivação e incorporação imediata de todos os trabalhadores terceirizados com igualdade de salários e direitos."
+            },
+            {
+              "id": "s22",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Serviços públicos e infraestrutura coletiva Saúde pública 100% estatal ⬤Fim das Organizações Sociais e reestatização dos hospitais e serviços privatizados, com gestão pública direta e controle dos trabalhadores e usuários."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002541303",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002541303_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002541303_01.pdf",
+      "sha256": "55f742949759f84ea5d55040a9b33493935ad235cb52fb78b86f1ed84e747a93",
+      "summary": "Vamos também apoiar as prefeituras no fortalecimento e expansão do acesso à educação infantil, com foco na ampliação da oferta de creches, pré-escolas e escolas, especialmente em regiões mais vulneráveis, mediante construção de novas unidades ou ampliação de salas em unidades existentes, além de auxílio em reformas, climatização e modernização das unidades de ensino municipais, elevando o padrão de conforto em todo o estado e garantindo o suporte às mães que trabalham. Desde março de 2024, a educação financeira passou a integrar o currículo da rede estadual, com aulas semanais para mais de 1 milhão de estudantes do 8º e 9º anos do ensino fundamental e das três séries do ensino médio. 17.743/2023), que levou finanças e empreendedorismo ao ensino médio, e a formação continuada dos educadores, com o curso de extensão de 120 horas em educação financeira ofertado pela EFAPE (Escola de Formação e Aperfeiçoamento dos Profissionais de Educação), garantindo que o professor esteja preparado para o tema. A iniciativa conecta especialistas a regiões que enfrentam dificuldades de acesso, levando atendimento desde a atenção básica até serviços de alta complexidade. Nossa rede estadual ficará mais integrada e interoperável, conectando municípios, hospitais, ambulatórios, unidades de urgência e demais serviços do SUS, por meio do Histórico Clínico Digital Unificado, com um sistema digital voltado à articulação de dados clínicos, hospitalares e integração dos serviços de atenção especializada com a atenção básica. Consolidaremos a Tabela SUS Paulista para os hospitais públicos municipais e para os serviços municipais de Terapia Renal Substitutiva. Tivemos a coragem de combater o crime organizado sistematicamente num trabalho conjunto com as demais instituições que enfrentam a criminalidade. Proteção de grupos vulneráveis, combate qualificado ao crime organizado, aos crimes cibernéticos, aos roubos e furtos de celular e à violência doméstica. Transformaremos o Centro de Comando e Controle (CICC) em um centro tecnológico de comando, monitoramento e resposta em tempo real, com funcionamento 24 horas e integração total de inteligências, reunindo polícias militar, civil e técnico-científica, corpo de bombeiros, guardas municipais, sistema penitenciário, defesa civil, entre outros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 20,
+          "page_end": 30,
+          "topics": [
+            "education"
+          ],
+          "summary": "Vamos também apoiar as prefeituras no fortalecimento e expansão do acesso à educação infantil, com foco na ampliação da oferta de creches, pré-escolas e escolas, especialmente em regiões mais vulneráveis, mediante construção de novas unidades ou ampliação de salas em unidades existentes, além de auxílio em reformas, climatização e modernização das unidades de ensino municipais, elevando o padrão de conforto em todo o estado e garantindo o suporte às mães que trabalham. Desde março de 2024, a educação financeira passou a integrar o currículo da rede estadual, com aulas semanais para mais de 1 milhão de estudantes do 8º e 9º anos do ensino fundamental e das três séries do ensino médio. 17.743/2023), que levou finanças e empreendedorismo ao ensino médio, e a formação continuada dos educadores, com o curso de extensão de 120 horas em educação financeira ofertado pela EFAPE (Escola de Formação e Aperfeiçoamento dos Profissionais de Educação), garantindo que o professor esteja preparado para o tema.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "Formação conectada ao ensino superior e ao mundo do trabalho. Vamos também apoiar as prefeituras no fortalecimento e expansão do acesso à educação infantil, com foco na ampliação da oferta de creches, pré-escolas e escolas, especialmente em regiões mais vulneráveis, mediante construção de novas unidades ou ampliação de salas em unidades existentes, além de auxílio em reformas, climatização e modernização das unidades de ensino municipais, elevando o padrão de conforto em todo o estado e garantindo o suporte às mães que trabalham."
+            },
+            {
+              "id": "s20",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Desde março de 2024, a educação financeira passou a integrar o currículo da rede estadual, com aulas semanais para mais de 1 milhão de estudantes do 8º e 9º anos do ensino fundamental e das três séries do ensino médio. 17.743/2023), que levou finanças e empreendedorismo ao ensino médio, e a formação continuada dos educadores, com o curso de extensão de 120 horas em educação financeira ofertado pela EFAPE (Escola de Formação e Aperfeiçoamento dos Profissionais de Educação), garantindo que o professor esteja preparado para o tema."
+            },
+            {
+              "id": "s21",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "nos anos iniciais, noções básicas e letramento sobre o que é a inteligência artificial; nos anos finais do ensino fundamental, compreensão da tecnologia e uso crítico; e no ensino médio, inovação aplicada."
+            },
+            {
+              "id": "s22",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Para mais oportunidades, seja nas Faculdades de Tecnologia do Centro Paula Souza (FATECs) ou nas universidades públicas estaduais, São Paulo também inovou ao criar o Provão Paulista, uma iniciativa inédita que democratiza o acesso ao ensino superior gratuito. O modelo permite que estudantes da rede pública ingressem diretamente em instituições de excelência como USP, Unesp, Unicamp, Fatec e Univesp, por meio de uma avaliação seriada realizada ao longo dos três anos do ensino médio."
+            },
+            {
+              "id": "s23",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "3.9 Expandiremos o Programa de Ensino Integral, promovendo a formação continuada de professores na própria escola, a melhoria contínua da gestão do clima escolar, a educação profissional integrada ao ensino médio, a recomposição da aprendizagem customizada por grupos, a cultura de permanência na escola, A articulação entre as atividades de cultura e de educação, com destaque para o Projeto Guri nas Escolas, será ampliada."
+            },
+            {
+              "id": "s24",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Implantaremos novas unidades disponibilizando mais de 35 mil vagas em tempo integral."
+            },
+            {
+              "id": "s26",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "MAIS RESULTADOS DA GESTÃO TARCÍSIO 2023-2026 E PROJETOS EM ANDAMENTO Ampliaremos os Canais Diretos com a Família, com base na modernização dos aplicativos de gestão e no reforço aos canais presenciais de comunicação (reunião e atendimentos na escola), para que pais e responsáveis acompanhem as informações sobre boletins, frequência, tarefas, calendário, agenda escolar e merenda em tempo real, aproximando as famílias da trajetória escolar do estudante. Reforçaremos e sistematizaremos os canais de comunicação ativa, incluindo divulgação de atividades complementares e pedagógicas, realização de fóruns temáticos, apresentação de trabalhos e conquistas dos estudantes."
+            },
+            {
+              "id": "s27",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "Apoiaremos as prefeituras com a implantação da metodologia do Programa Alfabetiza Juntos SP; Auxiliaremos as prefeituras em relação ao acesso às creches e educação infantil, com ações de busca ativa e a construção de novas unidades ou ampliação das existentes, a partir de um diagnóstico territorial consistente para atendimento adequado à demanda; Intensificaremos, junto aos 645 municípios, programas para vacinação em creches e escolas municipais e estaduais, unidades da atenção primária, com estratégias de busca ativa e visitas casa a casa; Desenvolveremos o Programa Estadual de Tecnologia Assistiva para Crianças Vulneráveis, com fornecimento de órteses e próteses, cadeiras de rodas e demais meios auxiliares, aparelhos auditivos e implantes cocleares."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 11,
+          "page_end": 31,
+          "topics": [
+            "health"
+          ],
+          "summary": "A iniciativa conecta especialistas a regiões que enfrentam dificuldades de acesso, levando atendimento desde a atenção básica até serviços de alta complexidade. Nossa rede estadual ficará mais integrada e interoperável, conectando municípios, hospitais, ambulatórios, unidades de urgência e demais serviços do SUS, por meio do Histórico Clínico Digital Unificado, com um sistema digital voltado à articulação de dados clínicos, hospitalares e integração dos serviços de atenção especializada com a atenção básica. Consolidaremos a Tabela SUS Paulista para os hospitais públicos municipais e para os serviços municipais de Terapia Renal Substitutiva.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "A iniciativa conecta especialistas a regiões que enfrentam dificuldades de acesso, levando atendimento desde a atenção básica até serviços de alta complexidade. Nossa rede estadual ficará mais integrada e interoperável, conectando municípios, hospitais, ambulatórios, unidades de urgência e demais serviços do SUS, por meio do Histórico Clínico Digital Unificado, com um sistema digital voltado à articulação de dados clínicos, hospitalares e integração dos serviços de atenção especializada com a atenção básica."
+            },
+            {
+              "id": "s10",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Consolidaremos a Tabela SUS Paulista para os hospitais públicos municipais e para os serviços municipais de Terapia Renal Substitutiva."
+            },
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Os mesmos estudos indicam que melhores condições de saúde mental estão associadas a maior produtividade, mais inovação e capacidade empreendedora, desempenho escolar e produtivo, maior participação no mercado de trabalho e redução do uso de serviços hospitalares. Vamos reduzir desigualdades e fragmentações, qualificar fluxos assistenciais e atuar para diminuição de vazios assistenciais, de modo a ampliar o acesso, a qualidade e a integralidade dos serviços de saúde mental, respeitando o protagonismo municipal na Rede de Atenção Psicossocial."
+            },
+            {
+              "id": "s13",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Suas potencialidades também são desenvolvidas com o incentivo para o retorno aos estudos e ao mercado Promoveremos capacitações específicas para as equipes das unidades municipais, considerando a gama de desafios relacionados ao contexto contemporâneo, buscando a pactuação na integração dos processos de atenção e cuidado à saúde mental em todos os ciclos da vida, da infância ao envelhecimento. Daremos especial atenção às ações de apoio à saúde mental das mães atípicas, com um atendimento que reconheça as especificidades da sobrecarga vivida por essas mães."
+            },
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "Mais do que incentivar a prática esportiva, o objetivo será incorporar a atividade física à política de saúde de São Paulo, ajudando as pessoas a prevenirem doenças, preservarem a autonomia e viverem mais e melhor."
+            },
+            {
+              "id": "s29",
+              "page_start": 31,
+              "page_end": 31,
+              "text": "Criaremos os Espaços da Mãe Atípica Paulista, para acolhimento e cuidado integral, incluindo saúde mental, autoestima e qualificação profissional, com orientação continuada, encaminhamento facilitado a serviços e suporte em momentos de crise."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 10,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Tivemos a coragem de combater o crime organizado sistematicamente num trabalho conjunto com as demais instituições que enfrentam a criminalidade. Proteção de grupos vulneráveis, combate qualificado ao crime organizado, aos crimes cibernéticos, aos roubos e furtos de celular e à violência doméstica. Transformaremos o Centro de Comando e Controle (CICC) em um centro tecnológico de comando, monitoramento e resposta em tempo real, com funcionamento 24 horas e integração total de inteligências, reunindo polícias militar, civil e técnico-científica, corpo de bombeiros, guardas municipais, sistema penitenciário, defesa civil, entre outros.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Tivemos a coragem de combater o crime organizado sistematicamente num trabalho conjunto com as demais instituições que enfrentam a criminalidade."
+            },
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "Proteção de grupos vulneráveis, combate qualificado ao crime organizado, aos crimes cibernéticos, aos roubos e furtos de celular e à violência doméstica. Transformaremos o Centro de Comando e Controle (CICC) em um centro tecnológico de comando, monitoramento e resposta em tempo real, com funcionamento 24 horas e integração total de inteligências, reunindo polícias militar, civil e técnico-científica, corpo de bombeiros, guardas municipais, sistema penitenciário, defesa civil, entre outros."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "COSUD (Consórcio de Integração Sul e Sudeste) uma agenda de propostas de mudanças na legislação federal para tornar as normas mais duras e efetivas no combate ao crime organizado. Desde 2023, São Paulo realiza, em média, uma operação integrada contra o crime organizado a cada três dias, como desarticulação de organizações criminosas, combate ao tráfico de drogas, investigação patrimonial e recuperação de ativos."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "O programa inovador do primeiro mandato do Governo Tarcísio, que reinveste os bens e os valores apreendidos do crime organizado em equipamentos, tecnologia e infraestrutura para segurança, será intensificado por meio do Fundo de Incentivo à Segurança Pública (FISP)."
+            },
+            {
+              "id": "s07",
+              "page_start": 10,
+              "page_end": 10,
+              "text": "Fortalecimento e integração entre a esfera da segurança pública e o sistema prisional com o SP CIN no monitoramento e neutralização de rede de comunicação ilícita. 16,2 mil novos policiais, com um total já autorizado de 30,5 mil."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 11,
+          "page_end": 30,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Vamos expandir e acelerar parcerias de transferência de tecnologia e pesquisa transnacional com o setor público e privado e buscar mais investimento em P&D para consolidar São Paulo como polo nacional de inovação, produção e geração de emprego no setor. Os mesmos estudos indicam que melhores condições de saúde mental estão associadas a maior produtividade, mais inovação e capacidade empreendedora, desempenho escolar e produtivo, maior participação no mercado de trabalho e redução do uso de serviços hospitalares. Esse crescimento aproxima São Paulo dos padrões dos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE).",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "Vamos expandir e acelerar parcerias de transferência de tecnologia e pesquisa transnacional com o setor público e privado e buscar mais investimento em P&D para consolidar São Paulo como polo nacional de inovação, produção e geração de emprego no setor."
+            },
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Os mesmos estudos indicam que melhores condições de saúde mental estão associadas a maior produtividade, mais inovação e capacidade empreendedora, desempenho escolar e produtivo, maior participação no mercado de trabalho e redução do uso de serviços hospitalares."
+            },
+            {
+              "id": "s22",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Esse crescimento aproxima São Paulo dos padrões dos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Criaremos o Observatório de Profissões do Futuro para apoiar a identificação de tendências do mercado, demanda por competências, setores emergentes O Programa Bolsa Estágio do Ensino Médio, o BEEM, será triplicado, atingindo mais de 50 mil alunos com estágios remunerados, multiplicando as pontes entre a escola e o mercado de trabalho."
+            },
+            {
+              "id": "s27",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "Conexão entre assistência social, trabalho e desenvolvimento econômico, com habitação digna, acesso à água, coleta e tratamento de esgoto."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 7,
+          "page_end": 33,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A integração ultrapassará os limites das forças policiais e poderá envolver, conforme a natureza da ocorrência, a perícia, a mobilidade viária, a Defesa Civil, a saúde, a assistência social, os municípios e as redes de proteção a grupos vulneráveis. Também continuaremos o programa de recuperação de cenas abertas de uso, com ações conjugadas de segurança, saúde, assistência social, habitação e desenvolvimento urbano. Implementaremos os Hubs Regionalizados de Cuidados em Crack e Outras Drogas em outras regiões do estado, assim como foi feito na capital, para atendimento gratuito, orientação e encaminhamento para tratamento, dentro de uma abordagem integrada que combina ações preventivas, tratamento médico, apoio psicossocial, assistência social e demais ações para potencialização dos resultados de prevenção, desintoxicação e reabilitação.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A integração ultrapassará os limites das forças policiais e poderá envolver, conforme a natureza da ocorrência, a perícia, a mobilidade viária, a Defesa Civil, a saúde, a assistência social, os municípios e as redes de proteção a grupos vulneráveis."
+            },
+            {
+              "id": "s08",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Também continuaremos o programa de recuperação de cenas abertas de uso, com ações conjugadas de segurança, saúde, assistência social, habitação e desenvolvimento urbano."
+            },
+            {
+              "id": "s13",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "Implementaremos os Hubs Regionalizados de Cuidados em Crack e Outras Drogas em outras regiões do estado, assim como foi feito na capital, para atendimento gratuito, orientação e encaminhamento para tratamento, dentro de uma abordagem integrada que combina ações preventivas, tratamento médico, apoio psicossocial, assistência social e demais ações para potencialização dos resultados de prevenção, desintoxicação e reabilitação. A atuação se dará de forma articulada entre as políticas de saúde e assistência social."
+            },
+            {
+              "id": "s14",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "O SP MOVIMENTA será uma política estadual de promoção da atividade física, prevenção de doenças e envelhecimento saudável, articulando as áreas da saúde, esporte, educação, assistência social e desenvolvimento urbano, em parceria com os municípios."
+            },
+            {
+              "id": "s27",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "Segurança alimentar e rede de apoio integral às famílias, com atenção especial para crianças, pessoas idosas, pessoas com deficiência, e promoção à inclusão social. Conexão entre assistência social, trabalho e desenvolvimento econômico, com habitação digna, acesso à água, coleta e tratamento de esgoto."
+            },
+            {
+              "id": "s28",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "ajudar quem mais precisa a romper o ciclo da pobreza por meio do acesso à renda, qualificação profissional, educação, saúde, assistência social e inclusão produtiva."
+            },
+            {
+              "id": "s32",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Viabilizaremos a implantação de equipamentos públicos e sociais, como as Praças da Cidadania, que combinam a realização de melhorias urbanas como a implantação de espaços destinados ao esporte, lazer e à convivência comunitária, com a oferta de cursos de qualificação profissional e de políticas de assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 20,
+          "page_end": 20,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "preparar o cidadão para os desafios do presente e do futuro, com educação de qualidade, acessível e inclusiva, adaptada às diferentes linguagens e integrada à cultura, às finanças, ao meio ambiente, ao turismo e ao esporte.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "preparar o cidadão para os desafios do presente e do futuro, com educação de qualidade, acessível e inclusiva, adaptada às diferentes linguagens e integrada à cultura, às finanças, ao meio ambiente, ao turismo e ao esporte."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 11,
+          "page_end": 26,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Na assistência farmacêutica, aprofundaremos a transformação digital em toda a cadeia logística e assistencial. Vamos criar um sistema capaz de identificar, com antecedência, sinais de possíveis surtos de doenças de notificação obrigatória, reunindo informações de diferentes sistemas e utilizando inteligência artificial para apoiar ações rápidas de prevenção. dados, risco, crédito, orçamento familiar, algoritmos, inteligência artificial, ciência, tecnologia, engenharia, economia e políticas públicas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 11,
+              "page_end": 14,
+              "text": "Na assistência farmacêutica, aprofundaremos a transformação digital em toda a cadeia logística e assistencial. Vamos criar um sistema capaz de identificar, com antecedência, sinais de possíveis surtos de doenças de notificação obrigatória, reunindo informações de diferentes sistemas e utilizando inteligência artificial para apoiar ações rápidas de prevenção."
+            },
+            {
+              "id": "s19",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "dados, risco, crédito, orçamento familiar, algoritmos, inteligência artificial, ciência, tecnologia, engenharia, economia e políticas públicas."
+            },
+            {
+              "id": "s21",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "Vamos inserir o letramento e o ensino sobre inteligência artificial como parte da trajetória formativa dos estudantes. nos anos iniciais, noções básicas e letramento sobre o que é a inteligência artificial; nos anos finais do ensino fundamental, compreensão da tecnologia e uso crítico; e no ensino médio, inovação aplicada."
+            },
+            {
+              "id": "s25",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "Promoveremos o desenvolvimento de competências em novas tecnologias, inteligência artificial, gestão pedagógica por dados e ampliação da capacidade crítico-analítica para transformar diagnósticos em ação pedagógica."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 31,
+          "page_end": 32,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Ampliaremos o número de salas de acomodação sensorial para pessoas com TEA nas escolas e em locais de grande circulação de pessoas, como museus, parques públicos e estações de trem e metrô. Criaremos os Espaços da Mãe Atípica Paulista, para acolhimento e cuidado integral, incluindo saúde mental, autoestima e qualificação profissional, com orientação continuada, encaminhamento facilitado a serviços e suporte em momentos de crise. Fortaleceremos as políticas públicas de promoção à igualdade racial e enfrentamento ao racismo e de promoção da cidadania e combate à violência e ao preconceito contra a diversidade sexual.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 31,
+              "page_end": 31,
+              "text": "Ampliaremos o número de salas de acomodação sensorial para pessoas com TEA nas escolas e em locais de grande circulação de pessoas, como museus, parques públicos e estações de trem e metrô. Criaremos os Espaços da Mãe Atípica Paulista, para acolhimento e cuidado integral, incluindo saúde mental, autoestima e qualificação profissional, com orientação continuada, encaminhamento facilitado a serviços e suporte em momentos de crise."
+            },
+            {
+              "id": "s31",
+              "page_start": 32,
+              "page_end": 32,
+              "text": "Fortaleceremos as políticas públicas de promoção à igualdade racial e enfrentamento ao racismo e de promoção da cidadania e combate à violência e ao preconceito contra a diversidade sexual."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 27,
+          "page_end": 30,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Iremos estruturar uma rede integrada de atenção à pessoa idosa, com desenvolvimento de um plano de cuidado conectado aos serviços e benefícios mais adequados às necessidades; 4.1 Criaremos frentes integradas de centros-dia, cuidados domiciliares, programas habitacionais (Vida Longa), inclusão digital e iniciativas de lazer, esporte e cultura, turismo (programa Turismo 60+ SP) e iniciativas voltadas à promoção da autonomia e da permanência no território; Fortaleceremos o apoio às famílias e aos cuidadores por meio de ações de orientação, capacitação, apoio psicossocial e cuidados de alívio; Desenvolveremos mecanismos de apoio financeiro destinados a cuidadores familiares de pessoas idosas em situação de alta dependência e vulnerabilidade social; Promoveremos ações de convivência e integração entre gerações, fortalecendo vínculos familiares e comunitários, combatendo o isolamento social e o preconceito etário, ampliando oportunidades de participação, aprendizagem, voluntariado e exercício da cidadania; Apoiaremos os municípios na construção de territórios mais preparados para o envelhecimento populacional, fortalecendo mecanismos de certificação, reconhecimento e incentivo às boas pr",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "Iremos estruturar uma rede integrada de atenção à pessoa idosa, com desenvolvimento de um plano de cuidado conectado aos serviços e benefícios mais adequados às necessidades; 4.1 Criaremos frentes integradas de centros-dia, cuidados domiciliares, programas habitacionais (Vida Longa), inclusão digital e iniciativas de lazer, esporte e cultura, turismo (programa Turismo 60+ SP) e iniciativas voltadas à promoção da autonomia e da permanência no território; Fortaleceremos o apoio às famílias e aos cuidadores por meio de ações de orientação, capacitação, apoio psicossocial e cuidados de alívio; Desenvolveremos mecanismos de apoio financeiro destinados a cuidadores familiares de pessoas idosas em situação de alta dependência e vulnerabilidade social; Promoveremos ações de convivência e integração entre gerações, fortalecendo vínculos familiares e comunitários, combatendo o isolamento social e o preconceito etário, ampliando oportunidades de participação, aprendizagem, voluntariado e exercício da cidadania; Apoiaremos os municípios na construção de territórios mais preparados para o envelhecimento populacional, fortalecendo mecanismos de certificação, reconhecimento e incentivo às boas pr"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002544912",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002544912_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002544912_01.pdf",
+      "sha256": "c08e17af71871ce4a7a325bb335005f1f722f26d04c29250ec5e3775600bd70b",
+      "summary": "Nosso governo realizará conValorizar os servidores significa fortalecer a saúde pública, a educação, a segurança, a assistência social e todos os serviços essenciais oferecidos ao povo. É uma medida de saúde pública, de preservação ambiental e de redução das desigualdades sociais. Foi esse princípio que orientou a criação do Sistema Único de Saúde (SUS), uma das maiores conquistas da classe trabalhadora brasileira e um dos mais importantes sistemas públicos de saúde do mundo. A segurança pública conta com R$ 20,1 bilhões, enquanto a educação sofre com cortes e incertezas provocados pela reforma fiscal do governo, que ameaça o financiamento das universidades estaduais. de um lado, o crime organizado, que impõe medo e controle sobre diversos territórios; de outro, uma política de segurança pública baseada na morte, que transforma principalmente a juventude negra e periférica em alvo da violência estatal. Nosso governo ampliará os investimentos na pesquisa pública, fortalecerá a Fapesp e seus pesquisadores, incentivará a produção tecnológica nacional e promoverá a integração entre universidades, empresas públicas e centros de pesquisa para desenvolver soluções nas áreas da saúde, mobilidade, agricultura, tecnologia da informação, defesa civil, transição energética e combate às mudanças climáticas. Aqui estão concentrados o maior parque industrial da América Latina, importantes centros de pesquisa, universidades de excelência, grandes empresas, infraestrutura estratégica e milhões de trabalhadores e trabalhadoras que, todos os dias, produzem a riqueza que movimenta a economia brasileira. Em vez de estimular a produção, a industrialização, a geração de empregos e o desenvolvimento científico, a riqueza produzida pelo povo é cada vez mais apropriada por bancos, fundos de investimento e grandes rentistas, que obtêm Foi esse projeto que sucessivos governos de direita aprofundaram nas últimas décadas e que encontrou no governo Tarcísio de Freitas sua expressão mais agressiva. O desenvolvimento econômico não pode continuar sendo medido pelo crescimento dos lucros das grandes empresas, mas pela melhoria concreta das condições de vida do povo. O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 22,
+          "page_end": 46,
+          "topics": [
+            "health"
+          ],
+          "summary": "Nosso governo realizará conValorizar os servidores significa fortalecer a saúde pública, a educação, a segurança, a assistência social e todos os serviços essenciais oferecidos ao povo. É uma medida de saúde pública, de preservação ambiental e de redução das desigualdades sociais. Foi esse princípio que orientou a criação do Sistema Único de Saúde (SUS), uma das maiores conquistas da classe trabalhadora brasileira e um dos mais importantes sistemas públicos de saúde do mundo.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 26,
+              "text": "Nosso governo realizará conValorizar os servidores significa fortalecer a saúde pública, a educação, a segurança, a assistência social e todos os serviços essenciais oferecidos ao povo."
+            },
+            {
+              "id": "s17",
+              "page_start": 37,
+              "page_end": 40,
+              "text": "É uma medida de saúde pública, de preservação ambiental e de redução das desigualdades sociais."
+            },
+            {
+              "id": "s20",
+              "page_start": 43,
+              "page_end": 43,
+              "text": "Foi esse princípio que orientou a criação do Sistema Único de Saúde (SUS), uma das maiores conquistas da classe trabalhadora brasileira e um dos mais importantes sistemas públicos de saúde do mundo. Em vez de fortalecer a capacidade do Estado de planejar, administrar e ampliar os serviços públicos, criou-se um modelo marcado pela precarizaE ACABAR COM A PRIVATIZAÇÃO DA SAÚDE PÚBLICA"
+            },
+            {
+              "id": "s21",
+              "page_start": 43,
+              "page_end": 46,
+              "text": "O governo Tarcísio aprofundou essa política, ampliando a presença do setor privado na administração da saúde pública e enfraquecendo ainda mais a gestão direta do Estado. Enquanto isso, milhões de paulistas continuam enfrentando longas filas para consultas, exames e cirurgias, hospitais superlotados, falta de profis43 Fortalecer o SUS como patrimônio do povo brasileiro O Sistema Único de Saúde precisa ser tratado como prioridade permanente do Estado."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 9,
+          "page_end": 35,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública conta com R$ 20,1 bilhões, enquanto a educação sofre com cortes e incertezas provocados pela reforma fiscal do governo, que ameaça o financiamento das universidades estaduais. de um lado, o crime organizado, que impõe medo e controle sobre diversos territórios; de outro, uma política de segurança pública baseada na morte, que transforma principalmente a juventude negra e periférica em alvo da violência estatal. Nosso governo ampliará os investimentos na pesquisa pública, fortalecerá a Fapesp e seus pesquisadores, incentivará a produção tecnológica nacional e promoverá a integração entre universidades, empresas públicas e centros de pesquisa para desenvolver soluções nas áreas da saúde, mobilidade, agricultura, tecnologia da informação, defesa civil, transição energética e combate às mudanças climáticas.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "A segurança pública conta com R$ 20,1 bilhões, enquanto a educação sofre com cortes e incertezas provocados pela reforma fiscal do governo, que ameaça o financiamento das universidades estaduais. de um lado, o crime organizado, que impõe medo e controle sobre diversos territórios; de outro, uma política de segurança pública baseada na morte, que transforma principalmente a juventude negra e periférica em alvo da violência estatal."
+            },
+            {
+              "id": "s11",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Nosso governo ampliará os investimentos na pesquisa pública, fortalecerá a Fapesp e seus pesquisadores, incentivará a produção tecnológica nacional e promoverá a integração entre universidades, empresas públicas e centros de pesquisa para desenvolver soluções nas áreas da saúde, mobilidade, agricultura, tecnologia da informação, defesa civil, transição energética e combate às mudanças climáticas."
+            },
+            {
+              "id": "s15",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida. O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 9,
+          "page_end": 46,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Aqui estão concentrados o maior parque industrial da América Latina, importantes centros de pesquisa, universidades de excelência, grandes empresas, infraestrutura estratégica e milhões de trabalhadores e trabalhadoras que, todos os dias, produzem a riqueza que movimenta a economia brasileira. Em vez de estimular a produção, a industrialização, a geração de empregos e o desenvolvimento científico, a riqueza produzida pelo povo é cada vez mais apropriada por bancos, fundos de investimento e grandes rentistas, que obtêm Foi esse projeto que sucessivos governos de direita aprofundaram nas últimas décadas e que encontrou no governo Tarcísio de Freitas sua expressão mais agressiva. O desenvolvimento econômico não pode continuar sendo medido pelo crescimento dos lucros das grandes empresas, mas pela melhoria concreta das condições de vida do povo.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "Aqui estão concentrados o maior parque industrial da América Latina, importantes centros de pesquisa, universidades de excelência, grandes empresas, infraestrutura estratégica e milhões de trabalhadores e trabalhadoras que, todos os dias, produzem a riqueza que movimenta a economia brasileira. Em vez de estimular a produção, a industrialização, a geração de empregos e o desenvolvimento científico, a riqueza produzida pelo povo é cada vez mais apropriada por bancos, fundos de investimento e grandes rentistas, que obtêm Foi esse projeto que sucessivos governos de direita aprofundaram nas últimas décadas e que encontrou no governo Tarcísio de Freitas sua expressão mais agressiva."
+            },
+            {
+              "id": "s07",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "O desenvolvimento econômico não pode continuar sendo medido pelo crescimento dos lucros das grandes empresas, mas pela melhoria concreta das condições de vida do povo. O desenvolvimento econômico não pode continuar sendo medido pelo crescimento dos lucros das grandes empresas, mas pela melhoria concreta das condições de vida do povo."
+            },
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 26,
+              "text": "toda decisão do Estado deve contribuir para melhorar a vida da classe trabalhadora. Trabalho digno, salário digno Pelo fim da escala 6×1 Defendemos o fim da escala 6×1 porque acreditamos que o desenvolvimento deve servir para melhorar a qualidade de vida do povo e não apenas para aumentar a produtividade e os lucros das empresas."
+            },
+            {
+              "id": "s10",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Nenhum outro estado do país reúne tantas condições para garantir emprego, salário e qualidade de vida ao seu povo como São Paulo. dutiva de São Paulo, fortalecer a indústria, estimular a inovação, ampliar os investimentos públicos e colocar toda a riqueza produzida em nosso estado a serviço do povo trabalhador."
+            },
+            {
+              "id": "s11",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Enquanto bancos e fundos de investimento registram lucros recordes, pequenas empresas fecham as portas, cadeias industriais são desmontadas e regiões inteiras deixam de Hoje, em vez de investir na indústria, na ciência, na infraestrutura e na geração de empregos, o Governo do Estado de São Paulo favorece os interesses do mercado financeiro, concedendo benefícios ao grande capital e deixando que setores estratégicos da economia fossem enfraquecidos ou entregues à iniciativa privada. Nossa prioridade será reconstruir a capacidade proReindustrializar São Paulo para gerar empregos de qualidade A industrialização foi uma das principais responsáveis pelo desenvolvimento econômico paulista."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "ampliando investimentos em infraestrutura, logística, indústria naval e geração de empregos e não aos interesses de operadores privados."
+            },
+            {
+              "id": "s15",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "Seus efeitos já são sentidos diariamente em São Paulo, cujas consequências são enchentes, deslizamentos, secas prolongadas, ondas de calor, queimadas e a destruiPor isso, nosso plano de desenvolvimento sustentável para o estado de São Paulo prevê a articulação e integração das políticas púPara a Unidade Popular pelo Socialismo, enfrentar a crise climática não significa impedir o desenvolvimento econômico."
+            },
+            {
+              "id": "s16",
+              "page_start": 35,
+              "page_end": 37,
+              "text": "Da mesma forma, o saneamento básico e a energia elétrica são condições indispensáveis para garantir saúde, dignidade, desenvolvimento econômico e qualidade de vida."
+            },
+            {
+              "id": "s19",
+              "page_start": 40,
+              "page_end": 43,
+              "text": "O transporte coletivo é um direito social e uma condição para reduzir desigualdades, integrar as regiões do estado e garantir desenvolvimento econômico. Ele é também uma ferramenta de desenvolvimento econômico."
+            },
+            {
+              "id": "s21",
+              "page_start": 43,
+              "page_end": 46,
+              "text": "A saúde deve ser também um motor da reindustrialização, da inovação científica e tecnológica e da geração de empregos qualificados."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 22,
+          "page_end": 35,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Nosso governo realizará conValorizar os servidores significa fortalecer a saúde pública, a educação, a segurança, a assistência social e todos os serviços essenciais oferecidos ao povo. O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida. O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 26,
+              "text": "Nosso governo realizará conValorizar os servidores significa fortalecer a saúde pública, a educação, a segurança, a assistência social e todos os serviços essenciais oferecidos ao povo."
+            },
+            {
+              "id": "s15",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida. O fortalecimento da defesa civil, alinhadas com uma justa política de habitação e assistência social, também faz parte da preservação da vida."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 37,
+          "page_end": 40,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Nosso governo ampliará os investimentos públicos para garantir que toda a população tenha acesso ao abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado de resíduos sólidos.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 37,
+              "page_end": 40,
+              "text": "Nosso governo ampliará os investimentos públicos para garantir que toda a população tenha acesso ao abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo adequado de resíduos sólidos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 32,
+          "page_end": 35,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Isso, por si só, não é possível no capitalismo, uma vez que o lucro da classe dominante está acima da vida das pessoas e do meio ambiente. Também fortaleceremos a fiscalização ambiental, combateremos o desmatamento, protegeremos os mananciais e preservaremos os biomas paulistas, compreendendo que a defesa do meio ambiente é uma condição para o desenvolvimento soberano do estado.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 32,
+              "page_end": 35,
+              "text": "Isso, por si só, não é possível no capitalismo, uma vez que o lucro da classe dominante está acima da vida das pessoas e do meio ambiente. Também fortaleceremos a fiscalização ambiental, combateremos o desmatamento, protegeremos os mananciais e preservaremos os biomas paulistas, compreendendo que a defesa do meio ambiente é uma condição para o desenvolvimento soberano do estado."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 29,
+          "page_end": 32,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O Vale do Ribeira terá prioridade em políticas de reforma agrária, agricultura familiar, agroindustrialização, turismo sustentável e preservação ambiental, enfrentando décadas de abandono e exclusão. Nosso Governo Popular realizará a reforma agrária no âmbito estadual como instrumento de democratização do acesso à terra e de combate à desigualdade no campo. Revogaremos a chamada Lei da Grilagem e retomaremos as terras públicas que foram entregues pelo Estado aos grandes capitalistas do agronegócio, destinando todas essas áreas à Reforma Agrária.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "O Vale do Ribeira terá prioridade em políticas de reforma agrária, agricultura familiar, agroindustrialização, turismo sustentável e preservação ambiental, enfrentando décadas de abandono e exclusão."
+            },
+            {
+              "id": "s14",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Nosso Governo Popular realizará a reforma agrária no âmbito estadual como instrumento de democratização do acesso à terra e de combate à desigualdade no campo. Revogaremos a chamada Lei da Grilagem e retomaremos as terras públicas que foram entregues pelo Estado aos grandes capitalistas do agronegócio, destinando todas essas áreas à Reforma Agrária."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 9,
+          "page_end": 19,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Em vez de enfrentar as causas sociais da violência, amplia-se o encarceramento, legitimam-se operações letais e naturaliza-se a violação de direitos humanos. A política de segurança pública não pode continuar baseada no extermínio da juventude negra e periférica, na repressão aos movimentos populares e na violação sistemática dos direitos humanos. Defendemos um Governo Popular comprometido com os trabalhadores e trabalhadoras do campo e da cidade, da Capital e do Interior, com os operários, a juventude, as mulheres, o povo negro, os povos indígenas, os quilombolas, os servidores públicos, os pequenos produtores, os interesses do grande capital e passará a atuar para garantir emprego, renda, direitos e qualidade de vida para quem vive do próprio trabalho.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "Em vez de enfrentar as causas sociais da violência, amplia-se o encarceramento, legitimam-se operações letais e naturaliza-se a violação de direitos humanos. A política de segurança pública não pode continuar baseada no extermínio da juventude negra e periférica, na repressão aos movimentos populares e na violação sistemática dos direitos humanos."
+            },
+            {
+              "id": "s07",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "Defendemos um Governo Popular comprometido com os trabalhadores e trabalhadoras do campo e da cidade, da Capital e do Interior, com os operários, a juventude, as mulheres, o povo negro, os povos indígenas, os quilombolas, os servidores públicos, os pequenos produtores, os interesses do grande capital e passará a atuar para garantir emprego, renda, direitos e qualidade de vida para quem vive do próprio trabalho. Não construiremos uma sociedade justa enquanto milhões de trabalhadores permanecerem submetidos à exploração, enquanto mulheres continuarem vítimas da violência machista, enquanto a juventude negra seguir sendo a principal vítima da violência de Estado, enquanto povos indígenas e comunidades quilombolas tiverem seus direitos negados e enquanto pessoas LGBTIA+ sofrerem discriminação."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 9,
+          "page_end": 46,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Avançaram as concessões e privatizações do uso crescente da violência como instrumento de controle social. Fortaleceremos os conselhos estaduais, realizaremos conferências periódicas deliberativas, ampliaremos os mecanismos de orçamento participativo e garantiremos controle social sobre as empresas públicas e os serviços essenciais. Enquanto cresce a concentração da riqueza, aumentam também a violência, a retirada de direitos, a perseguição aos movimentos populares e a tentativa de transformar o medo em instrumentos de governo e controle social.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 14,
+              "text": "Avançaram as concessões e privatizações do uso crescente da violência como instrumento de controle social."
+            },
+            {
+              "id": "s07",
+              "page_start": 14,
+              "page_end": 19,
+              "text": "Fortaleceremos os conselhos estaduais, realizaremos conferências periódicas deliberativas, ampliaremos os mecanismos de orçamento participativo e garantiremos controle social sobre as empresas públicas e os serviços essenciais. Enquanto cresce a concentração da riqueza, aumentam também a violência, a retirada de direitos, a perseguição aos movimentos populares e a tentativa de transformar o medo em instrumentos de governo e controle social."
+            },
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 26,
+              "text": "Não existe serviço público de qualidade sem servidores valorizados. Durante décadas, os trabalhadores do serviço público paulista enfrentaram congelamento salarial, terceirizações, falta de concursos e precarização das condições de trabalho."
+            },
+            {
+              "id": "s11",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Um Estado forte para construir um desenvolvimento soberano, popular e socialista Nosso governo utilizará o orçamento estadual, o sistema público de crédito, as empresas estatais e o poder de compra do Estado para impulsionar a produção, fortalecer empresas públicas, combater os monopólios privados e ampliar o controle social sobre os setores estratégicos da economia."
+            },
+            {
+              "id": "s17",
+              "page_start": 37,
+              "page_end": 40,
+              "text": "Nosso governo trabalhará pela retomada do controle público da Sabesp, garantindo redução nas tarifas e uma gestão transparente, eficiente e submetida ao controle social da população e dos trabalhadores da empresa."
+            },
+            {
+              "id": "s21",
+              "page_start": 43,
+              "page_end": 46,
+              "text": "O fim das Organizações Sociais e a retomada da gestão pública Nossa prioridade será substituir progressivamente a gestão privada realizada por Organizações Sociais pela administração pública direta dos serviços estaduais de saúde."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 26,
+          "page_end": 40,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Nosso governo ampliará os investimentos na pesquisa pública, fortalecerá a Fapesp e seus pesquisadores, incentivará a produção tecnológica nacional e promoverá a integração entre universidades, empresas públicas e centros de pesquisa para desenvolver soluções nas áreas da saúde, mobilidade, agricultura, tecnologia da informação, defesa civil, transição energética e combate às mudanças climáticas. A transição energética deve criar empregos, fortalecer a indústria nacional e reduzir impactos ambientais, nunca servir apenas como novo espaço de acumulação para grandes empresas. O Governo Popular defenderá a ampliação dos investimentos públicos em geração e distribuição de energia, incentivará fontes renováveis, fortalecerá a pesquisa científica e tecnológica e utilizará o planejamento estatal para garantir segurança energética, redução das desigualdades regionais e apoio à reindustrialização de São Paulo.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Nosso governo ampliará os investimentos na pesquisa pública, fortalecerá a Fapesp e seus pesquisadores, incentivará a produção tecnológica nacional e promoverá a integração entre universidades, empresas públicas e centros de pesquisa para desenvolver soluções nas áreas da saúde, mobilidade, agricultura, tecnologia da informação, defesa civil, transição energética e combate às mudanças climáticas."
+            },
+            {
+              "id": "s17",
+              "page_start": 37,
+              "page_end": 40,
+              "text": "A transição energética deve criar empregos, fortalecer a indústria nacional e reduzir impactos ambientais, nunca servir apenas como novo espaço de acumulação para grandes empresas. O Governo Popular defenderá a ampliação dos investimentos públicos em geração e distribuição de energia, incentivará fontes renováveis, fortalecerá a pesquisa científica e tecnológica e utilizará o planejamento estatal para garantir segurança energética, redução das desigualdades regionais e apoio à reindustrialização de São Paulo."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002544912",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002544912_02.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002544912_02.pdf",
+      "sha256": "9001db338d419c2c6a52513e9ad69102e36f1495997fe3d9fcbfc2e105e7c69b",
+      "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna. solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente. Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002544912",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002544912_03.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002544912_03.pdf",
+      "sha256": "760d8fdd32694e6d161ed5deafa76259af7f8a2082058f9c76df57eb531fe59b",
+      "summary": "Nosso compromisso Também ampliaremos a oferta de creches públicas, escolas em tempo integral e serviços públicos de cuidado, reconhecendo que a responsabilidade pela criação das crianças, pelo cuidado com idosos e pessoas com deficiAs mulheres sempre estiveram na linha de frente das grandes lutas populares de nosso país. Por isso, ampliaremos os investimentos em escolas de tempo integral, equipamentos culturais, bibliotecas, centros esportivos e espaços públicos de convivência, especialmente nas periferias e nos municípios que historicamente receberam menos investimentos. O desemprego, a precarização do trabalho, os baixos salários, a dificuldade de acesso ao ensino superior, o alto custo da moradia e a violência fazem com que milhares de jovens adiem ou abandonem seus sonhos. Foram protagonistas na resistência à ditadura, na construção do Sistema Único de Saúde, na conquista de direitos trabalhistas, na luta por moradia, educação e democracia. integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens. Entretanto, em São Paulo, esse direito não é garantido o abandono dos equipamentos públicos impede que crianças e jovens tenham acesso a atividades esportivas participação popular. Enquanto faltam investimentos em saúde, educação, moradia, transporte, cultura e segurança pública, bilhões de reais deixam de ser arrecadados por meio de isenções fiscais concedidas aos grandes grupos econômitratar professores, médicos, enfermeiros ou construir moradias populares, concedem benefícios bilionários aos setores mais ricos da economia e entregam empresas públicas estratégicas à iniciativa privada. As principais vítimas dessa política são os moradores das periferias, especialmente a juventude negra, submetida diariamente à violência policial, às abordagens abusivas e às execuções cometidas por agentes do próprio Estado. No entanto, a política de segurança implementada em São Paulo há décadas fracassou.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 9,
+          "page_end": 25,
+          "topics": [
+            "education"
+          ],
+          "summary": "Nosso compromisso Também ampliaremos a oferta de creches públicas, escolas em tempo integral e serviços públicos de cuidado, reconhecendo que a responsabilidade pela criação das crianças, pelo cuidado com idosos e pessoas com deficiAs mulheres sempre estiveram na linha de frente das grandes lutas populares de nosso país. Por isso, ampliaremos os investimentos em escolas de tempo integral, equipamentos culturais, bibliotecas, centros esportivos e espaços públicos de convivência, especialmente nas periferias e nos municípios que historicamente receberam menos investimentos. O desemprego, a precarização do trabalho, os baixos salários, a dificuldade de acesso ao ensino superior, o alto custo da moradia e a violência fazem com que milhares de jovens adiem ou abandonem seus sonhos.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Nosso compromisso Também ampliaremos a oferta de creches públicas, escolas em tempo integral e serviços públicos de cuidado, reconhecendo que a responsabilidade pela criação das crianças, pelo cuidado com idosos e pessoas com deficiAs mulheres sempre estiveram na linha de frente das grandes lutas populares de nosso país."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "Por isso, ampliaremos os investimentos em escolas de tempo integral, equipamentos culturais, bibliotecas, centros esportivos e espaços públicos de convivência, especialmente nas periferias e nos municípios que historicamente receberam menos investimentos. O desemprego, a precarização do trabalho, os baixos salários, a dificuldade de acesso ao ensino superior, o alto custo da moradia e a violência fazem com que milhares de jovens adiem ou abandonem seus sonhos."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "Em muitas comunidades, o Estado se faz presente principalmente por meio da violência policial, enquanto faltam escolas de qualidade, equipamentos culturais, oportunidades de formação profissional e A autonomia dos jovens depende do acesso ao trabalho digno e à educação pública de qualidade. Nenhum projeto de desenvolvimento soberano é possível sem uma educação pública forte, gratuita, democrática e de qualidade."
+            },
+            {
+              "id": "s08",
+              "page_start": 18,
+              "page_end": 22,
+              "text": "São Paulo possui uma das maiores redes públicas de ensino da América Latina, Entretanto, nas últimas décadas, a educação pública passou a ser alvo de um processo permanente de desmonte. Nosso Governo Popular reconstruirá a educação pública como um direito universal e como um dos pilares do desenvolvimento soberano de São Paulo."
+            },
+            {
+              "id": "s10",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Nosso governo fortalecerá as políticas de ação afirmativa, ampliará programas de qualificação profissional e empreendedorismo popular, apoiará cooperativas organizadas por trabalhadores negros e garantirá que as políticas estaduais de emprego, habitação, saúde e educação incorporem o combate às Garantir oportunidades e reparar desigualdades Também defenderemos a ampliação das políticas de permanência estudantil e o fortalecimento das ações afirmativas nas universidades públicas estaduais, garantindo que o acesso ao ensino superior seja acompanhado das condições necessárias para sua conclusão."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 9,
+          "page_end": 43,
+          "topics": [
+            "health"
+          ],
+          "summary": "Foram protagonistas na resistência à ditadura, na construção do Sistema Único de Saúde, na conquista de direitos trabalhistas, na luta por moradia, educação e democracia. integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens. Entretanto, em São Paulo, esse direito não é garantido o abandono dos equipamentos públicos impede que crianças e jovens tenham acesso a atividades esportivas participação popular.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Foram protagonistas na resistência à ditadura, na construção do Sistema Único de Saúde, na conquista de direitos trabalhistas, na luta por moradia, educação e democracia."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens."
+            },
+            {
+              "id": "s15",
+              "page_start": 31,
+              "page_end": 33,
+              "text": "Entretanto, em São Paulo, esse direito não é garantido o abandono dos equipamentos públicos impede que crianças e jovens tenham acesso a atividades esportivas participação popular. Ao mesmo tempo, o tempo livre da classe trabalhadora tornou-se cada vez mais escasso diante públicas, pistas de atletismo, ciclovias, parques e praças, priorizando as periferias urbanas, os municípios do interior e as regiões historicamente esquecidas pelo poder público."
+            },
+            {
+              "id": "s20",
+              "page_start": 40,
+              "page_end": 43,
+              "text": "Fortalecer a cooperação entre os povos Buscaremos ampliar a cooperação científica entre universidades e centros de pesquisa, fortalecer intercâmbios tecnológicos, incentivar iniciativas culturais e educacionais e ampliar parcerias na área da saúde pública, da produção de medicamentos, da inovação e da formação profissional."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 25,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Enquanto faltam investimentos em saúde, educação, moradia, transporte, cultura e segurança pública, bilhões de reais deixam de ser arrecadados por meio de isenções fiscais concedidas aos grandes grupos econômitratar professores, médicos, enfermeiros ou construir moradias populares, concedem benefícios bilionários aos setores mais ricos da economia e entregam empresas públicas estratégicas à iniciativa privada. As principais vítimas dessa política são os moradores das periferias, especialmente a juventude negra, submetida diariamente à violência policial, às abordagens abusivas e às execuções cometidas por agentes do próprio Estado. No entanto, a política de segurança implementada em São Paulo há décadas fracassou.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Enquanto faltam investimentos em saúde, educação, moradia, transporte, cultura e segurança pública, bilhões de reais deixam de ser arrecadados por meio de isenções fiscais concedidas aos grandes grupos econômitratar professores, médicos, enfermeiros ou construir moradias populares, concedem benefícios bilionários aos setores mais ricos da economia e entregam empresas públicas estratégicas à iniciativa privada."
+            },
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A segurança pública é um direito fundamental do povo. As principais vítimas dessa política são os moradores das periferias, especialmente a juventude negra, submetida diariamente à violência policial, às abordagens abusivas e às execuções cometidas por agentes do próprio Estado."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "No entanto, a política de segurança implementada em São Paulo há décadas fracassou. O Comitê da ONU contra a Tortura tem reiterado preocupação com a violência decorrente de operações policiais militarizadas e apoiado reformas estruturais para a segurança pública."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Segundo dados da Secretaria da Segurança Pública do Estado de São Paulo, uma mulher é vítima de feminicídio a cada 32 horas."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "ro a violência policial, o racismo e a exclusão social. A ausência de políticas públicas abre espaço para o aliciamento pelo crime organizado, perpetuando um ciclo de violência que só interessa àqueles que lucram com a desigualdade e utilizam o medo como instrumento para justificar políticas de repressão."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "Em muitas comunidades, o Estado se faz presente principalmente por meio da violência policial, enquanto faltam escolas de qualidade, equipamentos culturais, oportunidades de formação profissional e A autonomia dos jovens depende do acesso ao trabalho digno e à educação pública de qualidade. integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens."
+            },
+            {
+              "id": "s10",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Enquanto o racismo ganha espaço, a juventude é cada vez mais alvo da violência policial, mulheres negras seguem ocupando os postos de trabalho mais precários e milhares de famílias permanecem excluídas dos direitos mais básicos."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 5,
+          "page_end": 28,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Por isso, nossa política de segurança estará articulada às políticas de geração de emprego, educação integral, cultura, esporte, assistência social e urbanização das periferias. São Paulo está entre os estados com as maiores desigualdades salaenfrentamento ao machismo deve estar articulada à geração de emprego, renda e direitos. Nosso Governo Popular combaterá a desigualdade salarial, ampliará o acesso das mulheres ao trabalho digno, fortalecerá programas de qualificação profissional, incentivará cooperativas popuriais de gênero do país.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "Por isso, nossa política de segurança estará articulada às políticas de geração de emprego, educação integral, cultura, esporte, assistência social e urbanização das periferias."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "São Paulo está entre os estados com as maiores desigualdades salaenfrentamento ao machismo deve estar articulada à geração de emprego, renda e direitos. Nosso Governo Popular combaterá a desigualdade salarial, ampliará o acesso das mulheres ao trabalho digno, fortalecerá programas de qualificação profissional, incentivará cooperativas popuriais de gênero do país."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "São os jovens que ocupam os empregos mais precários, que enfrentam jornadas exaustivas, que sofrem com a rotatividade no mercado de trabalho e que encontram maiores dificuldades para A situação é ainda mais grave para a juventude negra e periférica. Em muitas comunidades, o Estado se faz presente principalmente por meio da violência policial, enquanto faltam escolas de qualidade, equipamentos culturais, oportunidades de formação profissional e A autonomia dos jovens depende do acesso ao trabalho digno e à educação pública de qualidade."
+            },
+            {
+              "id": "s08",
+              "page_start": 18,
+              "page_end": 22,
+              "text": "O desenvolvimento econômico de São Paulo exige uma política educacional articulada ao planejamento produtivo do estado. Nosso compromisso A educação não deve servir apenas para atender às necessidades imediatas do mercado de trabalho."
+            },
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "Foram homens e mulheres escravizados que produziram grande parte da riqueza que permitiu o desenvolvimento econômico do estado. Depois da abolição, porém, essa população foi abandonada pelo poder público, sem acesso à terra, à educação, ao trabalho digno e às condições necessárias para construir uma vida com igualdade de oportunidades."
+            },
+            {
+              "id": "s12",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "Nosso governo integrará as políticas de habitação, mobilidade, saneamento, meio ambiente, cultura e desenvolvimento econômico, promovendo um planejamento urbano capaz de aproximar moradia, trabalho, educação e serviços públicos."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 5,
+          "page_end": 33,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Por isso, nossa política de segurança estará articulada às políticas de geração de emprego, educação integral, cultura, esporte, assistência social e urbanização das periferias. Nosso Governo Popular fará da emancipação das mulheres uma prioridade permanente, articulando políticas de segurança, saúde, assistência social, educação, trabalho e habitação para garantir que nenhuma mulher tenha sua liberdade limitada pela violência, pela pobreza ou pela discriminação. No entanto, em um estado que concentra algumas das maiores riquezas do país, milhões de meninas e meninos crescem em meio à pobreza, insegurança alimentar, falta de acesso à cultura, ao esporte e ao lazer e precariedade dos serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "Por isso, nossa política de segurança estará articulada às políticas de geração de emprego, educação integral, cultura, esporte, assistência social e urbanização das periferias."
+            },
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Nosso Governo Popular fará da emancipação das mulheres uma prioridade permanente, articulando políticas de segurança, saúde, assistência social, educação, trabalho e habitação para garantir que nenhuma mulher tenha sua liberdade limitada pela violência, pela pobreza ou pela discriminação."
+            },
+            {
+              "id": "s05",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "No entanto, em um estado que concentra algumas das maiores riquezas do país, milhões de meninas e meninos crescem em meio à pobreza, insegurança alimentar, falta de acesso à cultura, ao esporte e ao lazer e precariedade dos serviços públicos."
+            },
+            {
+              "id": "s06",
+              "page_start": 12,
+              "page_end": 15,
+              "text": "adolescência, ampliando os investimentos nos serviços de assistência social, saúde, educação e proteção especializada. Trabalharemos em parceria com os municípios para fortalecer os Conselhos Tutelares, os Centros de Referência de Assistência Social, os serviços de acolhimento e toda a estrutura responsável por prevenir e enfrentar situações de abandono, negligência, violência e exploração."
+            },
+            {
+              "id": "s07",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens."
+            },
+            {
+              "id": "s15",
+              "page_start": 31,
+              "page_end": 33,
+              "text": "Fortalecer o esporte educacional e comunitário Também apoiaremos projetos esportivos comunitários, associações de bairro, clubes populares e iniciativas organizadas pelos movimentos sociais e populares, reconhecendo que essas experiências desempenham um papel importante na formação da juventude, na prevenção da violência e na inEsses espaços serão gratuitos, acessíveis e integrados às políticas de educação, saúde e assistência social, permitindo que crianças, jovens, adultos, idosos e pessoas com deficiência possam praticar atividades físicas e utilizar os espaços públicos com segurança e dignidade."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 25,
+          "page_end": 28,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Nosso governo integrará as políticas de habitação, mobilidade, saneamento, meio ambiente, cultura e desenvolvimento econômico, promovendo um planejamento urbano capaz de aproximar moradia, trabalho, educação e serviços públicos.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "Nosso governo integrará as políticas de habitação, mobilidade, saneamento, meio ambiente, cultura e desenvolvimento econômico, promovendo um planejamento urbano capaz de aproximar moradia, trabalho, educação e serviços públicos."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 37,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Toda pessoa tem o direito de viver sem medo da violência, de criar seus filhos em paz, de circular pelas cidades com tranquilidade e de confiar que o Estado atuará para proteger sua vida e sua dignidade. cadas por elevado número de mortes passaram a ser apresentadas como demonstrações de eficiência, enquanto denúncias de execuções, torturas e violações de direitos humanos foram tratadas com naturalidade. Essa realidade demonstra que não existe contradição entre combater o crime organizado e defender os direitos humanos.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "A segurança pública é um direito fundamental do povo. Toda pessoa tem o direito de viver sem medo da violência, de criar seus filhos em paz, de circular pelas cidades com tranquilidade e de confiar que o Estado atuará para proteger sua vida e sua dignidade."
+            },
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "cadas por elevado número de mortes passaram a ser apresentadas como demonstrações de eficiência, enquanto denúncias de execuções, torturas e violações de direitos humanos foram tratadas com naturalidade. Essa realidade demonstra que não existe contradição entre combater o crime organizado e defender os direitos humanos."
+            },
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "São Paulo foi construído pelo trabalho do povo negro. Foram homens e mulheres escravizados que produziram grande parte da riqueza que permitiu o desenvolvimento econômico do estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 22,
+              "page_end": 25,
+              "text": "Nos últimos anos, o avanço do fascismo aprofundou esse cenário ao fortalecer política e ideologicamente o racismo estrutural e atacar políticas de promoção da igualdade racial. Nosso Governo Popular fará da igualdade racial uma política permanente de Estado, articulando ações em todas as áreas do governo para reparar essa dívida histórica e construir uma sociedade fundada na igualdade de direitos."
+            },
+            {
+              "id": "s12",
+              "page_start": 25,
+              "page_end": 28,
+              "text": "É também o berço de movimentos culturais que transformaram a história do país, como o samba paulista, o hip-hop, o teatro popular, a literatura periférica e expressões artísticas produzidas nas periferias urbanas, nos povos indígenas, nas comunidades quilombolas e nas tradições do campo."
+            },
+            {
+              "id": "s13",
+              "page_start": 28,
+              "page_end": 31,
+              "text": "Valorizar os trabalhadores da cultura e a produção popular Nosso governo ampliará os investimentos públicos em cultura, fortalecerá os mecanismos de fomento, simplificará o acesso aos editais e garantirá apoio permanente aos coletivos culturais, grupos comunitários, artistas independentes e iniciativas desenvolvidas nas periferias, no campo, entre os povos indígenas, as comunidades quilombolas e demais comunidades tradicionais. Preservar a memória e fortalecer a identidade do povo Nosso governo apoiará projetos que preservem a memória da classe trabalhadora, dos movimentos sociais, da resistência democrática, da população negra, dos povos indígenas, das comunidades quilombolas e de todos aqueles que contribuíram para construir a riqueza e a diversidade cultural do estado."
+            },
+            {
+              "id": "s18",
+              "page_start": 34,
+              "page_end": 37,
+              "text": "Comunicação a serviço do povo Nosso Governo Popular utilizará os meios públicos de comunicação para ampliar o acesso ao conhecimento científico, divulgar a produção cultural paulista, valorizar a diversidade do estado e fortalecer campanhas de interesse público nas áreas de saúde, educação, direitos humanos, cultura e participação popular. Fortalecer a comunicação pública, comunitária e popular A comunicação produzida nas periferias, pelos movimentos sociais, pelas universidades, pelos povos indígenas, pelas comunidades quilombolas e pelas organizações populares deve receber o apoio necessário para ampliar sua capacidade de informar e dialogar com a sociedade."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002549705",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002549705_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002549705_01.pdf",
+      "sha256": "6bca690843bd1e205e6e6b8f5b37641b8969252aeb7cb7e39269a264e81fdfb0",
+      "summary": "que alfabetize na idade certa, que forme jovens dominando matemática e os prepare para as profissões que vêm aí. a polícia, mas também a escola em tempo integral, o esporte, a cultura e as oportunidades para a juventude, com programas de mentoria e primeiro emprego para os jovens mais expostos ao recrutamento. Não existe projeto de prosperidade sem escola pública de qualidade, e é na educação que a falta de projeto cobra o preço mais alto. Hoje em São Paulo, quem depende da saúde pública tem que esperar. A segurança pública será a prioridade número um do meu governo, uma agenda que vou acompanhar pessoalmente e pela qual vou responder diante de vocês. O programa SP Protege tem como eixo central a Impunidade Zero, e começa por investigar bem cada crime desde a primeira hora, proteger com rigor as mulheres, crianças e idosos, valorizar de verdade os nossos policiais e sufocar o dinheiro que sustenta o crime organizado, da esquina ao andar de cima. a segurança pública será a prioridade número um do governo Haddad. cada compromisso será implementado com fonte identificada no planejamento e no orçamento do estado, com rigor contra o gasto que não entrega e prioridade para o que muda a vida das pessoas. Igualdade e respeito Moradia digna Mobilidade que liberta tempo Água e saneamento para todos Preparo para o clima que mudou Cultura que pertence a todos Esporte como política pública Turismo que gera renda Proteção social e segurança alimentar Respeito a quem envelhece Acessibilidade e inclusão Vamos fortalecer a rede de assistência social em cooperação com os municípios, apoiar quem mais precisa com prioridade à primeira infância e às famílias em vulnerabilidade e garantir que nenhum paulista conviva com a fome, articulando as políticas de segurança alimentar com a força da agricultura paulista. o agro mais sofisticado do país, a agroindústria, a energia da biomassa, o cooperativismo e a agricultura familiar que abastece as cidades. a inteligência artificial vai transformar as profissões, e a economia verde vai criar as maiores oportunidades das próximas décadas. A inteligência artificial vai cruzar os dados de ocorrência e as chamadas ao 190 para montar mapas de calor que mostrem onde e quando o crime acontece, colocando a viatura no lugar certo, na hora certa, para prevenir o crime.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 4,
+          "page_end": 9,
+          "topics": [
+            "education"
+          ],
+          "summary": "que alfabetize na idade certa, que forme jovens dominando matemática e os prepare para as profissões que vêm aí. a polícia, mas também a escola em tempo integral, o esporte, a cultura e as oportunidades para a juventude, com programas de mentoria e primeiro emprego para os jovens mais expostos ao recrutamento. Não existe projeto de prosperidade sem escola pública de qualidade, e é na educação que a falta de projeto cobra o preço mais alto.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "que alfabetize na idade certa, que forme jovens dominando matemática e os prepare para as profissões que vêm aí."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "a polícia, mas também a escola em tempo integral, o esporte, a cultura e as oportunidades para a juventude, com programas de mentoria e primeiro emprego para os jovens mais expostos ao recrutamento."
+            },
+            {
+              "id": "s05",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Não existe projeto de prosperidade sem escola pública de qualidade, e é na educação que a falta de projeto cobra o preço mais alto. Vamos expandir com qualidade o ensino em tempo integral e conectar o ensino médio à formação profissional que emprega, aproveitando a força do Centro Paula Souza, das Etecs e Fatecs, para que o jovem conclua a educação básica com diploma e com profissão, preparado para as carreiras que a nova economia está criando."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 11,
+          "page_end": 12,
+          "topics": [
+            "health"
+          ],
+          "summary": "Hoje em São Paulo, quem depende da saúde pública tem que esperar.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Hoje em São Paulo, quem depende da saúde pública tem que esperar."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 4,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública será a prioridade número um do meu governo, uma agenda que vou acompanhar pessoalmente e pela qual vou responder diante de vocês. O programa SP Protege tem como eixo central a Impunidade Zero, e começa por investigar bem cada crime desde a primeira hora, proteger com rigor as mulheres, crianças e idosos, valorizar de verdade os nossos policiais e sufocar o dinheiro que sustenta o crime organizado, da esquina ao andar de cima. a segurança pública será a prioridade número um do governo Haddad.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "A segurança pública será a prioridade número um do meu governo, uma agenda que vou acompanhar pessoalmente e pela qual vou responder diante de vocês. O programa SP Protege tem como eixo central a Impunidade Zero, e começa por investigar bem cada crime desde a primeira hora, proteger com rigor as mulheres, crianças e idosos, valorizar de verdade os nossos policiais e sufocar o dinheiro que sustenta o crime organizado, da esquina ao andar de cima."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "a segurança pública será a prioridade número um do governo Haddad. No andar de cima, o objetivo é combater o comando do crime organizado."
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Vamos fortalecer a prevenção de desastres e a Defesa Civil, mapear e cuidar das áreas de risco em parceria com os municípios e apoiar a adaptação das cidades, além de proteger o patrimônio ambiental paulista, porque a transição ecológica que defendemos na economia começa pelo dever de proteger vidas."
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "No primeiro ano de governo, estas diretrizes serão convertidas em um plano de gestão com metas públicas, prazos e responsáveis com nome e sobrenome, acompanhado por um placar aberto, atualizado a cada trimestre e iniciado pela segurança pública."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 13,
+          "page_end": 15,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "cada compromisso será implementado com fonte identificada no planejamento e no orçamento do estado, com rigor contra o gasto que não entrega e prioridade para o que muda a vida das pessoas.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "cada compromisso será implementado com fonte identificada no planejamento e no orçamento do estado, com rigor contra o gasto que não entrega e prioridade para o que muda a vida das pessoas."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Igualdade e respeito Moradia digna Mobilidade que liberta tempo Água e saneamento para todos Preparo para o clima que mudou Cultura que pertence a todos Esporte como política pública Turismo que gera renda Proteção social e segurança alimentar Respeito a quem envelhece Acessibilidade e inclusão Vamos fortalecer a rede de assistência social em cooperação com os municípios, apoiar quem mais precisa com prioridade à primeira infância e às famílias em vulnerabilidade e garantir que nenhum paulista conviva com a fome, articulando as políticas de segurança alimentar com a força da agricultura paulista.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Igualdade e respeito Moradia digna Mobilidade que liberta tempo Água e saneamento para todos Preparo para o clima que mudou Cultura que pertence a todos Esporte como política pública Turismo que gera renda Proteção social e segurança alimentar Respeito a quem envelhece Acessibilidade e inclusão"
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Vamos fortalecer a rede de assistência social em cooperação com os municípios, apoiar quem mais precisa com prioridade à primeira infância e às famílias em vulnerabilidade e garantir que nenhum paulista conviva com a fome, articulando as políticas de segurança alimentar com a força da agricultura paulista."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 9,
+          "page_end": 11,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "o agro mais sofisticado do país, a agroindústria, a energia da biomassa, o cooperativismo e a agricultura familiar que abastece as cidades.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "o agro mais sofisticado do país, a agroindústria, a energia da biomassa, o cooperativismo e a agricultura familiar que abastece as cidades."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 4,
+          "page_end": 15,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "a inteligência artificial vai transformar as profissões, e a economia verde vai criar as maiores oportunidades das próximas décadas. A inteligência artificial vai cruzar os dados de ocorrência e as chamadas ao 190 para montar mapas de calor que mostrem onde e quando o crime acontece, colocando a viatura no lugar certo, na hora certa, para prevenir o crime. Vamos atuar para que o emprego paulista seja de melhor qualidade e melhor remuneração, conectando a formação profissional às vocações econômicas de cada região, apoiando os setores que pagam bons salários e preparando os trabalhadores para as transformações que a inteligência artificial e a transição ecológica já estão trazendo.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "a inteligência artificial vai transformar as profissões, e a economia verde vai criar as maiores oportunidades das próximas décadas."
+            },
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "A inteligência artificial vai cruzar os dados de ocorrência e as chamadas ao 190 para montar mapas de calor que mostrem onde e quando o crime acontece, colocando a viatura no lugar certo, na hora certa, para prevenir o crime."
+            },
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "Vamos atuar para que o emprego paulista seja de melhor qualidade e melhor remuneração, conectando a formação profissional às vocações econômicas de cada região, apoiando os setores que pagam bons salários e preparando os trabalhadores para as transformações que a inteligência artificial e a transição ecológica já estão trazendo. Com esses ingredientes, vamos disputar os grandes investimentos da era da inteligência artificial, dos data centers movidos a energia limpa aos centros de pesquisa das empresas de tecnologia, oferecendo regras estáveis, ambientes de teste para inovar com segurança e talento formado em escala."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "As ambulâncias do SAMU estarão conectadas à rede hospitalar de urgências e emergências e a uma central de monitoramento e regulação dos leitos, com suporte da telessaúde e da inteligência artificial, iniciando o manejo precocemente, reduzindo complicações e salvando vidas."
+            },
+            {
+              "id": "s09",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Vamos garantir a soberania do estado sobre os seus dados e as suas plataformas, com privacidade protegida, regras públicas para o uso de inteligência artificial no governo e tecnologia contratada para servir ao cidadão, sem criar dependências caras e opacas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Vamos apoiar a produção cultural em todas as regiões, garantir o acesso da população aos equipamentos e às linguagens culturais e tratar a economia criativa como o setor estratégico que ela é, gerador de renda, identidade e futuro.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Vamos apoiar a produção cultural em todas as regiões, garantir o acesso da população aos equipamentos e às linguagens culturais e tratar a economia criativa como o setor estratégico que ela é, gerador de renda, identidade e futuro."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "governance"
+          ],
+          "summary": "igualdade de oportunidades na escola e no trabalho, resposta rigorosa aos crimes de ódio e serviço público que trate cada paulista com o mesmo respeito, seja qual for a sua cor, a sua fé ou a sua orientação. Vamos garantir acessibilidade, apoiar a autonomia e assegurar que a inclusão seja critério de qualidade de todo serviço público paulista.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "igualdade de oportunidades na escola e no trabalho, resposta rigorosa aos crimes de ódio e serviço público que trate cada paulista com o mesmo respeito, seja qual for a sua cor, a sua fé ou a sua orientação. Vamos garantir acessibilidade, apoiar a autonomia e assegurar que a inclusão seja critério de qualidade de todo serviço público paulista."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002550913",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002550913_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002550913_01.pdf",
+      "sha256": "5ee03efc113e4602eb5aab80edeb1cde9d7f6144fadb3b604996f366f8570ba0",
+      "summary": "102 Ensino Superior, Ciência, Tecnologia e Inovação 7.1 Autonomia Universitária e Financiamento Público. Sua trajetória é marcada pela atuação junto à classe trabalhadora, pela defesa da educação pública, pela organização popular e pelo compromisso com a transformação social. junto aos trabalhadores da educação de São Paulo, participando das lutas em defesa da educação pública e dos direitos dos profissionais da educação. 5.5 Fortalecimento da Atenção Primária e da Estratégia Saúde da Família 72 5.6 Fortalecimento da Rede de Média e Alta Complexidade. 5.8 Fortalecimento da Saúde Mental e da Rede de Atenção Psicossocial. II – Conselhos Populares da Saúde Atuarão em articulação com as Unidades Básicas de Saúde, Estratégia Saúde da Família, hospitais e demais equipamentos públicos, participando do planejamento das ações de saúde, da fiscalização dos serviços, da definição das prioridades de investimento e da construção da política estadual de saúde. Segurança Pública, Combate às Opressões e Preservação da Vida 8.1 Desmilitarização e Reconstrução Democrática da Segurança Pública 8.2 Trabalhadores da Segurança Pública e a Transição para um Novo Modelo Institucional. O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública. IV – Conselhos Populares de Segurança Pública Integrarão a nova política estadual de segurança pública, participando da formulação dos planos territoriais de prevenção da violência, da articulação entre os serviços públicos e do acompanhamento das políticas de segurança cidadã, conforme o novo modelo de segurança pública proposto neste programa. Capítulo 1 O Poder Popular O desenvolvimento econômico apresentado neste programa exige uma transformação profunda da forma como o poder é exercido em São Paulo. Trata-se de superar a separação histórica entre governantes e governados, fazendo com que a sociedade organizada participe diretamente das decisões que orientam o desenvolvimento econômico, social, cultural e territorial do Estado de São Paulo.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 18,
+          "topics": [
+            "education"
+          ],
+          "summary": "102 Ensino Superior, Ciência, Tecnologia e Inovação 7.1 Autonomia Universitária e Financiamento Público. Sua trajetória é marcada pela atuação junto à classe trabalhadora, pela defesa da educação pública, pela organização popular e pelo compromisso com a transformação social. junto aos trabalhadores da educação de São Paulo, participando das lutas em defesa da educação pública e dos direitos dos profissionais da educação.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "102 Ensino Superior, Ciência, Tecnologia e Inovação 7.1 Autonomia Universitária e Financiamento Público."
+            },
+            {
+              "id": "s06",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Sua trajetória é marcada pela atuação junto à classe trabalhadora, pela defesa da educação pública, pela organização popular e pelo compromisso com a transformação social."
+            },
+            {
+              "id": "s07",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "junto aos trabalhadores da educação de São Paulo, participando das lutas em defesa da educação pública e dos direitos dos profissionais da educação. Sua atuação é marcada pela defesa de uma escola pública de qualidade, democrática e comprometida com a formação crítica dos estudantes."
+            },
+            {
+              "id": "s12",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "III – Conselhos Populares da Educação Constituirão a principal instância de gestão democrática da educação pública."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 18,
+          "topics": [
+            "health"
+          ],
+          "summary": "5.5 Fortalecimento da Atenção Primária e da Estratégia Saúde da Família 72 5.6 Fortalecimento da Rede de Média e Alta Complexidade. 5.8 Fortalecimento da Saúde Mental e da Rede de Atenção Psicossocial. II – Conselhos Populares da Saúde Atuarão em articulação com as Unidades Básicas de Saúde, Estratégia Saúde da Família, hospitais e demais equipamentos públicos, participando do planejamento das ações de saúde, da fiscalização dos serviços, da definição das prioridades de investimento e da construção da política estadual de saúde.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "5.5 Fortalecimento da Atenção Primária e da Estratégia Saúde da Família 72 5.6 Fortalecimento da Rede de Média e Alta Complexidade. 5.8 Fortalecimento da Saúde Mental e da Rede de Atenção Psicossocial."
+            },
+            {
+              "id": "s12",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "II – Conselhos Populares da Saúde Atuarão em articulação com as Unidades Básicas de Saúde, Estratégia Saúde da Família, hospitais e demais equipamentos públicos, participando do planejamento das ações de saúde, da fiscalização dos serviços, da definição das prioridades de investimento e da construção da política estadual de saúde."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 30,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Segurança Pública, Combate às Opressões e Preservação da Vida 8.1 Desmilitarização e Reconstrução Democrática da Segurança Pública 8.2 Trabalhadores da Segurança Pública e a Transição para um Novo Modelo Institucional. O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública. IV – Conselhos Populares de Segurança Pública Integrarão a nova política estadual de segurança pública, participando da formulação dos planos territoriais de prevenção da violência, da articulação entre os serviços públicos e do acompanhamento das políticas de segurança cidadã, conforme o novo modelo de segurança pública proposto neste programa.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "Segurança Pública, Combate às Opressões e Preservação da Vida 8.1 Desmilitarização e Reconstrução Democrática da Segurança Pública 8.2 Trabalhadores da Segurança Pública e a Transição para um Novo Modelo Institucional. 123 8.3 Conselhos Populares de Segurança Pública."
+            },
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública."
+            },
+            {
+              "id": "s12",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "IV – Conselhos Populares de Segurança Pública Integrarão a nova política estadual de segurança pública, participando da formulação dos planos territoriais de prevenção da violência, da articulação entre os serviços públicos e do acompanhamento das políticas de segurança cidadã, conforme o novo modelo de segurança pública proposto neste programa."
+            },
+            {
+              "id": "s15",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "A base dessa estrutura será constituída pelos Conselhos Populares organizados nos bairros e pelos Conselhos Populares vinculados aos principais equipamentos públicos, especialmente nas escolas, nas Unidades Básicas de Saúde, nos equipamentos culturais e nas estruturas de segurança pública."
+            },
+            {
+              "id": "s17",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Estrutura do Poder Popular Instância Base de Organização Composição Função Principal Conselhos Populares de Base Bairros, escolas, UBS, equipamentos culturais, segurança pública e demais serviços públicos Trabalhadores, moradores, usuários dos serviços, organizações comunitárias, movimentos sociais e representantes locais Identificar demandas, deliberar sobre prioridades, acompanhar os serviços públicos e eleger representantes."
+            },
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Ao mesmo tempo em que o novo modelo tributário reduz a autonomia dos estados sobre parte de sua política fiscal, São Paulo continuará enfrentando uma crescente demanda por investimentos em saúde, educação, infraestrutura, habitação, mobilidade urbana, ciência, tecnologia, cultura, segurança pública e proteção ambiental."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 37,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Capítulo 1 O Poder Popular O desenvolvimento econômico apresentado neste programa exige uma transformação profunda da forma como o poder é exercido em São Paulo. Trata-se de superar a separação histórica entre governantes e governados, fazendo com que a sociedade organizada participe diretamente das decisões que orientam o desenvolvimento econômico, social, cultural e territorial do Estado de São Paulo. O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "3.5 Infraestrutura Moderna para o Desenvolvimento Econômico."
+            },
+            {
+              "id": "s09",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Capítulo 1 O Poder Popular O desenvolvimento econômico apresentado neste programa exige uma transformação profunda da forma como o poder é exercido em São Paulo."
+            },
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Trata-se de superar a separação histórica entre governantes e governados, fazendo com que a sociedade organizada participe diretamente das decisões que orientam o desenvolvimento econômico, social, cultural e territorial do Estado de São Paulo."
+            },
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública."
+            },
+            {
+              "id": "s12",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "VI – Conselhos Populares de Desenvolvimento Econômico, Trabalho e Ciência Acompanharão a implementação do Sistema Estadual de Desenvolvimento Industrial e Tecnológico, participando da definição das prioridades da política industrial, da formação profissional, da inovação tecnológica, da pesquisa científica e da geração de emprego e renda."
+            },
+            {
+              "id": "s20",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "Ou seja, a política de incentivos está fortemente concentrada em grandes grupos econômicos, reduzindo a capacidade do Estado de utilizar esses recursos como instrumento de desenvolvimento econômico equilibrado."
+            },
+            {
+              "id": "s23",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Além disso, o novo modelo pode produzir um descompasso entre crescimento econômico e capacidade fiscal."
+            },
+            {
+              "id": "s24",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Entre 2027 e 2030, o principal desafio será adaptar o orçamento estadual às novas regras de arrecadação, preservando sua capacidade de investimento e fortalecendo o papel do Estado como indutor do desenvolvimento econômico e social. Nas últimas décadas, a hegemonia das políticas neoliberais de austeridade fiscal e de controle permanente dos gastos públicos engessou a capacidade do Estado de São Paulo de atuar como indutor do desenvolvimento econômico e social."
+            },
+            {
+              "id": "s26",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Toda empresa beneficiada deverá comprovar geração de empregos de qualidade, investimentos produtivos, desenvolvimento tecnológico, fortalecimento das cadeias produtivas paulistas, desenvolvimento regional, preservação ambiental e plena regularidade fiscal perante o Estado. Recursos públicos devem ser utilizados para ampliar a capacidade de investimento do Estado, financiar políticas públicas permanentes e impulsionar o desenvolvimento econômico, e não subsidiar indefinidamente empresas que não apresentam benefícios proporcionais à sociedade."
+            },
+            {
+              "id": "s27",
+              "page_start": 32,
+              "page_end": 33,
+              "text": "Os recursos adicionais arrecadados serão destinados prioritariamente ao financiamento de políticas públicas estruturantes e à ampliação da capacidade de investimento do Estado em saúde, educação, ciência, tecnologia, infraestrutura, habitação, mobilidade urbana e desenvolvimento econômico."
+            },
+            {
+              "id": "s28",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Eles deverão ampliar a capacidade de investimento do Estado em saúde, educação, ciência, tecnologia, infraestrutura, habitação, transporte público e desenvolvimento econômico."
+            },
+            {
+              "id": "s30",
+              "page_start": 35,
+              "page_end": 36,
+              "text": "O endividamento continuará sendo um instrumento legítimo de política econômica, mas deverá estar restrito ao financiamento de investimentos estratégicos capazes de ampliar a capacidade produtiva do Estado e gerar retorno econômico e social de longo prazo. Mais do que ampliar gastos correntes, trata-se de recuperar a capacidade do Estado de planejar o desenvolvimento econômico paulista e de coordenar investimentos estruturantes de longo prazo."
+            },
+            {
+              "id": "s31",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "As diretrizes dessa política de desenvolvimento econômico, reindustrialização, inovação tecnológica e fortalecimento das empresas públicas serão apresentadas nos capítulos específicos deste programa."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 34,
+          "page_end": 35,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Antes de ampliar a dívida pública, é necessário revisar os mecanismos que reduzem artificialmente a arrecadação e impedem que a riqueza produzida em São Paulo contribua para o financiamento das políticas públicas.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 34,
+              "page_end": 35,
+              "text": "Antes de ampliar a dívida pública, é necessário revisar os mecanismos que reduzem artificialmente a arrecadação e impedem que a riqueza produzida em São Paulo contribua para o financiamento das políticas públicas."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 1,
+          "page_end": 32,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "150 10 Assistência Social, Proteção Social e Superação da Pobreza 10.1 Fortalecimento do Sistema Único de Assistência Social (SUAS). 159 10.2 Proteção Social às Populações em Situação de Vulnerabilidade. Por isso, as renúncias fiscais serão mantidas exclusivamente para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais, garantindo o abastecimento da população, fortalecendo a segurança alimentar e contribuindo para reduzir o custo de vida da classe trabalhadora.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "150 10 Assistência Social, Proteção Social e Superação da Pobreza 10.1 Fortalecimento do Sistema Único de Assistência Social (SUAS). 159 10.2 Proteção Social às Populações em Situação de Vulnerabilidade."
+            },
+            {
+              "id": "s26",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Por isso, as renúncias fiscais serão mantidas exclusivamente para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais, garantindo o abastecimento da população, fortalecendo a segurança alimentar e contribuindo para reduzir o custo de vida da classe trabalhadora."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 16,
+          "page_end": 19,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública. VIII – Conselhos Populares de Meio Ambiente e Transição Ecológica Participarão da formulação das políticas ambientais, da preservação dos recursos naturais, da recuperação ambiental, da fiscalização das ações de proteção ao meio ambiente e da implementação da política estadual de transição ecológica.",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "O segundo será setorial, reunindo trabalhadores, usuários, especialistas, universidades e movimentos sociais para acompanhar, formular e fiscalizar as políticas públicas em áreas estratégicas como saúde, educação, transporte, cultura, desenvolvimento econômico, meio ambiente e segurança pública."
+            },
+            {
+              "id": "s13",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "VIII – Conselhos Populares de Meio Ambiente e Transição Ecológica Participarão da formulação das políticas ambientais, da preservação dos recursos naturais, da recuperação ambiental, da fiscalização das ações de proteção ao meio ambiente e da implementação da política estadual de transição ecológica."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 37,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "162 11 Desenvolvimento Territorial, Justiça Socioambiental, Reforma Agrária e Soberania Alimentar 11.1 Reforma Agrária, Agricultura Familiar, Desenvolvimento Rural e Soberania Alimentar. Por isso, as renúncias fiscais serão mantidas exclusivamente para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais, garantindo o abastecimento da população, fortalecendo a segurança alimentar e contribuindo para reduzir o custo de vida da classe trabalhadora. Medidas de reorganização da arrecadação Medida Situação Atual (2027) Proposta do PCB Impacto Financeiro Estimado Renúncias fiscais R$ 88,25 bilhões em benefícios tributários, concentrados majoritariamente em grandes empresas Revisão da política de renúncias fiscais, mantendo isenções apenas para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais + R$ 70,6 bilhões",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "162 11 Desenvolvimento Territorial, Justiça Socioambiental, Reforma Agrária e Soberania Alimentar 11.1 Reforma Agrária, Agricultura Familiar, Desenvolvimento Rural e Soberania Alimentar."
+            },
+            {
+              "id": "s26",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Por isso, as renúncias fiscais serão mantidas exclusivamente para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais, garantindo o abastecimento da população, fortalecendo a segurança alimentar e contribuindo para reduzir o custo de vida da classe trabalhadora."
+            },
+            {
+              "id": "s31",
+              "page_start": 36,
+              "page_end": 37,
+              "text": "Medidas de reorganização da arrecadação Medida Situação Atual (2027) Proposta do PCB Impacto Financeiro Estimado Renúncias fiscais R$ 88,25 bilhões em benefícios tributários, concentrados majoritariamente em grandes empresas Revisão da política de renúncias fiscais, mantendo isenções apenas para produtos da cesta básica, medicamentos essenciais e alimentos produzidos pela agricultura familiar, cooperativas e pequenos produtores rurais + R$ 70,6 bilhões"
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 28,
+          "page_end": 29,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Isso significa investir prioritariamente em setores estratégicos como microeletrônica, semicondutores, inteligência artificial, biotecnologia, indústria farmacêutica, defesa, máquinas e equipamentos, energia, transporte, infraestrutura e tecnologias digitais, reduzindo a dependência tecnológica do país e ampliando sua capacidade de inovação.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Isso significa investir prioritariamente em setores estratégicos como microeletrônica, semicondutores, inteligência artificial, biotecnologia, indústria farmacêutica, defesa, máquinas e equipamentos, energia, transporte, infraestrutura e tecnologias digitais, reduzindo a dependência tecnológica do país e ampliando sua capacidade de inovação."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "8.10 Formação Permanente em Direitos Humanos e Combate às Opressões 131 iv 8.11 Sistema Prisional, Administração Penitenciária e Reintegração Social 8.12 Defesa Civil, Proteção da População e Resiliência Climática. Na educação popular, Carlos Machado atuou em iniciativas como o Programa Rede de Educação Cidadã e o Instituto Paulo Freire, desenvolvendo atividades de formação voltadas aos direitos humanos, à consciência crítica e à organização coletiva.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 7,
+              "text": "8.10 Formação Permanente em Direitos Humanos e Combate às Opressões 131 iv 8.11 Sistema Prisional, Administração Penitenciária e Reintegração Social 8.12 Defesa Civil, Proteção da População e Resiliência Climática."
+            },
+            {
+              "id": "s07",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Na educação popular, Carlos Machado atuou em iniciativas como o Programa Rede de Educação Cidadã e o Instituto Paulo Freire, desenvolvendo atividades de formação voltadas aos direitos humanos, à consciência crítica e à organização coletiva."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A participação popular deixa de ocorrer apenas no momento do voto e passa a constituir um processo permanente de deliberação, planejamento, fiscalização e controle social. 1.1 A Organização do Poder Popular O Poder Popular não constitui um conjunto isolado de conselhos ou mecanismos de participação social.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "A participação popular deixa de ocorrer apenas no momento do voto e passa a constituir um processo permanente de deliberação, planejamento, fiscalização e controle social. 1.1 A Organização do Poder Popular O Poder Popular não constitui um conjunto isolado de conselhos ou mecanismos de participação social."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002553062",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002553062_01.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002553062_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

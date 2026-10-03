@@ -1,0 +1,323 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "vice-governador",
+  "state_code": "MA",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "100002544075",
+      "state_code": "MA",
+      "office": "VICE-GOVERNADOR",
+      "candidate_type": "vice-governador",
+      "file_name": "2026MA100002544075_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002544075_01.pdf",
+      "sha256": "d844ecd625694b6eaa614e6958a94f6bb8aa6ecdfef4621d470d0f26cb346103",
+      "summary": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil. Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental. 69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata. O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio. produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 13,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil. Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil."
+            },
+            {
+              "id": "s25",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil"
+            },
+            {
+              "id": "s28",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal"
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 9,
+          "page_end": 16,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata. O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata."
+            },
+            {
+              "id": "s29",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 11,
+          "page_end": 11,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Quero contribuir para fortalecer a integridade na gestão pública, ampliar oportunidades e enfrentar os desafios que impedem nosso crescimento, com o Livro Amarelo como um guia prático, juntando forças para construir um Maranhão grande novamen‐ te.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Quero contribuir para fortalecer a integridade na gestão pública, ampliar oportunidades e enfrentar os desafios que impedem nosso crescimento, com o Livro Amarelo como um guia prático, juntando forças para construir um Maranhão grande novamen‐ te."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

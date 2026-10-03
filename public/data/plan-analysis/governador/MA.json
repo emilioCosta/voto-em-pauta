@@ -1,0 +1,2980 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "MA",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "100002534190",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002534190_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002534190_01.pdf",
+      "sha256": "079b5b1bebdb9d7edabde62059eb72fac0f517c4f7df9aaf8528478d60b184b3",
+      "summary": "Ambiental Reestruturar e fortalecer os órgãos ambientais estaduais. • Ampliar o quadro de servidores efetivos, fiscais e analistas ambientais. • Integrar a educação ambiental aos currículos da educação básica e superior (UEMA, UEMASUL), de forma transversal, interdisciplinar e permanente, incentivando projetos de pesquisa, extensão e inovação em educação ambiental desenvolvidos pelas universidades públicas e institutos de pesquisa do Maranhão. metais pesados, resíduos sólidos e proteção da saúde pública A contaminação por metais pesados e outros poluentes representa uma das principais ameaças à qualidade ambiental, comprometendo a qualidade do ar, do solo, das águas superficiais, dos aquíferos e do ambiente marinho, com impactos sobre a biodiversidade, a pesca, a segurança alimentar. A combinação dessas fontes de emissão pode agravar a poluição atmosférica e ampliar a exposição da população a substâncias potencialmente tóxicas, tornando indispensável o monitoramento permanente da qualidade do ar e a realização de estudos epidemiológicos independentes sobre seus impactos na saúde pública. Ambiental Implantar uma rede permanente de monitoramento da qualidade do ar. • Elaborar um Plano Estadual de Adaptação às Mudanças Climáticas, com investimentos em prevenção de enchentes, drenagem urbana, contenção de áreas de risco, prevenção de queimadas, recuperação de bacias hidrográficas e fortalecimento da Defesa Civil. O crescimento econômico, portanto, não tem sido acompanhado por uma distribuição da riqueza capaz de melhorar as condições de vida do povo maranhense, pois atende prioritariamente aos interesses do grande capital, e não às necessidades da população. Nosso objetivo é contribuir para transformar o enorme potencial econômico do estado em desenvolvimento social, garantindo trabalho digno, renda, moradia, saúde, educação, transporte, cultura e preservação ambiental, em vez de manter um modelo voltado para os lucros de grandes empresários, multinacionais, banqueiros e do agronegócio exportador. • Garantir uma renda mínima no estado, com recursos do governo do estado, do governo federal e das prefeituras, para trabalhadores desempregados, pessoas sem renda e famílias em situação de vulnerabilidade, garantindo condições básicas de sobrevivência enquanto não houver acesso a um emprego digno.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 67,
+          "page_end": 118,
+          "topics": [
+            "education"
+          ],
+          "summary": "Ambiental Reestruturar e fortalecer os órgãos ambientais estaduais. • Ampliar o quadro de servidores efetivos, fiscais e analistas ambientais. • Integrar a educação ambiental aos currículos da educação básica e superior (UEMA, UEMASUL), de forma transversal, interdisciplinar e permanente, incentivando projetos de pesquisa, extensão e inovação em educação ambiental desenvolvidos pelas universidades públicas e institutos de pesquisa do Maranhão.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 67,
+              "page_end": 68,
+              "text": "Ambiental Reestruturar e fortalecer os órgãos ambientais estaduais. • Ampliar o quadro de servidores efetivos, fiscais e analistas ambientais."
+            },
+            {
+              "id": "s16",
+              "page_start": 73,
+              "page_end": 74,
+              "text": "• Integrar a educação ambiental aos currículos da educação básica e superior (UEMA, UEMASUL), de forma transversal, interdisciplinar e permanente, incentivando projetos de pesquisa, extensão e inovação em educação ambiental desenvolvidos pelas universidades públicas e institutos de pesquisa do Maranhão."
+            },
+            {
+              "id": "s30",
+              "page_start": 98,
+              "page_end": 115,
+              "text": "reconstruir a escola pública, valorizar os profissionais de educação e garantir o direito ao conhecimento D iagnóstico da Educação Maranhense A educação pública maranhense reflete as profundas desigualdades econômicas e sociais que marcam o estado. Embora tenha ocorrido ampliação do acesso à educação básica nas últimas décadas, o Maranhão ainda apresenta alguns dos piores indicadores educacionais do país."
+            },
+            {
+              "id": "s32",
+              "page_start": 116,
+              "page_end": 118,
+              "text": "• Implantar a automaticidade e garantir o reenquadramento imediato de todas as progressões funcionais represadas, de forma automática, assegurando o cumprimento integral do Estatuto do Educador, do Plano de Carreira e da legislação vigente Substituir vínculos precários por contratos efetivos, combatendo a terceirização e acabando com a dependência de contratações temporárias na educação básica e superior."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 31,
+          "page_end": 115,
+          "topics": [
+            "health"
+          ],
+          "summary": "metais pesados, resíduos sólidos e proteção da saúde pública A contaminação por metais pesados e outros poluentes representa uma das principais ameaças à qualidade ambiental, comprometendo a qualidade do ar, do solo, das águas superficiais, dos aquíferos e do ambiente marinho, com impactos sobre a biodiversidade, a pesca, a segurança alimentar. A combinação dessas fontes de emissão pode agravar a poluição atmosférica e ampliar a exposição da população a substâncias potencialmente tóxicas, tornando indispensável o monitoramento permanente da qualidade do ar e a realização de estudos epidemiológicos independentes sobre seus impactos na saúde pública. Ambiental Implantar uma rede permanente de monitoramento da qualidade do ar.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "metais pesados, resíduos sólidos e proteção da saúde pública A contaminação por metais pesados e outros poluentes representa uma das principais ameaças à qualidade ambiental, comprometendo a qualidade do ar, do solo, das águas superficiais, dos aquíferos e do ambiente marinho, com impactos sobre a biodiversidade, a pesca, a segurança alimentar. A combinação dessas fontes de emissão pode agravar a poluição atmosférica e ampliar a exposição da população a substâncias potencialmente tóxicas, tornando indispensável o monitoramento permanente da qualidade do ar e a realização de estudos epidemiológicos independentes sobre seus impactos na saúde pública."
+            },
+            {
+              "id": "s13",
+              "page_start": 71,
+              "page_end": 71,
+              "text": "Ambiental Implantar uma rede permanente de monitoramento da qualidade do ar. • Garantir a transparência na divulgação dos dados ambientais Responsabilizar os agentes poluidores Ampliar o monitoramento da qualidade da água, do solo e dos sedimentos."
+            },
+            {
+              "id": "s23",
+              "page_start": 85,
+              "page_end": 86,
+              "text": "• Integrar saneamento, proteção ambiental e saúde pública, enfrentando os impactos da falta de tratamento de esgoto e da disposição inadequada de resíduos."
+            },
+            {
+              "id": "s24",
+              "page_start": 86,
+              "page_end": 94,
+              "text": "fortalecer o SUS e garantir atendimento de qualidade em todo o Maranhão O Maranhão é um dos estados brasileiros que mais dependem do Sistema Único de Saúde (SUS). Esses dados evidenciam que o SUS é a principal garantia do direito à saúde para a imensa maioria da população maranhense, desde a atenção básica até os procedimentos de alta complexidade."
+            },
+            {
+              "id": "s25",
+              "page_start": 94,
+              "page_end": 95,
+              "text": "• Combater a privatização e a mercantilização da saúde pública, defendendo que os serviços essenciais do SUS sejam executados diretamente pelo Estado, com gestão pública, transparente e democrática."
+            },
+            {
+              "id": "s28",
+              "page_start": 96,
+              "page_end": 97,
+              "text": "prevenção em saúde Fortalecer a Atenção Primária à Saúde em parceria com os municípios, ampliando a cobertura da Estratégia Saúde da Família e garantindo acompanhamento contínuo da população."
+            },
+            {
+              "id": "s29",
+              "page_start": 97,
+              "page_end": 98,
+              "text": "• Combater a terceirização das atividades permanentes da saúde pública, fortalecendo a contratação direta pelo Estado."
+            },
+            {
+              "id": "s30",
+              "page_start": 98,
+              "page_end": 115,
+              "text": "A produção científica deverá estar voltada às necessidades sociais do Maranhão, priorizando pesquisas em saúde pública, educação, agricultura familiar, agroecologia, preservação da Amazônia, do Cerrado, de nossa zona costeira, energias renováveis, saneamento, habitação, desenvolvimento regional e inovação tecnológica voltada aos interesses da população trabalhadora, e não às demandas do mercado."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 67,
+          "page_end": 68,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "• Elaborar um Plano Estadual de Adaptação às Mudanças Climáticas, com investimentos em prevenção de enchentes, drenagem urbana, contenção de áreas de risco, prevenção de queimadas, recuperação de bacias hidrográficas e fortalecimento da Defesa Civil.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 67,
+              "page_end": 68,
+              "text": "• Elaborar um Plano Estadual de Adaptação às Mudanças Climáticas, com investimentos em prevenção de enchentes, drenagem urbana, contenção de áreas de risco, prevenção de queimadas, recuperação de bacias hidrográficas e fortalecimento da Defesa Civil."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 82,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "O crescimento econômico, portanto, não tem sido acompanhado por uma distribuição da riqueza capaz de melhorar as condições de vida do povo maranhense, pois atende prioritariamente aos interesses do grande capital, e não às necessidades da população. Nosso objetivo é contribuir para transformar o enorme potencial econômico do estado em desenvolvimento social, garantindo trabalho digno, renda, moradia, saúde, educação, transporte, cultura e preservação ambiental, em vez de manter um modelo voltado para os lucros de grandes empresários, multinacionais, banqueiros e do agronegócio exportador. • Garantir uma renda mínima no estado, com recursos do governo do estado, do governo federal e das prefeituras, para trabalhadores desempregados, pessoas sem renda e famílias em situação de vulnerabilidade, garantindo condições básicas de sobrevivência enquanto não houver acesso a um emprego digno.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 8,
+              "page_end": 24,
+              "text": "O crescimento econômico, portanto, não tem sido acompanhado por uma distribuição da riqueza capaz de melhorar as condições de vida do povo maranhense, pois atende prioritariamente aos interesses do grande capital, e não às necessidades da população. Nosso objetivo é contribuir para transformar o enorme potencial econômico do estado em desenvolvimento social, garantindo trabalho digno, renda, moradia, saúde, educação, transporte, cultura e preservação ambiental, em vez de manter um modelo voltado para os lucros de grandes empresários, multinacionais, banqueiros e do agronegócio exportador."
+            },
+            {
+              "id": "s04",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "• Garantir uma renda mínima no estado, com recursos do governo do estado, do governo federal e das prefeituras, para trabalhadores desempregados, pessoas sem renda e famílias em situação de vulnerabilidade, garantindo condições básicas de sobrevivência enquanto não houver acesso a um emprego digno. • Combater a desigualdade de renda no Maranhão, direcionando investimentos públicos para geração de empregos, fortalecimento dos serviços públicos e garantia de direitos sociais."
+            },
+            {
+              "id": "s05",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "• Assegurar proteção integral aos trabalhadores resgatados, com acesso à renda, moradia, qualificação profissional, assistência social e reinserção no mercado de trabalho."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "• Criar políticas integradas de combate à fome, articulando segurança alimentar, geração de emprego, valorização dos salários, moradia e acesso aos serviços públicos."
+            },
+            {
+              "id": "s18",
+              "page_start": 75,
+              "page_end": 82,
+              "text": "• Integrar proteção ambiental, geração de emprego e inclusão social."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 97,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "É necessário romper com as políticas que colocam os interesses dos grandes empresários, do agronegócio e das multinacionais acima das necessidades da população, direcionando a riqueza produzida pelo trabalho para garantir emprego, renda, moradia, saúde, educação, transporte, cultura e proteção social para todos. Além disso, cerca de 1,11 milhão de pessoas recebem aposentadorias, pensões ou benefícios assistenciais do INSS, e aproximadamente 1,15 milhão de famílias são atendidas pelo Bolsa Família, demonstrando o peso da Previdência Social, do funcionalismo público e das políticas de transferência de renda na sustentação da economia maranhense. • Garantir proteção integral às vítimas resgatadas, assegurando acesso a assistência social, documentação, qualificação profissional, emprego digno, moradia e políticas públicas que impeçam o retorno a situações de exploração.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 8,
+              "page_end": 24,
+              "text": "É necessário romper com as políticas que colocam os interesses dos grandes empresários, do agronegócio e das multinacionais acima das necessidades da população, direcionando a riqueza produzida pelo trabalho para garantir emprego, renda, moradia, saúde, educação, transporte, cultura e proteção social para todos. Além disso, cerca de 1,11 milhão de pessoas recebem aposentadorias, pensões ou benefícios assistenciais do INSS, e aproximadamente 1,15 milhão de famílias são atendidas pelo Bolsa Família, demonstrando o peso da Previdência Social, do funcionalismo público e das políticas de transferência de renda na sustentação da economia maranhense."
+            },
+            {
+              "id": "s05",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "• Garantir proteção integral às vítimas resgatadas, assegurando acesso a assistência social, documentação, qualificação profissional, emprego digno, moradia e políticas públicas que impeçam o retorno a situações de exploração. • Assegurar proteção integral aos trabalhadores resgatados, com acesso à renda, moradia, qualificação profissional, assistência social e reinserção no mercado de trabalho."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "alimentação dos trabalhadores(as) Ampliar imediatamente a rede de restaurantes populares públicos e gratuitos, garantindo refeições de qualidade para a população em situação de insegurança alimentar, trabalhadores de baixa renda, desempregados e pessoas em situação de vulnerabilidade. • Criar políticas integradas de combate à fome, articulando segurança alimentar, geração de emprego, valorização dos salários, moradia e acesso aos serviços públicos."
+            },
+            {
+              "id": "s15",
+              "page_start": 72,
+              "page_end": 73,
+              "text": "• Apoiar práticas de manejo ecológico e segurança alimentar."
+            },
+            {
+              "id": "s28",
+              "page_start": 96,
+              "page_end": 97,
+              "text": "◦ vigilância em saúde; ◦ assistência farmacêutica; ◦ saneamento básico; ◦ segurança alimentar; ◦ assistência social; ◦ promoção e prevenção em saúde."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 31,
+          "page_end": 86,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "O acidente interrompeu o abastecimento de água da população, lançou rejeitos sobre cursos d'água e áreas de manguezal e motivou a atuação do Ministério Público e da Defensoria Pública para garantir o acesso da população à água potável e a responsabilização da empresa pelos danos causados. metais pesados, resíduos sólidos e proteção da saúde pública A contaminação por metais pesados e outros poluentes representa uma das principais ameaças à qualidade ambiental, comprometendo a qualidade do ar, do solo, das águas superficiais, dos aquíferos e do ambiente marinho, com impactos sobre a biodiversidade, a pesca, a segurança alimentar. água, esgoto e resíduos sólidos O acesso à água tratada, ao esgotamento sanitário e à destinação adequada dos resíduos sólidos é um direito fundamental e uma condição indispensável para garantir saúde, qualidade de vida e preservação ambiental.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "O acidente interrompeu o abastecimento de água da população, lançou rejeitos sobre cursos d'água e áreas de manguezal e motivou a atuação do Ministério Público e da Defensoria Pública para garantir o acesso da população à água potável e a responsabilização da empresa pelos danos causados. metais pesados, resíduos sólidos e proteção da saúde pública A contaminação por metais pesados e outros poluentes representa uma das principais ameaças à qualidade ambiental, comprometendo a qualidade do ar, do solo, das águas superficiais, dos aquíferos e do ambiente marinho, com impactos sobre a biodiversidade, a pesca, a segurança alimentar."
+            },
+            {
+              "id": "s17",
+              "page_start": 74,
+              "page_end": 75,
+              "text": "• Erradicar os lixões, em parceria com os municípios. • Fortalecer cooperativas de catadores de lixo."
+            },
+            {
+              "id": "s18",
+              "page_start": 75,
+              "page_end": 82,
+              "text": "água, esgoto e resíduos sólidos O acesso à água tratada, ao esgotamento sanitário e à destinação adequada dos resíduos sólidos é um direito fundamental e uma condição indispensável para garantir saúde, qualidade de vida e preservação ambiental. A situação da coleta e destinação dos resíduos sólidos também é grave."
+            },
+            {
+              "id": "s20",
+              "page_start": 83,
+              "page_end": 84,
+              "text": "• Apoiar técnica e financeiramente os municípios na elaboração e execução dos Planos Municipais de Saneamento Básico e dos Planos de Gestão Integrada de Resíduos Sólidos."
+            },
+            {
+              "id": "s23",
+              "page_start": 85,
+              "page_end": 86,
+              "text": "proteção ambiental ◦ apoio à construção de aterros sanitários regionalizados; ◦ encerramento gradual dos lixões; ◦ fortalecimento da coleta seletiva; ◦ ampliação da reciclagem; ◦ inclusão social e valorização dos catadores organizados em cooperativas."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 8,
+          "page_end": 86,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Direitos, serviços públicos e melhores condições de vida Assim como no trabalho, na terra e no meio ambiente, a luta por serviços públicos de qualidade leva a um confronto direto com a forma como a riqueza é apropriada e distribuída na sociedade. a SEMA não pode ser transformada em escritório de licenciamento dos grandes empreendimentos; deve cumprir seu papel de proteção, fiscalização e defesa do patrimônio ambiental A atuação da Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) nos últimos anos em diferentes processos de licenciamento ambiental foram questionados pelo Ministério Público, órgãos de controle e organizações da sociedade civil, especialmente em empreendimentos relacionados ao agronegócio, à mineração, à geração de energia e à implantação de grandes obras de infraestrutura. O fortalecimento da transparência e do controle social na política ambiental exige que a Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) e o Instituto Maranhense de Estudos Socioeconômicos e Cartográficos (IMESC) disponibilizem, de forma acessível, atualizada e em formato aberto, informações sobre licenciamento ambiental, autorizações de supressão vegetal, outorgas d",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 8,
+              "page_end": 24,
+              "text": "Direitos, serviços públicos e melhores condições de vida Assim como no trabalho, na terra e no meio ambiente, a luta por serviços públicos de qualidade leva a um confronto direto com a forma como a riqueza é apropriada e distribuída na sociedade."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "a SEMA não pode ser transformada em escritório de licenciamento dos grandes empreendimentos; deve cumprir seu papel de proteção, fiscalização e defesa do patrimônio ambiental A atuação da Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) nos últimos anos em diferentes processos de licenciamento ambiental foram questionados pelo Ministério Público, órgãos de controle e organizações da sociedade civil, especialmente em empreendimentos relacionados ao agronegócio, à mineração, à geração de energia e à implantação de grandes obras de infraestrutura. O fortalecimento da transparência e do controle social na política ambiental exige que a Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) e o Instituto Maranhense de Estudos Socioeconômicos e Cartográficos (IMESC) disponibilizem, de forma acessível, atualizada e em formato aberto, informações sobre licenciamento ambiental, autorizações de supressão vegetal, outorgas de uso da água, monitoramento da qualidade ambiental, desmatamento, queimadas, unidades de conservação, regularização fundiária, zoneamento ecológicoeconômico, bases cartográficas e demais dados de interesse público."
+            },
+            {
+              "id": "s09",
+              "page_start": 68,
+              "page_end": 68,
+              "text": "• Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) a serviço da proteção ambiental, e não dos interesses dos grandes empreendimentos."
+            },
+            {
+              "id": "s16",
+              "page_start": 73,
+              "page_end": 74,
+              "text": "• Implementar uma Política Estadual Permanente de Educação Ambiental, executada de forma integrada entre a Secretaria de Estado do Meio Ambiente (SEMA) e a Secretaria de Estado da Educação (SEDUC). • Fortalecer a Comissão Interinstitucional de Educação Ambiental do Maranhão (CIEA MA) como espaço de articulação, planejamento e acompanhamento das políticas públicas de educação ambiental e os Conselhos Populares com caráter deliberativo e integrando políticas de saúde, educação, assistência, cultura e meio ambiente em planos territoriais participativos."
+            },
+            {
+              "id": "s23",
+              "page_start": 85,
+              "page_end": 86,
+              "text": "• Fortalecer a fiscalização ambiental por meio da Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA), garantindo o cumprimento da legislação ambiental e sanitária pelos prestadores de serviços."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 24,
+          "page_end": 115,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "O plano deve priorizar a construção de moradias populares, escolas, creches, hospitais, unidades básicas de saúde, obras de saneamento básico, abastecimento de água, drenagem urbana, recuperação de estradas estaduais, infraestrutura para agricultura familiar e comunidades rurais, além da recuperação de rios, nascentes e áreas degradadas. • Garantir os direitos territoriais e econômicos das comunidades tradicionais, assegurando condições para a continuidade da pesca artesanal, mariscagem, extrativismo, agricultura familiar e demais formas de produção que preservam os ecossistemas. • Apoiar as mobilizações por emprego digno, reforma agrária, apoio à agricultura familiar e políticas de desenvolvimento regional como forma de impedir que trabalhadores sejam obrigados a migrar em busca de sobrevivência.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "O plano deve priorizar a construção de moradias populares, escolas, creches, hospitais, unidades básicas de saúde, obras de saneamento básico, abastecimento de água, drenagem urbana, recuperação de estradas estaduais, infraestrutura para agricultura familiar e comunidades rurais, além da recuperação de rios, nascentes e áreas degradadas. • Garantir os direitos territoriais e econômicos das comunidades tradicionais, assegurando condições para a continuidade da pesca artesanal, mariscagem, extrativismo, agricultura familiar e demais formas de produção que preservam os ecossistemas."
+            },
+            {
+              "id": "s05",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "• Apoiar as mobilizações por emprego digno, reforma agrária, apoio à agricultura familiar e políticas de desenvolvimento regional como forma de impedir que trabalhadores sejam obrigados a migrar em busca de sobrevivência. • Defender a expropriação, sem indenização, das propriedades onde for comprovada a utilização de trabalho escravo, destinando essas áreas para a reforma agrária, produção de alimentos e projetos que atendam às necessidades da população trabalhadora."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "• Garantir políticas permanentes de compra pública da produção da agricultura familiar, dos assentamentos da reforma agrária e das comunidades tradicionais, destinando esses alimentos para escolas, hospitais, restaurantes populares, creches e demais equipamentos públicos. • Fortalecer a agricultura familiar e a produção de alimentos saudáveis, com assistência técnica pública, infraestrutura, acesso à água, apoio à comercialização e incentivo à agroecologia, em articulação com instituições públicas de ensino e pesquisa; Apoiar a produção agrícola do Maranhão voltada para alimentar seu povo, enfrentando o latifúndio e em alternativa às produções de commodities voltadas para exportações."
+            },
+            {
+              "id": "s10",
+              "page_start": 68,
+              "page_end": 69,
+              "text": "• Fortalecer o ITERMA na política de Reforma Agrária e proteção dos territórios tradicionais."
+            },
+            {
+              "id": "s15",
+              "page_start": 72,
+              "page_end": 73,
+              "text": "• Fortalecer a agricultura familiar, a agroecologia e a produção de alimentos saudáveis. • Fortalecer a assistência técnica e a pesquisa voltadas à agricultura familiar."
+            },
+            {
+              "id": "s30",
+              "page_start": 98,
+              "page_end": 115,
+              "text": "A produção científica deverá estar voltada às necessidades sociais do Maranhão, priorizando pesquisas em saúde pública, educação, agricultura familiar, agroecologia, preservação da Amazônia, do Cerrado, de nossa zona costeira, energias renováveis, saneamento, habitação, desenvolvimento regional e inovação tecnológica voltada aos interesses da população trabalhadora, e não às demandas do mercado."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 31,
+          "page_end": 66,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Dessa forma, tem aumentado a oferta de energia eólica e solar, principalmente, mas para atender a demandas de grandes empreendimentos industriais, viabilização de estruturas para “inteligência artificial” e produção de commodities agrícolas.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "Dessa forma, tem aumentado a oferta de energia eólica e solar, principalmente, mas para atender a demandas de grandes empreendimentos industriais, viabilização de estruturas para “inteligência artificial” e produção de commodities agrícolas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 8,
+          "page_end": 115,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "governará em favor da classe trabalhadora, da juventude, dos povos indígenas, das comunidades quilombolas, dos camponeses, dos ribeirinhos, das quebradeiras de coco babaçu, dos pequenos agricultores e de todos os setores explorados e oprimidos do Maranhão, colocando as riquezas do estado a serviço das necessidades da maioria da população. Recaem principalmente sobre a classe trabalhadora, os povos indígenas, as comunidades quilombolas, os pescadores artesanais, as marisqueiras, as quebradeiras de coco babaçu, os agricultores familiares e demais povos e comunidades tradicionais, que dependem diretamente dos recursos naturais para sua sobrevivência. Enquanto isso, o Congresso Nacional, sob forte influência dos interesses do agronegócio, da mineração e de outros setores econômicos, tem aprovado ou impulsionado propostas que flexibilizam a legislação ambiental e enfraquecem os direitos territoriais dos povos indígenas e das comunidades tradicionais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 8,
+              "page_end": 24,
+              "text": "governará em favor da classe trabalhadora, da juventude, dos povos indígenas, das comunidades quilombolas, dos camponeses, dos ribeirinhos, das quebradeiras de coco babaçu, dos pequenos agricultores e de todos os setores explorados e oprimidos do Maranhão, colocando as riquezas do estado a serviço das necessidades da maioria da população."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "Recaem principalmente sobre a classe trabalhadora, os povos indígenas, as comunidades quilombolas, os pescadores artesanais, as marisqueiras, as quebradeiras de coco babaçu, os agricultores familiares e demais povos e comunidades tradicionais, que dependem diretamente dos recursos naturais para sua sobrevivência. Enquanto isso, o Congresso Nacional, sob forte influência dos interesses do agronegócio, da mineração e de outros setores econômicos, tem aprovado ou impulsionado propostas que flexibilizam a legislação ambiental e enfraquecem os direitos territoriais dos povos indígenas e das comunidades tradicionais."
+            },
+            {
+              "id": "s16",
+              "page_start": 73,
+              "page_end": 74,
+              "text": "• Valorizar e integrar os conhecimentos científicos e os saberes tradicionais de povos indígenas, quilombolas, quebradeiras de coco babaçu, pescadores artesanais, ribeirinhos, extrativistas e agricultores familiares."
+            },
+            {
+              "id": "s30",
+              "page_start": 98,
+              "page_end": 115,
+              "text": "Educação em direitos humanos e combate às opressões A escola pública deve ser um espaço de respeito aos direitos humanos, à diversidade e à igualdade, livre de todas as formas de discriminação, violência e opressão. Defendemos políticas permanentes de prevenção e enfrentamento às violências nas escolas, com equipes multiprofissionais, formação continuada dos profissionais da educação, fortalecimento da gestão democrática e implementação de práticas pedagógicas comprometidas com a educação em direitos humanos, o combate ao racismo, o combate ao machismo, o respeito à diversidade sexual e de gênero, à liberdade religiosa e à inclusão das pessoas com deficiência."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 8,
+          "page_end": 115,
+          "topics": [
+            "governance"
+          ],
+          "summary": "A gestão deve ser realizada pelos trabalhadores do serviço público sob controle dos trabalhadores usuários, nos bairros e comunidades. • Criar mecanismos de controle social das obras públicas, com participação de trabalhadores, sindicatos, movimentos populares e comunidades atingidas, garantindo transparência, fiscalização dos recursos e combate ao desvio de dinheiro público. • Implementação, no serviço público estadual, da jornada máxima de 30 horas semanais, com mínimo de dois dias de folga e realização de concursos públicos para contratação de servidores efetivos necessários ao fortalecimento e à qualidade dos serviços prestados à população em todas as áreas; Combate à pejotização, aos contratos intermitentes, à terceirização e às demais formas de precarização do trabalho nas relações de trabalho promovidas pelo próprio Estado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 8,
+              "page_end": 24,
+              "text": "A gestão deve ser realizada pelos trabalhadores do serviço público sob controle dos trabalhadores usuários, nos bairros e comunidades."
+            },
+            {
+              "id": "s02",
+              "page_start": 24,
+              "page_end": 26,
+              "text": "• Criar mecanismos de controle social das obras públicas, com participação de trabalhadores, sindicatos, movimentos populares e comunidades atingidas, garantindo transparência, fiscalização dos recursos e combate ao desvio de dinheiro público."
+            },
+            {
+              "id": "s03",
+              "page_start": 26,
+              "page_end": 28,
+              "text": "• Implementação, no serviço público estadual, da jornada máxima de 30 horas semanais, com mínimo de dois dias de folga e realização de concursos públicos para contratação de servidores efetivos necessários ao fortalecimento e à qualidade dos serviços prestados à população em todas as áreas; Combate à pejotização, aos contratos intermitentes, à terceirização e às demais formas de precarização do trabalho nas relações de trabalho promovidas pelo próprio Estado. • Garantia de negociação coletiva e respeito à organização sindical, assegurando o direito de greve, a database no serviço público, e a participação dos trabalhadores nas decisões que afetam suas condições de trabalho."
+            },
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "O fortalecimento da transparência e do controle social na política ambiental exige que a Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA) e o Instituto Maranhense de Estudos Socioeconômicos e Cartográficos (IMESC) disponibilizem, de forma acessível, atualizada e em formato aberto, informações sobre licenciamento ambiental, autorizações de supressão vegetal, outorgas de uso da água, monitoramento da qualidade ambiental, desmatamento, queimadas, unidades de conservação, regularização fundiária, zoneamento ecológicoeconômico, bases cartográficas e demais dados de interesse público. A ampla divulgação dessas informações fortalece o controle social, a produção científica, a participação popular e a fiscalização dos órgãos de controle, contribuindo para prevenir irregularidades, ampliar a segurança jurídica e assegurar que as decisões sobre o uso dos recursos naturais sejam pautadas pelo interesse público e pela proteção ambiental."
+            },
+            {
+              "id": "s09",
+              "page_start": 68,
+              "page_end": 68,
+              "text": "• Assegurar transparência, controle social e ampla publicidade dos processos."
+            },
+            {
+              "id": "s19",
+              "page_start": 82,
+              "page_end": 83,
+              "text": "• Garantir gestão pública, transparente e democrática da companhia, com participação dos trabalhadores e da população nas decisões estratégicas."
+            },
+            {
+              "id": "s22",
+              "page_start": 85,
+              "page_end": 85,
+              "text": "• Combater a terceirização e as formas precárias de contratação, incluindo políticas de seletivos permanentes, contratos temporários e modelos que enfraqueçam o serviço público."
+            },
+            {
+              "id": "s24",
+              "page_start": 86,
+              "page_end": 94,
+              "text": "Além disso, a pulverização dos recursos entre diferentes entidades pode dificultar o acompanhamento, a fiscalização e o controle social sobre a aplicação do dinheiro público. Nosso compromisso é combater a terceirização das atividades permanentes, fortalecer as equipes próprias da rede estadual e assegurar uma gestão pública, estatal, transparente e submetida ao controle social."
+            },
+            {
+              "id": "s25",
+              "page_start": 94,
+              "page_end": 95,
+              "text": "• Combater a privatização e a mercantilização da saúde pública, defendendo que os serviços essenciais do SUS sejam executados diretamente pelo Estado, com gestão pública, transparente e democrática. • Fortalecer o controle social do SUS, garantindo a participação dos trabalhadores da saúde, usuários e conselhos de saúde na definição das prioridades da política estadual."
+            },
+            {
+              "id": "s30",
+              "page_start": 98,
+              "page_end": 115,
+              "text": "Essa política buscará garantir atendimento digno, humanizado e eficiente, fortalecendo a rede pública de assistência ao servidor e reconhecendo que o acesso à saúde é um direito fundamental de quem dedica sua vida ao serviço público e à população maranhense. Gestão democrática da carreira e negociação permanente Instituiremos uma política permanente de diálogo entre o Governo do Estado e os trabalhadores da educação e suas entidades representativas, assegurando a negociação coletiva no serviço público estadual."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 31,
+          "page_end": 71,
+          "topics": [
+            "energy"
+          ],
+          "summary": "A implantação das seis termelétricas e da infraestrutura associada à exploração de gás natural modificou significativamente o uso e a ocupação do território, ampliando a pressão sobre áreas tradicionalmente utilizadas por comunidades rurais. Nesse contexto, merece atenção especial o potencial de exploração de gás natural não convencional na Bacia do Parnaíba. • Construir um projeto voltado para uso de energia de fontes com menor impacto ambiental e menor custo em toda a estrutura direta e indireta do governo do estado; Apoiar projetos voltados para geração de energia adequados às especificidades de comunidades rurais e terras indígenas, com base em diálogos e indicações dos moradores; Apoiar projetos de pesquisas que contribuam para autonomia tecnológica e em termos de equipamentos voltados para geração de energia com menor impacto ambiental Rever e ajustar todas as licenças a apoios públicos voltados para a geração das ditas energias renováveis que sejam objeto de contestação judicial e/ou de lutas de comunidades em função de seus impactos ambientais Condicionar a implantação de linhas de transmissão e empreendimentos energéticos ao cumprimento rigoroso de leis ambientais e realiz",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 31,
+              "page_end": 66,
+              "text": "A implantação das seis termelétricas e da infraestrutura associada à exploração de gás natural modificou significativamente o uso e a ocupação do território, ampliando a pressão sobre áreas tradicionalmente utilizadas por comunidades rurais. Nesse contexto, merece atenção especial o potencial de exploração de gás natural não convencional na Bacia do Parnaíba."
+            },
+            {
+              "id": "s12",
+              "page_start": 69,
+              "page_end": 71,
+              "text": "• Construir um projeto voltado para uso de energia de fontes com menor impacto ambiental e menor custo em toda a estrutura direta e indireta do governo do estado; Apoiar projetos voltados para geração de energia adequados às especificidades de comunidades rurais e terras indígenas, com base em diálogos e indicações dos moradores; Apoiar projetos de pesquisas que contribuam para autonomia tecnológica e em termos de equipamentos voltados para geração de energia com menor impacto ambiental Rever e ajustar todas as licenças a apoios públicos voltados para a geração das ditas energias renováveis que sejam objeto de contestação judicial e/ou de lutas de comunidades em função de seus impactos ambientais Condicionar a implantação de linhas de transmissão e empreendimentos energéticos ao cumprimento rigoroso de leis ambientais e realização de audiências públicas antecedidas por informações acerca dos possíveis benefícios e impactos para as comunidades Colocar toda a estrutura do governo do estado para garantir indenizações justas para comunidades atingidas por grandes projetos no setor de energia."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002542556",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002542556_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002542556_01.pdf",
+      "sha256": "4dbaefad4e83048b272517bf832ebb0752b5f8470cbd7234db270e3d491fc2be",
+      "summary": "A rede do IEMA nasceu da WUDQVIRUPDomR\u0003GD\u000381,9,0$\u0003HP\u0003LQVWLWXWR\u0003HVWDGXDO\u0003GH\u0003HGXFDomR\u0003SUR¿VVLRQDO\u0011\u0003 As duas políticas formam a base sobre a qual o programa Maranhão Que Aprende propõe enfrentar o gargalo do Ensino Médio e ampliar a educação HP\u0003WHPSR\u0003LQWHJUDO\u0003H\u0003SUR¿VVLRQDOL]DQWH\u0011 \u0011 A rede do IEMA foi a face mais inovadora da educação no ciclo, e o programa de 2018 já previa cem unidades com ensino médio técnico em tempo integral em todas as regiões. O Ensino Médio é o elo mais frágil, com Ideb de 3,8 em 2023, abaixo da meta, e mais de 30% dos jovens de 18 a 24 anos sem concluir Água e esgoto não são apenas questão de saúde pública. Em 2024, o Maranhão registrou 1.914 homicídios dolosos, alta de 11,47% frente a 2023, e 69 feminicídios, crescimento de 38% (Mapa da Segurança Pública 2025, Ministério da Justiça e Segurança Pública, com dados do Sinesp, conforme o GT de Segurança Pública). Por isso, a proposta de governo rompe com a visão de que políticas sociais são custos decorrentes do crescimento econômico. a riqueza cresce, mas os indicadores socioeconômicos, entre eles renda per capita, pobreza, informalidade e escolaridade, não acompanham no mesmo ritmo, porque a estrutura econômica e a estrutura social operam desarticuladas. A segunda, de serviços e setor público, sustenta emprego e renda, mas depende do gasto público e não puxa a transformação produtiva. Educação, cuidado, proteção social, saúde, segurança e saneamento são tratados como investimentos estruturantes e infraestruturas do desenvolvimento socioeconômico. Conselhos e conferências perderam periodicidade e poder de decisão, e a escuta territorial deixou de orientar o orçamento, razão pela qual os GTs de Direitos Humanos, de Quilombolas e de Assistência Social propõem reinstituí-los por lei, e não apenas convocá-los. O GT de Assistência Social registra crescimento de 44,53% da população idosa entre os Censos de 2010 e 2022, Q~PHUR\u0003D\u0003VHU\u0003FRQ¿UPDGR\u0003MXQWR\u0003DR\u0003,0(6&\u000f\u0003H\u0003SURMHWD\u0003TXH\u0003HOD\u0003VXSHUDUi\u0003D\u0003GH\u0003MRYHQV\u0003 até 2043. O GT de Meio Ambiente e o Programa de Justiça Climática e Territórios Tradicionais não tratam a conservação como restrição, e sim como base da economia. O documento se encerra com o compromisso de controle social, transparência e monitoramento com participação popular, sem o qual nenhum plano se cumpre.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 12,
+          "page_end": 22,
+          "topics": [
+            "education"
+          ],
+          "summary": "A rede do IEMA nasceu da WUDQVIRUPDomR\u0003GD\u000381,9,0$\u0003HP\u0003LQVWLWXWR\u0003HVWDGXDO\u0003GH\u0003HGXFDomR\u0003SUR¿VVLRQDO\u0011\u0003 As duas políticas formam a base sobre a qual o programa Maranhão Que Aprende propõe enfrentar o gargalo do Ensino Médio e ampliar a educação HP\u0003WHPSR\u0003LQWHJUDO\u0003H\u0003SUR¿VVLRQDOL]DQWH\u0011 \u0011 A rede do IEMA foi a face mais inovadora da educação no ciclo, e o programa de 2018 já previa cem unidades com ensino médio técnico em tempo integral em todas as regiões. O Ensino Médio é o elo mais frágil, com Ideb de 3,8 em 2023, abaixo da meta, e mais de 30% dos jovens de 18 a 24 anos sem concluir",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "A rede do IEMA nasceu da WUDQVIRUPDomR\u0003GD\u000381,9,0$\u0003HP\u0003LQVWLWXWR\u0003HVWDGXDO\u0003GH\u0003HGXFDomR\u0003SUR¿VVLRQDO\u0011\u0003 As duas políticas formam a base sobre a qual o programa Maranhão Que Aprende propõe enfrentar o gargalo do Ensino Médio e ampliar a educação HP\u0003WHPSR\u0003LQWHJUDO\u0003H\u0003SUR¿VVLRQDOL]DQWH\u0011"
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "\u0011 A rede do IEMA foi a face mais inovadora da educação no ciclo, e o programa de 2018 já previa cem unidades com ensino médio técnico em tempo integral em todas as regiões."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "O Ensino Médio é o elo mais frágil, com Ideb de 3,8 em 2023, abaixo da meta, e mais de 30% dos jovens de 18 a 24 anos sem concluir"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 23,
+          "page_end": 23,
+          "topics": [
+            "health"
+          ],
+          "summary": "Água e esgoto não são apenas questão de saúde pública.",
+          "excerpts": [
+            {
+              "id": "s20",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "Água e esgoto não são apenas questão de saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 22,
+          "page_end": 22,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Em 2024, o Maranhão registrou 1.914 homicídios dolosos, alta de 11,47% frente a 2023, e 69 feminicídios, crescimento de 38% (Mapa da Segurança Pública 2025, Ministério da Justiça e Segurança Pública, com dados do Sinesp, conforme o GT de Segurança Pública).",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "Em 2024, o Maranhão registrou 1.914 homicídios dolosos, alta de 11,47% frente a 2023, e 69 feminicídios, crescimento de 38% (Mapa da Segurança Pública 2025, Ministério da Justiça e Segurança Pública, com dados do Sinesp, conforme o GT de Segurança Pública)."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 20,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Por isso, a proposta de governo rompe com a visão de que políticas sociais são custos decorrentes do crescimento econômico. a riqueza cresce, mas os indicadores socioeconômicos, entre eles renda per capita, pobreza, informalidade e escolaridade, não acompanham no mesmo ritmo, porque a estrutura econômica e a estrutura social operam desarticuladas.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Por isso, a proposta de governo rompe com a visão de que políticas sociais são custos decorrentes do crescimento econômico."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "lugar e à geração de emprego para a juventude."
+            },
+            {
+              "id": "s15",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "a riqueza cresce, mas os indicadores socioeconômicos, entre eles renda per capita, pobreza, informalidade e escolaridade, não acompanham no mesmo ritmo, porque a estrutura econômica e a estrutura social operam desarticuladas."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 7,
+          "page_end": 8,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "A segunda, de serviços e setor público, sustenta emprego e renda, mas depende do gasto público e não puxa a transformação produtiva.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 7,
+              "page_end": 8,
+              "text": "A segunda, de serviços e setor público, sustenta emprego e renda, mas depende do gasto público e não puxa a transformação produtiva."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 26,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Educação, cuidado, proteção social, saúde, segurança e saneamento são tratados como investimentos estruturantes e infraestruturas do desenvolvimento socioeconômico. Conselhos e conferências perderam periodicidade e poder de decisão, e a escuta territorial deixou de orientar o orçamento, razão pela qual os GTs de Direitos Humanos, de Quilombolas e de Assistência Social propõem reinstituí-los por lei, e não apenas convocá-los. O GT de Assistência Social registra crescimento de 44,53% da população idosa entre os Censos de 2010 e 2022, Q~PHUR\u0003D\u0003VHU\u0003FRQ¿UPDGR\u0003MXQWR\u0003DR\u0003,0(6&\u000f\u0003H\u0003SURMHWD\u0003TXH\u0003HOD\u0003VXSHUDUi\u0003D\u0003GH\u0003MRYHQV\u0003 até 2043.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Educação, cuidado, proteção social, saúde, segurança e saneamento são tratados como investimentos estruturantes e infraestruturas do desenvolvimento socioeconômico."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Conselhos e conferências perderam periodicidade e poder de decisão, e a escuta territorial deixou de orientar o orçamento, razão pela qual os GTs de Direitos Humanos, de Quilombolas e de Assistência Social propõem reinstituí-los por lei, e não apenas convocá-los."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "O GT de Assistência Social registra crescimento de 44,53% da população idosa entre os Censos de 2010 e 2022, Q~PHUR\u0003D\u0003VHU\u0003FRQ¿UPDGR\u0003MXQWR\u0003DR\u0003,0(6&\u000f\u0003H\u0003SURMHWD\u0003TXH\u0003HOD\u0003VXSHUDUi\u0003D\u0003GH\u0003MRYHQV\u0003 até 2043."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "Some-se a isso o peso do trabalho infantil, com 80.534 crianças e adolescentes de 5 a 17 anos em situação de trabalho em 2024, o sétimo maior contingente absoluto do país (PNAD Contínua/IBGE, estatísticas experimentais, conforme o GT de Assistência Social), que compromete a escolarização e perpetua o ciclo intergeracional da pobreza."
+            },
+            {
+              "id": "s20",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "São condição de segurança alimentar, de permanência no campo e de agregação de valor à produção."
+            },
+            {
+              "id": "s25",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "O GT de Recursos Hídricos e Saneamento e o de Segurança Alimentar tratam a água como fator primordial da alimentação, da saúde e da produção."
+            },
+            {
+              "id": "s26",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "a mercados O GT de Políticas para o Campo, o de Segurança Alimentar e o de Economia Solidária convergem para um mesmo desenho: produzir alimentos saudáveis fortalecendo a agricultura familiar, a agroecologia e a redução de agrotóxicos, e garantir que essa produção chegue ao mercado."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 26,
+          "page_end": 26,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O GT de Meio Ambiente e o Programa de Justiça Climática e Territórios Tradicionais não tratam a conservação como restrição, e sim como base da economia.",
+          "excerpts": [
+            {
+              "id": "s24",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "O GT de Meio Ambiente e o Programa de Justiça Climática e Territórios Tradicionais não tratam a conservação como restrição, e sim como base da economia."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 6,
+          "page_end": 29,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "As propostas colhidas nesse percurso foram analisadas e sistematizadas por Grupos de Trabalho (GTs), que reuniram especialistas, movimentos sociais, empresárias e empresários, trabalhadoras e trabalhadores, gestoras e gestores, conselheiras e conselheiros das políticas públicas, juventudes, mulheres, indígenas, quilombolas e famílias assentadas da reforma agrária. Decorrem também dois vetores concretos de distribuição, o tecido de pequenos e médios negócios nas cidades e a economia territorial da agricultura familiar cooperativada no campo. No centro da distribuição estão os pequenos e médios negócios das cidades e a economia territorial da agricultura familiar e do cooperativismo.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "As propostas colhidas nesse percurso foram analisadas e sistematizadas por Grupos de Trabalho (GTs), que reuniram especialistas, movimentos sociais, empresárias e empresários, trabalhadoras e trabalhadores, gestoras e gestores, conselheiras e conselheiros das políticas públicas, juventudes, mulheres, indígenas, quilombolas e famílias assentadas da reforma agrária."
+            },
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Decorrem também dois vetores concretos de distribuição, o tecido de pequenos e médios negócios nas cidades e a economia territorial da agricultura familiar cooperativada no campo."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "No centro da distribuição estão os pequenos e médios negócios das cidades e a economia territorial da agricultura familiar e do cooperativismo."
+            },
+            {
+              "id": "s12",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "A rede de Restaurantes Populares e Cozinhas Comunitárias, que passou de seis para vinte e cinco unidades no primeiro mandato, é a base sobre a qual este plano propõe regulamentar percentuais de aquisição da agricultura familiar para esses equipamentos, além de avançar na expansão dos sistemas de SAN nos municípios maranhenses."
+            },
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "A terceira é a matriz da economia territorial e popular, de menor valor movimentado e maior capilaridade social, reúne a agricultura familiar, o extrativismo da sociobiodiversidade, a pesca artesanal, a economia solidária, o turismo de base comunitária e a economia criativa, pequenos negócios nos bairros das cidades."
+            },
+            {
+              "id": "s20",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "infraestrutura de vida como base da produção A economia territorial da agricultura familiar e dos pequenos negócios só se realiza VREUH\u0003XPD\u0003EDVH\u0003PDWHULDO\u0003GH\u0003YLGD\u0003GLJQD\u000f\u0003TXH\u0003KRMH\u0003p\u0003GH¿FLWiULD\u0011\u00032\u0003DEDVWHFLPHQWR\u0003 de água alcança cerca de 53,7% da população, contra média nacional superior a 83%, e o esgotamento sanitário atinge apenas 27,4%, ante cerca de 60% no país, segundo os dados consolidados pelo GT de Recursos Hídricos e Saneamento a partir do Sistema Nacional de Informações em Saneamento Básico (Sinisa)."
+            },
+            {
+              "id": "s23",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "O Plano Lula p\u0003H[SOtFLWR\u0003DR\u0003VLWXi\u0010OR\u0003FRPR\u0003IURQWHLUD\u0003GR\u0003VpFXOR\u0003;;,\u000f\u0003DR\u0003D¿UPDU\u0003TXH\u0003FRPELQDU\u0003 expansão produtiva com conservação ambiental, tratar a água como direito humano e bem público e fortalecer a agricultura familiar como base dos sistemas alimentares saudáveis posicionam o país como líder global em sistemas alimentares sustentáveis e em bioeconomia."
+            },
+            {
+              "id": "s26",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "a mercados O GT de Políticas para o Campo, o de Segurança Alimentar e o de Economia Solidária convergem para um mesmo desenho: produzir alimentos saudáveis fortalecendo a agricultura familiar, a agroecologia e a redução de agrotóxicos, e garantir que essa produção chegue ao mercado."
+            },
+            {
+              "id": "s27",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "do acesso a mercados, o SEPAB, o PROCAF, o PAA e o PNAE, os selos de origem e as feiras — com a meta de ampliar a compra da alimentação escolar e regulamentar a aquisição dos produtos consumidos nos Restaurantes Populares e outros serviços públicos da agricultura familiar."
+            },
+            {
+              "id": "s31",
+              "page_start": 28,
+              "page_end": 29,
+              "text": "Por LVVR\u0003HOD\u0003QmR\u0003¿FD\u0003UHVWULWD\u0003D\u0003XPD\u0003PDWUL]\u0011\u0003$UWLFXOD\u0003D\u0003ELRHFRQRPLD\u000f\u0003D\u0003WUDQVLomR\u0003 energética e, sobretudo, a economia territorial da agricultura familiar, operacionalizada na Parte II."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 16,
+          "page_end": 22,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "A terceira é a matriz da economia territorial e popular, de menor valor movimentado e maior capilaridade social, reúne a agricultura familiar, o extrativismo da sociobiodiversidade, a pesca artesanal, a economia solidária, o turismo de base comunitária e a economia criativa, pequenos negócios nos bairros das cidades. Nova matriz 4 — Economia do conhecimento, do cuidado e da cultura 'LYHUVL¿FDU\u0003D\u0003PDWUL]\u0003GH\u0003VHUYLoRV\u0003SDUD\u0003DOpP\u0003GD\u0003DGPLQLVWUDomR\u0003S~EOLFD\u000f\u0003DQFRUDQGR\u0003 renda na ciência e inovação, na economia do cuidado, no turismo de base comunitária e na economia criativa e do patrimônio, absorvendo as mulheres e MXYHQWXGHV\u0003TXDOL¿FDGDV\u0003KRMH\u0003VHP\u0003KRUL]RQWH\u0003ORFDO\u0011 G \u00032\u0003TXDGUR\u0003VRFLDO\u0003GR\u0003GHVHQYROYLPHQWR \u0003SHVVRDV\u000f\u0003FDSLWDO\u0003KXPDQR\u0003 e capacidade de Estado Uma matriz socioeconômica não se caracteriza apenas pela riqueza que o território movimenta, mas pelas pessoas que a produzem e que dela dependem.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "A terceira é a matriz da economia territorial e popular, de menor valor movimentado e maior capilaridade social, reúne a agricultura familiar, o extrativismo da sociobiodiversidade, a pesca artesanal, a economia solidária, o turismo de base comunitária e a economia criativa, pequenos negócios nos bairros das cidades."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Nova matriz 4 — Economia do conhecimento, do cuidado e da cultura 'LYHUVL¿FDU\u0003D\u0003PDWUL]\u0003GH\u0003VHUYLoRV\u0003SDUD\u0003DOpP\u0003GD\u0003DGPLQLVWUDomR\u0003S~EOLFD\u000f\u0003DQFRUDQGR\u0003 renda na ciência e inovação, na economia do cuidado, no turismo de base comunitária e na economia criativa e do patrimônio, absorvendo as mulheres e MXYHQWXGHV\u0003TXDOL¿FDGDV\u0003KRMH\u0003VHP\u0003KRUL]RQWH\u0003ORFDO\u0011 G \u00032\u0003TXDGUR\u0003VRFLDO\u0003GR\u0003GHVHQYROYLPHQWR \u0003SHVVRDV\u000f\u0003FDSLWDO\u0003KXPDQR\u0003 e capacidade de Estado Uma matriz socioeconômica não se caracteriza apenas pela riqueza que o território movimenta, mas pelas pessoas que a produzem e que dela dependem."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 12,
+          "page_end": 29,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Conselhos e conferências perderam periodicidade e poder de decisão, e a escuta territorial deixou de orientar o orçamento, razão pela qual os GTs de Direitos Humanos, de Quilombolas e de Assistência Social propõem reinstituí-los por lei, e não apenas convocá-los. O Plano Mais IDH, dirigido aos municípios de menor Índice de Desenvolvimento Humano e ampliado no segundo mandato com enfoque territorial, é retomado e atualizado neste plano por proposta do GT de Direitos Humanos, articulado agora à inclusão produtiva e à governança territorial da Parte II. a economia territorial que distribui renda é feita majoritariamente por mulheres, população negra, quilombolas, indígenas, pescadoras e pescadores, agricultoras e agricultores familiares, exatamente os grupos cuja renda mais escapa por falta de terra, água, crédito H\u0003EHQH¿FLDPHQWR\u000f\u0003DJUDYDGDV\u0003SRU\u0003GLIHUHQWHV\u0003IRUPDV\u0003GH\u0003YLROrQFLD\u0003 que essas populações enfrentam cotidianamente.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Conselhos e conferências perderam periodicidade e poder de decisão, e a escuta territorial deixou de orientar o orçamento, razão pela qual os GTs de Direitos Humanos, de Quilombolas e de Assistência Social propõem reinstituí-los por lei, e não apenas convocá-los."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "O Plano Mais IDH, dirigido aos municípios de menor Índice de Desenvolvimento Humano e ampliado no segundo mandato com enfoque territorial, é retomado e atualizado neste plano por proposta do GT de Direitos Humanos, articulado agora à inclusão produtiva e à governança territorial da Parte II."
+            },
+            {
+              "id": "s15",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "a economia territorial que distribui renda é feita majoritariamente por mulheres, população negra, quilombolas, indígenas, pescadoras e pescadores, agricultoras e agricultores familiares, exatamente os grupos cuja renda mais escapa por falta de terra, água, crédito H\u0003EHQH¿FLDPHQWR\u000f\u0003DJUDYDGDV\u0003SRU\u0003GLIHUHQWHV\u0003IRUPDV\u0003GH\u0003YLROrQFLD\u0003 que essas populações enfrentam cotidianamente."
+            },
+            {
+              "id": "s32",
+              "page_start": 29,
+              "page_end": 29,
+              "text": "O GT de Igualdade Racial coloca no centro a interseção entre raça, gênero, geração e território, com prioridade às mulheres negras e às juventudes negras."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 9,
+          "page_end": 12,
+          "topics": [
+            "governance"
+          ],
+          "summary": "O documento se encerra com o compromisso de controle social, transparência e monitoramento com participação popular, sem o qual nenhum plano se cumpre. O GT de Serviço Público registra a precarização estrutural de órgãos, a carência de concursos permanentes, a sobrecarga funcional em áreas essenciais e a baixa integração entre secretarias, e praticamente todos",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "O documento se encerra com o compromisso de controle social, transparência e monitoramento com participação popular, sem o qual nenhum plano se cumpre."
+            },
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "O GT de Serviço Público registra a precarização estrutural de órgãos, a carência de concursos permanentes, a sobrecarga funcional em áreas essenciais e a baixa integração entre secretarias, e praticamente todos"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 8,
+          "page_end": 22,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Dessa proposta decorrem quatro novas matrizes de geração de renda, a industrialização e agregação de valor no território, a bioeconomia e economia da sociobiodiversidade, a transição energética com repartição local e a economia do conhecimento, do cuidado e da cultura. Nova matriz 3 — Transição energética com energia, justiça energética e compartilhamento de benefícios Inserir o estado na economia de baixo carbono (solar, eólica, biocombustíveis, Margem Equatorial) capturando parte do valor no território, por conteúdo local, emprego, energia comunitária e compensação, para que a transição não repita a lógica de enclave.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Dessa proposta decorrem quatro novas matrizes de geração de renda, a industrialização e agregação de valor no território, a bioeconomia e economia da sociobiodiversidade, a transição energética com repartição local e a economia do conhecimento, do cuidado e da cultura."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Nova matriz 3 — Transição energética com energia, justiça energética e compartilhamento de benefícios Inserir o estado na economia de baixo carbono (solar, eólica, biocombustíveis, Margem Equatorial) capturando parte do valor no território, por conteúdo local, emprego, energia comunitária e compensação, para que a transição não repita a lógica de enclave."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002543869",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002543869_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002543869_01.pdf",
+      "sha256": "a637981388d05744e44978e9c84b187b841f8cce6463d81f5c22a9df2792e178",
+      "summary": "Plano Integrado da Educação Básica do Maranhão | Elaborar e implementar, em parceria com municípios, o Plano Integrado da Educação Básica do Maranhão. Ensino Fundamental em Tempo Integral | Estimular e apoiar os municípios para implantação de escolas de Ensino Fundamental em tempo integral. estadual e apoiar a implantação em unidades da rede pública municipal para melhor atender o povo do Maranhão. Telessaúde | Implementar Rede Estadual de Saúde Digital (Telessaúde), integrando inovação tecnológica e suporte clínico especializado em benefício do povo maranhense. Atendimento a vítimas de violência | Instalar ambulatórios regionais de saúde mental e de atendimento especializado para vítimas de violência, com destaque para mulheres em situação de violência doméstica e familiar. Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado. Prevenção a Desastres | Prevenção a desastres resultantes de emergência climática, como enchentes, em parceria com municípios, SES, Bombeiro Militar e Defesa Civil. Vigilância Ambiental | Estruturar a inteligência da Vigilância Ambiental, em parceria com a Defesa Civil e o Corpo de Bombeiros Militar, objetivando o monitoramento preventivo de desastres naturais e a atuação imediata para envio de insumos de saúde e mitigação de doenças associadas. Habitação e Qualidade de Vida | Implantar, em parceria com municípios, programa de habitação de interesse social integrado à oferta de serviços de saúde, educação, assistência social e qualificação para o trabalho. fortalecer o atendimento multiprofissional especializado, de forma integrada com a rede estadual de educação e de assistência social. Centros Especializados em Reabilitação (CER) II, III e IV, objetivando fortalecer e descentralizar o atendimento e a dispensação de órteses, próteses e meios auxiliares de locomoção.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 15,
+          "page_end": 15,
+          "topics": [
+            "education"
+          ],
+          "summary": "Plano Integrado da Educação Básica do Maranhão | Elaborar e implementar, em parceria com municípios, o Plano Integrado da Educação Básica do Maranhão. Ensino Fundamental em Tempo Integral | Estimular e apoiar os municípios para implantação de escolas de Ensino Fundamental em tempo integral.",
+          "excerpts": [
+            {
+              "id": "s27",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Plano Integrado da Educação Básica do Maranhão | Elaborar e implementar, em parceria com municípios, o Plano Integrado da Educação Básica do Maranhão."
+            },
+            {
+              "id": "s32",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Ensino Fundamental em Tempo Integral | Estimular e apoiar os municípios para implantação de escolas de Ensino Fundamental em tempo integral."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 15,
+          "topics": [
+            "health"
+          ],
+          "summary": "estadual e apoiar a implantação em unidades da rede pública municipal para melhor atender o povo do Maranhão. Telessaúde | Implementar Rede Estadual de Saúde Digital (Telessaúde), integrando inovação tecnológica e suporte clínico especializado em benefício do povo maranhense. Atendimento a vítimas de violência | Instalar ambulatórios regionais de saúde mental e de atendimento especializado para vítimas de violência, com destaque para mulheres em situação de violência doméstica e familiar.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "estadual e apoiar a implantação em unidades da rede pública municipal para melhor atender o povo do Maranhão. Telessaúde | Implementar Rede Estadual de Saúde Digital (Telessaúde), integrando inovação tecnológica e suporte clínico especializado em benefício do povo maranhense."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Atendimento a vítimas de violência | Instalar ambulatórios regionais de saúde mental e de atendimento especializado para vítimas de violência, com destaque para mulheres em situação de violência doméstica e familiar."
+            },
+            {
+              "id": "s20",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "municipais, visando à superação dos vazios assistenciais e ao fortalecimento das redes hospitalar e ambulatorial regionalizadas. SAÚDE PLANO DE GOVERNO 2027------------------ 2030"
+            },
+            {
+              "id": "s28",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "Saúde na Escola | Fortalecer os cuidados preventivos de saúde dos alunos da rede pública, em parceria com os municípios, promovendo ações de atenção básica, nutrição, oftalmologia e saúde bucal nas escolas."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 13,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado. Prevenção a Desastres | Prevenção a desastres resultantes de emergência climática, como enchentes, em parceria com municípios, SES, Bombeiro Militar e Defesa Civil. Vigilância Ambiental | Estruturar a inteligência da Vigilância Ambiental, em parceria com a Defesa Civil e o Corpo de Bombeiros Militar, objetivando o monitoramento preventivo de desastres naturais e a atuação imediata para envio de insumos de saúde e mitigação de doenças associadas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 11,
+              "text": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado."
+            },
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Prevenção a Desastres | Prevenção a desastres resultantes de emergência climática, como enchentes, em parceria com municípios, SES, Bombeiro Militar e Defesa Civil."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Vigilância Ambiental | Estruturar a inteligência da Vigilância Ambiental, em parceria com a Defesa Civil e o Corpo de Bombeiros Militar, objetivando o monitoramento preventivo de desastres naturais e a atuação imediata para envio de insumos de saúde e mitigação de doenças associadas."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 11,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 11,
+              "text": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 11,
+          "page_end": 13,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Habitação e Qualidade de Vida | Implantar, em parceria com municípios, programa de habitação de interesse social integrado à oferta de serviços de saúde, educação, assistência social e qualificação para o trabalho. fortalecer o atendimento multiprofissional especializado, de forma integrada com a rede estadual de educação e de assistência social.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "Habitação e Qualidade de Vida | Implantar, em parceria com municípios, programa de habitação de interesse social integrado à oferta de serviços de saúde, educação, assistência social e qualificação para o trabalho."
+            },
+            {
+              "id": "s18",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "fortalecer o atendimento multiprofissional especializado, de forma integrada com a rede estadual de educação e de assistência social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 11,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 11,
+              "text": "Por isso, este plano reúne propostas voltadas para ampliar o acesso à saúde, à educação, fortalecer a segurança pública, modernizar a infraestrutura, proteger o meio ambiente, por meio de um desenvolvimento sustentável, promover a acessibilidade, a inclusão social e impulsionar a geração de emprego e renda para, assim, reduzir as desigualdades sociais entre as regiões do estado."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 13,
+          "page_end": 13,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Centros Especializados em Reabilitação (CER) II, III e IV, objetivando fortalecer e descentralizar o atendimento e a dispensação de órteses, próteses e meios auxiliares de locomoção.",
+          "excerpts": [
+            {
+              "id": "s17",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "Centros Especializados em Reabilitação (CER) II, III e IV, objetivando fortalecer e descentralizar o atendimento e a dispensação de órteses, próteses e meios auxiliares de locomoção."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002544073",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002544073_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002544073_01.pdf",
+      "sha256": "f2188ce764afaff7db3a9194c175d44b7f77efbee71b8c3208bc220cec5cb509",
+      "summary": "(70) Desenvolver uma política permanente de educação para a igualdade de gênero, os direitos humanos e o respeito à diversidade nas escolas públicas, integrada à formação continuada dos profissionais da educação e à produção de materiais pedagógicos adequados à realidade maranhense, contribuindo para o enfrentamento do machismo, da violência de gênero e de todas as formas de discriminação. (76) Programas de alfabetização e formação profissional voltados especificamente para mulheres adultas, com metodologias que articulem saberes tradicionais e técnicos. (77) Promover a inclusão, nos currículos da rede pública estadual de ensino, de conteúdos relacionados à história das mulheres, às lutas dos movimentos feministas, às relações de gênero, aos direitos humanos, à educação para a igualdade e ao respeito à diversidade, articulando essa política com os demais níveis de ensino. fruto do acaso, trata-se da consequência de décadas de subfinanciamento do Sistema Único de Saúde (SUS), da precarização dos serviços públicos e da adoção de políticas econômicas que subordinam as necessidades da população aos interesses do mercado financeiro. A medicalização da política de saúde, que prioriza curativos em detrimento da prevenção e da atenção básica, agrava o quadro, concentrando recursos nas grandes cidades enquanto o campo é abandonado. (37) Essa realidade produz consequências dramáticas para a saúde pública. Dados do Fórum Brasileiro de Segurança Pública indicam que o Maranhão permanece entre os estados com níveis elevados de violência contra a mulher. Segundo o Anuário Brasileiro de Segurança Pública (2024), o estado registrou aumento nos casos de feminicídio em relação aos anos anteriores, mantendo-se entre os mais críticos do país em termos de violência letal contra mulheres. (67) A violência contra as mulheres não pode ser tratada apenas como um problema de segurança pública. (7) Nossa proposta articula medidas imediatas — voltadas à geração de emprego, garantia de renda, acesso à terra, saúde, educação, moradia e transporte — com uma perspectiva estratégica de reorganização da economia estadual. (42) Observamos que a situação seria pior não fosse a manutenção de programas sociais e da melhoria conjuntural no mercado de trabalho, fatores frágeis diante da volatilidade econômica e dependente do humor de quem está no Palácio do Planalto ou nos Palácios dos Leões.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 15,
+          "page_end": 19,
+          "topics": [
+            "education"
+          ],
+          "summary": "(70) Desenvolver uma política permanente de educação para a igualdade de gênero, os direitos humanos e o respeito à diversidade nas escolas públicas, integrada à formação continuada dos profissionais da educação e à produção de materiais pedagógicos adequados à realidade maranhense, contribuindo para o enfrentamento do machismo, da violência de gênero e de todas as formas de discriminação. (76) Programas de alfabetização e formação profissional voltados especificamente para mulheres adultas, com metodologias que articulem saberes tradicionais e técnicos. (77) Promover a inclusão, nos currículos da rede pública estadual de ensino, de conteúdos relacionados à história das mulheres, às lutas dos movimentos feministas, às relações de gênero, aos direitos humanos, à educação para a igualdade e ao respeito à diversidade, articulando essa política com os demais níveis de ensino.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "(70) Desenvolver uma política permanente de educação para a igualdade de gênero, os direitos humanos e o respeito à diversidade nas escolas públicas, integrada à formação continuada dos profissionais da educação e à produção de materiais pedagógicos adequados à realidade maranhense, contribuindo para o enfrentamento do machismo, da violência de gênero e de todas as formas de discriminação."
+            },
+            {
+              "id": "s17",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "(76) Programas de alfabetização e formação profissional voltados especificamente para mulheres adultas, com metodologias que articulem saberes tradicionais e técnicos. (77) Promover a inclusão, nos currículos da rede pública estadual de ensino, de conteúdos relacionados à história das mulheres, às lutas dos movimentos feministas, às relações de gênero, aos direitos humanos, à educação para a igualdade e ao respeito à diversidade, articulando essa política com os demais níveis de ensino."
+            },
+            {
+              "id": "s19",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "segundo o Censo Demográfico de 2022, do IBGE, apenas 9,3% da população maranhense com 25 anos ou mais possui ensino superior completo, um dos menores índices do país. Aqueles que conseguem ingressar no ensino superior enfrentam dificuldades de permanência e, após a formação, encontram um mercado de trabalho incapaz de absorver adequadamente sua qualificação."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 7,
+          "page_end": 15,
+          "topics": [
+            "health"
+          ],
+          "summary": "fruto do acaso, trata-se da consequência de décadas de subfinanciamento do Sistema Único de Saúde (SUS), da precarização dos serviços públicos e da adoção de políticas econômicas que subordinam as necessidades da população aos interesses do mercado financeiro. A medicalização da política de saúde, que prioriza curativos em detrimento da prevenção e da atenção básica, agrava o quadro, concentrando recursos nas grandes cidades enquanto o campo é abandonado. (37) Essa realidade produz consequências dramáticas para a saúde pública.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 7,
+              "page_end": 9,
+              "text": "fruto do acaso, trata-se da consequência de décadas de subfinanciamento do Sistema Único de Saúde (SUS), da precarização dos serviços públicos e da adoção de políticas econômicas que subordinam as necessidades da população aos interesses do mercado financeiro. A medicalização da política de saúde, que prioriza curativos em detrimento da prevenção e da atenção básica, agrava o quadro, concentrando recursos nas grandes cidades enquanto o campo é abandonado."
+            },
+            {
+              "id": "s05",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "(37) Essa realidade produz consequências dramáticas para a saúde pública."
+            },
+            {
+              "id": "s14",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "(65) Legalização e descriminalização do aborto, garantindo às mulheres o direito de decidir sobre suas vidas e seus corpos. (66) Expansão da rede de serviços de saúde sexual e reprodutiva, com atendimento humanizado e gratuita distribuição de métodos contraceptivos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 13,
+          "page_end": 24,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Dados do Fórum Brasileiro de Segurança Pública indicam que o Maranhão permanece entre os estados com níveis elevados de violência contra a mulher. Segundo o Anuário Brasileiro de Segurança Pública (2024), o estado registrou aumento nos casos de feminicídio em relação aos anos anteriores, mantendo-se entre os mais críticos do país em termos de violência letal contra mulheres. (67) A violência contra as mulheres não pode ser tratada apenas como um problema de segurança pública.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "Dados do Fórum Brasileiro de Segurança Pública indicam que o Maranhão permanece entre os estados com níveis elevados de violência contra a mulher. Segundo o Anuário Brasileiro de Segurança Pública (2024), o estado registrou aumento nos casos de feminicídio em relação aos anos anteriores, mantendo-se entre os mais críticos do país em termos de violência letal contra mulheres."
+            },
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "(67) A violência contra as mulheres não pode ser tratada apenas como um problema de segurança pública."
+            },
+            {
+              "id": "s25",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Dados nacionais indicam que a maioria das vítimas de homicídio no Brasil é composta por jovens negros, padrão que se reproduz no Maranhão (Fórum Brasileiro de Segurança Pública, Anuário Brasileiro de Segurança Pública 2024)."
+            },
+            {
+              "id": "s28",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "(107) O racismo estrutural também se expressa no sistema de justiça e segurança pública. (108.1) A impunidade da violência policial é construída nos gabinetes dos governos que comandam as forças de segurança e toleram abusos sem investigação e punição."
+            },
+            {
+              "id": "s29",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "pela omissão na titulação de terras quilombolas, pela violência policial nas periferias, pela impunidade de conflitos agrários, pela ausência de políticas de emprego para juventude negra, pela negação de reparação histórica."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 21,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "(7) Nossa proposta articula medidas imediatas — voltadas à geração de emprego, garantia de renda, acesso à terra, saúde, educação, moradia e transporte — com uma perspectiva estratégica de reorganização da economia estadual. (42) Observamos que a situação seria pior não fosse a manutenção de programas sociais e da melhoria conjuntural no mercado de trabalho, fatores frágeis diante da volatilidade econômica e dependente do humor de quem está no Palácio do Planalto ou nos Palácios dos Leões. (44) Os indicadores sociais do Maranhão demonstram, de forma inequívoca, que o crescimento econômico verificado nas últimas décadas, expresso na expansão do agronegócio, das atividades minerárias, da infraestrutura logística voltada à exportação e no aumento do Produto Interno Bruto (PIB), não se traduziu em melhoria significativa das condições de vida da população trabalhadora.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "(7) Nossa proposta articula medidas imediatas — voltadas à geração de emprego, garantia de renda, acesso à terra, saúde, educação, moradia e transporte — com uma perspectiva estratégica de reorganização da economia estadual."
+            },
+            {
+              "id": "s07",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "(42) Observamos que a situação seria pior não fosse a manutenção de programas sociais e da melhoria conjuntural no mercado de trabalho, fatores frágeis diante da volatilidade econômica e dependente do humor de quem está no Palácio do Planalto ou nos Palácios dos Leões."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "(44) Os indicadores sociais do Maranhão demonstram, de forma inequívoca, que o crescimento econômico verificado nas últimas décadas, expresso na expansão do agronegócio, das atividades minerárias, da infraestrutura logística voltada à exportação e no aumento do Produto Interno Bruto (PIB), não se traduziu em melhoria significativa das condições de vida da população trabalhadora. Um projeto que priorize a reforma agrária, a industrialização orientada às necessidades nacionais e populares, a atuação do Estado como planejador e investidor estratégico nas atividades econômicas de interesse social, a geração de empregos formais e dignos, a valorização do trabalho, o investimento massivo em saúde, educação, saneamento e habitação, bem como a distribuição da riqueza socialmente produzida."
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "(52) As mulheres no Maranhão enfrentam historicamente múltiplas formas de exploração e desigualdade estrutural, que se expressam tanto no mercado de trabalho quanto nas condições sociais e na violência de gênero, com forte incidência sobre mulheres negras revelando o cenário persistente de injustiça. (54) No mercado de trabalho, as desigualdades persistem."
+            },
+            {
+              "id": "s12",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "criação e ampliação de creches e lares de idosos; ampliação e melhorias dos restaurantes populares, liberando as mulheres para o mercado de trabalho e para a vida política sem a dupla jornada."
+            },
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "(71) Garantir que as políticas voltadas às mulheres sejam articuladas a um projeto mais amplo de combate às desigualdades sociais, assegurando acesso ao trabalho digno, à moradia, à educação, à saúde, à cultura e à participação política."
+            },
+            {
+              "id": "s19",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "A taxa de informalidade que atinge 57,3% da população ocupada empurra a juventude para um mercado de trabalho sem proteção social, sem estabilidade e sem perspectiva de mobilidade. Em milhares de famílias trabalhadoras, a necessidade de contribuir com a renda doméstica empurra jovens para o mercado de trabalho antes da conclusão dos estudos, interrompendo trajetórias educacionais e reproduzindo o ciclo da pobreza."
+            },
+            {
+              "id": "s22",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "(93) Trabalho digno para toda a juventude maranhense, assegurando o primeiro emprego formal por meio da industrialização, do investimento público e da expansão dos serviços essenciais, rompendo com êxodo forçado."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 2,
+          "page_end": 25,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "(2) Enquanto grandes corporações nacionais e internacionais extraem bilhões em riqueza de nosso território, a maioria do povo maranhense permanece submetida a baixos rendimentos, insegurança alimentar, moradia precária e acesso limitado a direitos básicos. Em 2024, 35,2% dos domicílios maranhenses viviam em situação de insegurança alimentar, 11 pontos percentuais acima da média nacional (24,2%). (41) Este indicador coloca o Maranhão entre as unidades da federação com os mais elevados níveis de insegurança alimentar do país, ao lado do Pará (44,6%), Roraima (43,6%), Amazonas (38,9%) e Bahia (37,8%).",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "(2) Enquanto grandes corporações nacionais e internacionais extraem bilhões em riqueza de nosso território, a maioria do povo maranhense permanece submetida a baixos rendimentos, insegurança alimentar, moradia precária e acesso limitado a direitos básicos."
+            },
+            {
+              "id": "s07",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Em 2024, 35,2% dos domicílios maranhenses viviam em situação de insegurança alimentar, 11 pontos percentuais acima da média nacional (24,2%). (41) Este indicador coloca o Maranhão entre as unidades da federação com os mais elevados níveis de insegurança alimentar do país, ao lado do Pará (44,6%), Roraima (43,6%), Amazonas (38,9%) e Bahia (37,8%)."
+            },
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Por isso, o enfrentamento dessa realidade exige políticas integradas de proteção, prevenção, educação, saúde, assistência social e garantia de direitos."
+            },
+            {
+              "id": "s19",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "A taxa de informalidade que atinge 57,3% da população ocupada empurra a juventude para um mercado de trabalho sem proteção social, sem estabilidade e sem perspectiva de mobilidade."
+            },
+            {
+              "id": "s20",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "(84) A precarização do trabalho juvenil traduz-se em números criminosos de insegurança alimentar. Insegurança Alimentar Grave (Fome): 118 mil domicílios (5,2%) convivem com a privação crônica de alimentos, uma taxa 62,5% superior à média nacional de 3,2%."
+            },
+            {
+              "id": "s32",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "No mesmo período, a média nacional situava-se em torno de 38%, evidenciando que o Maranhão apresenta um nível de precarização significativamente superior ao do país, quase 20 pontos percentuais de diferença que se traduzem em milhões de trabalhadores sem proteção social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 9,
+          "page_end": 10,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Defendemos um amplo programa público de investimentos em abastecimento de água, coleta e tratamento de esgoto, drenagem urbana, manejo de resíduos sólidos e melhoria habitacional, priorizando bairros periféricos, comunidades rurais, quilombolas, indígenas e assentamentos.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Defendemos um amplo programa público de investimentos em abastecimento de água, coleta e tratamento de esgoto, drenagem urbana, manejo de resíduos sólidos e melhoria habitacional, priorizando bairros periféricos, comunidades rurais, quilombolas, indígenas e assentamentos."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 2,
+          "page_end": 19,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "A luta dessas comunidades fundamenta-se na defesa da posse histórica da terra, essencial para a preservação de seus modos de vida, de sua identidade cultural e de sua subsistência baseada na agricultura familiar e na pesca artesanal. Segundo dados do Incra (2025) e projeções da Malha Fundiária do IBGE, o abismo entre o latifúndio e a agricultura familiar nunca foi tão profundo: Tabela 1 — Estrutura Fundiária do Maranhão (Consolidado 2025/2026) Categoria Faixa de Área % Estabelecimentos % Área Total Minifúndios Até 10 ha 52,1% 6,4% Pequenos 10 a 100 ha 29,4% 14,2% Médios 100 a 1.000 ha 10,2% 18,5% Latifúndios Mais de 1.000 ha 8,3% 60,9% (15) Análise: O latifúndio expandiu seu domínio: apenas 8,3% dos proprietários controlam agora 60,9% de todo o território produtivo do estado. Um projeto que priorize a reforma agrária, a industrialização orientada às necessidades nacionais e populares, a atuação do Estado como planejador e investidor estratégico nas atividades econômicas de interesse social, a geração de empregos formais e dignos, a valorização do trabalho, o investimento massivo em saúde, educação, saneamento e habitação, bem como a distribuição da riqueza socialmente produzida.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "A luta dessas comunidades fundamenta-se na defesa da posse histórica da terra, essencial para a preservação de seus modos de vida, de sua identidade cultural e de sua subsistência baseada na agricultura familiar e na pesca artesanal."
+            },
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 7,
+              "text": "Segundo dados do Incra (2025) e projeções da Malha Fundiária do IBGE, o abismo entre o latifúndio e a agricultura familiar nunca foi tão profundo: Tabela 1 — Estrutura Fundiária do Maranhão (Consolidado 2025/2026) Categoria Faixa de Área % Estabelecimentos % Área Total Minifúndios Até 10 ha 52,1% 6,4% Pequenos 10 a 100 ha 29,4% 14,2% Médios 100 a 1.000 ha 10,2% 18,5% Latifúndios Mais de 1.000 ha 8,3% 60,9% (15) Análise: O latifúndio expandiu seu domínio: apenas 8,3% dos proprietários controlam agora 60,9% de todo o território produtivo do estado."
+            },
+            {
+              "id": "s08",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "Um projeto que priorize a reforma agrária, a industrialização orientada às necessidades nacionais e populares, a atuação do Estado como planejador e investidor estratégico nas atividades econômicas de interesse social, a geração de empregos formais e dignos, a valorização do trabalho, o investimento massivo em saúde, educação, saneamento e habitação, bem como a distribuição da riqueza socialmente produzida."
+            },
+            {
+              "id": "s13",
+              "page_start": 15,
+              "page_end": 15,
+              "text": "(62) Destinação prioritária de terras da reforma agrária a mulheres negras e camponesas, com acesso a crédito, assistência técnica e comercialização institucional. (63) Fomento à agroecologia e à agricultura familiar como alternativa ao agronegócio patriarcal, valorizando o saber tradicional das mulheres do campo."
+            },
+            {
+              "id": "s20",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "É o resultado de décadas de abandono, de priorização do agronegócio exportador sobre a agricultura familiar, de escoamento de energia e commodities sem retorno social."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 12,
+          "page_end": 24,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "O desmatamento avança sobre áreas de vegetação nativa e territórios tradicionais, enquanto o uso indiscriminado de agrotóxicos contamina solos, rios e comunidades, prejudicando principalmente camponeses pobres, comunidades quilombolas e povos indígenas, que veem suas condições de vida e produção ameaçadas. (70) Desenvolver uma política permanente de educação para a igualdade de gênero, os direitos humanos e o respeito à diversidade nas escolas públicas, integrada à formação continuada dos profissionais da educação e à produção de materiais pedagógicos adequados à realidade maranhense, contribuindo para o enfrentamento do machismo, da violência de gênero e de todas as formas de discriminação. (77) Promover a inclusão, nos currículos da rede pública estadual de ensino, de conteúdos relacionados à história das mulheres, às lutas dos movimentos feministas, às relações de gênero, aos direitos humanos, à educação para a igualdade e ao respeito à diversidade, articulando essa política com os demais níveis de ensino.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "O desmatamento avança sobre áreas de vegetação nativa e territórios tradicionais, enquanto o uso indiscriminado de agrotóxicos contamina solos, rios e comunidades, prejudicando principalmente camponeses pobres, comunidades quilombolas e povos indígenas, que veem suas condições de vida e produção ameaçadas."
+            },
+            {
+              "id": "s15",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "(70) Desenvolver uma política permanente de educação para a igualdade de gênero, os direitos humanos e o respeito à diversidade nas escolas públicas, integrada à formação continuada dos profissionais da educação e à produção de materiais pedagógicos adequados à realidade maranhense, contribuindo para o enfrentamento do machismo, da violência de gênero e de todas as formas de discriminação."
+            },
+            {
+              "id": "s17",
+              "page_start": 17,
+              "page_end": 17,
+              "text": "(77) Promover a inclusão, nos currículos da rede pública estadual de ensino, de conteúdos relacionados à história das mulheres, às lutas dos movimentos feministas, às relações de gênero, aos direitos humanos, à educação para a igualdade e ao respeito à diversidade, articulando essa política com os demais níveis de ensino."
+            },
+            {
+              "id": "s29",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "(109) Esse conjunto de dados demonstra que, no Maranhão, a desigualdade racial não é apenas uma herança histórica, mas uma realidade estrutural que se manifesta na violência, na exclusão territorial e na limitação de acesso a direitos fundamentais."
+            },
+            {
+              "id": "s30",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "(113) O Maranhão abriga diversos povos indígenas (Guajajara, Awa-Guajá, Kanela, entre outros) e centenas de comunidades quilombolas, além de quebradeiras de coco, pescadores artesanais e ribeirinhos. (114) Os povos indígenas do Maranhão sofrem com a invasão de suas terras por madeireiros, grileiros e mineradores."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 12,
+          "page_end": 20,
+          "topics": [
+            "energy"
+          ],
+          "summary": "No setor energético, a Bacia do Parnaíba abriga algumas das maiores reservas terrestres de gás natural do país, exploradas por empresas privadas, conferindo ao Maranhão papel relevante na produção nacional de energia. O gás natural é extraído por meio do modelo 'reservatório-à-rede' (reservoir-to-wire), sendo queimado em termelétricas, como o Complexo Termelétrico Parnaíba, o maior do país, para gerar eletricidade que é majoritariamente enviada via Sistema Interligado Nacional para atender outros estados, sem gerar cadeias produtivas locais robustas. O Maranhão produz cerca de 4% do gás natural do país, segundo dados da Agência Nacional do Petróleo (ANP), mas esse recurso alimenta termelétricas de exportação que não geram emprego local nem desenvolvimento.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "No setor energético, a Bacia do Parnaíba abriga algumas das maiores reservas terrestres de gás natural do país, exploradas por empresas privadas, conferindo ao Maranhão papel relevante na produção nacional de energia. O gás natural é extraído por meio do modelo 'reservatório-à-rede' (reservoir-to-wire), sendo queimado em termelétricas, como o Complexo Termelétrico Parnaíba, o maior do país, para gerar eletricidade que é majoritariamente enviada via Sistema Interligado Nacional para atender outros estados, sem gerar cadeias produtivas locais robustas."
+            },
+            {
+              "id": "s21",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "O Maranhão produz cerca de 4% do gás natural do país, segundo dados da Agência Nacional do Petróleo (ANP), mas esse recurso alimenta termelétricas de exportação que não geram emprego local nem desenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 23,
+          "page_end": 23,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "(107) O racismo estrutural também se expressa no sistema de justiça e segurança pública. O sistema de justiça criminaliza a sobrevivência, enquanto o verdadeiro crime, o latifúndio, o desmatamento, a grilagem, opera impune.",
+          "excerpts": [
+            {
+              "id": "s28",
+              "page_start": 23,
+              "page_end": 23,
+              "text": "(107) O racismo estrutural também se expressa no sistema de justiça e segurança pública. O sistema de justiça criminaliza a sobrevivência, enquanto o verdadeiro crime, o latifúndio, o desmatamento, a grilagem, opera impune."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002544076",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002544076_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002544076_01.pdf",
+      "sha256": "d844ecd625694b6eaa614e6958a94f6bb8aa6ecdfef4621d470d0f26cb346103",
+      "summary": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil. Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental. 69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata. O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio. produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 8,
+          "topics": [
+            "education"
+          ],
+          "summary": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 8,
+              "text": "56% › 69% alfabetização na idade certa entre 2023 e 2025: do 23º ao 10º lugar nacional 5,1 · 4,3 · 3,7 Ideb 2023 nos anos iniciais, anos finais e ensino médio — recorde estadual, mas abaixo da média nacional 4,9% › 3,4% abandono no ensino médio; ~595 mil adul‐ tos ainda não sabem ler e escrever 84,8% das escolas com internet: 97,5% urbanas contra 78,9% rurais; 88% das matrículas de ensino médio sob gestão estadual"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 13,
+          "page_end": 15,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil. Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "mapa público de vulnerabilidade da malha, padrões técnicos obrigatórios de drenagem (caderno regionalizado — a Baixada não é o Cerrado do Sul), correção por etapas dos pontos de interrupção recorrente, manutenção de drenagem medida nos contratos e integração com a Defesa Civil."
+            },
+            {
+              "id": "s25",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "Maranhão Saneado universalização com prioridade aos municípios e territórios de piores indicadores de água e esgoto Água Maranhense segurança hídrica para comunidades rurais, ribeirinhas, insulares e isoladas, com operação e manutenção definidas antes da obra Drenagem e Resiliência prevenção de alagamentos e erosões com soluções baseadas na natureza e alerta integrado à Defesa Civil"
+            },
+            {
+              "id": "s28",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "planos municipais de drenagem com assistência técnica; soluções baseadas na natureza (áreas de retenção, recuperação de canais e várzeas); sistemas de alerta integrados à Defesa Civil; obras condicionadas ao licenciamento ambiental."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "69,8% cobertura de coleta de lixo — a menor do país (Censo 2022/IBGE), ainda que com o maior avanço do Brasil na década 218.298 ha desmatados em 2024: liderança nacional em 2023 e 2024 (MapBiomas — RAD 2024) −34,3% queda do desmatamento em 2024 sobre 2023 — o avanço existe, mas parte de um patamar inaceitável 10 programas organizados em 9 eixos, de resíduos sólidos a bem-estar animal"
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 9,
+          "page_end": 16,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata. O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "O CAPÍTULO I INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE O PORTO EO BURACO Reduzir a distância entre o potencial logístico do Maranhão e a estrada que isola, encarece e mata."
+            },
+            {
+              "id": "s29",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "O CAPÍTULO III MEIO AMBIENTE E BEM-ESTAR ANIMAL RIQUEZA QUE NÃO PODE QUEIMAR Resíduos, água, biodiversidade, clima e bem-estar animal em uma política ambiental que mede resultado, e não anúncio."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 11,
+          "page_end": 11,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "produção se perde, transporte escolar para, comunidades ficam isoladas — e municípios pequenos não têm máquinas nem projetos."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Quero contribuir para fortalecer a integridade na gestão pública, ampliar oportunidades e enfrentar os desafios que impedem nosso crescimento, com o Livro Amarelo como um guia prático, juntando forças para construir um Maranhão grande novamen‐ te.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Quero contribuir para fortalecer a integridade na gestão pública, ampliar oportunidades e enfrentar os desafios que impedem nosso crescimento, com o Livro Amarelo como um guia prático, juntando forças para construir um Maranhão grande novamen‐ te."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002545679",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002545679_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002545679_01.pdf",
+      "sha256": "d9eef272900c8845b984a0c0bb8bca680415d6ccd2a6f83b8dfc8aa505649cc7",
+      "summary": "Construir creches de tempo integral, em parceria com os municípios, com prioridade para as regiões de maior vulnerabilidade social e menor atendimento campo que respeite as especificidades culturais, territoriais e pedagógicas de cada comunidade 19. Garantir condições para a inclusão dos estudantes com deficiência, qualificando o atendimento educacional especializado, a acessibilidade e o apoio pedagógico nas escolas estaduais Alfabetização, em regime de colaboração com os municípios, com apoio técnico, formação, materiais pedagógicos e acompanhamento dos resultados EDUCAÇÃO alinhados às vocações econômicas regionais e às oportunidades de inserção profissional dos jovens no mercado de trabalho Ampliar e qualificar a assistência técnica e extensão rural (ATER) para agricultores familiares por meio da reestruturação da AGERP e da articulação com instituições parceiras cadeias como couro, milho, soja, produtos da agricultura familiar e outras vocações produtivas do estado 25. Fortalecer a cadeia produtiva do babaçu a partir da valorização das mulheres quebradeiras de coco, ampliando o beneficiamento, a agregação de valor, a industrialização e o acesso a mercados promovendo as potencialidades do estado e criando condições para sua instalação, expansão e geração de empregos DESENVOLVIMENTO ECONÔMICO, EMPREGO E RENDA 27. Criar a Força Estadual de Combate à Pobreza, de caráter intersetorial, articulando estado, municípios e parceiros do terceiro setor e da iniciativa privada para integrar políticas de renda, educação, saúde, segurança alimentar, qualificação e acesso a oportunidades CREAS regionais para assegurar a oferta de serviços de proteção social especial e ampliar o atendimento às famílias e aos indivíduos em situação de violação de direitos Revisar e atualizar o Plano Estadual de Mudanças Climáticas e a Política Estadual de Enfrentamento das Mudanças Climáticas, alinhando-os ao Plano Nacional sobre Mudança do Clima e estabelecendo prioridades para sua execução fortalecendo a fiscalização de maus-tratos, o resgate e o atendimento a animais abandonados e a responsabilização por condutas previstas em lei MEIO AMBIENTE E Modernizar e simplificar os procedimentos de licenciamento ambiental e autorizações estaduais, reduzindo burocracias e prazos, sem comprometer a proteção do meio ambiente",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 8,
+          "page_end": 11,
+          "topics": [
+            "education"
+          ],
+          "summary": "Construir creches de tempo integral, em parceria com os municípios, com prioridade para as regiões de maior vulnerabilidade social e menor atendimento campo que respeite as especificidades culturais, territoriais e pedagógicas de cada comunidade 19. Garantir condições para a inclusão dos estudantes com deficiência, qualificando o atendimento educacional especializado, a acessibilidade e o apoio pedagógico nas escolas estaduais",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 8,
+              "text": "Construir creches de tempo integral, em parceria com os municípios, com prioridade para as regiões de maior vulnerabilidade social e menor atendimento"
+            },
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "campo que respeite as especificidades culturais, territoriais e pedagógicas de cada comunidade 19. Garantir condições para a inclusão dos estudantes com deficiência, qualificando o atendimento educacional especializado, a acessibilidade e o apoio pedagógico nas escolas estaduais"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 15,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Alfabetização, em regime de colaboração com os municípios, com apoio técnico, formação, materiais pedagógicos e acompanhamento dos resultados EDUCAÇÃO alinhados às vocações econômicas regionais e às oportunidades de inserção profissional dos jovens no mercado de trabalho Ampliar e qualificar a assistência técnica e extensão rural (ATER) para agricultores familiares por meio da reestruturação da AGERP e da articulação com instituições parceiras cadeias como couro, milho, soja, produtos da agricultura familiar e outras vocações produtivas do estado 25. Fortalecer a cadeia produtiva do babaçu a partir da valorização das mulheres quebradeiras de coco, ampliando o beneficiamento, a agregação de valor, a industrialização e o acesso a mercados promovendo as potencialidades do estado e criando condições para sua instalação, expansão e geração de empregos DESENVOLVIMENTO ECONÔMICO, EMPREGO E RENDA 27.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 8,
+              "page_end": 10,
+              "text": "Alfabetização, em regime de colaboração com os municípios, com apoio técnico, formação, materiais pedagógicos e acompanhamento dos resultados EDUCAÇÃO alinhados às vocações econômicas regionais e às oportunidades de inserção profissional dos jovens no mercado de trabalho"
+            },
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Ampliar e qualificar a assistência técnica e extensão rural (ATER) para agricultores familiares por meio da reestruturação da AGERP e da articulação com instituições parceiras"
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "cadeias como couro, milho, soja, produtos da agricultura familiar e outras vocações produtivas do estado 25. Fortalecer a cadeia produtiva do babaçu a partir da valorização das mulheres quebradeiras de coco, ampliando o beneficiamento, a agregação de valor, a industrialização e o acesso a mercados"
+            },
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "promovendo as potencialidades do estado e criando condições para sua instalação, expansão e geração de empregos DESENVOLVIMENTO ECONÔMICO, EMPREGO E RENDA 27."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Criar a Força Estadual de Combate à Pobreza, de caráter intersetorial, articulando estado, municípios e parceiros do terceiro setor e da iniciativa privada para integrar políticas de renda, educação, saúde, segurança alimentar, qualificação e acesso a oportunidades CREAS regionais para assegurar a oferta de serviços de proteção social especial e ampliar o atendimento às famílias e aos indivíduos em situação de violação de direitos",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Criar a Força Estadual de Combate à Pobreza, de caráter intersetorial, articulando estado, municípios e parceiros do terceiro setor e da iniciativa privada para integrar políticas de renda, educação, saúde, segurança alimentar, qualificação e acesso a oportunidades"
+            },
+            {
+              "id": "s04",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "CREAS regionais para assegurar a oferta de serviços de proteção social especial e ampliar o atendimento às famílias e aos indivíduos em situação de violação de direitos"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 25,
+          "page_end": 26,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Revisar e atualizar o Plano Estadual de Mudanças Climáticas e a Política Estadual de Enfrentamento das Mudanças Climáticas, alinhando-os ao Plano Nacional sobre Mudança do Clima e estabelecendo prioridades para sua execução fortalecendo a fiscalização de maus-tratos, o resgate e o atendimento a animais abandonados e a responsabilização por condutas previstas em lei MEIO AMBIENTE E Modernizar e simplificar os procedimentos de licenciamento ambiental e autorizações estaduais, reduzindo burocracias e prazos, sem comprometer a proteção do meio ambiente",
+          "excerpts": [
+            {
+              "id": "s30",
+              "page_start": 25,
+              "page_end": 25,
+              "text": "Revisar e atualizar o Plano Estadual de Mudanças Climáticas e a Política Estadual de Enfrentamento das Mudanças Climáticas, alinhando-os ao Plano Nacional sobre Mudança do Clima e estabelecendo prioridades para sua execução"
+            },
+            {
+              "id": "s31",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "fortalecendo a fiscalização de maus-tratos, o resgate e o atendimento a animais abandonados e a responsabilização por condutas previstas em lei MEIO AMBIENTE E"
+            },
+            {
+              "id": "s32",
+              "page_start": 26,
+              "page_end": 26,
+              "text": "Modernizar e simplificar os procedimentos de licenciamento ambiental e autorizações estaduais, reduzindo burocracias e prazos, sem comprometer a proteção do meio ambiente"
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 13,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Ampliar e qualificar a rede de Restaurantes Populares e a compra de alimentos da agricultura familiar cadeias como couro, milho, soja, produtos da agricultura familiar e outras vocações produtivas do estado 25.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Ampliar e qualificar a rede de Restaurantes Populares e a compra de alimentos da agricultura familiar"
+            },
+            {
+              "id": "s15",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "cadeias como couro, milho, soja, produtos da agricultura familiar e outras vocações produtivas do estado 25."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 23,
+          "page_end": 25,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Apoiar manifestações culturais e festas tradicionais maranhenses, fortalecendo sua realização, circulação e geração de oportunidades para artistas, grupos culturais e trabalhadores da economia criativa",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 23,
+              "page_end": 25,
+              "text": "Apoiar manifestações culturais e festas tradicionais maranhenses, fortalecendo sua realização, circulação e geração de oportunidades para artistas, grupos culturais e trabalhadores da economia criativa"
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "promovendo a igualdade racial e a equidade e enfrentando toda forma de discriminação e violência SAÚDE 6.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "promovendo a igualdade racial e a equidade e enfrentando toda forma de discriminação e violência SAÚDE 6."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 21,
+          "page_end": 23,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Implantar uma gestão técnica, com diagnóstico, planejamento e cumprimento de metas pelos secretários, com foco nos resultados, na agilidade e na qualidade das obras e serviços públicos Fortalecer os mecanismos de prevenção, controle e combate à corrupção, ampliando a transparência e aprimorando os processos de fiscalização e controle dos recursos públicos",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Implantar uma gestão técnica, com diagnóstico, planejamento e cumprimento de metas pelos secretários, com foco nos resultados, na agilidade e na qualidade das obras e serviços públicos"
+            },
+            {
+              "id": "s27",
+              "page_start": 21,
+              "page_end": 23,
+              "text": "Fortalecer os mecanismos de prevenção, controle e combate à corrupção, ampliando a transparência e aprimorando os processos de fiscalização e controle dos recursos públicos"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002551399",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002551399_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002551399_01.pdf",
+      "sha256": "be6d2ef8b3b9d686ba5ef07ace99edad3b10abeacd60968a46e318103ef924aa",
+      "summary": "15.1 Pacto estadual pelo ensino médio..................................................................................... IDEB do ensino médio 3,9, entre as três menores notas do país Inep, IDEB 2025 Analfabetismo (15 anos ou mais) 10,9% da população, cerca de mil pessoas IBGE, PNAD 2025 # Indicador Situação Fonte e ano Jovens que não estudam nem trabalham 608 mil pessoas de 15 a 29 anos IBGE Homicídios 31,1 por mil habitantes, décima maior taxa do país Fórum Brasileiro de Segurança Pública, 2024 Rodovias em condição crítica 489 pontos críticos, o maior número do Brasil; 2 das 3 piores rodovias do país são estaduais maranhenses Pesquisa CNT de Rodovias 2025 Conflitos por terra 190 ocorrências, o maior número do país, atingindo 14.285 famílias SEGURANÇA PÚBLICA ORIENTADA A RESULTADOS, PROTEÇÃO TERRITORIAL E PROTEÇÃO À MULHER....................................................................................... 147 24.7 Segurança pública.................................................................................................................... Preparar os Maranhenses significa ampliar a capacidade das pessoas de se apropriarem do crescimento por educação, qualificação, saúde, formalização, empreendedorismo, proteção social e segurança pública. 106 19.6 Rede Maranhense de ZPEs como mercado de trabalho e de fornecimento........................................................................................................................................... Trabalho Fazer o emprego formal crescer mais rapidamente que a ocupação informal. O eixo reúne desenvolvimento econômico, logística, água e saneamento, habitação, segurança jurídica e fundiária, meio ambiente, energia, conectividade, turismo e capacidade pública de execução. 160 25.22 Financiamento e responsabilidade fiscal................................................................ 65 14.9 Formalização como proteção social e acesso a oportunidades.................... O eixo integra trabalho, renda, educação, juventude, saúde, empreendedorismo, proteção social e segurança, com foco na autonomia das pessoas e das famílias. R$ 13,63 bilhões em drenagem urbana, R$ 10,03 bilhões em abastecimento de água, R$ 6,25 bilhões em esgotamento sanitário e R$ 3,99 bilhões em resíduos sólidos.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 6,
+          "page_end": 16,
+          "topics": [
+            "education"
+          ],
+          "summary": "15.1 Pacto estadual pelo ensino médio..................................................................................... IDEB do ensino médio 3,9, entre as três menores notas do país Inep, IDEB 2025 Analfabetismo (15 anos ou mais) 10,9% da população, cerca de mil pessoas IBGE, PNAD 2025 # Indicador Situação Fonte e ano Jovens que não estudam nem trabalham 608 mil pessoas de 15 a 29 anos IBGE Homicídios 31,1 por mil habitantes, décima maior taxa do país Fórum Brasileiro de Segurança Pública, 2024 Rodovias em condição crítica 489 pontos críticos, o maior número do Brasil; 2 das 3 piores rodovias do país são estaduais maranhenses Pesquisa CNT de Rodovias 2025 Conflitos por terra 190 ocorrências, o maior número do país, atingindo 14.285 famílias",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "15.1 Pacto estadual pelo ensino médio....................................................................................."
+            },
+            {
+              "id": "s16",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "IDEB do ensino médio 3,9, entre as três menores notas do país Inep, IDEB 2025 Analfabetismo (15 anos ou mais) 10,9% da população, cerca de mil pessoas IBGE, PNAD 2025 # Indicador Situação Fonte e ano Jovens que não estudam nem trabalham 608 mil pessoas de 15 a 29 anos IBGE Homicídios 31,1 por mil habitantes, décima maior taxa do país Fórum Brasileiro de Segurança Pública, 2024 Rodovias em condição crítica 489 pontos críticos, o maior número do Brasil; 2 das 3 piores rodovias do país são estaduais maranhenses Pesquisa CNT de Rodovias 2025 Conflitos por terra 190 ocorrências, o maior número do país, atingindo 14.285 famílias"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 16,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "SEGURANÇA PÚBLICA ORIENTADA A RESULTADOS, PROTEÇÃO TERRITORIAL E PROTEÇÃO À MULHER....................................................................................... 147 24.7 Segurança pública.................................................................................................................... Preparar os Maranhenses significa ampliar a capacidade das pessoas de se apropriarem do crescimento por educação, qualificação, saúde, formalização, empreendedorismo, proteção social e segurança pública.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "SEGURANÇA PÚBLICA ORIENTADA A RESULTADOS, PROTEÇÃO TERRITORIAL E PROTEÇÃO À MULHER......................................................................................."
+            },
+            {
+              "id": "s10",
+              "page_start": 10,
+              "page_end": 10,
+              "text": "147 24.7 Segurança pública...................................................................................................................."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Preparar os Maranhenses significa ampliar a capacidade das pessoas de se apropriarem do crescimento por educação, qualificação, saúde, formalização, empreendedorismo, proteção social e segurança pública."
+            },
+            {
+              "id": "s16",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "IDEB do ensino médio 3,9, entre as três menores notas do país Inep, IDEB 2025 Analfabetismo (15 anos ou mais) 10,9% da população, cerca de mil pessoas IBGE, PNAD 2025 # Indicador Situação Fonte e ano Jovens que não estudam nem trabalham 608 mil pessoas de 15 a 29 anos IBGE Homicídios 31,1 por mil habitantes, décima maior taxa do país Fórum Brasileiro de Segurança Pública, 2024 Rodovias em condição crítica 489 pontos críticos, o maior número do Brasil; 2 das 3 piores rodovias do país são estaduais maranhenses Pesquisa CNT de Rodovias 2025 Conflitos por terra 190 ocorrências, o maior número do país, atingindo 14.285 famílias"
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 7,
+          "page_end": 60,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "106 19.6 Rede Maranhense de ZPEs como mercado de trabalho e de fornecimento........................................................................................................................................... Trabalho Fazer o emprego formal crescer mais rapidamente que a ocupação informal. O eixo reúne desenvolvimento econômico, logística, água e saneamento, habitação, segurança jurídica e fundiária, meio ambiente, energia, conectividade, turismo e capacidade pública de execução.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "106 19.6 Rede Maranhense de ZPEs como mercado de trabalho e de fornecimento..........................................................................................................................................."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Trabalho Fazer o emprego formal crescer mais rapidamente que a ocupação informal."
+            },
+            {
+              "id": "s22",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "O eixo reúne desenvolvimento econômico, logística, água e saneamento, habitação, segurança jurídica e fundiária, meio ambiente, energia, conectividade, turismo e capacidade pública de execução."
+            },
+            {
+              "id": "s23",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "O Porto do Itaqui, a Estrada de Ferro Carajás, a Ferrovia Norte-Sul e a produção agropecuária, mineral e extrativista dão ao Maranhão uma posição logística singular. O Itaqui movimentou 16,6 milhões de toneladas apenas no primeiro semestre de 2026 e fechou 2025 com recorde histórico de 36,8 milhões de toneladas; o volume de grãos escoados pelo porto cresceu 74% entre 2021 e"
+            },
+            {
+              "id": "s24",
+              "page_start": 24,
+              "page_end": 29,
+              "text": "A meta será aumentar a parcela de transformação, emprego formal, salário, serviços e arrecadação que permanece no Maranhão. Conta territorial de resultados para cada polo, publicando investimento realizado, emprego formal, salário, compras locais, arrecadação, demanda adicional sobre serviços públicos e contrapartidas executadas."
+            },
+            {
+              "id": "s29",
+              "page_start": 43,
+              "page_end": 48,
+              "text": "O desenvolvimento econômico proposto por este Plano (especialmente a Rede Maranhense de ZPEs, os polos logísticos, a expansão industrial e a integração dos corredores produtivos) exige uma política ambiental capaz de transformar patrimônio natural em vantagem competitiva duradoura."
+            },
+            {
+              "id": "s31",
+              "page_start": 53,
+              "page_end": 60,
+              "text": "A expansão de pousadas, hotéis, restaurantes e outros serviços sem tratamento adequado de água, esgoto e resíduos transfere para o ambiente o custo do crescimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 10,
+          "page_end": 11,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "160 25.22 Financiamento e responsabilidade fiscal................................................................",
+          "excerpts": [
+            {
+              "id": "s11",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "160 25.22 Financiamento e responsabilidade fiscal................................................................"
+            },
+            {
+              "id": "s12",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "obra também gera custo futuro............................."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 5,
+          "page_end": 61,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "65 14.9 Formalização como proteção social e acesso a oportunidades.................... Preparar os Maranhenses significa ampliar a capacidade das pessoas de se apropriarem do crescimento por educação, qualificação, saúde, formalização, empreendedorismo, proteção social e segurança pública. O eixo integra trabalho, renda, educação, juventude, saúde, empreendedorismo, proteção social e segurança, com foco na autonomia das pessoas e das famílias.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "65 14.9 Formalização como proteção social e acesso a oportunidades...................."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 15,
+              "text": "Preparar os Maranhenses significa ampliar a capacidade das pessoas de se apropriarem do crescimento por educação, qualificação, saúde, formalização, empreendedorismo, proteção social e segurança pública."
+            },
+            {
+              "id": "s19",
+              "page_start": 17,
+              "page_end": 20,
+              "text": "Aproxima o Estado do padrão nacional e amplia proteção social."
+            },
+            {
+              "id": "s32",
+              "page_start": 60,
+              "page_end": 61,
+              "text": "O eixo integra trabalho, renda, educação, juventude, saúde, empreendedorismo, proteção social e segurança, com foco na autonomia das pessoas e das famílias."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 33,
+          "page_end": 48,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "R$ 13,63 bilhões em drenagem urbana, R$ 10,03 bilhões em abastecimento de água, R$ 6,25 bilhões em esgotamento sanitário e R$ 3,99 bilhões em resíduos sólidos. 8.4 Resíduos sólidos e fim dos lixões O Estado tem mais pontos de descarte irregular de lixo do que municípios, com a maioria das cidades sem aterro sanitário licenciado e sem coleta seletiva em funcionamento, em Imperatriz, a obra do aterro sanitário está paralisada desde agosto de 2025. 11.4 Resíduos sólidos como cadeia econômica A política de resíduos será integrada à estratégia de desenvolvimento regional.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 33,
+              "page_end": 37,
+              "text": "R$ 13,63 bilhões em drenagem urbana, R$ 10,03 bilhões em abastecimento de água, R$ 6,25 bilhões em esgotamento sanitário e R$ 3,99 bilhões em resíduos sólidos. 8.4 Resíduos sólidos e fim dos lixões O Estado tem mais pontos de descarte irregular de lixo do que municípios, com a maioria das cidades sem aterro sanitário licenciado e sem coleta seletiva em funcionamento, em Imperatriz, a obra do aterro sanitário está paralisada desde agosto de 2025."
+            },
+            {
+              "id": "s29",
+              "page_start": 43,
+              "page_end": 48,
+              "text": "11.4 Resíduos sólidos como cadeia econômica A política de resíduos será integrada à estratégia de desenvolvimento regional."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 23,
+          "page_end": 48,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O eixo reúne desenvolvimento econômico, logística, água e saneamento, habitação, segurança jurídica e fundiária, meio ambiente, energia, conectividade, turismo e capacidade pública de execução. O desenvolvimento econômico proposto por este Plano (especialmente a Rede Maranhense de ZPEs, os polos logísticos, a expansão industrial e a integração dos corredores produtivos) exige uma política ambiental capaz de transformar patrimônio natural em vantagem competitiva duradoura.",
+          "excerpts": [
+            {
+              "id": "s22",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "O eixo reúne desenvolvimento econômico, logística, água e saneamento, habitação, segurança jurídica e fundiária, meio ambiente, energia, conectividade, turismo e capacidade pública de execução."
+            },
+            {
+              "id": "s29",
+              "page_start": 43,
+              "page_end": 48,
+              "text": "O desenvolvimento econômico proposto por este Plano (especialmente a Rede Maranhense de ZPEs, os polos logísticos, a expansão industrial e a integração dos corredores produtivos) exige uma política ambiental capaz de transformar patrimônio natural em vantagem competitiva duradoura. Crescer mais não pode significar degradar mais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 7,
+          "page_end": 53,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "renda rural por hectare e por família................................ prioridade à precariedade.......................................................... A prioridade será dada às rotas utilizadas pela agricultura familiar, transporte escolar, acesso à saúde e ligação de pequenos produtores, cooperativas e agroindústrias aos corredores estaduais.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "renda rural por hectare e por família................................"
+            },
+            {
+              "id": "s11",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "prioridade à precariedade.........................................................."
+            },
+            {
+              "id": "s25",
+              "page_start": 29,
+              "page_end": 33,
+              "text": "A prioridade será dada às rotas utilizadas pela agricultura familiar, transporte escolar, acesso à saúde e ligação de pequenos produtores, cooperativas e agroindústrias aos corredores estaduais."
+            },
+            {
+              "id": "s28",
+              "page_start": 41,
+              "page_end": 43,
+              "text": "Mutirões territoriais com prioridade definida por conflito, agricultura familiar e potencial produtivo. entre julho de 2025 e julho de 2026, o Núcleo de Governança Fundiária do TJMA entregou cerca de 1,4 mil títulos em ações de regularização fundiária urbana, e o programa estadual apoiado pelo Fundo Amazônia (R$ 52,9 milhões, via BNDES) prevê regularizar 13.250 imóveis de agricultura familiar e 20 territórios quilombolas em 85 municípios da Amazônia Legal maranhense."
+            },
+            {
+              "id": "s29",
+              "page_start": 43,
+              "page_end": 48,
+              "text": "A pressão sobre o Cerrado no MATOPIBA compromete nascentes, matas ciliares e bacias hidrográficas e produz efeitos que ultrapassam a área diretamente desmatada, alcançando o assoreamento dos rios, a pesca, a agricultura familiar e atividades extrativistas, como a cadeia do babaçu."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 53,
+              "text": "Oscilações, interrupções e demora no restabelecimento afetam famílias, comércio, produção rural, sistemas de abastecimento de água, refrigeração de alimentos e equipamentos industriais."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "121 21.9 Inteligência artificial e automação com controle humano............................. 124 21.15 A sequência da transformação digital.........................................................................",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "121 21.9 Inteligência artificial e automação com controle humano............................. 124 21.15 A sequência da transformação digital........................................................................."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 5,
+          "page_end": 60,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "57 13.9 Economia criativa conectada à Rede Maranhense de ZPEs............................ 58 13.10 Fábrica de Projetos para turismo, patrimônio e economia criativa.......... 107 19.7 Centro Histórico, turismo e economia criativa........................................................",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 5,
+              "text": "57 13.9 Economia criativa conectada à Rede Maranhense de ZPEs............................ 58 13.10 Fábrica de Projetos para turismo, patrimônio e economia criativa.........."
+            },
+            {
+              "id": "s06",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "107 19.7 Centro Histórico, turismo e economia criativa........................................................"
+            },
+            {
+              "id": "s31",
+              "page_start": 53,
+              "page_end": 60,
+              "text": "A proposta será transformar parte desse patrimônio em espaço vivo de moradia, cultura, turismo, economia criativa e prestação de serviços, articulando sua recuperação à ZPE de São Luís e ao regime de áreas descontínuas previsto em seu projeto, sempre observadas as exigências legais, urbanísticas e de proteção patrimonial. Caxias, Imperatriz e Açailândia funcionarão como polos de circulação e distribuição regional, conectando produtos culturais, artesanato, gastronomia e serviços maranhenses a mercados mais amplos."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 6,
+          "page_end": 11,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "79 16.9 Povos indígenas e comunidades tradicionais........................................................... território, serviços e desenvolvimento com participação 155 25.9 Povos indígenas e comunidades tradicionais.........................................................",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "79 16.9 Povos indígenas e comunidades tradicionais..........................................................."
+            },
+            {
+              "id": "s11",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "território, serviços e desenvolvimento com participação 155 25.9 Povos indígenas e comunidades tradicionais........................................................."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 8,
+          "page_end": 17,
+          "topics": [
+            "governance"
+          ],
+          "summary": "121 21.8 Gestão pública orientada a resultado............................................................................ 158 25.17 Participação social e Orçamento Participativo Digital.................................... 47,7% do previsto até 2026 já executado Casa Civil/Novo PAC, 2026 Gestão pública estadual 9º lugar no Ranking de Competitividade dos Estados, em contraste com os piores indicadores sociais do país Centro de Liderança Pública, 2026 O painel revela a contradição que resume o modelo de gestão praticado no Maranhão: o estado aparece bem posicionado em rankings de burocracia, caixa e eficiência administrativa e, ao mesmo tempo, entrega à população a menor renda, a maior informalidade, a menor proporção de médicos e o pior saneamento entre os estados brasileiros.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "121 21.8 Gestão pública orientada a resultado............................................................................"
+            },
+            {
+              "id": "s11",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "158 25.17 Participação social e Orçamento Participativo Digital...................................."
+            },
+            {
+              "id": "s18",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "47,7% do previsto até 2026 já executado Casa Civil/Novo PAC, 2026 Gestão pública estadual 9º lugar no Ranking de Competitividade dos Estados, em contraste com os piores indicadores sociais do país Centro de Liderança Pública, 2026 O painel revela a contradição que resume o modelo de gestão praticado no Maranhão: o estado aparece bem posicionado em rankings de burocracia, caixa e eficiência administrativa e, ao mesmo tempo, entrega à população a menor renda, a maior informalidade, a menor proporção de médicos e o pior saneamento entre os estados brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 43,
+          "page_end": 53,
+          "topics": [
+            "energy"
+          ],
+          "summary": "A agenda de atração de investimentos buscará aproveitar vantagens do Maranhão em logística, disponibilidade de fontes renováveis e possibilidade de desenvolvimento de cadeias industriais de menor intensidade de carbono. gerar energia e capturar valor no Maranhão Grandes projetos eólicos, solares e de outras fontes renováveis somente produzirão todo o seu potencial de desenvolvimento se parte maior da renda, dos empregos e da cadeia de fornecedores permanecer no Maranhão.",
+          "excerpts": [
+            {
+              "id": "s29",
+              "page_start": 43,
+              "page_end": 48,
+              "text": "A agenda de atração de investimentos buscará aproveitar vantagens do Maranhão em logística, disponibilidade de fontes renováveis e possibilidade de desenvolvimento de cadeias industriais de menor intensidade de carbono."
+            },
+            {
+              "id": "s30",
+              "page_start": 48,
+              "page_end": 53,
+              "text": "gerar energia e capturar valor no Maranhão Grandes projetos eólicos, solares e de outras fontes renováveis somente produzirão todo o seu potencial de desenvolvimento se parte maior da renda, dos empregos e da cadeia de fornecedores permanecer no Maranhão."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "100002552700",
+      "state_code": "MA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026MA100002552700_01.pdf",
+      "public_path": "/propostas/2026/MA/2026MA100002552700_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}

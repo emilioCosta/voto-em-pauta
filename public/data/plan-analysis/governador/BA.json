@@ -1,0 +1,2710 @@
+{
+  "analysis_version": "2.18",
+  "taxonomy_version": "1.0",
+  "candidate_type": "governador",
+  "state_code": "BA",
+  "topics": [
+    {
+      "id": "education",
+      "label": "Educação"
+    },
+    {
+      "id": "health",
+      "label": "Saúde"
+    },
+    {
+      "id": "public-safety",
+      "label": "Segurança pública"
+    },
+    {
+      "id": "economy-jobs",
+      "label": "Economia e emprego"
+    },
+    {
+      "id": "tax-budget",
+      "label": "Orçamento e tributos"
+    },
+    {
+      "id": "social-protection",
+      "label": "Proteção social"
+    },
+    {
+      "id": "infrastructure-mobility",
+      "label": "Infraestrutura e mobilidade"
+    },
+    {
+      "id": "housing-sanitation",
+      "label": "Moradia e saneamento"
+    },
+    {
+      "id": "environment-climate",
+      "label": "Meio ambiente e clima"
+    },
+    {
+      "id": "agriculture-rural",
+      "label": "Agropecuária e desenvolvimento rural"
+    },
+    {
+      "id": "science-digital",
+      "label": "Ciência, inovação e digital"
+    },
+    {
+      "id": "culture-sports-tourism",
+      "label": "Cultura, esporte e turismo"
+    },
+    {
+      "id": "rights-inclusion",
+      "label": "Direitos e inclusão"
+    },
+    {
+      "id": "governance",
+      "label": "Gestão pública e transparência"
+    },
+    {
+      "id": "energy",
+      "label": "Energia e mineração"
+    },
+    {
+      "id": "justice-defense",
+      "label": "Justiça e defesa"
+    }
+  ],
+  "documents": [
+    {
+      "candidate_id": "50002532269",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002532269_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002532269_01.pdf",
+      "sha256": "e7d8f6e6443895074d827bd626cb00a158f93d7d1ede48b80f0c4dc8c0eab337",
+      "summary": "Na Educação, apesar de dizer que é um setor prioritário de sua gestão, colocou a Bahia em último lugar no aprendizado de português e matemática no ensino médio (IDEB agosto 2024). garantir, em todas as redes públicas de educação básica, no mínimo, o efetivo cumprimento da lei do piso salarial nacional para o magistério e inclusão dos demais profissionais em educação na mesma, associado a planos de cargos e carreiras e política de formação. Fortaleceremos a educação de qualidade, a educação básica, articuladas com a União e os municípios. O debate sobre política de drogas deve ser pautado com base no direito à saúde pública e no investimento em prevenção. A “guerra às drogas”, a pretexto de se proteger a saúde pública, por meio da criminalização de substâncias e do controle A retomada do crescimento, dos empregos e da renda e a estabilidade de preços serão tarefas prioritárias para garantir segurança aos investimentos que interessam ao estado. Reverter o sucateamento da saúde pública O PSOL se pauta historicamente pela defesa e ampliação do Sistema Único de Saúde, público, estatal, descentralizado e intersetorial. Na Segurança Pública, ignora a crise, negando a realidade e as críticas feitas à sua gestão. Assim o estado tem sido incapaz de colocar em prática prioridades ou de prover funções que já executava em outras épocas, a exemplo de apoiar os pequenos e médios empresários, de garantir de forma satisfatórias os direitos constitucionais de saúde e educação, de promover a segurança pública, e de melhorar a vida e o trabalho dos cidadãos. Regulamentação do uso medicinal de substâncias consideradas ilícitas, em especial do direito individual ao uso (e ao cultivo) terapêutico da cannabis; 10.Regulamentação do cultivo da cannabis medicinal pelas associações de pacientes e familiares e garantia de fornecimento de medicamentos a base de cannabis pelo SUS a quem precisa; 11.Reconhecimento do direito individual ao uso (e ao cultivo) recreativo da cannabis; 12.Garantir o investimento em políticas públicas de saúde e assistência; 13.Ampliar os Centros de Atenção Psicossocial (CAPS) e fortalecer a Rede de Atenção Psicossocial (RAPS); 14.Aprimoramento do controle externo das atividades policiais; 15.Fortalecimento de Ouvidorias, Corregedorias externas e instalação das controladorias gerais (integradas",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 1,
+          "page_end": 21,
+          "topics": [
+            "education"
+          ],
+          "summary": "Na Educação, apesar de dizer que é um setor prioritário de sua gestão, colocou a Bahia em último lugar no aprendizado de português e matemática no ensino médio (IDEB agosto 2024). garantir, em todas as redes públicas de educação básica, no mínimo, o efetivo cumprimento da lei do piso salarial nacional para o magistério e inclusão dos demais profissionais em educação na mesma, associado a planos de cargos e carreiras e política de formação. Fortaleceremos a educação de qualidade, a educação básica, articuladas com a União e os municípios.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "Na Educação, apesar de dizer que é um setor prioritário de sua gestão, colocou a Bahia em último lugar no aprendizado de português e matemática no ensino médio (IDEB agosto 2024)."
+            },
+            {
+              "id": "s02",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "garantir, em todas as redes públicas de educação básica, no mínimo, o efetivo cumprimento da lei do piso salarial nacional para o magistério e inclusão dos demais profissionais em educação na mesma, associado a planos de cargos e carreiras e política de formação. O Estado deve cumprir o papel de financiar a educação pública."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "Fortaleceremos a educação de qualidade, a educação básica, articuladas com a União e os municípios. Com o cuidado com o EJA, do ensino médio e profissionalizante."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "tradicionais, abordando a prevenção à violência sexual, doméstica e de gravidezes precoces ou indesejadas. 2.Dignidade menstrual para pessoas em vulnerabilidade social; 3.Acesso a contraceptivos e aborto legal pelo SUS; 4.Aborto legal e seguro; 5.Universalizar o acesso a creches públicas e inclusão de período noturno de cuidados infantis em zonas urbanas e rurais; 6.Criação de restaurantes comunitários geridos por cooperativas locais com unidade campo-cidade como medida emergencial de enfrentamento à fome e geração de renda; 7.Criar o Programa de Reconhecimento de Tempo de Serviço por Trabalhos de Cuidado, em que os períodos dedicados ao cuidados doméstico sejam contabilizados para aposentadoria, sendo aptas a reclamar os benefícios pessoas responsáveis pela manutenção dos cuidados com a casa da família e responsáveis pelos cuidados com as crianças, pessoas com deficiência e dependentes por condição de saúde e mães beneficiárias de programas assistenciais parentais; 8.Centros de referências de atendimento à mulher em todas as cidades, a fim de assegurar o acesso das mulheres ao serviço; 9.Casas de acolhimento provisório para mulheres em situação de violência que não estejam em risc"
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "O direito à educação pública, gratuita, laica e de qualidade, em todos os níveis de ensino, com continuidade das leis de cotas e outras políticas de ação afirmativa voltadas ao acesso e à permanência de estudantes negras e negros nas universidades, instituições de ensino básico, técnico e tecnológico, concursos públicos, sistema de justiça e sua extensão a programas de pós-graduação, estágios, residências, concursos docentes e bolsas de iniciação científica, mestrado, doutorado, pós-doutorado e a outras formas de acesso aos processos de pesquisa e desenvolvimento;"
+            },
+            {
+              "id": "s08",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "Diretrizes e Bases da Educação Nacional, da Resolução 01/2004 do Conselho Nacional de Educação e das Diretrizes Nacionais Curriculares para o ensino de História e Cultura Africana e Afro-Brasileira e para a Educação das Relações Étnico-Raciais, que tornaram obrigatório, em todos os níveis de ensino, o estudo da história e cultura africana e afro-brasileira, a partir da Lei 10.639/2003; 9. A garantia da oferta de educação escolar quilombola, respeitando-se as diretrizes específicas já estabelecidas e as realidades dessas comunidades; 10."
+            },
+            {
+              "id": "s10",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "1.Diálogo com as LGBTQIAPN+, para elaboração e controle social de políticas públicas; 2.Prevenir a discriminação e o preconceito contra as pessoas trans na infância e adolescência, na educação e na mídia; 3.Acolhimento, moradia e inclusão social para as pessoas trans expulsas de casa e/ou em situação de rua; 4.Prevenir e enfrentar o bullying e a violência LGBTfóbica e promover respeito e valorização da diversidade, com material de formação contra o preconceito, sobre diversidade de gênero e sexualidade para a preparação de educadores e estudantes; 5.Uso de nome social nas escolas e banheiros adequados à identidade de gênero auto percebida; 6.Programa nacional de prevenção do abandono escolar e de reinserção no sistema educativo, em todos os níveis; ações afirmativas para o acesso e permanência nas Instituições de Ensino Superior; 7."
+            },
+            {
+              "id": "s12",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "O PROUNI e o FIES foram programas responsáveis pela ampliação da entrada de estudantes de baixa renda no Ensino Superior. É necessário planejar uma transição das vagas criadas pelos dois programas em novas vagas no ensino superior público, defendendo que todos os estudantes que já integram os programas ou venham a integrar no período de transição, tenham o direito de terminar seus cursos assegurado que os jovens tenham condições de permanecer ou regressar às suas terras originais, e serem assim contemplados pelos programas, projetos e ações para a juventude."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 19,
+          "topics": [
+            "health"
+          ],
+          "summary": "O debate sobre política de drogas deve ser pautado com base no direito à saúde pública e no investimento em prevenção. A “guerra às drogas”, a pretexto de se proteger a saúde pública, por meio da criminalização de substâncias e do controle A retomada do crescimento, dos empregos e da renda e a estabilidade de preços serão tarefas prioritárias para garantir segurança aos investimentos que interessam ao estado. Reverter o sucateamento da saúde pública O PSOL se pauta historicamente pela defesa e ampliação do Sistema Único de Saúde, público, estatal, descentralizado e intersetorial.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "O debate sobre política de drogas deve ser pautado com base no direito à saúde pública e no investimento em prevenção. A “guerra às drogas”, a pretexto de se proteger a saúde pública, por meio da criminalização de substâncias e do controle A retomada do crescimento, dos empregos e da renda e a estabilidade de preços serão tarefas prioritárias para garantir segurança aos investimentos que interessam ao estado."
+            },
+            {
+              "id": "s02",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Reverter o sucateamento da saúde pública O PSOL se pauta historicamente pela defesa e ampliação do Sistema Único de Saúde, público, estatal, descentralizado e intersetorial. 1.Concretizar uma Vigilância em Saúde participativa com reconhecimento de saberes do cotidiano de populações vulnerabilizadas, originárias, tradicionais, do campo, água e florestas; para respostas rápidas pelo poder público no qual o povo é protagonista da transformação; 2.Expandir a Atenção Básica como organizadora da rede, instituindo equipes multiprofissionais segundo necessidades de saúde territoriais (Saúde da Família, Saúde Bucal, Saúde Mental, Saúde do Trabalhador, Consultório na/de Rua, entre outros);3."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "alimentação, educação e bem-estar na primeira infância, a criança e ao adolescente, garantindo perspectivas, combatendo a exploração do trabalho infantil, a violência, a exploração sexual e todas as formas de preconceitos e discriminações; 11. Garantir políticas que assegurem os direitos dos idosos com envelhecimento saudável, com a ampliação e fortalecimento dos serviços."
+            },
+            {
+              "id": "s04",
+              "page_start": 17,
+              "page_end": 18,
+              "text": "A garantia de direitos sexuais e direitos reprodutivos, além de política de saúde pública, visa a prevenção de abortos inseguros e ilegais, tratando o tema como direito fundamental de pessoas subalternizadas pela condição de pobreza e raça, dando autonomia para decidir sobre seus corpos com a garantia de dignidade."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "tradicionais, abordando a prevenção à violência sexual, doméstica e de gravidezes precoces ou indesejadas. 2.Dignidade menstrual para pessoas em vulnerabilidade social; 3.Acesso a contraceptivos e aborto legal pelo SUS; 4.Aborto legal e seguro; 5.Universalizar o acesso a creches públicas e inclusão de período noturno de cuidados infantis em zonas urbanas e rurais; 6.Criação de restaurantes comunitários geridos por cooperativas locais com unidade campo-cidade como medida emergencial de enfrentamento à fome e geração de renda; 7.Criar o Programa de Reconhecimento de Tempo de Serviço por Trabalhos de Cuidado, em que os períodos dedicados ao cuidados doméstico sejam contabilizados para aposentadoria, sendo aptas a reclamar os benefícios pessoas responsáveis pela manutenção dos cuidados com a casa da família e responsáveis pelos cuidados com as crianças, pessoas com deficiência e dependentes por condição de saúde e mães beneficiárias de programas assistenciais parentais; 8.Centros de referências de atendimento à mulher em todas as cidades, a fim de assegurar o acesso das mulheres ao serviço; 9.Casas de acolhimento provisório para mulheres em situação de violência que não estejam em risc"
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "A efetivação do direito à saúde, com a manutenção e aperfeiçoamento do Sistema Único de Saúde (SUS), considerando as especificidades da saúde da população negra, conforme definido no Estatuto da Igualdade Racial e estabelecido pela Política Nacional de Saúde Integral da População Negra, com aplicação dos recursos necessários, combate ao racismo institucional e investimento na promoção dos saberes das comunidades de terreiro, de práticas de cuidado e autocuidado, no acesso às tecnologias em saúde, na prevenção e promoção da saúde e ambiente saudável, com atenção especial à saúde mental; 5."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 20,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Na Segurança Pública, ignora a crise, negando a realidade e as críticas feitas à sua gestão. Assim o estado tem sido incapaz de colocar em prática prioridades ou de prover funções que já executava em outras épocas, a exemplo de apoiar os pequenos e médios empresários, de garantir de forma satisfatórias os direitos constitucionais de saúde e educação, de promover a segurança pública, e de melhorar a vida e o trabalho dos cidadãos. Regulamentação do uso medicinal de substâncias consideradas ilícitas, em especial do direito individual ao uso (e ao cultivo) terapêutico da cannabis; 10.Regulamentação do cultivo da cannabis medicinal pelas associações de pacientes e familiares e garantia de fornecimento de medicamentos a base de cannabis pelo SUS a quem precisa; 11.Reconhecimento do direito individual ao uso (e ao cultivo) recreativo da cannabis; 12.Garantir o investimento em políticas públicas de saúde e assistência; 13.Ampliar os Centros de Atenção Psicossocial (CAPS) e fortalecer a Rede de Atenção Psicossocial (RAPS); 14.Aprimoramento do controle externo das atividades policiais; 15.Fortalecimento de Ouvidorias, Corregedorias externas e instalação das controladorias gerais (integradas",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "Na Segurança Pública, ignora a crise, negando a realidade e as críticas feitas à sua gestão. Assim o estado tem sido incapaz de colocar em prática prioridades ou de prover funções que já executava em outras épocas, a exemplo de apoiar os pequenos e médios empresários, de garantir de forma satisfatórias os direitos constitucionais de saúde e educação, de promover a segurança pública, e de melhorar a vida e o trabalho dos cidadãos."
+            },
+            {
+              "id": "s02",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Regulamentação do uso medicinal de substâncias consideradas ilícitas, em especial do direito individual ao uso (e ao cultivo) terapêutico da cannabis; 10.Regulamentação do cultivo da cannabis medicinal pelas associações de pacientes e familiares e garantia de fornecimento de medicamentos a base de cannabis pelo SUS a quem precisa; 11.Reconhecimento do direito individual ao uso (e ao cultivo) recreativo da cannabis; 12.Garantir o investimento em políticas públicas de saúde e assistência; 13.Ampliar os Centros de Atenção Psicossocial (CAPS) e fortalecer a Rede de Atenção Psicossocial (RAPS); 14.Aprimoramento do controle externo das atividades policiais; 15.Fortalecimento de Ouvidorias, Corregedorias externas e instalação das controladorias gerais (integradas); 16.Ampliação da participação da sociedade civil nos Conselhos de Segurança Pública, na formação das polícias e sobretudo na militar, regulações sobre o trabalho diário da Polícia Civil, hoje basicamente norteado pela inquisitorialidade do inquérito; 17.Capacitação e treinamento contínuo das polícias, especialmente em direitos humanos; 18.Adoção de protocolos transparentes para operações e câmaras para todos os policiais em oper"
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "2.Dignidade menstrual para pessoas em vulnerabilidade social; 3.Acesso a contraceptivos e aborto legal pelo SUS; 4.Aborto legal e seguro; 5.Universalizar o acesso a creches públicas e inclusão de período noturno de cuidados infantis em zonas urbanas e rurais; 6.Criação de restaurantes comunitários geridos por cooperativas locais com unidade campo-cidade como medida emergencial de enfrentamento à fome e geração de renda; 7.Criar o Programa de Reconhecimento de Tempo de Serviço por Trabalhos de Cuidado, em que os períodos dedicados ao cuidados doméstico sejam contabilizados para aposentadoria, sendo aptas a reclamar os benefícios pessoas responsáveis pela manutenção dos cuidados com a casa da família e responsáveis pelos cuidados com as crianças, pessoas com deficiência e dependentes por condição de saúde e mães beneficiárias de programas assistenciais parentais; 8.Centros de referências de atendimento à mulher em todas as cidades, a fim de assegurar o acesso das mulheres ao serviço; 9.Casas de acolhimento provisório para mulheres em situação de violência que não estejam em risco iminente de morte mas necessitem de residência temporária e rápida resolução para o seu caso; 10.Patrulha"
+            },
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "É preciso implementar políticas públicas de promoção da igualdade racial e de combate ao racismo institucional, o enfrentamento da pobreza, das desigualdades, a realização de ações afirmativas para a população negra em várias áreas, reverter o genocídio e a perseguição que grassa junto à juventude negra, combater a violência policial contra os povos e comunidades tradicionais de matriz africana e de terreiro."
+            },
+            {
+              "id": "s08",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "O fim da militarização das políticas de segurança pública em nossas comunidades, para que se coíba o uso da violência racial que tem produzido altos índices de homicídios contra a população negra; a promoção de políticas de segurança pública baseadas em Direitos Humanos; 14."
+            },
+            {
+              "id": "s10",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "12.Inclusão da motivação de discriminação por identidade de gênero e orientação sexual nos protocolos de atendimentos da Segurança Pública, com produção de estatísticas regionais e federais."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "A partir de um diagnóstico dos anos carlistas e da experiência de quase 20 anos da coligação encabeçada pelo PT, se propõe a superar os limites desses governos tendo como horizonte uma Bahia para todos e todas os/as baianos/as onde o desenvolvimento econômico possa ser entendido como sustentável e inclusivo. Pesquisa QUAEST de fevereiro/25 indicou que sua gestão tem a pior avaliação na geração de emprego e renda. As cozinhas que estão em operação, construídas pela sociedade civil, deverão ser financiadas para melhoria de equipamentos, pagamento das trabalhadoras e trabalhadores e fornecimento de alimentos; 2.Manutenção e ampliação dos programas de distribuição de cestas de alimentos nutricionalmente adequadas que respeitem os hábitos alimentares dos beneficiários, com prioridade para as famílias que ainda não acessaram programas de transferência de renda e/ou cuja renda per capita seja inferior a 1 salário mínimo; 3.Criação de um programa de distribuição de gás para as famílias de baixa renda.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "A partir de um diagnóstico dos anos carlistas e da experiência de quase 20 anos da coligação encabeçada pelo PT, se propõe a superar os limites desses governos tendo como horizonte uma Bahia para todos e todas os/as baianos/as onde o desenvolvimento econômico possa ser entendido como sustentável e inclusivo. Pesquisa QUAEST de fevereiro/25 indicou que sua gestão tem a pior avaliação na geração de emprego e renda."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "As cozinhas que estão em operação, construídas pela sociedade civil, deverão ser financiadas para melhoria de equipamentos, pagamento das trabalhadoras e trabalhadores e fornecimento de alimentos; 2.Manutenção e ampliação dos programas de distribuição de cestas de alimentos nutricionalmente adequadas que respeitem os hábitos alimentares dos beneficiários, com prioridade para as famílias que ainda não acessaram programas de transferência de renda e/ou cuja renda per capita seja inferior a 1 salário mínimo; 3.Criação de um programa de distribuição de gás para as famílias de baixa renda. Gratuito para aquelas cuja renda per capita seja inferior a 1 salário mínimo e subsidiado para aquelas cuja renda seja de até 2 salários; 4."
+            },
+            {
+              "id": "s05",
+              "page_start": 18,
+              "page_end": 18,
+              "text": "2.Dignidade menstrual para pessoas em vulnerabilidade social; 3.Acesso a contraceptivos e aborto legal pelo SUS; 4.Aborto legal e seguro; 5.Universalizar o acesso a creches públicas e inclusão de período noturno de cuidados infantis em zonas urbanas e rurais; 6.Criação de restaurantes comunitários geridos por cooperativas locais com unidade campo-cidade como medida emergencial de enfrentamento à fome e geração de renda; 7.Criar o Programa de Reconhecimento de Tempo de Serviço por Trabalhos de Cuidado, em que os períodos dedicados ao cuidados doméstico sejam contabilizados para aposentadoria, sendo aptas a reclamar os benefícios pessoas responsáveis pela manutenção dos cuidados com a casa da família e responsáveis pelos cuidados com as crianças, pessoas com deficiência e dependentes por condição de saúde e mães beneficiárias de programas assistenciais parentais; 8.Centros de referências de atendimento à mulher em todas as cidades, a fim de assegurar o acesso das mulheres ao serviço; 9.Casas de acolhimento provisório para mulheres em situação de violência que não estejam em risco iminente de morte mas necessitem de residência temporária e rápida resolução para o seu caso; 10.Patrulha"
+            },
+            {
+              "id": "s10",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "Buscamos garantir os direitos, o combate à discriminação e o respeito à cidadania LGBTQIAP+ em suas diferentes formas de manifestação, assim como garantir o direito a saúde integral desta população, a inclusão e permanência na educação e no mercado de trabalho e o reconhecimento das suas identidades."
+            },
+            {
+              "id": "s13",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Pretendemos garantir na Bahia novas e mais oportunidades para a juventude, com acesso à educação e à cultura e geração de empregos de qualidade, além do direito à vida com dignidade e aos sonhos."
+            },
+            {
+              "id": "s21",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Recuperação de programas como Luz para Todos, fortalecimento dos bancos públicos em sua missão de fomento ao desenvolvimento econômico."
+            },
+            {
+              "id": "s22",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Estimular investimentos em infraestrutura turística, qualificação dos trabalhadores e das empresas do segmento. Combater as desigualdades regionais, fortalecendo o desenvolvimento das regiões e estimulando experiências de cooperação e organização territorial."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 9,
+          "page_end": 20,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "A política de assistência social compõe o tripé da seguridade social, concepção inaugurada na Constituição Federal de 1988, regulamentada pela Lei Orgânica da Assistência Social (Lei 8.742/93), mas estabelecida somente em 2011, sendo, portanto, a política da seguridade social mais tardiamente organizada, devido a vários fatores. Dentre eles, é sabido que a área da assistência social historicamente foi utilizada como meio de ações populistas sem efetivamente atuar contra os impactos da miséria e desigualdade social. Terra, comida, soberania alimentar, uma proposta de fortalecimento da agricultura baiana Nosso compromisso é colocar o povo no orçamento, apoiar a proteção social a todas as formas de ocupação, dar atenção aos que trabalham por conta própria, domésticos, teletrabalho.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "A política de assistência social compõe o tripé da seguridade social, concepção inaugurada na Constituição Federal de 1988, regulamentada pela Lei Orgânica da Assistência Social (Lei 8.742/93), mas estabelecida somente em 2011, sendo, portanto, a política da seguridade social mais tardiamente organizada, devido a vários fatores. Dentre eles, é sabido que a área da assistência social historicamente foi utilizada como meio de ações populistas sem efetivamente atuar contra os impactos da miséria e desigualdade social."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "Terra, comida, soberania alimentar, uma proposta de fortalecimento da agricultura baiana Nosso compromisso é colocar o povo no orçamento, apoiar a proteção social a todas as formas de ocupação, dar atenção aos que trabalham por conta própria, domésticos, teletrabalho. Bolsonaro em seu primeiro dia de governo, extinguiu o Conselho Nacional de Segurança Alimentar (Consea,), que promovia diálogo intersetorial e com a sociedade civil e foi muito importante para o desenvolvimento de políticas públicas de segurança alimentar e nutricional."
+            },
+            {
+              "id": "s10",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "campanhas de valorização do emprego trans; 8. Produzir dados sobre pessoas LGBTQIAPN+ em situação de rua e articular as políticas de assistência social e habitação, com unidades de acolhimento e políticas afirmativas para habitação popular; 11."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 19,
+          "page_end": 19,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "A erradicação do racismo ambiental com promoção de políticas que garantam o acesso universal das populações urbanas e rurais à moradia digna, à cidade, à terra, à água potável, ao saneamento básico; bem como a promoção da soberania alimentar e o acesso à alimentação saudável, adequada e com qualidade, livre de agrotóxicos e transgênicos, a defesa dos bens comuns e proteção contra a mercantilização dos recursos naturais – inclusive as águas e às florestas; 16.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "A erradicação do racismo ambiental com promoção de políticas que garantam o acesso universal das populações urbanas e rurais à moradia digna, à cidade, à terra, à água potável, ao saneamento básico; bem como a promoção da soberania alimentar e o acesso à alimentação saudável, adequada e com qualidade, livre de agrotóxicos e transgênicos, a defesa dos bens comuns e proteção contra a mercantilização dos recursos naturais – inclusive as águas e às florestas; 16."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "participação, democracia, desenvolvimento, comunidade, família, solidariedade, meio ambiente, pluralidade e criatividade. Fortalecer a atuação mineral e energética na Bahia estimulando o compromisso com a proteção ao meio ambiente, direitos dos trabalhadores e respeito às comunidades locais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "participação, democracia, desenvolvimento, comunidade, família, solidariedade, meio ambiente, pluralidade e criatividade."
+            },
+            {
+              "id": "s21",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Fortalecer a atuação mineral e energética na Bahia estimulando o compromisso com a proteção ao meio ambiente, direitos dos trabalhadores e respeito às comunidades locais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 17,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "a) a moratória negociada da dívida com a União para garantir os recursos necessários para investimentos econômicos e sociais; b) reorientar as transações locais para o fortalecimento do mercado interno, seja inter-áreas, seja entre os estados do Nordeste ou preenchendo espaços de relação com as regiões Norte e Centro Oeste; c)abrir um novo campo de relação com a África e com o Norte / Centro da área do Pacífico da América do Sul, particularmente com Venezuela e Colômbia; d)ao invés de voltar-se para alguns grupos, cidade ou setor iremos estabelecer um “quadrado mágico” com energias capazes de alavancar nosso desenvolvimento de forma integral utilizando o mercado, redes de permutas, economia solidária e agricultura familiar contemplando: a multiplicação das relações entre campo e cidade; a constituição de um pool turístico do Nordeste; o investimento no setor de transporte particularmente com o estímulo das alternativas ferroviária, fluvial e metroviária; a revitalização e criação de zonas comerciais e industriais com incentivos fiscais. A partir desse programa, estimular a implantação de hortas, pomares e quintais urbanos que priorizem práticas agroecológicas e participação popular",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "a) a moratória negociada da dívida com a União para garantir os recursos necessários para investimentos econômicos e sociais; b) reorientar as transações locais para o fortalecimento do mercado interno, seja inter-áreas, seja entre os estados do Nordeste ou preenchendo espaços de relação com as regiões Norte e Centro Oeste; c)abrir um novo campo de relação com a África e com o Norte / Centro da área do Pacífico da América do Sul, particularmente com Venezuela e Colômbia; d)ao invés de voltar-se para alguns grupos, cidade ou setor iremos estabelecer um “quadrado mágico” com energias capazes de alavancar nosso desenvolvimento de forma integral utilizando o mercado, redes de permutas, economia solidária e agricultura familiar contemplando: a multiplicação das relações entre campo e cidade; a constituição de um pool turístico do Nordeste; o investimento no setor de transporte particularmente com o estímulo das alternativas ferroviária, fluvial e metroviária; a revitalização e criação de zonas comerciais e industriais com incentivos fiscais."
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "A partir desse programa, estimular a implantação de hortas, pomares e quintais urbanos que priorizem práticas agroecológicas e participação popular através de financiamento público; 6.Ampliação da compra pública direta da agricultura familiar e camponesa, de povos indígenas, quilombolas e demais povos e comunidades tradicionais produtoras ou extrativistas de alimentos; 7.Transferir isenção fiscal, subsídios e outros benefícios concedidos aos agrotóxicos e alimentos ultra processados para os produtos produzidos pela agricultura familiar, preferencialmente orgânicos e agroecológicos, voltados à alimentação adequada e sustentável; 8. Investimento público em mercados urbanos, sobretudo próximos às periferias das cidades, para a comercialização de alimentos produzidos localmente e advindos da agricultura familiar das áreas rurais e periurbanas com preços subsidiados aos produtos in natura e minimamente processados."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 24,
+          "page_end": 24,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Para tal, é necessário fomentar o desenvolvimento científico e tecnológico articulados pela Secretaria de Ciência e Tecnologia, assim como assegurar a pesquisa e enfrentar o desafio da transformação tecnológica, além de estimular a transformação digital assegurando internet de qualidade em todo território.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Para tal, é necessário fomentar o desenvolvimento científico e tecnológico articulados pela Secretaria de Ciência e Tecnologia, assim como assegurar a pesquisa e enfrentar o desafio da transformação tecnológica, além de estimular a transformação digital assegurando internet de qualidade em todo território."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 22,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "No entanto, entendem que a redução da desigualdade e a efetivação de políticas públicas de segurança são tarefas fundamentais para garantir os direitos humanos e a dignidade. Garantia dos direitos humanos da população prisional, com especificidades para as mulheres e população LGBTI, e ampliação das garantias penais; 5. Regulamentação do uso medicinal de substâncias consideradas ilícitas, em especial do direito individual ao uso (e ao cultivo) terapêutico da cannabis; 10.Regulamentação do cultivo da cannabis medicinal pelas associações de pacientes e familiares e garantia de fornecimento de medicamentos a base de cannabis pelo SUS a quem precisa; 11.Reconhecimento do direito individual ao uso (e ao cultivo) recreativo da cannabis; 12.Garantir o investimento em políticas públicas de saúde e assistência; 13.Ampliar os Centros de Atenção Psicossocial (CAPS) e fortalecer a Rede de Atenção Psicossocial (RAPS); 14.Aprimoramento do controle externo das atividades policiais; 15.Fortalecimento de Ouvidorias, Corregedorias externas e instalação das controladorias gerais (integradas); 16.Ampliação da participação da sociedade civil nos Conselhos de Segurança Pública, na formação das polícias ",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "No entanto, entendem que a redução da desigualdade e a efetivação de políticas públicas de segurança são tarefas fundamentais para garantir os direitos humanos e a dignidade."
+            },
+            {
+              "id": "s02",
+              "page_start": 9,
+              "page_end": 12,
+              "text": "Garantia dos direitos humanos da população prisional, com especificidades para as mulheres e população LGBTI, e ampliação das garantias penais; 5. Regulamentação do uso medicinal de substâncias consideradas ilícitas, em especial do direito individual ao uso (e ao cultivo) terapêutico da cannabis; 10.Regulamentação do cultivo da cannabis medicinal pelas associações de pacientes e familiares e garantia de fornecimento de medicamentos a base de cannabis pelo SUS a quem precisa; 11.Reconhecimento do direito individual ao uso (e ao cultivo) recreativo da cannabis; 12.Garantir o investimento em políticas públicas de saúde e assistência; 13.Ampliar os Centros de Atenção Psicossocial (CAPS) e fortalecer a Rede de Atenção Psicossocial (RAPS); 14.Aprimoramento do controle externo das atividades policiais; 15.Fortalecimento de Ouvidorias, Corregedorias externas e instalação das controladorias gerais (integradas); 16.Ampliação da participação da sociedade civil nos Conselhos de Segurança Pública, na formação das polícias e sobretudo na militar, regulações sobre o trabalho diário da Polícia Civil, hoje basicamente norteado pela inquisitorialidade do inquérito; 17.Capacitação e treinamento contí"
+            },
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "A partir desse programa, estimular a implantação de hortas, pomares e quintais urbanos que priorizem práticas agroecológicas e participação popular através de financiamento público; 6.Ampliação da compra pública direta da agricultura familiar e camponesa, de povos indígenas, quilombolas e demais povos e comunidades tradicionais produtoras ou extrativistas de alimentos; 7.Transferir isenção fiscal, subsídios e outros benefícios concedidos aos agrotóxicos e alimentos ultra processados para os produtos produzidos pela agricultura familiar, preferencialmente orgânicos e agroecológicos, voltados à alimentação adequada e sustentável; 8. Tem como eixo central uma nova cultura política, cidadã, onde os representantes políticos não escondam a sua opinião e discutam com a população o sistema e modelo econômico em curso, orientados pela tolerância sócio espiritual e cultural e dos direitos humanos, pela pluralidade étnica, sexual, pela proteção e assistência do Estado e da sociedade, pela democracia direta, combate implacável à corrupção e tráfico de influência, pela real independência dos poderes, e pela democracia direta."
+            },
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "É preciso implementar políticas públicas de promoção da igualdade racial e de combate ao racismo institucional, o enfrentamento da pobreza, das desigualdades, a realização de ações afirmativas para a população negra em várias áreas, reverter o genocídio e a perseguição que grassa junto à juventude negra, combater a violência policial contra os povos e comunidades tradicionais de matriz africana e de terreiro."
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "A efetivação do direito à saúde, com a manutenção e aperfeiçoamento do Sistema Único de Saúde (SUS), considerando as especificidades da saúde da população negra, conforme definido no Estatuto da Igualdade Racial e estabelecido pela Política Nacional de Saúde Integral da População Negra, com aplicação dos recursos necessários, combate ao racismo institucional e investimento na promoção dos saberes das comunidades de terreiro, de práticas de cuidado e autocuidado, no acesso às tecnologias em saúde, na prevenção e promoção da saúde e ambiente saudável, com atenção especial à saúde mental; 5."
+            },
+            {
+              "id": "s08",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "O fim da militarização das políticas de segurança pública em nossas comunidades, para que se coíba o uso da violência racial que tem produzido altos índices de homicídios contra a população negra; a promoção de políticas de segurança pública baseadas em Direitos Humanos; 14."
+            },
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "luta antirracista e com a defesa dos direitos humanos e da democracia na vida pública, incluindo a necessidade de representação equânime na política institucional; 18. o fortalecimento da mídia negra, periférica e popular, encaminhamento e monitoramento das denúncias de publicação, circulação ou difusão, por qualquer forma e/ou meio de comunicação, inclusive a internet, de qualquer material racista ou racialmente discriminatório, incluindo abordagens e imagens que exponham, como expresso no Estatuto da Igualdade Racial (Lei 12.288/2010), às pessoas e grupos ao ódio e ao desprezo e à intolerância por motivos fundados na religiosidade de matrizes africanas; 20."
+            },
+            {
+              "id": "s13",
+              "page_start": 21,
+              "page_end": 21,
+              "text": "Propor medidas legislativas e administrativas que estabeleçam mecanismos de rastreabilidade de produtos, em respeito à devida diligência, para garantir que não sejam resultantes de conflitos territoriais, explorações ilegais de terras indígenas e áreas ilegalmente degradadas; 2.Reconhecer a contribuição dos povos indígenas, quilombolas e comunidades tradicionais na preservação da biodiversidade brasileira, criando mecanismos de reconhecimento pelo serviço ambiental prestado e incentivando iniciativas Nossa juventude merece respeito, garantia de emprego, segurança, alimentação e perspectiva."
+            },
+            {
+              "id": "s14",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Atuar transversalmente para promover a assistência integral à saúde indígena e à educação bilíngue, respeitando as especificidades culturais e sociais dos povos indígenas; 3. Proteger os direitos e os territórios dos povos indígenas, quilombolas e populações tradicionais assegurando a posse de suas terras e impedindo atividades predatórias, assegurar-lhes cidadania e valorização de sua cultura e conhecimentos tradicionais."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 12,
+          "page_end": 24,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Fortalecer a agenda de pesquisa em alimentação, nutrição e segurança alimentar e nutricional, estabelecendo linhas de fomento com recursos interministeriais e editais construídos com a participação social, apoiando projetos que considerem as múltiplas realidades das situações alimentares do país e apoio a grupos emergentes; 9. O Estado deve assegurar a proteção da dignidade humana das mulheres e ter políticas públicas eficientes para garantir suas vidas, equidade de direitos, salários iguais aos homens e estímulo à promoção feminina na ciência, na educação, na cultura, na representação política e gestão pública. 1.Diálogo com as LGBTQIAPN+, para elaboração e controle social de políticas públicas; 2.Prevenir a discriminação e o preconceito contra as pessoas trans na infância e adolescência, na educação e na mídia; 3.Acolhimento, moradia e inclusão social para as pessoas trans expulsas de casa e/ou em situação de rua; 4.Prevenir e enfrentar o bullying e a violência LGBTfóbica e promover respeito e valorização da diversidade, com material de formação contra o preconceito, sobre diversidade de gênero e sexualidade para a preparação de educadores e estudantes; 5.Uso de nome social nas e",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 12,
+              "page_end": 17,
+              "text": "Fortalecer a agenda de pesquisa em alimentação, nutrição e segurança alimentar e nutricional, estabelecendo linhas de fomento com recursos interministeriais e editais construídos com a participação social, apoiando projetos que considerem as múltiplas realidades das situações alimentares do país e apoio a grupos emergentes; 9."
+            },
+            {
+              "id": "s06",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "O Estado deve assegurar a proteção da dignidade humana das mulheres e ter políticas públicas eficientes para garantir suas vidas, equidade de direitos, salários iguais aos homens e estímulo à promoção feminina na ciência, na educação, na cultura, na representação política e gestão pública."
+            },
+            {
+              "id": "s10",
+              "page_start": 20,
+              "page_end": 20,
+              "text": "1.Diálogo com as LGBTQIAPN+, para elaboração e controle social de políticas públicas; 2.Prevenir a discriminação e o preconceito contra as pessoas trans na infância e adolescência, na educação e na mídia; 3.Acolhimento, moradia e inclusão social para as pessoas trans expulsas de casa e/ou em situação de rua; 4.Prevenir e enfrentar o bullying e a violência LGBTfóbica e promover respeito e valorização da diversidade, com material de formação contra o preconceito, sobre diversidade de gênero e sexualidade para a preparação de educadores e estudantes; 5.Uso de nome social nas escolas e banheiros adequados à identidade de gênero auto percebida; 6.Programa nacional de prevenção do abandono escolar e de reinserção no sistema educativo, em todos os níveis; ações afirmativas para o acesso e permanência nas Instituições de Ensino Superior; 7. cotas de diversidade sexual e de gênero em empresas; 10."
+            },
+            {
+              "id": "s16",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "2.Editais, leis, programas e fundos, com mecanismos de descentralização territorial e ações afirmativas, dotação orçamentária própria, comissões julgadoras plurais e democráticas (com participação da sociedade civil organizada) e busca ativa nas inscrições, apoio técnico para a participação dos interessados e desburocratização; 3.Transparência, controle e participação social efetivo da população na criação e gestão das políticas culturais; 4."
+            },
+            {
+              "id": "s17",
+              "page_start": 22,
+              "page_end": 22,
+              "text": "2.Reforçar o financiamento público direto para o esporte e lazer; 3.Destinar os gastos orçamentários exclusivamente para a garantia do esporte e lazer como direito, nos programas de fomento à vivência esportiva com fins educacionais e de participação; 4.Concentrar a renúncia fiscal em projetos inclusivos e participativos;5.Destinar os recursos extra orçamentários de empresas estatais para a garantia do esporte e lazer como direito e para a iniciação e para a excelência esportivas; 6.Exigir contrapartidas sociais dos recursos públicos e renúncias fiscais dos clubes com o estabelecimento de ingressos sociais, acessíveis à população de baixa renda."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Fortalecer a gestão pública do sistema esportivo e o fortalecimento de um Sistema Nacional."
+            },
+            {
+              "id": "s20",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Defender uma política de prevenção e combate à corrupção e transparência do Estado fortalecendo o Ministério Público e outros órgãos assim como carreiras de auditoria e fiscalização, garantindo o cumprimento da Lei de Acesso à Informação."
+            },
+            {
+              "id": "s23",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Retomar o processo participativo de construção de políticas públicas com todas as instâncias de participação social, aprimorando sua composição e sua institucionalidade."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 24,
+          "page_end": 24,
+          "topics": [
+            "energy"
+          ],
+          "summary": "É imprescindível garantir a segurança energética do país, com ampliação da oferta de energia, aprofundando a diversificação da matriz e expansão de fontes renováveis a preços compatíveis com a realidade.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "É imprescindível garantir a segurança energética do país, com ampliação da oferta de energia, aprofundando a diversificação da matriz e expansão de fontes renováveis a preços compatíveis com a realidade."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não será a repressão, o encarceramento, a privatização da segurança ou a atuação das Forças Armadas que trará a paz como por encanto na nossa sociedade cada vez mais precarizada e despossuída. O direito à educação pública, gratuita, laica e de qualidade, em todos os níveis de ensino, com continuidade das leis de cotas e outras políticas de ação afirmativa voltadas ao acesso e à permanência de estudantes negras e negros nas universidades, instituições de ensino básico, técnico e tecnológico, concursos públicos, sistema de justiça e sua extensão a programas de pós-graduação, estágios, residências, concursos docentes e bolsas de iniciação científica, mestrado, doutorado, pós-doutorado e a outras formas de acesso aos processos de pesquisa e desenvolvimento; A erradicação do racismo institucional em todas as instâncias do sistema de justiça; 21. Faremos o diálogo permanente com o Judiciário respeitando a sua independência e pugnando para o aperfeiçoamento dos níveis do sistema de justiça.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 9,
+              "text": "Não será a repressão, o encarceramento, a privatização da segurança ou a atuação das Forças Armadas que trará a paz como por encanto na nossa sociedade cada vez mais precarizada e despossuída."
+            },
+            {
+              "id": "s07",
+              "page_start": 19,
+              "page_end": 19,
+              "text": "O direito à educação pública, gratuita, laica e de qualidade, em todos os níveis de ensino, com continuidade das leis de cotas e outras políticas de ação afirmativa voltadas ao acesso e à permanência de estudantes negras e negros nas universidades, instituições de ensino básico, técnico e tecnológico, concursos públicos, sistema de justiça e sua extensão a programas de pós-graduação, estágios, residências, concursos docentes e bolsas de iniciação científica, mestrado, doutorado, pós-doutorado e a outras formas de acesso aos processos de pesquisa e desenvolvimento;"
+            },
+            {
+              "id": "s09",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "A erradicação do racismo institucional em todas as instâncias do sistema de justiça; 21."
+            },
+            {
+              "id": "s20",
+              "page_start": 24,
+              "page_end": 24,
+              "text": "Faremos o diálogo permanente com o Judiciário respeitando a sua independência e pugnando para o aperfeiçoamento dos níveis do sistema de justiça."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "50002533190",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002533190_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002533190_01.pdf",
+      "sha256": "4f4c634a712e1b83079700bd90451aa62bc167c1061badaba103a0f06eb9ad58",
+      "summary": "nas periferias sem escola em tempo integral, nas ruas sem iluminação, nos bairros sem praças ou equipamentos culturais, nas famílias sem renda e sem perspectiva. Educação nas Escolas Nas escolas da rede estadual, a abordagem do tema será incentivada de forma interdisciplinar na Educação Básica e nos anos iniciais do Ensino Fundamental, com foco na guarda responsável e no reconhecimento de sinais de maus-tratos. empatado com o Maranhão e à frente apenas do Distrito Federal (3,6), o pior resultado do Nordeste. atenção à saúde física, suporte psicológico e saúde mental, e reinserção social via educação, trabalho e fortalecimento de vínculos familiares. O suporte em saúde mental passará a integrar o protocolo operacional das forças — não como serviço opcional, mas como parte da gestão do efetivo. Um Novo Modelo de Saúde Pública e Assistência à Vida para a Bahia. EDUCAÇÃO PLANODEGOVERNO 2 0 2 7 2 0 3 0 MUDANÇACOMSEGURANÇA SEGURANÇA PÚBLICA E DEFESA DO CIDADÃO. É o resultado acumulado de vinte anos de abandono, efetivo policial encolhendo, inteligência criminal desmontada e crime organizado crescendo sem resposta do estado. Enquanto o crime organizado se armava e expandia territórios, o governo estadual deixava o efetivo encolher, desmontava a inteligência criminal e se acomodava na tese de que violência é problema federal. Antes de falar em crescimento econômico, em inovação, em qualquer coisa, o baiano precisa conseguir sair de casa sem medo, ser atendido antes que seja tarde, e ver seu filho aprender de verdade. É desse conjunto de 27 planos, e não de uma diretriz única definida em Salvador, que nascerá o Planejamento Estratégico do Estado e um novo modelo de desenvolvimento econômico e social para a Bahia. cursos profissionalizantes com certificação reconhecida pelo mercado de trabalho; programas de manutenção do vínculo familiar com suporte às famílias dos custodiados; assistência jurídica individualizada para acompanhamento de progressão de regime; e monitoramento contínuo do egresso nos primeiros 24 meses após a soltura. É quem vai concentrar, cada vez mais, o uso da capacidade do sistema de saúde baiano, o gasto público em saúde e o sofrimento das famílias — e é para ele também que os pilares deste programa foram reorganizados. Isso garantirá previsibilidade financeira, responsabilidade fiscal e controle sobre o volume de serviços contratados.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 22,
+          "page_end": 41,
+          "topics": [
+            "education"
+          ],
+          "summary": "nas periferias sem escola em tempo integral, nas ruas sem iluminação, nos bairros sem praças ou equipamentos culturais, nas famílias sem renda e sem perspectiva. Educação nas Escolas Nas escolas da rede estadual, a abordagem do tema será incentivada de forma interdisciplinar na Educação Básica e nos anos iniciais do Ensino Fundamental, com foco na guarda responsável e no reconhecimento de sinais de maus-tratos. empatado com o Maranhão e à frente apenas do Distrito Federal (3,6), o pior resultado do Nordeste.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "nas periferias sem escola em tempo integral, nas ruas sem iluminação, nos bairros sem praças ou equipamentos culturais, nas famílias sem renda e sem perspectiva."
+            },
+            {
+              "id": "s31",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "Educação nas Escolas Nas escolas da rede estadual, a abordagem do tema será incentivada de forma interdisciplinar na Educação Básica e nos anos iniciais do Ensino Fundamental, com foco na guarda responsável e no reconhecimento de sinais de maus-tratos."
+            },
+            {
+              "id": "s32",
+              "page_start": 41,
+              "page_end": 41,
+              "text": "empatado com o Maranhão e à frente apenas do Distrito Federal (3,6), o pior resultado do Nordeste."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 15,
+          "page_end": 41,
+          "topics": [
+            "health"
+          ],
+          "summary": "atenção à saúde física, suporte psicológico e saúde mental, e reinserção social via educação, trabalho e fortalecimento de vínculos familiares. O suporte em saúde mental passará a integrar o protocolo operacional das forças — não como serviço opcional, mas como parte da gestão do efetivo. Um Novo Modelo de Saúde Pública e Assistência à Vida para a Bahia.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "atenção à saúde física, suporte psicológico e saúde mental, e reinserção social via educação, trabalho e fortalecimento de vínculos familiares."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "O suporte em saúde mental passará a integrar o protocolo operacional das forças — não como serviço opcional, mas como parte da gestão do efetivo."
+            },
+            {
+              "id": "s19",
+              "page_start": 24,
+              "page_end": 27,
+              "text": "Um Novo Modelo de Saúde Pública e Assistência à Vida para a Bahia."
+            },
+            {
+              "id": "s20",
+              "page_start": 27,
+              "page_end": 27,
+              "text": "Quem já acompanhou um parente em fila de hospital público na Bahia conhece a espera sem prazo, a ambulância parada por falta de vaga, o telefonema que chega tarde."
+            },
+            {
+              "id": "s21",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "IBGE, Censo Demográfico 022 e Projeções da População (revisão 2018); Secretaria da Saúde da Bahia (Sesab), setembro de 2025; Fiocruz/UFMG, Revista de Saúde Pública, Multimorbidade entre idosos no Brasil."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 33,
+              "text": "O novo governo vai implantar o PIX Saúde, um programa criado para enfrentar um dos problemas mais graves da saúde pública da Bahia: a demora para conseguir consultas especializadas, exames, tratamentos e cirurgias pelo SUS."
+            },
+            {
+              "id": "s26",
+              "page_start": 33,
+              "page_end": 34,
+              "text": "Expansão da Estratégia Saúde da Família O estado atuará em parceria com os municípios para contribuir na expansão do número de equipes de Saúde da Família, com prioridade para municípios da Bahia com menor cobertura e maior vulnerabilidade social."
+            },
+            {
+              "id": "s27",
+              "page_start": 34,
+              "page_end": 34,
+              "text": "A iniciativa também contribuirá com os municípios para suprir as carências da Atenção Básica, onde se fizer necessário."
+            },
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "Hospital público mal gerido não entrega o que o cidadão precisa mesmo com orçamento adequado."
+            },
+            {
+              "id": "s29",
+              "page_start": 36,
+              "page_end": 36,
+              "text": "Centros Regionais de Saúde Mental e Autismo A saúde mental ainda é tratada como tema secundário na política assistencial da Bahia — sem rede de referência estruturada, famílias de crianças e adolescentes com Transtorno do Espectro Autista, TDAH e outros transtornos do neurodesenvolvimento enfrentam diagnóstico tardio e dependem quase exclusivamente de serviços privados ou de deslocamento a Salvador. O Novo Governo vai trabalhar para ampliar os serviços de referência, com equipes multiprofissionais estruturadas — neuropediatria, psiquiatria, psicologia, terapia ocupacional e fonoaudiologia —, capazes de realizar diagnóstico, definir plano terapêutico e articular o encaminhamento à rede de atenção básica e à rede escolar para continuidade do cuidado."
+            },
+            {
+              "id": "s31",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "o Conceito de Saúde Única O Programa Vida Pet Bahia será estruturado como Sistema Estadual de Saúde Animal, fundamentado no conceito de Saúde Única — o reconhecimento de que bem-estar animal, saúde humana e proteção ambiental são dimensões indissociáveis da saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 41,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "EDUCAÇÃO PLANODEGOVERNO 2 0 2 7 2 0 3 0 MUDANÇACOMSEGURANÇA SEGURANÇA PÚBLICA E DEFESA DO CIDADÃO. É o resultado acumulado de vinte anos de abandono, efetivo policial encolhendo, inteligência criminal desmontada e crime organizado crescendo sem resposta do estado. Enquanto o crime organizado se armava e expandia territórios, o governo estadual deixava o efetivo encolher, desmontava a inteligência criminal e se acomodava na tese de que violência é problema federal.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Segurança Pública, Saúde e Educação."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 11,
+              "text": "EDUCAÇÃO PLANODEGOVERNO 2 0 2 7 2 0 3 0 MUDANÇACOMSEGURANÇA SEGURANÇA PÚBLICA E DEFESA DO CIDADÃO."
+            },
+            {
+              "id": "s04",
+              "page_start": 11,
+              "page_end": 11,
+              "text": "É o resultado acumulado de vinte anos de abandono, efetivo policial encolhendo, inteligência criminal desmontada e crime organizado crescendo sem resposta do estado. Enquanto o crime organizado se armava e expandia territórios, o governo estadual deixava o efetivo encolher, desmontava a inteligência criminal e se acomodava na tese de que violência é problema federal."
+            },
+            {
+              "id": "s07",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "20º Anuário Brasileiro de Segurança Pública — microdados dos registros policiais e Secretarias estaduais de Segurança Pública/Defesa Social; IBGE (Projeções da População); Fórum Brasileiro de Segurança Pública. o estado abriga até 21 grupos de facções em atividade, o maior número entre os estados brasileiros, à frente de Minas Gerais, 2º colocado, com 11 (Secretaria Nacional de Políticas Penais, Senappen/Ministério da Justiça, nov."
+            },
+            {
+              "id": "s09",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "Anuário Brasileiro de Segurança Pública, 2025. PLANODEGOVERNO 2 0 2 7 2 0 3 0 MUDANÇACOMSEGURANÇA A violência letal também recai com mais força sobre crianças e adolescentes baianos que sobre os de qualquer outro estado: em 2025, a Bahia teve a maior taxa nacional de Mortes Violentas Intencionais nessa faixa etária, 11,3 por 100 mil habitantes de 0 a 17 anos, à frente de Amapá (9,0), Ceará (8,9) e Alagoas (8,3), quase o triplo da média nacional de 4,1 (20º Anuário Brasileiro de Segurança Pública, FBSP, 2026)."
+            },
+            {
+              "id": "s10",
+              "page_start": 13,
+              "page_end": 13,
+              "text": "O 20º Anuário Brasileiro de Segurança Pública (FBSP, 2026) revelou que a Bahia registrou uma taxa de 4,6 homicídios de mulheres por 100 mil e 102 feminicídios, com taxa de 1,3 por 100 mil mulheres — 29,0% do total de homicídios de mulheres do estado, a maior proporção da série recente."
+            },
+            {
+              "id": "s11",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "O mesmo governo que deixou encolher o efetivo policial também entregou o sistema prisional ao crime organizado."
+            },
+            {
+              "id": "s12",
+              "page_start": 14,
+              "page_end": 14,
+              "text": "a Governadoria da Segurança, exercida diretamente pelo Governador."
+            },
+            {
+              "id": "s13",
+              "page_start": 14,
+              "page_end": 15,
+              "text": "Será criada a Governadoria da Segurança — o exercício direto e pessoal, pelo Governador, do comando da segurança pública estadual. Gabinete de Gestão por Resultados O Governador presidirá pessoalmente reuniões semanais com o Secretário da Segurança Pública e os comandantes gerais da Polícia Militar, Civil, Corpo de Bombeiros e Polícia Técnica, e reuniões mensais com a participação de todos os comandos regionais e a cúpula das forças de segurança do estado."
+            },
+            {
+              "id": "s14",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "Uma das dimensões mais críticas — e mais negligenciadas — da segurança pública baiana é o sistema prisional. É resultado de omissão e da captura do sistema prisional pela lógica das facções."
+            },
+            {
+              "id": "s15",
+              "page_start": 18,
+              "page_end": 20,
+              "text": "O crime organizado contemporâneo é tecnológico, conectado e financeiramente sofisticado. Olhos no Ar Contra o Crime O uso de drones deixa de ser recurso pontual e se torna eixo transversal da segurança pública baiana, presente em toda a política de enfrentamento ao crime, não apenas em um programa isolado."
+            },
+            {
+              "id": "s16",
+              "page_start": 20,
+              "page_end": 22,
+              "text": "Não existe segurança pública de qualidade sem profissionais de segurança valorizados. Policiais Protegidos e Equipados O Novo Governo vai equipar todos os segmentos da segurança pública com os recursos mais modernos disponíveis: coletes balísticos individuais, viaturas blindadas e semiblindadas para operações em áreas de maior risco, e armas e munições adequadas ao enfrentamento do crime em todos os níveis — do policiamento de bairro ao confronto direto com facções armadas."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "nas periferias sem escola em tempo integral, nas ruas sem iluminação, nos bairros sem praças ou equipamentos culturais, nas famílias sem renda e sem perspectiva. O Novo Governo vai criar o Programa Geração Trabalho, em parceria com empresas, para estimular a contratação de jovens residentes em áreas classificadas pela segurança pública como de alto risco."
+            },
+            {
+              "id": "s19",
+              "page_start": 24,
+              "page_end": 27,
+              "text": "a Bahia está entre os quatro estados com mais feminicídios em números absolutos (20º Anuário Brasileiro de Segurança Pública, FBSP, 2026), com 29,0% dos homicídios de mulheres do estado classificados como feminicídio, a maior proporção da série recente. Monitoramento Ativo de Agressores O monitoramento eletrônico de agressores com medidas protetivas será integrado ao sistema de inteligência de segurança pública, com alertas automáticos à viatura e à vítima em caso de rompimento do perímetro de segurança."
+            },
+            {
+              "id": "s31",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "O Novo Governo ampliará esse escopo para incorporar de forma sistemática os centros urbanos, a articulação com a segurança pública e a educação nas escolas."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 24,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Antes de falar em crescimento econômico, em inovação, em qualquer coisa, o baiano precisa conseguir sair de casa sem medo, ser atendido antes que seja tarde, e ver seu filho aprender de verdade. É desse conjunto de 27 planos, e não de uma diretriz única definida em Salvador, que nascerá o Planejamento Estratégico do Estado e um novo modelo de desenvolvimento econômico e social para a Bahia. expansão do ENEM para a População Privada de Liberdade (ENEM PPL) e da EJA em todas as unidades; cursos profissionalizantes com certificação reconhecida pelo mercado de trabalho; programas de manutenção do vínculo familiar com suporte às famílias dos custodiados; assistência jurídica individualizada para acompanhamento de progressão de regime; e monitoramento contínuo do egresso nos primeiros 24 meses após a soltura.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Antes de falar em crescimento econômico, em inovação, em qualquer coisa, o baiano precisa conseguir sair de casa sem medo, ser atendido antes que seja tarde, e ver seu filho aprender de verdade. O desenvolvimento econômico precisa ser territorializado."
+            },
+            {
+              "id": "s02",
+              "page_start": 5,
+              "page_end": 9,
+              "text": "É desse conjunto de 27 planos, e não de uma diretriz única definida em Salvador, que nascerá o Planejamento Estratégico do Estado e um novo modelo de desenvolvimento econômico e social para a Bahia."
+            },
+            {
+              "id": "s14",
+              "page_start": 15,
+              "page_end": 18,
+              "text": "expansão do ENEM para a População Privada de Liberdade (ENEM PPL) e da EJA em todas as unidades; cursos profissionalizantes com certificação reconhecida pelo mercado de trabalho; programas de manutenção do vínculo familiar com suporte às famílias dos custodiados; assistência jurídica individualizada para acompanhamento de progressão de regime; e monitoramento contínuo do egresso nos primeiros 24 meses após a soltura. no mínimo três quartos do salário mínimo para os regimes fechado e provisório, e salário mínimo integral para semiaberto e aberto, com desconto de pecúlio conforme legislação."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Um levantamento nacional do instituto Data Favela, com quase 4 mil pessoas em atividade no tráfico em 23 estados, aponta a necessidade econômica como o principal motivo de entrada no crime — citada por 49% dos entrevistados — e mostra que 58% deixariam a atividade hoje mesmo se tivessem emprego formal ou negócio próprio. A pesquisa “Raio-X da Vida Real”, do Instituto Data Favela (CUFA, Favela Holding e PLANODEGOVERNO 2 0 2 7 2 0 3 0 MUDANÇACOMSEGURANÇA DataGoal, 2025), ouviu quase 4 mil pessoas envolvidas com o tráfico em favelas e constatou que a necessidade econômica é o principal motivo de entrada no crime entre adolescentes e que 57% dos entrevistados deixariam essa vida se tivessem uma oportunidade real de emprego formal ou de empreender."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 27,
+          "page_end": 36,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "É quem vai concentrar, cada vez mais, o uso da capacidade do sistema de saúde baiano, o gasto público em saúde e o sofrimento das famílias — e é para ele também que os pilares deste programa foram reorganizados. Isso garantirá previsibilidade financeira, responsabilidade fiscal e controle sobre o volume de serviços contratados. A prioridade por oncologia e geriatria aqui é sobre tempo de fila, não sobre custo por beneficiário — esse é um critério diferente do mapeamento de crônicos por maior custo anual, tratado no capítulo Excelência na Gestão e Responsabilidade Fiscal.",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 27,
+              "page_end": 30,
+              "text": "É quem vai concentrar, cada vez mais, o uso da capacidade do sistema de saúde baiano, o gasto público em saúde e o sofrimento das famílias — e é para ele também que os pilares deste programa foram reorganizados."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 33,
+              "text": "Isso garantirá previsibilidade financeira, responsabilidade fiscal e controle sobre o volume de serviços contratados."
+            },
+            {
+              "id": "s28",
+              "page_start": 34,
+              "page_end": 36,
+              "text": "A prioridade por oncologia e geriatria aqui é sobre tempo de fila, não sobre custo por beneficiário — esse é um critério diferente do mapeamento de crônicos por maior custo anual, tratado no capítulo Excelência na Gestão e Responsabilidade Fiscal."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 22,
+          "page_end": 41,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Esses equipamentos oferecem infraestrutura para assistência social, educação, esporte, cultura e qualificação profissional em territórios de alta vulnerabilidade. onde houver uma ZPM, haverá um CSU operando como ponto de presença integrada do Estado na comunidade — combinando qualificação profissional, assistência social e policiamento de proximidade sob uma mesma lógica territorial. A literatura criminológica associa episódios de violência contra animais domésticos a contextos de violência doméstica — o que justifica tratar a denúncia de maus-tratos como informação relevante para outras políticas de segurança e proteção social, não apenas como questão isolada de bem-estar animal.",
+          "excerpts": [
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Esses equipamentos oferecem infraestrutura para assistência social, educação, esporte, cultura e qualificação profissional em territórios de alta vulnerabilidade. onde houver uma ZPM, haverá um CSU operando como ponto de presença integrada do Estado na comunidade — combinando qualificação profissional, assistência social e policiamento de proximidade sob uma mesma lógica territorial."
+            },
+            {
+              "id": "s31",
+              "page_start": 38,
+              "page_end": 41,
+              "text": "A literatura criminológica associa episódios de violência contra animais domésticos a contextos de violência doméstica — o que justifica tratar a denúncia de maus-tratos como informação relevante para outras políticas de segurança e proteção social, não apenas como questão isolada de bem-estar animal."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "No semiárido, falar de meio ambiente é falar de água e sobrevivência.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Cultura, Meio Ambiente e Inovação. No semiárido, falar de meio ambiente é falar de água e sobrevivência."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "agroindústria, energia, turismo, logística, economia do mar, tecnologia, agricultura familiar.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "agroindústria, energia, turismo, logística, economia do mar, tecnologia, agricultura familiar."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 30,
+          "page_end": 34,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Ferramentas de Inteligência artificial serão empregadas para prever variações e picos de demanda e antecipar a alocação de leitos. Enquanto sistemas de inteligência artificial já monitoram epidemias e disponibilizam indicadores em tempo real para qualquer cidadão com acesso à internet em outros estados, a Bahia mantém regulação por telefone e prontuários em papel em boa parte de seus municípios.",
+          "excerpts": [
+            {
+              "id": "s23",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "Ferramentas de Inteligência artificial serão empregadas para prever variações e picos de demanda e antecipar a alocação de leitos."
+            },
+            {
+              "id": "s27",
+              "page_start": 34,
+              "page_end": 34,
+              "text": "Enquanto sistemas de inteligência artificial já monitoram epidemias e disponibilizam indicadores em tempo real para qualquer cidadão com acesso à internet em outros estados, a Bahia mantém regulação por telefone e prontuários em papel em boa parte de seus municípios."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 1,
+          "page_end": 5,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Economia criativa, indústria audiovisual e profissionalização de artistas precisam de política permanente, não de editais pontuais.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Economia criativa, indústria audiovisual e profissionalização de artistas precisam de política permanente, não de editais pontuais."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 1,
+          "page_end": 34,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Inovação e gestão pública conversam, porque só dá para cobrar um governo que publica os dados. cada território terá metas de policiamento, indicadores de confiança pública e canais formais de participação social. Os dados de regulação serão públicos e acessíveis ao controle social.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "Inovação e gestão pública conversam, porque só dá para cobrar um governo que publica os dados."
+            },
+            {
+              "id": "s18",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "cada território terá metas de policiamento, indicadores de confiança pública e canais formais de participação social."
+            },
+            {
+              "id": "s23",
+              "page_start": 30,
+              "page_end": 31,
+              "text": "Os dados de regulação serão públicos e acessíveis ao controle social."
+            },
+            {
+              "id": "s25",
+              "page_start": 31,
+              "page_end": 33,
+              "text": "Será um instrumento de gestão pública para ampliar a capacidade de atendimento do SUS, com limite fiscal, regras claras, fiscalização e transparência."
+            },
+            {
+              "id": "s27",
+              "page_start": 34,
+              "page_end": 34,
+              "text": "A transparência desses dados amplia o controle social e qualifica a gestão do sistema de saúde que o governo anterior preferiu não ativar."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "50002535253",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002535253_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002535253_01.pdf",
+      "sha256": "6dcb8f02559f086bf5b8fdfa783201a6c8f0f477404d2a7b272a36c147c28e03",
+      "summary": "Este plano de governo tem como objetivo promover o desenvolvimento econômico, social e humano do estado da Bahia, fortalecendo a geração de empregos, a segurança pública, a educação, a saúde, a infraestrutura e a valorização da família. • Implantação de programas de educação ambiental. • Desenvolvimento do turismo histórico e ecológico. • Transparência na aplicação dos recursos públicos. • Garantir transparência e responsabilidade na gestão pública.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "health"
+          ],
+          "summary": "Principais propostas: Ampliação do número de leitos hospitalares.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "Principais propostas: Ampliação do número de leitos hospitalares. • Construção e modernização de hospitais regionais."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 1,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Este plano de governo tem como objetivo promover o desenvolvimento econômico, social e humano do estado da Bahia, fortalecendo a geração de empregos, a segurança pública, a educação, a saúde, a infraestrutura e a valorização da família.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Este plano de governo tem como objetivo promover o desenvolvimento econômico, social e humano do estado da Bahia, fortalecendo a geração de empregos, a segurança pública, a educação, a saúde, a infraestrutura e a valorização da família."
+            },
+            {
+              "id": "s02",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "• Combate ao tráfico de drogas e ao crime organizado."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Este plano de governo tem como objetivo promover o desenvolvimento econômico, social e humano do estado da Bahia, fortalecendo a geração de empregos, a segurança pública, a educação, a saúde, a infraestrutura e a valorização da família.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 1,
+              "text": "Este plano de governo tem como objetivo promover o desenvolvimento econômico, social e humano do estado da Bahia, fortalecendo a geração de empregos, a segurança pública, a educação, a saúde, a infraestrutura e a valorização da família."
+            },
+            {
+              "id": "s03",
+              "page_start": 1,
+              "page_end": 3,
+              "text": "• Incentivo à interiorização do desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 3,
+          "page_end": 4,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Principais propostas: Ampliação das políticas de proteção social.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "Principais propostas: Ampliação das políticas de proteção social."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Principais propostas: Recuperação de rios e nascentes. • Implantação de programas de educação ambiental.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Principais propostas: Recuperação de rios e nascentes. • Implantação de programas de educação ambiental."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 3,
+          "page_end": 3,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Principais propostas: Valorização das manifestações culturais. • Desenvolvimento do turismo histórico e ecológico.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 3,
+              "text": "Principais propostas: Valorização das manifestações culturais. • Desenvolvimento do turismo histórico e ecológico."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 4,
+          "page_end": 4,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Principais propostas: Combate permanente à corrupção. • Transparência na aplicação dos recursos públicos. • Garantir transparência e responsabilidade na gestão pública.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "Principais propostas: Combate permanente à corrupção. • Transparência na aplicação dos recursos públicos."
+            },
+            {
+              "id": "s08",
+              "page_start": 4,
+              "page_end": 4,
+              "text": "• Garantir transparência e responsabilidade na gestão pública."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "50002536314",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002536314_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002536314_01.pdf",
+      "sha256": "7b375b5a8de16221d3352593321a5dc673401d03796fac28dc1a0caf9eda656b",
+      "summary": "hospitais, escolas de tempo integral, o VLT, estradas e pontes, a energia que chega ao sertão. Políticas para quem necessita de cuidados e para quem cuida de forma não remunerada Expansão do acesso a creches e educação infantil  Garantir, em cooperação com os governos federal e municipais, a ampliação da infraestrutura com o aumento das vagas em creches e escolas de educação infantil, de tempo integral, priorizando territórios de maior vulnerabilidade social e horários compatíveis com a rotina de trabalho das mães. Ampliar o acesso à educação, à qualificação profissional, ao ensino superior, à cultura, ao esporte, à inovação, ao empreendedorismo e à inclusão digital significa criar condições para que jovens de todas as regiões construam seus projetos de vida e participem ativamente do desenvolvimento do estado. Mais Saneamento para Todos  Promover, incentivar e executar ações estruturantes, articuladas com o marco regulatório do saneamento, gerando novas oportunidades de desenvolvimento econômico, fortalecimento da segurança hídrica, proteção do clima e promoção da saúde pública. Na saúde, esse compromisso se traduz no fortalecimento do Sistema Único de Saúde (SUS), tendo a regionalização como estratégia para garantir atendimento de qualidade em todas as regiões. A parceria entre o Governo da Bahia e o Governo Federal inaugurou um novo ciclo de investimentos na saúde pública. É a segurança pública que determina a paz entre nós e que valoriza a vida, a modernização do Estado com transparência e participação popular. 3.1 SAÚDE 3.2 EDUCAÇÃO 3.3 ASSISTÊNCIA SOCIAL 3.4 ESPORTES 3.5 SEGURANÇA ALIMENTAR E NUTRICIONAL E ENFRENTAMENTO À FOME EÀ POBREZA 3.6 CULTURA 3.7 SEGURANÇA PÚBLICA E PREVENÇÃO À VIOLÊNCIA 3.8 HABITAÇÃO 3.9 O cuidado enquanto ação e trabalho essencial para sustentar a vida, na saúde, na educação, na segurança pública, no meio ambiente, na economia e na sociedade, é um direito universal e uma responsabilidade compartilhada entre Estado, famílias, setor privado e comunidade. Segurança Pública e Justiça Racial  Expandir o plano estadual de redução da letalidade policial. Dar continuidade a essa estratégia significa consolidar um modelo de desenvolvimento que integra planejamento, responsabilidade fiscal, inovação, infraestrutura, fortalecimento da produção, valorização do trabalho, sustentabilidade ambiental e inclusão social.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 65,
+          "topics": [
+            "education"
+          ],
+          "summary": "hospitais, escolas de tempo integral, o VLT, estradas e pontes, a energia que chega ao sertão. Políticas para quem necessita de cuidados e para quem cuida de forma não remunerada Expansão do acesso a creches e educação infantil  Garantir, em cooperação com os governos federal e municipais, a ampliação da infraestrutura com o aumento das vagas em creches e escolas de educação infantil, de tempo integral, priorizando territórios de maior vulnerabilidade social e horários compatíveis com a rotina de trabalho das mães. Ampliar o acesso à educação, à qualificação profissional, ao ensino superior, à cultura, ao esporte, à inovação, ao empreendedorismo e à inclusão digital significa criar condições para que jovens de todas as regiões construam seus projetos de vida e participem ativamente do desenvolvimento do estado.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "hospitais, escolas de tempo integral, o VLT, estradas e pontes, a energia que chega ao sertão."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Políticas para quem necessita de cuidados e para quem cuida de forma não remunerada Expansão do acesso a creches e educação infantil  Garantir, em cooperação com os governos federal e municipais, a ampliação da infraestrutura com o aumento das vagas em creches e escolas de educação infantil, de tempo integral, priorizando territórios de maior vulnerabilidade social e horários compatíveis com a rotina de trabalho das mães."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "Ampliar o acesso à educação, à qualificação profissional, ao ensino superior, à cultura, ao esporte, à inovação, ao empreendedorismo e à inclusão digital significa criar condições para que jovens de todas as regiões construam seus projetos de vida e participem ativamente do desenvolvimento do estado."
+            },
+            {
+              "id": "s10",
+              "page_start": 24,
+              "page_end": 25,
+              "text": " Fortalecer a integração curricular da história e cultura afro-brasileira e africana nas escolas públicas e particulares da Bahia, instituindo programa de formação inicial e continuada de professores, gestores e demais profissionais da educação e com a produção e distribuição de materiais didáticos antirracistas."
+            },
+            {
+              "id": "s11",
+              "page_start": 25,
+              "page_end": 26,
+              "text": " Universalizar a oferta de escolas de tempo integral em toda a rede estadual de ensino."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "Na educação, a escola pública é entendida como espaço de formação, cidadania e transformação. A expansão da alimentação escolar e da educação em tempo integral, com 770 escolas entregues, além de programas voltados à ciência, inovação, esporte, cultura e educação ambiental, amplia as oportunidades para crianças, adolescentes e jovens."
+            },
+            {
+              "id": "s27",
+              "page_start": 62,
+              "page_end": 65,
+              "text": "Fortalecimento da Educação Básica, Permanência e Trajetórias Escolares  Garantir, em cooperação com os governos federal e municipais, a ampliação da infraestrutura com o aumento das vagas em creches e escolas de educação infantil, de tempo integral, priorizando territórios de maior vulnerabilidade social.  Universalizar, em todas as escolas estaduais, o ensino de tempo integral."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 40,
+          "page_end": 62,
+          "topics": [
+            "health"
+          ],
+          "summary": "Mais Saneamento para Todos  Promover, incentivar e executar ações estruturantes, articuladas com o marco regulatório do saneamento, gerando novas oportunidades de desenvolvimento econômico, fortalecimento da segurança hídrica, proteção do clima e promoção da saúde pública. Na saúde, esse compromisso se traduz no fortalecimento do Sistema Único de Saúde (SUS), tendo a regionalização como estratégia para garantir atendimento de qualidade em todas as regiões. A parceria entre o Governo da Bahia e o Governo Federal inaugurou um novo ciclo de investimentos na saúde pública.",
+          "excerpts": [
+            {
+              "id": "s19",
+              "page_start": 40,
+              "page_end": 43,
+              "text": "Mais Saneamento para Todos  Promover, incentivar e executar ações estruturantes, articuladas com o marco regulatório do saneamento, gerando novas oportunidades de desenvolvimento econômico, fortalecimento da segurança hídrica, proteção do clima e promoção da saúde pública."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "Na saúde, esse compromisso se traduz no fortalecimento do Sistema Único de Saúde (SUS), tendo a regionalização como estratégia para garantir atendimento de qualidade em todas as regiões. A parceria entre o Governo da Bahia e o Governo Federal inaugurou um novo ciclo de investimentos na saúde pública."
+            },
+            {
+              "id": "s26",
+              "page_start": 57,
+              "page_end": 62,
+              "text": "Atenção Primária  Consolidar a Atenção Primária à Saúde como ordenadora da rede e coordenadora do cuidado, com expansão da rede, construindo, em cooperação com o governo federal e municípios, 450 novas UBS, sendo 39 UBS Indígenas, fortalecendo a estratégia de Saúde da Família, incentivando a ampliação da cobertura populacional dos agentes comunitários de saúde (ACS) para atendimento para quilombos e população rural. Rede de Atenção Psicossocial  Expandir a rede de saúde mental com a construção de 38 novos Centros de Atenção Psicossocial e 4 Unidades de Acolhimento, em cooperação com os municípios."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 3,
+          "page_end": 70,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "É a segurança pública que determina a paz entre nós e que valoriza a vida, a modernização do Estado com transparência e participação popular. 3.1 SAÚDE 3.2 EDUCAÇÃO 3.3 ASSISTÊNCIA SOCIAL 3.4 ESPORTES 3.5 SEGURANÇA ALIMENTAR E NUTRICIONAL E ENFRENTAMENTO À FOME EÀ POBREZA 3.6 CULTURA 3.7 SEGURANÇA PÚBLICA E PREVENÇÃO À VIOLÊNCIA 3.8 HABITAÇÃO 3.9 O cuidado enquanto ação e trabalho essencial para sustentar a vida, na saúde, na educação, na segurança pública, no meio ambiente, na economia e na sociedade, é um direito universal e uma responsabilidade compartilhada entre Estado, famílias, setor privado e comunidade. Segurança Pública e Justiça Racial  Expandir o plano estadual de redução da letalidade policial.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "É a segurança pública que determina a paz entre nós e que valoriza a vida, a modernização do Estado com transparência e participação popular."
+            },
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "3.1 SAÚDE 3.2 EDUCAÇÃO 3.3 ASSISTÊNCIA SOCIAL 3.4 ESPORTES 3.5 SEGURANÇA ALIMENTAR E NUTRICIONAL E ENFRENTAMENTO À FOME EÀ POBREZA 3.6 CULTURA 3.7 SEGURANÇA PÚBLICA E PREVENÇÃO À VIOLÊNCIA 3.8 HABITAÇÃO 3.9"
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "O cuidado enquanto ação e trabalho essencial para sustentar a vida, na saúde, na educação, na segurança pública, no meio ambiente, na economia e na sociedade, é um direito universal e uma responsabilidade compartilhada entre Estado, famílias, setor privado e comunidade."
+            },
+            {
+              "id": "s10",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Segurança Pública e Justiça Racial  Expandir o plano estadual de redução da letalidade policial."
+            },
+            {
+              "id": "s12",
+              "page_start": 26,
+              "page_end": 29,
+              "text": " Promover ações intersetoriais e articuladas de acolhimento, qualificação profissional, inserção econômica e social e garantia de direitos para as mulheres em cumprimento de pena no sistema prisional e para as egressas, assegurando suporte psicossocial e oportunidades de autonomia."
+            },
+            {
+              "id": "s24",
+              "page_start": 49,
+              "page_end": 53,
+              "text": " Fortalecer a segurança pública para o turismo, ampliando o atendimento especializado ao turista em áreas de hotéis, pousadas e demais empreendimentos turísticos, com reforço do policiamento e integração com o setor."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "Na segurança pública, a modernização das forças de segurança, o uso de tecnologia, a inteligência policial e a valorização dos profissionais ampliaram a capacidade de resposta do Estado."
+            },
+            {
+              "id": "s32",
+              "page_start": 68,
+              "page_end": 70,
+              "text": "Inteligência, Tecnologia e Inovação  Consolidar o Policiamento Orientado pela Inteligência como estratégia de planejamento, execução e avaliação das ações de segurança pública, implantando uma Plataforma Estadual Integrada de Dados e Inteligência que qualifique a presença policial, amplie a coordenação entre as instituições, acelere decisões e aumente a efetividade das ações.  Ampliar o uso de tecnologias aplicadas à Segurança Pública e à Defesa Civil, expandindo as câmeras corporais, o videomonitoramento inteligente, o reconhecimento facial, a leitura automática de placas e a integração de câmeras públicas e privadas, de modo a ampliar a capacidade de prevenção, investigação e resposta do Estado, assegurando o respeito à legalidade e a proteção dos profissionais."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 10,
+          "page_end": 43,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Ao lado do presidente Luiz Inácio Lula da Silva, o Estado seguirá fortalecendo o pacto federativo e as relações com prefeitos, vereadores, deputados e senadores, ampliando investimentos e implementando políticas voltadas ao desenvolvimento regional, à inclusão social, à sustentabilidade e à garantia de direitos, reafirmando que o crescimento econômico só produz transformações duradouras quando melhora concretamente a vida das pessoas. Desenvolvimento Econômico; Desenvolvimento Social e Garantia de Direitos; Governança Democrática; e Temas Transversais Prioritários, o documento apresenta um projeto integrado para uma Bahia mais justa, sustentável, inovadora e preparada para o futuro, mantendo o cuidado com as pessoas como princípio que orienta a ação do Estado. Promoção do Trabalho Decente para quem Cuida  Implantar programa de qualificação profissional para cuidadoras e trabalhadoras domésticas com bolsa-formação e em parceria com universidades, institutos federais, sistema S e Sebrae.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 10,
+              "page_end": 14,
+              "text": "Ao lado do presidente Luiz Inácio Lula da Silva, o Estado seguirá fortalecendo o pacto federativo e as relações com prefeitos, vereadores, deputados e senadores, ampliando investimentos e implementando políticas voltadas ao desenvolvimento regional, à inclusão social, à sustentabilidade e à garantia de direitos, reafirmando que o crescimento econômico só produz transformações duradouras quando melhora concretamente a vida das pessoas. Desenvolvimento Econômico; Desenvolvimento Social e Garantia de Direitos; Governança Democrática; e Temas Transversais Prioritários, o documento apresenta um projeto integrado para uma Bahia mais justa, sustentável, inovadora e preparada para o futuro, mantendo o cuidado com as pessoas como princípio que orienta a ação do Estado."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Promoção do Trabalho Decente para quem Cuida  Implantar programa de qualificação profissional para cuidadoras e trabalhadoras domésticas com bolsa-formação e em parceria com universidades, institutos federais, sistema S e Sebrae.  Apoiar ações que promovam o trabalho decente para os serviços de cuidado doméstico com o objetivo de melhorar as condições da empregabilidade."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "A emergência climática reforça a necessidade de conciliar desenvolvimento econômico, preservação ambiental e qualidade de vida."
+            },
+            {
+              "id": "s10",
+              "page_start": 24,
+              "page_end": 25,
+              "text": " Ampliar as ações de formação, qualificação e capacitação profissional, com foco na inclusão produtiva, na geração de renda e na inserção da população negra no mercado de trabalho."
+            },
+            {
+              "id": "s12",
+              "page_start": 26,
+              "page_end": 29,
+              "text": "Autonomia Econômica, Direito ao Território e Inclusão Socioprodutiva  Ampliar os programas de capacitação e qualificação para o trabalho decente e autonomia financeira das mulheres, com parceria público-privada, certificação (selo lilás) e reserva de cotas, promovendo inserção no mercado de trabalho e a comercialização dos produtos por elas produzidos."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "O desenvolvimento econômico da Bahia resulta de uma estratégia que articula crescimento, sustentabilidade, inovação, inclusão produtiva e justiça social. Para isso, a atuação integrada do Estado, em parceria com o Governo Federal, municípios, setor produtivo, universidades, instituições de pesquisa e sociedade civil reafirma que desenvolvimento econômico também é uma política de cuidado: cuidar das pessoas por meio do trabalho, da renda, da inclusão e da sustentabilidade."
+            },
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "Segundo a PNAD Contínua/IBGE, com elaboração da SEI, o Índice de Gini do rendimento domiciliar per capita caiu de 0,490, em 2023, para 0,481, em 2024, alcançando o menor nível de desigualdade de renda da série histórica e demonstrando que crescimento econômico, valorização do trabalho e inclusão produtiva caminham juntos."
+            },
+            {
+              "id": "s18",
+              "page_start": 39,
+              "page_end": 40,
+              "text": "Trabalho Decente dentre os Assalariados Formais  Fortalecer ações de intermediação de mão de obra, documentação, seguro- -desemprego, Credibahia e Assessoramento Técnico para Empreendimentos Solidários a distritos isolados e comunidades rurais. Trabalho Decente por Conta Própria  Fortalecer a cadeia produtiva do artesanato da Bahia ampliando os espaços de comercialização, as feiras e os festivais com foco em povos e comunidades tradicionais, ampliando os espaços de atendimento aos artesãos na rede Sinebahia."
+            },
+            {
+              "id": "s19",
+              "page_start": 40,
+              "page_end": 43,
+              "text": "Mais Saneamento para Todos  Promover, incentivar e executar ações estruturantes, articuladas com o marco regulatório do saneamento, gerando novas oportunidades de desenvolvimento econômico, fortalecimento da segurança hídrica, proteção do clima e promoção da saúde pública."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 30,
+          "page_end": 33,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Dar continuidade a essa estratégia significa consolidar um modelo de desenvolvimento que integra planejamento, responsabilidade fiscal, inovação, infraestrutura, fortalecimento da produção, valorização do trabalho, sustentabilidade ambiental e inclusão social.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "Dar continuidade a essa estratégia significa consolidar um modelo de desenvolvimento que integra planejamento, responsabilidade fiscal, inovação, infraestrutura, fortalecimento da produção, valorização do trabalho, sustentabilidade ambiental e inclusão social."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 9,
+          "page_end": 67,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "3.1 SAÚDE 3.2 EDUCAÇÃO 3.3 ASSISTÊNCIA SOCIAL 3.4 ESPORTES 3.5 SEGURANÇA ALIMENTAR E NUTRICIONAL E ENFRENTAMENTO À FOME EÀ POBREZA 3.6 CULTURA 3.7 SEGURANÇA PÚBLICA E PREVENÇÃO À VIOLÊNCIA 3.8 HABITAÇÃO 3.9 Um governo marcado pelo combate à fome, enfrentamento à pobreza e pelo fortalecimento da proteção social. Cuidado para Idosos, Pessoas com Deficiência e População em Situação de Rua  Qualificar e integrar a oferta de serviços de cuidado nos equipamentos públicos já atuantes no território baiano (Saúde, Assistência Social e Educação).  Apoiar as mães e cuidadoras de pessoas com autismo e com deficiência, combinando apoio psicossocial, orientação jurídica e ações de proteção social.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "3.1 SAÚDE 3.2 EDUCAÇÃO 3.3 ASSISTÊNCIA SOCIAL 3.4 ESPORTES 3.5 SEGURANÇA ALIMENTAR E NUTRICIONAL E ENFRENTAMENTO À FOME EÀ POBREZA 3.6 CULTURA 3.7 SEGURANÇA PÚBLICA E PREVENÇÃO À VIOLÊNCIA 3.8 HABITAÇÃO 3.9"
+            },
+            {
+              "id": "s05",
+              "page_start": 10,
+              "page_end": 14,
+              "text": "Um governo marcado pelo combate à fome, enfrentamento à pobreza e pelo fortalecimento da proteção social."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Cuidado para Idosos, Pessoas com Deficiência e População em Situação de Rua  Qualificar e integrar a oferta de serviços de cuidado nos equipamentos públicos já atuantes no território baiano (Saúde, Assistência Social e Educação).  Apoiar as mães e cuidadoras de pessoas com autismo e com deficiência, combinando apoio psicossocial, orientação jurídica e ações de proteção social."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Esse desempenho caminha ao lado do fortalecimento da agricultura familiar, da assistência técnica, da irrigação, da infraestrutura hídrica, da pesquisa agropecuária e da inovação tecnológica, ampliando a produção de alimentos, a segurança alimentar, a geração de renda e a permanência das famílias no campo, além de fortalecer a convivência do Semiárido com as mudanças climáticas."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "A assistência social segue como uma das principais redes de proteção às famílias. Integradas ao Bahia Sem Fome e às políticas de segurança alimentar, essas ações enfrentam a pobreza, fortalecem a agricultura familiar, ampliam a geração de renda e reafirmam o compromisso de que ninguém fique para trás."
+            },
+            {
+              "id": "s28",
+              "page_start": 65,
+              "page_end": 66,
+              "text": " Estimular, em parceria com o governo federal e municípios, a qualificação da Proteção Social Básica e da Proteção Social Especial, fortalecendo o SUAS Bahia e alcançando as populações rurais, povos e comunidades tradicionais e os territórios mais vulneráveis.  Ampliar o atendimento especializado às famílias e indivíduos em situação de violação de direitos, através do fortalecimento da Proteção Social Especial de Média Complexidade."
+            },
+            {
+              "id": "s30",
+              "page_start": 66,
+              "page_end": 67,
+              "text": " Fortalecer e consolidar o Sistema Estadual de Segurança Alimentar e Nutricional (SISAN), estimulando a adesão dos municípios ainda não integrados e oferecendo apoio institucional para que os municípios já aderidos cumpram suas prerrogativas e permaneçam no sistema."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": 33,
+          "page_end": 43,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": " Potencializar o complexo industrial da reciclagem e da logística reversa, estimulando a criação de cadeias produtivas a partir do reaproveitamento de resíduos sólidos urbanos e industriais. Resíduos Sólidos  Potencializar a Logística Reversa para que os fabricantes, importadores, distribuidores e comerciantes remunerem adequadamente as cooperativas e associações de catadores e catadoras de materiais recicláveis pela coleta e destinação final adequada das embalagens e demais resíduos reaproveitáveis.  Apoiar os consórcios municipais na modelagem e contratação das parcerias público-privadas para gestão integrada de resíduos sólidos em âmbito territorial, incluindo eventuais aportes para infraestrutura (aterros sanitários e logística), com inclusão socioprodutiva dos catadores e garantia de investimentos em coleta seletiva.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 33,
+              "page_end": 34,
+              "text": " Potencializar o complexo industrial da reciclagem e da logística reversa, estimulando a criação de cadeias produtivas a partir do reaproveitamento de resíduos sólidos urbanos e industriais."
+            },
+            {
+              "id": "s19",
+              "page_start": 40,
+              "page_end": 43,
+              "text": "Resíduos Sólidos  Potencializar a Logística Reversa para que os fabricantes, importadores, distribuidores e comerciantes remunerem adequadamente as cooperativas e associações de catadores e catadoras de materiais recicláveis pela coleta e destinação final adequada das embalagens e demais resíduos reaproveitáveis.  Apoiar os consórcios municipais na modelagem e contratação das parcerias público-privadas para gestão integrada de resíduos sólidos em âmbito territorial, incluindo eventuais aportes para infraestrutura (aterros sanitários e logística), com inclusão socioprodutiva dos catadores e garantia de investimentos em coleta seletiva."
+            }
+          ]
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 14,
+          "page_end": 65,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "O cuidado enquanto ação e trabalho essencial para sustentar a vida, na saúde, na educação, na segurança pública, no meio ambiente, na economia e na sociedade, é um direito universal e uma responsabilidade compartilhada entre Estado, famílias, setor privado e comunidade. A inteligência artificial deverá ser incorporada de forma ética, responsável e centrada nas pessoas, contribuindo para qualificar o planejamento público e os serviços em áreas como saúde, educação, segurança, agricultura, geração de renda, meio ambiente, política de cuidados e inovação, fortalecendo o currículo escolar no nível médio e na educação superior.  Ampliar a cooperação entre universidades, escolas e comunidades para o desenvolvimento de projetos de extensão voltados à alfabetização, cultura, ciência, tecnologia, meio ambiente, direitos humanos, saúde escolar e valorização dos conhecimentos locais.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "O cuidado enquanto ação e trabalho essencial para sustentar a vida, na saúde, na educação, na segurança pública, no meio ambiente, na economia e na sociedade, é um direito universal e uma responsabilidade compartilhada entre Estado, famílias, setor privado e comunidade."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "A inteligência artificial deverá ser incorporada de forma ética, responsável e centrada nas pessoas, contribuindo para qualificar o planejamento público e os serviços em áreas como saúde, educação, segurança, agricultura, geração de renda, meio ambiente, política de cuidados e inovação, fortalecendo o currículo escolar no nível médio e na educação superior."
+            },
+            {
+              "id": "s27",
+              "page_start": 62,
+              "page_end": 65,
+              "text": " Ampliar a cooperação entre universidades, escolas e comunidades para o desenvolvimento de projetos de extensão voltados à alfabetização, cultura, ciência, tecnologia, meio ambiente, direitos humanos, saúde escolar e valorização dos conhecimentos locais."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 10,
+          "page_end": 57,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Esse processo também foi construído a partir de encontros e do recebimento de documentos e contribuições das federações do agronegócio, da indústria, do comércio, dos serviços, dos transportes e da logística, além de associações profissionais e técnicas, como as vinculadas à agricultura familiar. Esse desempenho caminha ao lado do fortalecimento da agricultura familiar, da assistência técnica, da irrigação, da infraestrutura hídrica, da pesquisa agropecuária e da inovação tecnológica, ampliando a produção de alimentos, a segurança alimentar, a geração de renda e a permanência das famílias no campo, além de fortalecer a convivência do Semiárido com as mudanças climáticas. O fortalecimento da agricultura familiar, da agropecuária, da agroindustrialização e das cadeias produtivas do campo amplia a produção de alimentos, gera emprego e renda e impulsiona os territórios rurais.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 10,
+              "page_end": 14,
+              "text": "Esse processo também foi construído a partir de encontros e do recebimento de documentos e contribuições das federações do agronegócio, da indústria, do comércio, dos serviços, dos transportes e da logística, além de associações profissionais e técnicas, como as vinculadas à agricultura familiar."
+            },
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "Esse desempenho caminha ao lado do fortalecimento da agricultura familiar, da assistência técnica, da irrigação, da infraestrutura hídrica, da pesquisa agropecuária e da inovação tecnológica, ampliando a produção de alimentos, a segurança alimentar, a geração de renda e a permanência das famílias no campo, além de fortalecer a convivência do Semiárido com as mudanças climáticas."
+            },
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "O fortalecimento da agricultura familiar, da agropecuária, da agroindustrialização e das cadeias produtivas do campo amplia a produção de alimentos, gera emprego e renda e impulsiona os territórios rurais."
+            },
+            {
+              "id": "s16",
+              "page_start": 34,
+              "page_end": 37,
+              "text": " Ampliar o acesso a redes de distribuição de energia elétrica trifásica para fins de atividades produtivas a propriedades rurais da agricultura familiar e ampliar a eletrificação rural."
+            },
+            {
+              "id": "s18",
+              "page_start": 39,
+              "page_end": 40,
+              "text": "Economia Solidária  Implantar ações para formação jurídica e contábil para empreendimentos econômicos solidários e da agricultura familiar, oferecendo capacitação permanente sobre formalização de associações, cooperativas e empreendimentos, regularização fiscal e tributária, elaboração de estatutos e prestação de contas."
+            },
+            {
+              "id": "s20",
+              "page_start": 43,
+              "page_end": 44,
+              "text": " Fomentar ações de prospecção pesqueira e pesca experimental, com foco no uso de novas tecnologias de captura, no mapeamento de áreas exploráveis e na avaliação de recursos pesqueiros alternativos, fortalecendo a cadeia produtiva, incentivando o comércio e ampliando as relações de negócios com a agricultura familiar e o acesso às compras públicas."
+            },
+            {
+              "id": "s21",
+              "page_start": 44,
+              "page_end": 46,
+              "text": "Produção Sustentável e Conservação da Caatinga e do Cerrado  Fortalecer os sistemas produtivos da agricultura familiar, com atenção à caprinovinocultura, à genética animal adaptada, à produção e conservação de forragens, ao manejo sustentável das pastagens e às estratégias territoriais de preparação para os períodos de estiagem, com base na transição agroecológica."
+            },
+            {
+              "id": "s23",
+              "page_start": 46,
+              "page_end": 49,
+              "text": " Ampliar a regularização fundiária da agricultura familiar na Bahia, incluindo a integração dos processos de regularização ambiental e territorialização do acesso ao Programa Nacional de Crédito Fundiário.  Fomentar as principais cadeias produtivas da agricultura familiar baiana, a exemplo da cacauicultura, caprinovinocultura, mandiocultura, cafeicultura, sisal, apicultura, dentre outras, incluindo novas iniciativas de fortalecimento da base de produção."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "Integradas ao Bahia Sem Fome e às políticas de segurança alimentar, essas ações enfrentam a pobreza, fortalecem a agricultura familiar, ampliam a geração de renda e reafirmam o compromisso de que ninguém fique para trás. Entre 2023 e 2025, a insegurança alimentar grave caiu 58%, passando de 12,9% para 5,4%, resultado de ações como assistência alimentar, cozinhas comunitárias e solidárias, Programa Bolsa Presença, aquisição de alimentos da agricultura familiar e iniciativas de inclusão produtiva."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 18,
+          "page_end": 66,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Nos próximos anos, será fundamental ampliar os investimentos em pesquisa, transformação digital e formação de talentos. A inteligência artificial deverá ser incorporada de forma ética, responsável e centrada nas pessoas, contribuindo para qualificar o planejamento público e os serviços em áreas como saúde, educação, segurança, agricultura, geração de renda, meio ambiente, política de cuidados e inovação, fortalecendo o currículo escolar no nível médio e na educação superior. Governo Digital, Serviços Públicos e Inovação Aberta  Instituir a Política Estadual de Governo Digital, com padrões de interoperabilidade e arquitetura tecnológica comuns, diretrizes de governança de dados e de Inteligência Artificial, Índice Baiano de Maturidade Digital, laboratórios de inovação nas secretarias, formação contínua dos servidores em competências digitais e plataforma compartilhada de governo digital oferecida aos municípios.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "Nos próximos anos, será fundamental ampliar os investimentos em pesquisa, transformação digital e formação de talentos. A inteligência artificial deverá ser incorporada de forma ética, responsável e centrada nas pessoas, contribuindo para qualificar o planejamento público e os serviços em áreas como saúde, educação, segurança, agricultura, geração de renda, meio ambiente, política de cuidados e inovação, fortalecendo o currículo escolar no nível médio e na educação superior."
+            },
+            {
+              "id": "s09",
+              "page_start": 22,
+              "page_end": 24,
+              "text": "Governo Digital, Serviços Públicos e Inovação Aberta  Instituir a Política Estadual de Governo Digital, com padrões de interoperabilidade e arquitetura tecnológica comuns, diretrizes de governança de dados e de Inteligência Artificial, Índice Baiano de Maturidade Digital, laboratórios de inovação nas secretarias, formação contínua dos servidores em competências digitais e plataforma compartilhada de governo digital oferecida aos municípios."
+            },
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "Nesse processo, o fortalecimento da Fapesb, da Bahiafarma, das universidades públicas, dos institutos de pesquisa, dos parques tecnológicos, das startups e dos ambientes de inovação amplia a capacidade científica do estado, enquanto a transformação digital, a inteligência artificial, a conectividade e a pesquisa aplicada modernizam a economia e preparam a Bahia para a economia do conhecimento."
+            },
+            {
+              "id": "s18",
+              "page_start": 39,
+              "page_end": 40,
+              "text": " Ampliar a oferta de cursos voltados à transição digital (programação, análise de dados, inteligência artificial e automação)."
+            },
+            {
+              "id": "s26",
+              "page_start": 57,
+              "page_end": 62,
+              "text": "Rede Estadual de Saúde Digital e Telessaúde  Implantar o Programa Saúde na Palma das Mãos como a principal estratégia de transformação digital do SUS no Estado, colocando os serviços de saúde ao alcance do cidadão por meio de uma plataforma digital integrada, incluindo informações sobre a regulação ambulatorial e de urgência e emergência."
+            },
+            {
+              "id": "s28",
+              "page_start": 65,
+              "page_end": 66,
+              "text": " Qualificar a gestão da informação e do conhecimento no SUAS da Bahia, incorporando inovação, conectividade, inteligência artificial, automação e serviços digitais, aprimorando o atendimento à população e o apoio à gestão municipal."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 29,
+          "page_end": 68,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "A expansão da indústria, da agroindústria, do comércio, dos serviços, da economia criativa, do turismo, da economia do mar e das atividades intensivas em conhecimento, aliada à neoindustrialização e à agregação de valor às cadeias produtivas, amplia a geração de riqueza, trabalho e renda, enquanto a valorização das vocações dos Territórios de Identidade fortalece a integração regional. A recuperação de equipamentos como o Teatro Castro Alves fortalece a economia criativa e preserva a identidade baiana. Políticas Estaduais e Setoriais de Cultura  Instituir a Política Estadual de Economia Criativa como estratégia permanente de desenvolvimento territorial, com foco na governança colaborativa, inteligência de dados e fortalecimento dos ecossistemas culturais e criativos, promovendo inovação, empreendedorismo, formação, produção, circulação, consumo cultural e geração de trabalho e renda.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 29,
+              "page_end": 30,
+              "text": "A expansão da indústria, da agroindústria, do comércio, dos serviços, da economia criativa, do turismo, da economia do mar e das atividades intensivas em conhecimento, aliada à neoindustrialização e à agregação de valor às cadeias produtivas, amplia a geração de riqueza, trabalho e renda, enquanto a valorização das vocações dos Territórios de Identidade fortalece a integração regional."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "A recuperação de equipamentos como o Teatro Castro Alves fortalece a economia criativa e preserva a identidade baiana."
+            },
+            {
+              "id": "s31",
+              "page_start": 67,
+              "page_end": 68,
+              "text": "Políticas Estaduais e Setoriais de Cultura  Instituir a Política Estadual de Economia Criativa como estratégia permanente de desenvolvimento territorial, com foco na governança colaborativa, inteligência de dados e fortalecimento dos ecossistemas culturais e criativos, promovendo inovação, empreendedorismo, formação, produção, circulação, consumo cultural e geração de trabalho e renda."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 9,
+          "page_end": 66,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "3.11 CRIANÇA E ADOLESCENTE 3.12 POPULAÇÃO IDOSA 3.13 INDÍGENAS, POVOS E COMUNIDADES TRADICIONAIS 3.14 CUIDADO E REDUÇÃO DE DANOS 3.15 POPULAÇÃO EM SITUAÇÃO DE RUA Por isso, este Programa de Governo adota a transversalidade como princípio de atuação, compreendendo que agendas como sustentabilidade, ciência, tecnologia, inovação, igualdade racial, direitos das mulheres e protagonismo das juventudes devem orientar o planejamento, a execução e a avaliação das ações governamentais. Promover a igualdade racial também é reafirmar o compromisso com a justiça social e o enfrentamento ao feminicídio, ao racismo, valorizando a contribuição da população negra, dos povos indígenas, das comunidades quilombolas e dos demais povos e comunidades tradicionais para a identidade da Bahia. Gestão da Política, Trabalho e Empreendedorismo Negro  Fortalecer a interiorização da política estadual de promoção da igualdade racial, fortalecendo a atuação regionalizada.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 9,
+              "page_end": 9,
+              "text": "3.11 CRIANÇA E ADOLESCENTE 3.12 POPULAÇÃO IDOSA 3.13 INDÍGENAS, POVOS E COMUNIDADES TRADICIONAIS 3.14 CUIDADO E REDUÇÃO DE DANOS 3.15 POPULAÇÃO EM SITUAÇÃO DE RUA"
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "Por isso, este Programa de Governo adota a transversalidade como princípio de atuação, compreendendo que agendas como sustentabilidade, ciência, tecnologia, inovação, igualdade racial, direitos das mulheres e protagonismo das juventudes devem orientar o planejamento, a execução e a avaliação das ações governamentais. Promover a igualdade racial também é reafirmar o compromisso com a justiça social e o enfrentamento ao feminicídio, ao racismo, valorizando a contribuição da população negra, dos povos indígenas, das comunidades quilombolas e dos demais povos e comunidades tradicionais para a identidade da Bahia."
+            },
+            {
+              "id": "s10",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Gestão da Política, Trabalho e Empreendedorismo Negro  Fortalecer a interiorização da política estadual de promoção da igualdade racial, fortalecendo a atuação regionalizada."
+            },
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "Significa ampliar oportunidades para mulheres, juventudes, povos indígenas, comunidades quilombolas, agricultores familiares, trabalhadores urbanos e rurais, além de micro e pequenos empreendedores."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "Políticas voltadas à igualdade racial, às mulheres, às juventudes, à população LGBTQIAPN+, às pessoas com deficiência, aos povos indígenas, às comunidades quilombolas e aos povos tradicionais enfrentam desigualdades históricas e fortalecem uma Bahia mais inclusiva, democrática e diversa."
+            },
+            {
+              "id": "s26",
+              "page_start": 57,
+              "page_end": 62,
+              "text": "Rede de Cuidados à Pessoa com Deficiência  Expandir a atenção especializada em reabilitação, com a aquisição de equipamentos e construção de 20 novos Centros Especializados em Reabilitação (CER) e ampliação do acesso às Órteses, Próteses e Materiais Especiais (OPME) em regiões estratégicas da Bahia."
+            },
+            {
+              "id": "s27",
+              "page_start": 62,
+              "page_end": 65,
+              "text": " Ampliar a cooperação entre universidades, escolas e comunidades para o desenvolvimento de projetos de extensão voltados à alfabetização, cultura, ciência, tecnologia, meio ambiente, direitos humanos, saúde escolar e valorização dos conhecimentos locais."
+            },
+            {
+              "id": "s28",
+              "page_start": 65,
+              "page_end": 66,
+              "text": " Desenvolver um pacto pela proteção da Primeira Infância com ações integradas entre o SUAS, o SUS, o SISAN, os Direitos Humanos, a Cultura e a Educação, fortalecendo a proteção integral às gestantes, às crianças de 0 a 6 anos e às suas famílias."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 10,
+          "page_end": 57,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Mais do que realizar investimentos e entregar obras, esse projeto transformou a forma de promover o desenvolvimento, colocando as pessoas no centro das decisões, valorizando os Territórios de Identidade e fortalecendo a participação social como instrumento para reduzir desigualdades, ampliar direitos e promover justiça social. Governança e Gestão  Instituir e regulamentar a Política Estadual de Cuidados como marco normativo e intersetorial, garantindo sua governança, comitê gestor e mecanismos de controle social. Consolidar essas agendas significa fortalecer uma forma de governar baseada na integração das políticas públicas, na inovação, na participação social e no cuidado com as pessoas.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 10,
+              "page_end": 14,
+              "text": "Mais do que realizar investimentos e entregar obras, esse projeto transformou a forma de promover o desenvolvimento, colocando as pessoas no centro das decisões, valorizando os Territórios de Identidade e fortalecendo a participação social como instrumento para reduzir desigualdades, ampliar direitos e promover justiça social."
+            },
+            {
+              "id": "s06",
+              "page_start": 14,
+              "page_end": 18,
+              "text": "Governança e Gestão  Instituir e regulamentar a Política Estadual de Cuidados como marco normativo e intersetorial, garantindo sua governança, comitê gestor e mecanismos de controle social."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "Consolidar essas agendas significa fortalecer uma forma de governar baseada na integração das políticas públicas, na inovação, na participação social e no cuidado com as pessoas."
+            },
+            {
+              "id": "s18",
+              "page_start": 39,
+              "page_end": 40,
+              "text": " Ampliar a oferta territorializada de cursos técnicos e de qualificação profissional, de acordo com as demandas locais, com participação social na definição de vagas, currículos e localização, garantindo atenção a mulheres, jovens e população negra."
+            },
+            {
+              "id": "s25",
+              "page_start": 53,
+              "page_end": 57,
+              "text": "A democracia participativa segue como uma marca da gestão pública baiana."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": 3,
+          "page_end": 37,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Dividir o futuro é proteger nossos biomas e construir com sustentabilidade, é transição energética justa, é convivência com o Semiárido. Esse caminho exige políticas de adaptação e resiliência, valorização da sociobiodiversidade, incentivo à produção sustentável e uma transição energética justa, capaz de gerar emprego, renda e benefícios para as comunidades. A transição energética coloca a Bahia em posição de destaque na economia de baixo carbono.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 3,
+              "page_end": 9,
+              "text": "Dividir o futuro é proteger nossos biomas e construir com sustentabilidade, é transição energética justa, é convivência com o Semiárido."
+            },
+            {
+              "id": "s07",
+              "page_start": 18,
+              "page_end": 21,
+              "text": "Esse caminho exige políticas de adaptação e resiliência, valorização da sociobiodiversidade, incentivo à produção sustentável e uma transição energética justa, capaz de gerar emprego, renda e benefícios para as comunidades."
+            },
+            {
+              "id": "s14",
+              "page_start": 30,
+              "page_end": 33,
+              "text": "A transição energética coloca a Bahia em posição de destaque na economia de baixo carbono."
+            },
+            {
+              "id": "s16",
+              "page_start": 34,
+              "page_end": 37,
+              "text": "Energia e Transição Energética  Articular e viabilizar junto ao Governo Federal a conclusão de 6.000 km de linhas de transmissão da rede básica 230/500 kV para escoamento da geração de energia elétrica proveniente de fontes renováveis e suprimento de energia a novas cargas.  Fomentar a adoção de uma matriz energética mais limpa para o segmento automotivo, nas principais rodovias do estado, principalmente para veículos pesados, através da implementação de corredores sustentáveis com infraestrutura para abastecimento de veículos com gás natural e biometano."
+            }
+          ]
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 26,
+          "page_end": 29,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": " Fortalecer os programas de responsabilização, educação e reeducação de autores de violência contra as mulheres, em articulação com o Sistema de Justiça e a rede de proteção, promovendo a mudança de comportamentos, a prevenção da reincidência e a construção de relações baseadas no respeito, na igualdade de gênero e na não violência.",
+          "excerpts": [
+            {
+              "id": "s12",
+              "page_start": 26,
+              "page_end": 29,
+              "text": " Fortalecer os programas de responsabilização, educação e reeducação de autores de violência contra as mulheres, em articulação com o Sistema de Justiça e a rede de proteção, promovendo a mudança de comportamentos, a prevenção da reincidência e a construção de relações baseadas no respeito, na igualdade de gênero e na não violência."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "50002536579",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002536579_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002536579_01.pdf",
+      "sha256": "fff695c88b6c8b2161859bca267daa159b5518c7d0e45f6abb534f5412e259a1",
+      "summary": " analfabetismo acima da média nacional;  evasão escolar;  baixo desempenho no ensino médio;  baixa conexão entre escola e mercado. A saúde pública ainda sofre com gargalos estruturais. A segurança pública se tornou uma das maiores angústias da população. O crime organizado expandiu influência em áreas urbanas e periféricas. concentração de poder, crescimento econômico limitado a poucos territórios, baixa distribuição de renda e incapacidade de enfrentar problemas estruturais. O Caminho da Reconstrução da Bahia VOLUME 2 — DESENVOLVIMENTO ECONÔMICO  trabalhadores  pequenos empreendedores  agricultores familiares  juventude  mulheres  417 municípios  mais de 14 milhões de habitantes  posição geográfica estratégica  grande potencial logístico  diversidade econômica singular A Bahia tem vocação para:  agronegócio  agroindústria  mineração  turismo  indústria  energia renovável  economia criativa  tecnologia Apesar disso, grande parte da população ainda vive em condições de vulnerabilidade.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 12,
+          "page_end": 12,
+          "topics": [
+            "education"
+          ],
+          "summary": " analfabetismo acima da média nacional;  evasão escolar;  baixo desempenho no ensino médio;  baixa conexão entre escola e mercado.",
+          "excerpts": [
+            {
+              "id": "s14",
+              "page_start": 12,
+              "page_end": 12,
+              "text": " analfabetismo acima da média nacional;  evasão escolar;  baixo desempenho no ensino médio;  baixa conexão entre escola e mercado."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 12,
+          "page_end": 13,
+          "topics": [
+            "health"
+          ],
+          "summary": "A saúde pública ainda sofre com gargalos estruturais.",
+          "excerpts": [
+            {
+              "id": "s15",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "A saúde pública ainda sofre com gargalos estruturais."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 12,
+          "page_end": 12,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "A segurança pública se tornou uma das maiores angústias da população. O crime organizado expandiu influência em áreas urbanas e periféricas.",
+          "excerpts": [
+            {
+              "id": "s13",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "A segurança pública se tornou uma das maiores angústias da população. O crime organizado expandiu influência em áreas urbanas e periféricas."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 17,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "concentração de poder, crescimento econômico limitado a poucos territórios, baixa distribuição de renda e incapacidade de enfrentar problemas estruturais. O Caminho da Reconstrução da Bahia VOLUME 2 — DESENVOLVIMENTO ECONÔMICO",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "concentração de poder, crescimento econômico limitado a poucos territórios, baixa distribuição de renda e incapacidade de enfrentar problemas estruturais."
+            },
+            {
+              "id": "s16",
+              "page_start": 13,
+              "page_end": 13,
+              "text": " produção;  competitividade;  geração de emprego."
+            },
+            {
+              "id": "s24",
+              "page_start": 16,
+              "page_end": 17,
+              "text": "O Caminho da Reconstrução da Bahia VOLUME 2 — DESENVOLVIMENTO ECONÔMICO"
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 15,
+          "page_end": 16,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": " trabalhadores  pequenos empreendedores  agricultores familiares  juventude  mulheres",
+          "excerpts": [
+            {
+              "id": "s21",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Estado não existe para servir grupos políticos.  trabalhadores  pequenos empreendedores  agricultores familiares  juventude  mulheres"
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 16,
+          "page_end": 16,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "O PDF não forneceu texto extraível; consulte o documento original.",
+          "excerpts": [
+            {
+              "id": "s22",
+              "page_start": 16,
+              "page_end": 16,
+              "text": "Melhorou a vida do povo?"
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": 9,
+          "page_end": 9,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": " 417 municípios  mais de 14 milhões de habitantes  posição geográfica estratégica  grande potencial logístico  diversidade econômica singular A Bahia tem vocação para:  agronegócio  agroindústria  mineração  turismo  indústria  energia renovável  economia criativa  tecnologia Apesar disso, grande parte da população ainda vive em condições de vulnerabilidade.",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 9,
+              "page_end": 9,
+              "text": " 417 municípios  mais de 14 milhões de habitantes  posição geográfica estratégica  grande potencial logístico  diversidade econômica singular A Bahia tem vocação para:  agronegócio  agroindústria  mineração  turismo  indústria  energia renovável  economia criativa  tecnologia Apesar disso, grande parte da população ainda vive em condições de vulnerabilidade."
+            }
+          ]
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "50002544692",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002544692_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002544692_01.pdf",
+      "sha256": "b383e75810226556bbab78450d816c328e7a2768ef3424ed8d0c224847f2641f",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    },
+    {
+      "candidate_id": "50002552489",
+      "state_code": "BA",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026BA50002552489_01.pdf",
+      "public_path": "/propostas/2026/BA/2026BA50002552489_01.pdf",
+      "sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+      "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos. saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos. O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses. aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. • Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes. Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 3,
+          "page_end": 6,
+          "topics": [
+            "education"
+          ],
+          "summary": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc. Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 3,
+              "page_end": 4,
+              "text": "entregues aos tubarões internacionais Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc."
+            },
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Barrar a destruição da educação e conquistar ensino público, gratuito e de qualidade A educação deve ser garantida para todo o povo. Para isso, é preciso lutar pelo fim da política de destruição do ensino público levada adiante pelos tubarões do ensino privado e seus lacaios nos governos."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "health"
+          ],
+          "summary": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos.",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "saúde pública e gratuita, sob o controle dos trabalhadores A destruição sistemática do SUS e o avanço da privatização da saúde aumentam o sofrimento e as mortes, enquanto geram gigantescos lucros dos mercadores dos planos de saúde, hospitais e empresas. É preciso lutar pelo fim da política de destruição da saúde pública pelos mercadores da doença e seus governos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 6,
+          "page_end": 7,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses.",
+          "excerpts": [
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "O povo, acuado sob a ameaça da violência policial e empresarial, não tem mais direito a se expressar nem a lutar por seus interesses."
+            }
+          ]
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 2,
+          "page_end": 3,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "aumento emergencial de 50% de todos os salários aumento automático toda vez que o custo de vida do trabalhador subir 3% Salário mínimo vital suficiente para atender às necessidades do trabalhador e de sua família (que hoje não poderia ser menor que R$7.500), deliberado pelas organizações operárias Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual Anulação de todas as dívidas dos trabalhadores com o sistema financeiro."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": 4,
+          "page_end": 7,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores. Culpa da fraudulenta dívida pública, que já foi paga várias vezes.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Não ao fim da estabilidade dos servidores públicos Mais verbas para a saúde e educação e demais serviços essenciais Fim do teto de gastos e da Lei de Responsabilidade Fiscal Abaixo o congelamento de gastos públicos decretado no governo Temer estabilidade imediata para todos os servidores contratados precariamente, com isonomia de direitos e salários Pela realização de concursos públicos periódicos para repor o quadro de servidores."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Culpa da fraudulenta dívida pública, que já foi paga várias vezes."
+            }
+          ]
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 4,
+          "page_end": 5,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "Reforma Agrária com expropriação do latifúndio e demarcação das terras dos índios O latifúndio mata de fome e de bala milhares de brasileiros."
+            }
+          ]
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    }
+  ]
+}
