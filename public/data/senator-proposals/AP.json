@@ -190,35 +190,35 @@
           "title": "Alliny Serrão | Site Oficial",
           "sha256": "0f444e94df1cb88b55e5b9f45fcc5feb2db84415eae97c32ae31054b346df33e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:14+00:00"
+          "collected_at": "2026-10-03T20:25:55+00:00"
         },
         {
           "url": "https://ALLINYSERRAO.COM.BR/#propostas",
           "title": "Alliny Serrão | Site Oficial",
           "sha256": "0f444e94df1cb88b55e5b9f45fcc5feb2db84415eae97c32ae31054b346df33e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:16+00:00"
+          "collected_at": "2026-10-03T20:25:57+00:00"
         },
         {
           "url": "https://ALLINYSERRAO.COM.BR/carregar_noticia.php?id=502",
           "title": "\"Fazer acontecer\": Alliny aposta em obras de infraestrutura como prioridade - NoMandato",
           "sha256": "17cc7ae31ba2ac50beea93e3e883d59a441424b71136758ce5f6ff42b6be1480",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:18+00:00"
+          "collected_at": "2026-10-03T20:25:59+00:00"
         },
         {
           "url": "https://ALLINYSERRAO.COM.BR/carregar_noticia.php?id=500",
           "title": "Alliny apresenta proposta para endurecer o combate à violência doméstica. - NoMandato",
           "sha256": "42d39cb3d850190233f4efe29d87ae40e91dc6d5187da297428e6a0b84d76bbb",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:19+00:00"
+          "collected_at": "2026-10-03T20:26:00+00:00"
         },
         {
           "url": "https://ALLINYSERRAO.COM.BR/galeria/acao.html",
           "title": "Alliny Serrão | Site Oficial",
           "sha256": "d96658548dc7c3c0d69e9ad92df40badd234cc66345b9165034ae84c4eaf566e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:21+00:00"
+          "collected_at": "2026-10-03T20:26:02+00:00"
         }
       ],
       "statements": [
@@ -229,7 +229,7 @@
           "source_url": "https://ALLINYSERRAO.COM.BR/carregar_noticia.php?id=502",
           "source_title": "\"Fazer acontecer\": Alliny aposta em obras de infraestrutura como prioridade - NoMandato",
           "source_sha256": "17cc7ae31ba2ac50beea93e3e883d59a441424b71136758ce5f6ff42b6be1480",
-          "collected_at": "2026-10-03T20:04:18+00:00"
+          "collected_at": "2026-10-03T20:25:59+00:00"
         },
         {
           "text": "A sua ideia é defender rubricas específicas nos fundos de segurança pra aquisição de tornozeleiras eletrônicas, a fim de buscar a eficácia do cumprimento das medidas protetivas em favor das mulheres vítimas de violência, algo que tem sido bem recebido também.",
@@ -238,7 +238,7 @@
           "source_url": "https://ALLINYSERRAO.COM.BR/carregar_noticia.php?id=500",
           "source_title": "Alliny apresenta proposta para endurecer o combate à violência doméstica. - NoMandato",
           "source_sha256": "42d39cb3d850190233f4efe29d87ae40e91dc6d5187da297428e6a0b84d76bbb",
-          "collected_at": "2026-10-03T20:04:19+00:00"
+          "collected_at": "2026-10-03T20:26:00+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1003,9 +1003,9 @@
         {
           "url": "https://rayssafurlan.com.br/",
           "title": "Rayssa Furlan — Candidata a Senadora pelo Amapá (200)",
-          "sha256": "6b87121ce8df0cdf8c480ce9c771b221792315cc7ba202094f49b09908e41a78",
+          "sha256": "246b44ccee46a5d5212df17408ed007f786e3744ef907d613e920876e9ed750d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:04:27+00:00"
+          "collected_at": "2026-10-03T20:26:08+00:00"
         }
       ],
       "statements": [],
