@@ -72,365 +72,78 @@
       "state_code": "PI",
       "ballot_name": "ALEXANDRE MARIANO",
       "party_code": "AVANTE",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002549933",
       "state_code": "PI",
       "ballot_name": "ANTÔNIO BARROS",
       "party_code": "NOVO",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002549936",
       "state_code": "PI",
       "ballot_name": "ANTÔNIO JOSÉ LIRA",
       "party_code": "AVANTE",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002540446",
       "state_code": "PI",
       "ballot_name": "CIRO NOGUEIRA",
       "party_code": "PP",
+      "declared_sites": [
+        "https://tocomciro111.com/",
+        "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
+        "https://music.amazon.com.br/artists/B0HFFJQRRY",
+        "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
+        "https://CIRONOGUEIRA.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://tocomciro111.com/",
           "title": "Ciro Nogueira 111 — O Senador da Gente",
           "sha256": "14df18f095796841e103c608cf74e87c11a4326dfeac35fe0fba5d980e6eeb60",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:56+00:00"
+          "collected_at": "2026-10-03T19:37:52+00:00"
         },
         {
           "url": "https://tocomciro111.com/projetos-de-lei.html",
           "title": "Projetos de Lei — Ciro Nogueira 111",
           "sha256": "2c4be9290c7bb0e37350ffcb6face9885cb5678803a37d8f0bea7aafd2496c0d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:57+00:00"
+          "collected_at": "2026-10-03T19:37:54+00:00"
         },
         {
           "url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "title": "‎Ciro Nogueira — Apple Music",
-          "sha256": "cba80adb4b70997705b0ac45a4c399dd3af3d72fdb8a21ddf4620ac40edd23ff",
+          "sha256": "15ffc355a8be6070aec288bc1324fe943cfd5886fad57ed34adf4b53287991be",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:03+00:00"
+          "collected_at": "2026-10-03T19:37:55+00:00"
         },
         {
           "url": "https://music.amazon.com.br/artists/B0HFFJQRRY",
           "title": "",
           "sha256": "2c227e47b185041aaeb4bf07c2995a409a3236f6b03dc72f97622230f556bea4",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:08+00:00"
+          "collected_at": "2026-10-03T19:37:56+00:00"
         },
         {
           "url": "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
           "title": "MATERIAL CAMPANHA - SENADOR CIRO 111 - Google Drive",
-          "sha256": "aa37ec39911a1da91fcdc268fa3e0eaea3a199cb509ec952afab289721317a4b",
+          "sha256": "fdfc421d2a28fcc532569394cf7bdbde3b5b07a654c9f6697d43a5343a63801c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:10+00:00"
+          "collected_at": "2026-10-03T19:37:57+00:00"
         }
       ],
       "statements": [
@@ -440,8 +153,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "cba80adb4b70997705b0ac45a4c399dd3af3d72fdb8a21ddf4620ac40edd23ff",
-          "collected_at": "2026-10-03T13:11:03+00:00"
+          "source_sha256": "15ffc355a8be6070aec288bc1324fe943cfd5886fad57ed34adf4b53287991be",
+          "collected_at": "2026-10-03T19:37:55+00:00"
         },
         {
           "text": "Ciro 111 Senador (Eu Vou Votar) - Single Ciro 111 Senador (Eu Vou Votar) - Single",
@@ -449,1447 +162,169 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "cba80adb4b70997705b0ac45a4c399dd3af3d72fdb8a21ddf4620ac40edd23ff",
-          "collected_at": "2026-10-03T13:11:03+00:00"
+          "source_sha256": "15ffc355a8be6070aec288bc1324fe943cfd5886fad57ed34adf4b53287991be",
+          "collected_at": "2026-10-03T19:37:55+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://tocomciro111.com/",
-        "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
-        "https://music.amazon.com.br/artists/B0HFFJQRRY",
-        "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
-        "https://CIRONOGUEIRA.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "180002553753",
       "state_code": "PI",
       "ballot_name": "CLOVES JOSÉ",
       "party_code": "PCO",
-      "sources": [],
-      "statements": [],
-      "status": "shared-site-without-individual-profile",
       "declared_sites": [
         "https://candidatos.pco.org.br/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "shared-site-without-individual-profile"
     },
     {
       "candidate_id": "180002537340",
       "state_code": "PI",
       "ballot_name": "DANNIEL ROCHA",
       "party_code": "PSTU",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002547863",
       "state_code": "PI",
       "ballot_name": "DIONISIO CARVALHO",
       "party_code": "DC",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002550979",
       "state_code": "PI",
       "ballot_name": "FRANCINALDO LEÃO",
       "party_code": "PSOL",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002547860",
       "state_code": "PI",
       "ballot_name": "IRMÃO EVANDRO MARQUES",
       "party_code": "DC",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002548155",
       "state_code": "PI",
       "ballot_name": "JARDENYA BEZERRA",
       "party_code": "DEMOCRATA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002548568",
       "state_code": "PI",
       "ballot_name": "JORGE LOPES",
       "party_code": "PSDB",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002533964",
       "state_code": "PI",
       "ballot_name": "JÚLIO CÉSAR O JULIM DO LULA",
       "party_code": "PSD",
+      "declared_sites": [
+        "https://julimdopiaui.com.br/"
+      ],
       "sources": [
         {
           "url": "https://julimdopiaui.com.br/",
           "title": "Júlio César 555 — Grupos por Território",
           "sha256": "d3c07e528580a576b20ae327cedb108db8a0863019879b75a2a443d5628f7ade",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:15+00:00"
+          "collected_at": "2026-10-03T19:38:01+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://julimdopiaui.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "180002544457",
       "state_code": "PI",
       "ballot_name": "MAJOR PAULO ROBERTO",
       "party_code": "MOBILIZA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002533967",
       "state_code": "PI",
       "ballot_name": "MARCELO CASTRO",
       "party_code": "MDB",
+      "declared_sites": [
+        "https://MARCELOCASTROPIAUI.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://MARCELOCASTROPIAUI.COM.BR/",
           "title": "Sendor Marcelo Castro",
           "sha256": "6492c6e7433903021c162041854443ceb978a78c317269f2db12f6eb7f101f8b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:15+00:00"
+          "collected_at": "2026-10-03T19:38:04+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://MARCELOCASTROPIAUI.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "180002550977",
       "state_code": "PI",
       "ballot_name": "MARIA MADALENA NUNES",
       "party_code": "PSOL",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002548157",
       "state_code": "PI",
       "ballot_name": "MISSIONÁRIO EVANDRO CRAVEIRO",
       "party_code": "DEMOCRATA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002552964",
       "state_code": "PI",
       "ballot_name": "PASTOR SENA",
       "party_code": "AVANTE",
+      "declared_sites": [
+        "https://www.pastorsena.com.br/"
+      ],
       "sources": [
         {
           "url": "https://www.pastorsena.com.br/",
           "title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "sha256": "a94867a647d30be901d9e33e9d656ea6c94cd3f944f7f82953239e5c163799d0",
+          "sha256": "ccf2bb5cc9cd7ad3913fdefe82ea17e0f3fcfd1d5a07af2af0acb7214e3e5816",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:22+00:00"
+          "collected_at": "2026-10-03T19:38:08+00:00"
         }
       ],
       "statements": [
@@ -1899,436 +334,41 @@
           "topics": [],
           "source_url": "https://www.pastorsena.com.br/",
           "source_title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "source_sha256": "a94867a647d30be901d9e33e9d656ea6c94cd3f944f7f82953239e5c163799d0",
-          "collected_at": "2026-10-03T13:11:22+00:00"
+          "source_sha256": "ccf2bb5cc9cd7ad3913fdefe82ea17e0f3fcfd1d5a07af2af0acb7214e3e5816",
+          "collected_at": "2026-10-03T19:38:08+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://www.pastorsena.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "180002541938",
       "state_code": "PI",
       "ballot_name": "PEDRO LAURENTINO",
       "party_code": "UP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002540449",
       "state_code": "PI",
       "ballot_name": "TIAGO JUNQUEIRA",
       "party_code": "PL",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "180002544459",
       "state_code": "PI",
       "ballot_name": "TOINHO DUFRANGO",
       "party_code": "MOBILIZA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     }
   ]
 }

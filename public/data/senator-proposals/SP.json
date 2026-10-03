@@ -72,1348 +72,176 @@
       "state_code": "SP",
       "ballot_name": "ANDRÉ DO PRADO",
       "party_code": "PL",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002541362",
       "state_code": "SP",
       "ballot_name": "DRA ELIANA FERREIRA",
       "party_code": "PSTU",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002552955",
       "state_code": "SP",
       "ballot_name": "EDNELSON CESARETTI",
       "party_code": "PCO",
-      "sources": [],
-      "statements": [],
-      "status": "shared-site-without-individual-profile",
       "declared_sites": [
         "https://CANDIDATOS.PCO.ORG.BR/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "shared-site-without-individual-profile"
     },
     {
       "candidate_id": "250002544673",
       "state_code": "SP",
       "ballot_name": "GERALDO RUFINO",
       "party_code": "PODE",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002541312",
       "state_code": "SP",
       "ballot_name": "GUILHERME DERRITE",
       "party_code": "PP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
-    },
-    {
-      "candidate_id": "250002554075",
-      "state_code": "SP",
-      "ballot_name": "GUTO SCHIAVETTO",
-      "party_code": "MISSÃO",
-      "sources": [
-        {
-          "url": "https://www.gutoschiavetto.com.br/",
-          "title": "Guto Schiavetto 144 | Senador por São Paulo",
-          "sha256": "05bf9cc99a377ca10526c18771bfbe49aba14be471bc2940cc54676fcb9b196f",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:13+00:00"
-        }
-      ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://www.gutoschiavetto.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002553928",
       "state_code": "SP",
       "ballot_name": "GUTO SCHIAVETTO",
       "party_code": "MISSÃO",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
+      "status": "no-candidate-website-in-tse"
+    },
+    {
+      "candidate_id": "250002554075",
+      "state_code": "SP",
+      "ballot_name": "GUTO SCHIAVETTO",
+      "party_code": "MISSÃO",
+      "declared_sites": [
+        "https://www.gutoschiavetto.com.br/"
+      ],
+      "sources": [
         {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://www.gutoschiavetto.com.br/",
+          "title": "Guto Schiavetto 144 | Senador por São Paulo",
+          "sha256": "05bf9cc99a377ca10526c18771bfbe49aba14be471bc2940cc54676fcb9b196f",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:41:04+00:00"
         }
-      ]
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "250002544514",
       "state_code": "SP",
       "ballot_name": "MARCIO ALVES",
       "party_code": "UP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002551501",
       "state_code": "SP",
       "ballot_name": "MARINA SILVA",
       "party_code": "REDE",
+      "declared_sites": [
+        "https://marinasilva180.com.br/",
+        "https://MARINASILVA.ORG.BR/"
+      ],
       "sources": [
         {
           "url": "https://marinasilva180.com.br/",
           "title": "Marina Silva 180",
           "sha256": "fbb818d86f6d496f150aaa5f5337749c0fae977e7e84728d67f24a641b99ed71",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:13+00:00"
+          "collected_at": "2026-10-03T19:41:05+00:00"
         },
         {
           "url": "https://MARINASILVA.ORG.BR/",
           "title": "Campanha 2026 | Marina Silva Vote Marina Silva 180 | Senadora por São Paulo e pelo Brasil Vote Marina Silva 180 | Senadora por São Paulo e pelo Brasil",
           "sha256": "a6a65cc97f84b64f1a8f74e122bd24b52138684fef27b80532454ecfa3351b56",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:14+00:00"
+          "collected_at": "2026-10-03T19:41:08+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://marinasilva180.com.br/",
-        "https://MARINASILVA.ORG.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "250002544516",
       "state_code": "SP",
       "ballot_name": "MAÍRA DE SOUZA",
       "party_code": "UP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002552153",
       "state_code": "SP",
       "ballot_name": "PETTER MAAHS",
       "party_code": "PCB",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002532794",
       "state_code": "SP",
       "ballot_name": "SALLES",
       "party_code": "NOVO",
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
       "declared_sites": [
         "https://WWW.RICARDOSALLES.COM.BR/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed"
     },
     {
       "candidate_id": "250002551502",
       "state_code": "SP",
       "ballot_name": "SIMONE TEBET",
       "party_code": "PSB",
+      "declared_sites": [
+        "https://SIMONETEBET.COM.BR/",
+        "https://SIMONE400.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://SIMONE400.COM.BR/",
           "title": "Simone 400 | Senadora por São Paulo",
           "sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "url": "https://simone400.com.br/em-mogi-mirim-tebet-reforca-compromisso-com-sao-paulo-nao-se-faz-politica-sem-olhar-para-o-interior/",
           "title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: \"Não se faz política sem olhar para o interior\" - Simone 400 | Senadora por São Paulo",
           "sha256": "9c82fa2748fb3ca7db1afcbd6eb7d501d74bc861403c0d715d0d99a311aff504",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:21+00:00"
+          "collected_at": "2026-10-03T19:41:22+00:00"
         }
       ],
       "statements": [
@@ -1424,7 +252,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos fazer as delegacias da mulher funcionarem todos os dias.",
@@ -1433,7 +261,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Quero delegacias da mulher abertas 24 horas por dia, todos os dias. São mulheres que precisam de ajuda, proteção e acolhimento, e isso não acontece apenas em horário comercial. Quero defender essa mudança por todas as mulheres de São Paulo. Porque proteção não pode ter hora para começar. Nenhuma a menos.",
@@ -1444,7 +272,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos colocar limite nas apostas para proteger nossos filhos.",
@@ -1453,7 +281,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos construir outro caminho, com o que importa para você.",
@@ -1462,29 +290,25 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Pensar diferente não é problema. Ao contrário: a diversidade é a maior riqueza de São Paulo. Na política, precisamos saber ouvir, encontrar pontos em comum e trabalhar pelo que realmente importa para as pessoas. Bora, São Paulo! Vamos juntos.",
           "section_title": "simone, Do tamanho de são paulo!",
-          "topics": [
-            "rights-inclusion"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos ter uma polícia forte que investiga, prende e pune.",
           "section_title": "simone, Do tamanho de são paulo!",
-          "topics": [
-            "public-safety"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Segurança se faz enfrentando o crime e a impunidade. Meu compromisso é com uma segurança pública que combine firmeza no combate ao crime, valorização das polícias, inteligência, prevenção e responsabilidade na construção das leis.",
@@ -1495,29 +319,25 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos ampliar e melhorar o transporte coletivo de São Paulo.",
           "section_title": "simone, Do tamanho de são paulo!",
-          "topics": [
-            "infrastructure-mobility"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Quero mais investimentos no transporte coletivo, com o metrô como uma das prioridades. Vou lutar por obras para expandir o metrô até o ABC, Guarulhos e Taboão da Serra. Isso é melhoria da qualidade de vida da população.",
           "section_title": "simone, Do tamanho de são paulo!",
-          "topics": [
-            "infrastructure-mobility"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos tirar a cadeia de São Paulo da ociosidade.",
@@ -1526,7 +346,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos defender o empreendedor individual e as pequenas empresas.",
@@ -1535,29 +355,25 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Quero que cada pessoa possa decidir como trabalhar: com carteira assinada, empreendendo ou por conta própria. Empreendedorismo é sinônimo de São Paulo. E quero ser senadora para defender o empreendedor individual, as micro e pequenas empresas.",
           "section_title": "simone, Do tamanho de são paulo!",
-          "topics": [
-            "economy-jobs"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Já fui prefeita, deputada, vice-governadora, senadora e ministra. A experiência me ensinou como as decisões são tomadas. Saiba o que penso e vou fazer por São Paulo.",
           "section_title": "Posicionamentos",
-          "topics": [
-            "education"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos trabalhar com independência e coragem por São Paulo",
@@ -1566,7 +382,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos fazer as delegacias da mulher funcionarem todos os dias",
@@ -1575,7 +391,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos colocar limite nas apostas para proteger nossos filhos",
@@ -1584,29 +400,25 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos construir outro caminho, com o que importa para você",
           "section_title": "A diversidade é a maior riqueza de São Paulo",
-          "topics": [
-            "rights-inclusion"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos ter uma polícia forte que investiga, prende e pune",
           "section_title": "O fim da impunidade",
-          "topics": [
-            "public-safety"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos juntos: peço seu voto para senadora por São Paulo",
@@ -1615,7 +427,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos trocar o bate-boca por moderação, diálogo e respeito",
@@ -1624,29 +436,25 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos ampliar e melhorar o transporte coletivo de São Paulo",
           "section_title": "Metrô é o melhor caminho",
-          "topics": [
-            "infrastructure-mobility"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos deixar 100% transparente para onde vai o dinheiro público",
           "section_title": "Sou contra o orçamento secreto",
-          "topics": [
-            "tax-budget"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos tirar a cadeia de São Paulo da ociosidade",
@@ -1655,18 +463,16 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Vamos defender o empreendedor individual e as pequenas empresas",
           "section_title": "Empreendedorismo é sinônimo de São Paulo",
-          "topics": [
-            "economy-jobs"
-          ],
+          "topics": [],
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Crie o seu avatar e cards personalizados com a marca da Simone para espalhar a campanha nas redes sociais. Bora, São Paulo. Vamos juntos! Simone 400 Senadora!",
@@ -1675,7 +481,7 @@
           "source_url": "https://SIMONE400.COM.BR/",
           "source_title": "Simone 400 | Senadora por São Paulo",
           "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-          "collected_at": "2026-10-03T13:13:20+00:00"
+          "collected_at": "2026-10-03T19:41:19+00:00"
         },
         {
           "text": "Em tom bem-humorado, deu um recado ao seu segundo suplente, o ex-prefeito de Araraquara Marcelo Barbieri (PDT): “Pode colocar as barbas de molho, porque suplente meu vai trabalhar, nem que seja de graça”. Segundo ela, prefeitos, vereadores e a sociedade civil terão uma resposta clara: “isso eu posso atender, isso eu não posso, isso eu vou lutar”.",
@@ -1684,632 +490,62 @@
           "source_url": "https://simone400.com.br/em-mogi-mirim-tebet-reforca-compromisso-com-sao-paulo-nao-se-faz-politica-sem-olhar-para-o-interior/",
           "source_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: \"Não se faz política sem olhar para o interior\" - Simone 400 | Senadora por São Paulo",
           "source_sha256": "9c82fa2748fb3ca7db1afcbd6eb7d501d74bc861403c0d715d0d99a311aff504",
-          "collected_at": "2026-10-03T13:13:21+00:00"
+          "collected_at": "2026-10-03T19:41:22+00:00"
         },
         {
           "text": "Mulheres e saúde Tebet chamou o combate à violência contra a mulher de “a pauta da minha vida”. Ela foi a primeira mulher a presidir a Comissão de Combate à Violência contra a Mulher no Congresso. Lembrou ainda a aprovação da Lei do Feminicídio, em 2015, e a tipificação do estupro coletivo. Disse também que a regionalização da saúde será prioridade, com apoio às Santas Casas e aos hospitais filantrópicos, que ela tem visitado pelo estado.",
           "section_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: “Não se faz política sem olhar para o interior”",
           "topics": [
-            "public-safety",
-            "health"
+            "health",
+            "public-safety"
           ],
           "source_url": "https://simone400.com.br/em-mogi-mirim-tebet-reforca-compromisso-com-sao-paulo-nao-se-faz-politica-sem-olhar-para-o-interior/",
           "source_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: \"Não se faz política sem olhar para o interior\" - Simone 400 | Senadora por São Paulo",
           "source_sha256": "9c82fa2748fb3ca7db1afcbd6eb7d501d74bc861403c0d715d0d99a311aff504",
-          "collected_at": "2026-10-03T13:13:21+00:00"
+          "collected_at": "2026-10-03T19:41:22+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://SIMONETEBET.COM.BR/",
-        "https://SIMONE400.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Já fui prefeita, deputada, vice-governadora, senadora e ministra.",
-          "excerpts": [
-            {
-              "text": "Já fui prefeita, deputada, vice-governadora, senadora e ministra. A experiência me ensinou como as decisões são tomadas. Saiba o que penso e vou fazer por São Paulo.",
-              "section_title": "Posicionamentos",
-              "topics": [
-                "education"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Mulheres e saúde Tebet chamou o combate à violência contra a mulher de “a pauta da minha vida”. Ela foi a primeira mulher a presidir a Comissão de Combate à Violência contra a Mulher no Congresso.",
-          "excerpts": [
-            {
-              "text": "Mulheres e saúde Tebet chamou o combate à violência contra a mulher de “a pauta da minha vida”. Ela foi a primeira mulher a presidir a Comissão de Combate à Violência contra a Mulher no Congresso. Lembrou ainda a aprovação da Lei do Feminicídio, em 2015, e a tipificação do estupro coletivo. Disse também que a regionalização da saúde será prioridade, com apoio às Santas Casas e aos hospitais filantrópicos, que ela tem visitado pelo estado.",
-              "section_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: “Não se faz política sem olhar para o interior”",
-              "topics": [
-                "public-safety",
-                "health"
-              ],
-              "source_url": "https://simone400.com.br/em-mogi-mirim-tebet-reforca-compromisso-com-sao-paulo-nao-se-faz-politica-sem-olhar-para-o-interior/",
-              "source_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: \"Não se faz política sem olhar para o interior\" - Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9c82fa2748fb3ca7db1afcbd6eb7d501d74bc861403c0d715d0d99a311aff504",
-              "collected_at": "2026-10-03T13:13:21+00:00"
-            }
-          ]
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Meu compromisso é com uma segurança pública que combine firmeza no combate ao crime, valorização das polícias, inteligência, prevenção e responsabilidade na construção das leis. Vamos ter uma polícia forte que investiga, prende e pune Mulheres e saúde Tebet chamou o combate à violência contra a mulher de “a pauta da minha vida”.",
-          "excerpts": [
-            {
-              "text": "Vamos ter uma polícia forte que investiga, prende e pune.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "public-safety"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Segurança se faz enfrentando o crime e a impunidade. Meu compromisso é com uma segurança pública que combine firmeza no combate ao crime, valorização das polícias, inteligência, prevenção e responsabilidade na construção das leis.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "public-safety"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Vamos ter uma polícia forte que investiga, prende e pune",
-              "section_title": "O fim da impunidade",
-              "topics": [
-                "public-safety"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Mulheres e saúde Tebet chamou o combate à violência contra a mulher de “a pauta da minha vida”. Ela foi a primeira mulher a presidir a Comissão de Combate à Violência contra a Mulher no Congresso. Lembrou ainda a aprovação da Lei do Feminicídio, em 2015, e a tipificação do estupro coletivo. Disse também que a regionalização da saúde será prioridade, com apoio às Santas Casas e aos hospitais filantrópicos, que ela tem visitado pelo estado.",
-              "section_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: “Não se faz política sem olhar para o interior”",
-              "topics": [
-                "public-safety",
-                "health"
-              ],
-              "source_url": "https://simone400.com.br/em-mogi-mirim-tebet-reforca-compromisso-com-sao-paulo-nao-se-faz-politica-sem-olhar-para-o-interior/",
-              "source_title": "Em Mogi Mirim, Tebet reforça compromisso com São Paulo: \"Não se faz política sem olhar para o interior\" - Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9c82fa2748fb3ca7db1afcbd6eb7d501d74bc861403c0d715d0d99a311aff504",
-              "collected_at": "2026-10-03T13:13:21+00:00"
-            }
-          ]
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Quero que cada pessoa possa decidir como trabalhar: com carteira assinada, empreendendo ou por conta própria. E quero ser senadora para defender o empreendedor individual, as micro e pequenas empresas.",
-          "excerpts": [
-            {
-              "text": "Quero que cada pessoa possa decidir como trabalhar: com carteira assinada, empreendendo ou por conta própria. Empreendedorismo é sinônimo de São Paulo. E quero ser senadora para defender o empreendedor individual, as micro e pequenas empresas.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Vamos defender o empreendedor individual e as pequenas empresas",
-              "section_title": "Empreendedorismo é sinônimo de São Paulo",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Vamos deixar 100% transparente para onde vai o dinheiro público",
-          "excerpts": [
-            {
-              "text": "Vamos deixar 100% transparente para onde vai o dinheiro público",
-              "section_title": "Sou contra o orçamento secreto",
-              "topics": [
-                "tax-budget"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Quero mais investimentos no transporte coletivo, com o metrô como uma das prioridades. Vou lutar por obras para expandir o metrô até o ABC, Guarulhos e Taboão da Serra.",
-          "excerpts": [
-            {
-              "text": "Vamos ampliar e melhorar o transporte coletivo de São Paulo.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "infrastructure-mobility"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Quero mais investimentos no transporte coletivo, com o metrô como uma das prioridades. Vou lutar por obras para expandir o metrô até o ABC, Guarulhos e Taboão da Serra. Isso é melhoria da qualidade de vida da população.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "infrastructure-mobility"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Vamos ampliar e melhorar o transporte coletivo de São Paulo",
-              "section_title": "Metrô é o melhor caminho",
-              "topics": [
-                "infrastructure-mobility"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Quero delegacias da mulher abertas 24 horas por dia, todos os dias. São mulheres que precisam de ajuda, proteção e acolhimento, e isso não acontece apenas em horário comercial.",
-          "excerpts": [
-            {
-              "text": "Quero delegacias da mulher abertas 24 horas por dia, todos os dias. São mulheres que precisam de ajuda, proteção e acolhimento, e isso não acontece apenas em horário comercial. Quero defender essa mudança por todas as mulheres de São Paulo. Porque proteção não pode ter hora para começar. Nenhuma a menos.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "rights-inclusion"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Pensar diferente não é problema. Ao contrário: a diversidade é a maior riqueza de São Paulo. Na política, precisamos saber ouvir, encontrar pontos em comum e trabalhar pelo que realmente importa para as pessoas. Bora, São Paulo! Vamos juntos.",
-              "section_title": "simone, Do tamanho de são paulo!",
-              "topics": [
-                "rights-inclusion"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            },
-            {
-              "text": "Vamos construir outro caminho, com o que importa para você",
-              "section_title": "A diversidade é a maior riqueza de São Paulo",
-              "topics": [
-                "rights-inclusion"
-              ],
-              "source_url": "https://SIMONE400.COM.BR/",
-              "source_title": "Simone 400 | Senadora por São Paulo",
-              "source_sha256": "9326c670849ebd528397098f987448108c2348294aaabcada589c3af2f66d53e",
-              "collected_at": "2026-10-03T13:13:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "250002552369",
       "state_code": "SP",
       "ballot_name": "SONINHA FRANCINE",
       "party_code": "CIDADANIA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "250002541365",
       "state_code": "SP",
       "ballot_name": "WELLER GONÇALVES",
       "party_code": "PSTU",
+      "declared_sites": [
+        "https://wellergoncalves.com.br/"
+      ],
       "sources": [
         {
           "url": "https://wellergoncalves.com.br/",
           "title": "Home - Site do Weller",
           "sha256": "7049e205227af14863d4d5061534556a82a054c02c184f880d13c45d717be866",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:13:24+00:00"
+          "collected_at": "2026-10-03T19:41:27+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://wellergoncalves.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "250002553252",
       "state_code": "SP",
       "ballot_name": "WILLIAM TEIXEIRA",
       "party_code": "AGIR",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     }
   ]
 }

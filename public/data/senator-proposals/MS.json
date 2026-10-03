@@ -72,135 +72,42 @@
       "state_code": "MS",
       "ballot_name": "BETO DO MOVIMENTO",
       "party_code": "PSOL",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "120002535769",
       "state_code": "MS",
       "ballot_name": "CAPITÃO CONTAR",
       "party_code": "PL",
+      "declared_sites": [
+        "https://WWW.QGDOCAPITAOCONTAR.COM.BR/",
+        "https://CAPITAOCONTAR.COM.BR/",
+        "http://www.casadadireitams.com.br/"
+      ],
       "sources": [
         {
           "url": "https://CAPITAOCONTAR.COM.BR/",
           "title": "capitao contar - Capitão Contar",
-          "sha256": "16232ed12447d8937ef005eb47e9344c198b9de5a234cce156d50b846cafc63e",
+          "sha256": "374e153219cd6740388e6ba5671334638a2aed32f89cf4886df20828987f8e90",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:09:31+00:00"
+          "collected_at": "2026-10-03T19:35:52+00:00"
         },
         {
           "url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "sha256": "20217518663691746c1bfc61e92415aab4b757d1cf91c62f66c25696d75d5a01",
+          "sha256": "a3d312e589705a33ad74fc5c19397e893e96fc300362d19b0452ad72d3980216",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:09:32+00:00"
+          "collected_at": "2026-10-03T19:35:55+00:00"
         },
         {
           "url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/#content",
           "title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "sha256": "20217518663691746c1bfc61e92415aab4b757d1cf91c62f66c25696d75d5a01",
+          "sha256": "69f757cde3f87c5ec36e0ae229ce89a70284d80c9eea1fd90059b2cf4ffb1150",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:09:33+00:00"
+          "collected_at": "2026-10-03T19:35:57+00:00"
         }
       ],
       "statements": [
@@ -210,8 +117,8 @@
           "topics": [],
           "source_url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "source_title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "source_sha256": "20217518663691746c1bfc61e92415aab4b757d1cf91c62f66c25696d75d5a01",
-          "collected_at": "2026-10-03T13:09:32+00:00"
+          "source_sha256": "a3d312e589705a33ad74fc5c19397e893e96fc300362d19b0452ad72d3980216",
+          "collected_at": "2026-10-03T19:35:55+00:00"
         },
         {
           "text": "“Flávio, você será o nosso presidente e nós vamos consertar esse país. Mato Grosso do Sul vai te entregar senadores alinhados com os princípios cristãos da direita e um governador 100% alinhado com as nossas pautas. No Mato Grosso do Sul, que tem um solo fértil, a sua política vai florescer porque temos gente de fibra, honesta e que acredita no Brasil”, finalizou Capitão Contar.",
@@ -219,350 +126,54 @@
           "topics": [],
           "source_url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "source_title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "source_sha256": "20217518663691746c1bfc61e92415aab4b757d1cf91c62f66c25696d75d5a01",
-          "collected_at": "2026-10-03T13:09:32+00:00"
+          "source_sha256": "a3d312e589705a33ad74fc5c19397e893e96fc300362d19b0452ad72d3980216",
+          "collected_at": "2026-10-03T19:35:55+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://WWW.QGDOCAPITAOCONTAR.COM.BR/",
-        "https://CAPITAOCONTAR.COM.BR/",
-        "http://www.casadadireitams.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "120002534952",
       "state_code": "MS",
       "ballot_name": "DANIEL JUNIOR",
       "party_code": "AGIR",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "120002551909",
       "state_code": "MS",
       "ballot_name": "LUIZ LEMES",
       "party_code": "DC",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "120002535764",
       "state_code": "MS",
       "ballot_name": "REINALDO AZAMBUJA",
       "party_code": "PL",
+      "declared_sites": [
+        "http://www.reinaldosenador.com.br/"
+      ],
       "sources": [
         {
           "url": "http://www.reinaldosenador.com.br/",
           "title": "Senador Reinaldo Azambuja",
-          "sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
+          "sha256": "ccb3095ce481fe2b374c2a8d1dbab44c89a0fd6757aa87860ef894ef4d5ead32",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:09:39+00:00"
+          "collected_at": "2026-10-03T19:36:04+00:00"
         },
         {
-          "url": "http://www.reinaldosenador.com.br/noticias/diante-de-mais-de-mil-pessoas-reinaldo-reafirma-compromissos-com-dourados",
-          "title": "Diante de mais de mil pessoas, Reinaldo reafirma compromissos com Dourados | Senador Reinaldo Azambuja",
-          "sha256": "d99a7cbf3f4f5cc5e41c09e4749ffee8403fb6a7c073c6ff247eeb10708e476b",
+          "url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
+          "title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
+          "sha256": "74837a2f865362e4983375a3edd023f12c2a9af50a69d4398d262d696992f618",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:09:41+00:00"
+          "collected_at": "2026-10-03T19:36:06+00:00"
         }
       ],
       "statements": [
@@ -572,21 +183,19 @@
           "topics": [],
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
-          "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-          "collected_at": "2026-10-03T13:09:39+00:00"
+          "source_sha256": "ccb3095ce481fe2b374c2a8d1dbab44c89a0fd6757aa87860ef894ef4d5ead32",
+          "collected_at": "2026-10-03T19:36:04+00:00"
         },
         {
           "text": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
           "section_title": "Turismo com infraestrutura",
           "topics": [
-            "infrastructure-mobility",
-            "culture-sports-tourism",
-            "health"
+            "infrastructure-mobility"
           ],
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
-          "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-          "collected_at": "2026-10-03T13:09:39+00:00"
+          "source_sha256": "ccb3095ce481fe2b374c2a8d1dbab44c89a0fd6757aa87860ef894ef4d5ead32",
+          "collected_at": "2026-10-03T19:36:04+00:00"
         },
         {
           "text": "Defender um novo modelo de financiamento federal, com planejamento e recursos suficientes para evitar obras paralisadas e garantir que os investimentos sejam concluídos.",
@@ -594,287 +203,60 @@
           "topics": [],
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
-          "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-          "collected_at": "2026-10-03T13:09:39+00:00"
+          "source_sha256": "ccb3095ce481fe2b374c2a8d1dbab44c89a0fd6757aa87860ef894ef4d5ead32",
+          "collected_at": "2026-10-03T19:36:04+00:00"
         },
         {
-          "text": "\"Esse é um sonho de todos nós. Ninguém é dono de uma coisa sozinho. O prefeito Marçal, o governador Riedel, eu no Senado e a bancada federal, juntos, vamos ajudar a resolver os problemas de Dourados\", declarou.",
+          "text": "Vai defender a importância da agropecuária e da agroindústria para a economia e geração de empregos;",
+          "section_title": "Mais fotos",
+          "topics": [
+            "economy-jobs"
+          ],
+          "source_url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
+          "source_title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
+          "source_sha256": "74837a2f865362e4983375a3edd023f12c2a9af50a69d4398d262d696992f618",
+          "collected_at": "2026-10-03T19:36:06+00:00"
+        },
+        {
+          "text": "Destinou mais de R$ 10 milhões em insumos para apoiar a produção indígena, incluindo sementes de milho, feijão, abóbora e melancia, calcário, óleo diesel e manutenção de tratores;",
           "section_title": "Mais fotos",
           "topics": [],
-          "source_url": "http://www.reinaldosenador.com.br/noticias/diante-de-mais-de-mil-pessoas-reinaldo-reafirma-compromissos-com-dourados",
-          "source_title": "Diante de mais de mil pessoas, Reinaldo reafirma compromissos com Dourados | Senador Reinaldo Azambuja",
-          "source_sha256": "d99a7cbf3f4f5cc5e41c09e4749ffee8403fb6a7c073c6ff247eeb10708e476b",
-          "collected_at": "2026-10-03T13:09:41+00:00"
+          "source_url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
+          "source_title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
+          "source_sha256": "74837a2f865362e4983375a3edd023f12c2a9af50a69d4398d262d696992f618",
+          "collected_at": "2026-10-03T19:36:06+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "http://www.reinaldosenador.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-          "excerpts": [
-            {
-              "text": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-              "section_title": "Turismo com infraestrutura",
-              "topics": [
-                "infrastructure-mobility",
-                "culture-sports-tourism",
-                "health"
-              ],
-              "source_url": "http://www.reinaldosenador.com.br/",
-              "source_title": "Senador Reinaldo Azambuja",
-              "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-              "collected_at": "2026-10-03T13:09:39+00:00"
-            }
-          ]
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-          "excerpts": [
-            {
-              "text": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-              "section_title": "Turismo com infraestrutura",
-              "topics": [
-                "infrastructure-mobility",
-                "culture-sports-tourism",
-                "health"
-              ],
-              "source_url": "http://www.reinaldosenador.com.br/",
-              "source_title": "Senador Reinaldo Azambuja",
-              "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-              "collected_at": "2026-10-03T13:09:39+00:00"
-            }
-          ]
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-          "excerpts": [
-            {
-              "text": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
-              "section_title": "Turismo com infraestrutura",
-              "topics": [
-                "infrastructure-mobility",
-                "culture-sports-tourism",
-                "health"
-              ],
-              "source_url": "http://www.reinaldosenador.com.br/",
-              "source_title": "Senador Reinaldo Azambuja",
-              "source_sha256": "e0cd3c24badc15a92599866fe316af424fd9ebab3db18faea9b21f0845647406",
-              "collected_at": "2026-10-03T13:09:39+00:00"
-            }
-          ]
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "120002552115",
       "state_code": "MS",
       "ballot_name": "ROBERTO OSHIRO",
       "party_code": "NOVO",
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
       "declared_sites": [
         "https://www.robertooshiro.com.br/",
         "https://WWW.ROBERTOOSHIRO.COM.BR/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed"
     },
     {
       "candidate_id": "120002547434",
       "state_code": "MS",
       "ballot_name": "SORAYA",
       "party_code": "PSB",
+      "declared_sites": [
+        "https://www.sorayathronicke.com.br/"
+      ],
       "sources": [
         {
           "url": "https://www.sorayathronicke.com.br/",
           "title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
+          "sha256": "3416ec738dab615443226955dfa73bb54deb4e4a6122a752b41ea76af7277625",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:07+00:00"
+          "collected_at": "2026-10-03T19:36:34+00:00"
         }
       ],
       "statements": [
@@ -884,510 +266,88 @@
           "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
-          "collected_at": "2026-10-03T13:10:07+00:00"
+          "source_sha256": "3416ec738dab615443226955dfa73bb54deb4e4a6122a752b41ea76af7277625",
+          "collected_at": "2026-10-03T19:36:34+00:00"
         },
         {
           "text": "Desenvolvo trabalhos legislativos no plenário e nas diversas comissões do Senado, visando criar leis focadas na necessidade do cidadão, fiscalizar a tramitação legislativa e defender o Brasil de projetos absurdos que chegam todos os dias.",
           "section_title": "",
-          "topics": [
-            "economy-jobs"
-          ],
+          "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
-          "collected_at": "2026-10-03T13:10:07+00:00"
+          "source_sha256": "3416ec738dab615443226955dfa73bb54deb4e4a6122a752b41ea76af7277625",
+          "collected_at": "2026-10-03T19:36:34+00:00"
         },
         {
           "text": "Meu trabalho é colocar o Mato Grosso do Sul acima de qualquer ideologia, representando nosso estado e garantindo os recursos que ele merece. Assim, tenho trabalhado para destinar recursos para os 79 municípios, com o objetivo de promover o desenvolvimento e a prosperidade da nossa gente.",
           "section_title": "",
-          "topics": [
-            "economy-jobs"
-          ],
+          "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
-          "collected_at": "2026-10-03T13:10:07+00:00"
+          "source_sha256": "3416ec738dab615443226955dfa73bb54deb4e4a6122a752b41ea76af7277625",
+          "collected_at": "2026-10-03T19:36:34+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://www.sorayathronicke.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Desenvolvo trabalhos legislativos no plenário e nas diversas comissões do Senado, visando criar leis focadas na necessidade do cidadão, fiscalizar a tramitação legislativa e defender o Brasil de projetos absurdos que chegam todos os dias. Meu trabalho é colocar o Mato Grosso do Sul acima de qualquer ideologia, representando nosso estado e garantindo os recursos que ele merece.",
-          "excerpts": [
-            {
-              "text": "Desenvolvo trabalhos legislativos no plenário e nas diversas comissões do Senado, visando criar leis focadas na necessidade do cidadão, fiscalizar a tramitação legislativa e defender o Brasil de projetos absurdos que chegam todos os dias.",
-              "section_title": "",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://www.sorayathronicke.com.br/",
-              "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-              "source_sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
-              "collected_at": "2026-10-03T13:10:07+00:00"
-            },
-            {
-              "text": "Meu trabalho é colocar o Mato Grosso do Sul acima de qualquer ideologia, representando nosso estado e garantindo os recursos que ele merece. Assim, tenho trabalhado para destinar recursos para os 79 municípios, com o objetivo de promover o desenvolvimento e a prosperidade da nossa gente.",
-              "section_title": "",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://www.sorayathronicke.com.br/",
-              "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-              "source_sha256": "82384dd2e93f4a1fcd8358bc007c60e6b52c1f6b13385c2672a87954e22c5a34",
-              "collected_at": "2026-10-03T13:10:07+00:00"
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "120002552196",
       "state_code": "MS",
       "ballot_name": "VALDERI GARCIA",
       "party_code": "PCO",
+      "declared_sites": [
+        "https://candidatos.pco.org.br/"
+      ],
       "sources": [
         {
           "url": "https://candidatos.pco.org.br/c/valderi-garcia-2/",
           "title": "VALDERI GARCIA - Portal Eleitoral do PCO",
-          "sha256": "6454f818569019703d5ac54fcdb0c681644e2cf02688242a0b4e242e7ffc42b0",
+          "sha256": "7f8164ed7430dd32f02d888078baa01e37925c7b00bfd017926b5cbb14a9a6dd",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:12+00:00"
+          "collected_at": "2026-10-03T19:36:39+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://candidatos.pco.org.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "120002552183",
       "state_code": "MS",
       "ballot_name": "VALTER DA COMAGRAN",
       "party_code": "PRD",
+      "declared_sites": [
+        "https://senadorvaltercomagran.com/"
+      ],
       "sources": [
         {
           "url": "https://senadorvaltercomagran.com/",
           "title": "Valter da Comagran 258 — Senador por Mato Grosso do Sul",
-          "sha256": "30fa66be34c8a83dfea1e194f10d081586183e55a627c1d383f4cd60f85736c5",
+          "sha256": "639c42462cf26d2659d5127391bfbd457208a14c06ea7aa84f57c3e44c817c04",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:15+00:00"
+          "collected_at": "2026-10-03T19:36:42+00:00"
         },
         {
           "url": "https://senadorvaltercomagran.com/propostas",
           "title": "Propostas — Valter da Comagran 258, Senador por MS",
-          "sha256": "4c88ef6d8c4660f1e35d2dbe454d94a2159b09fe98f7f2453cc26894fd695521",
+          "sha256": "45b90c2b8f4d205d51a28b57c0dbdcca77002b3245523e313d112d4b58513d0f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:17+00:00"
+          "collected_at": "2026-10-03T19:36:43+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://senadorvaltercomagran.com/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "120002547435",
       "state_code": "MS",
       "ballot_name": "VANDER LOUBET",
       "party_code": "PT",
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
       "declared_sites": [
         "https://VANDERLOUBET.COM.BR/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed"
     }
   ]
 }

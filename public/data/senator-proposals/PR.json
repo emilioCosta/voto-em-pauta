@@ -72,20 +72,23 @@
       "state_code": "PR",
       "ballot_name": "ALEXANDRE CURI",
       "party_code": "REPUBLICANOS",
+      "declared_sites": [
+        "https://ALEXANDRECURI.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://ALEXANDRECURI.COM.BR/",
           "title": "Alexandre Curi – Defendendo o Paraná",
-          "sha256": "e131960bd699c7f432e6d098fb2ce6946c2658bc1d729a50a7b3bda54d603b57",
+          "sha256": "d48d96697309fff4e8929ea37984d9a844e93e5675f0ab9ec4ee73b66912d157",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:23+00:00"
+          "collected_at": "2026-10-03T19:38:09+00:00"
         },
         {
           "url": "https://alexandrecuri.com.br/noticias/na-ultima-entrevista-antes-da-eleicao-alexandre-curi-avalia-campanha-e-revisita-suas-propostas-para-o-senado/",
           "title": "Na última entrevista antes da eleição, Alexandre Curi avalia campanha e revisita suas propostas para o Senado – Alexandre Curi",
-          "sha256": "8e5d07bf38ccde63bf95eef92922e1a252c004aa95fcf32d5051e215737fef29",
+          "sha256": "1c8368dc990707958c15579899eae6c16369c4b867ec314f7202975a08d9e0dc",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:24+00:00"
+          "collected_at": "2026-10-03T19:38:11+00:00"
         }
       ],
       "statements": [
@@ -95,125 +98,27 @@
           "topics": [],
           "source_url": "https://alexandrecuri.com.br/noticias/na-ultima-entrevista-antes-da-eleicao-alexandre-curi-avalia-campanha-e-revisita-suas-propostas-para-o-senado/",
           "source_title": "Na última entrevista antes da eleição, Alexandre Curi avalia campanha e revisita suas propostas para o Senado – Alexandre Curi",
-          "source_sha256": "8e5d07bf38ccde63bf95eef92922e1a252c004aa95fcf32d5051e215737fef29",
-          "collected_at": "2026-10-03T13:11:24+00:00"
+          "source_sha256": "1c8368dc990707958c15579899eae6c16369c4b867ec314f7202975a08d9e0dc",
+          "collected_at": "2026-10-03T19:38:11+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://ALEXANDRECURI.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "160002549555",
       "state_code": "PR",
       "ballot_name": "CRISTINA GRAEML",
       "party_code": "PSD",
+      "declared_sites": [
+        "https://CRISTINAGRAEML.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://CRISTINAGRAEML.COM.BR/",
           "title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
+          "sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "collected_at": "2026-10-03T19:38:13+00:00"
         }
       ],
       "statements": [
@@ -223,8 +128,8 @@
           "topics": [],
           "source_url": "https://CRISTINAGRAEML.COM.BR/",
           "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "source_sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
+          "collected_at": "2026-10-03T19:38:13+00:00"
         },
         {
           "text": "Percorri os 399 municípios do Paraná como jornalista e quero ser, em Brasília, a voz de prefeitos, vereadores e moradores do interior — uma senadora municipalista, de fato.",
@@ -232,31 +137,26 @@
           "topics": [],
           "source_url": "https://CRISTINAGRAEML.COM.BR/",
           "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "source_sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
+          "collected_at": "2026-10-03T19:38:13+00:00"
         },
         {
           "text": "Sou mãe e quero ser, no Senado, uma voz que representa as mulheres paranaenses e as pautas que dizem respeito à vida delas.",
           "section_title": "Valorização das mulheres",
-          "topics": [
-            "rights-inclusion"
-          ],
+          "topics": [],
           "source_url": "https://CRISTINAGRAEML.COM.BR/",
           "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "source_sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
+          "collected_at": "2026-10-03T19:38:13+00:00"
         },
         {
           "text": "Do agronegócio ao interior, da Região Metropolitana de Curitiba ao litoral, quero representar quem sustenta o Paraná todos os dias com o próprio esforço.",
           "section_title": "O Paraná que trabalha",
-          "topics": [
-            "health",
-            "agriculture-rural"
-          ],
+          "topics": [],
           "source_url": "https://CRISTINAGRAEML.COM.BR/",
           "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "source_sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
+          "collected_at": "2026-10-03T19:38:13+00:00"
         },
         {
           "text": "Quero levar para Brasília a voz de quem sente, no dia a dia, o resultado das decisões tomadas por lá.",
@@ -264,561 +164,118 @@
           "topics": [],
           "source_url": "https://CRISTINAGRAEML.COM.BR/",
           "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-          "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-          "collected_at": "2026-10-03T13:11:25+00:00"
+          "source_sha256": "69592a7fc32e78ca9188c2c5f1542f14821e25d157932709e895e86d0069b435",
+          "collected_at": "2026-10-03T19:38:13+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://CRISTINAGRAEML.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Do agronegócio ao interior, da Região Metropolitana de Curitiba ao litoral, quero representar quem sustenta o Paraná todos os dias com o próprio esforço.",
-          "excerpts": [
-            {
-              "text": "Do agronegócio ao interior, da Região Metropolitana de Curitiba ao litoral, quero representar quem sustenta o Paraná todos os dias com o próprio esforço.",
-              "section_title": "O Paraná que trabalha",
-              "topics": [
-                "health",
-                "agriculture-rural"
-              ],
-              "source_url": "https://CRISTINAGRAEML.COM.BR/",
-              "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-              "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-              "collected_at": "2026-10-03T13:11:25+00:00"
-            }
-          ]
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Do agronegócio ao interior, da Região Metropolitana de Curitiba ao litoral, quero representar quem sustenta o Paraná todos os dias com o próprio esforço.",
-          "excerpts": [
-            {
-              "text": "Do agronegócio ao interior, da Região Metropolitana de Curitiba ao litoral, quero representar quem sustenta o Paraná todos os dias com o próprio esforço.",
-              "section_title": "O Paraná que trabalha",
-              "topics": [
-                "health",
-                "agriculture-rural"
-              ],
-              "source_url": "https://CRISTINAGRAEML.COM.BR/",
-              "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-              "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-              "collected_at": "2026-10-03T13:11:25+00:00"
-            }
-          ]
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Sou mãe e quero ser, no Senado, uma voz que representa as mulheres paranaenses e as pautas que dizem respeito à vida delas.",
-          "excerpts": [
-            {
-              "text": "Sou mãe e quero ser, no Senado, uma voz que representa as mulheres paranaenses e as pautas que dizem respeito à vida delas.",
-              "section_title": "Valorização das mulheres",
-              "topics": [
-                "rights-inclusion"
-              ],
-              "source_url": "https://CRISTINAGRAEML.COM.BR/",
-              "source_title": "Cristina Graeml — Jornalista e Pré-candidata ao Senado pelo Paraná",
-              "source_sha256": "093ab167d7fe3a1e828024f4c91497562cecfb668141f473cde039c1bfe11830",
-              "collected_at": "2026-10-03T13:11:25+00:00"
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "160002547661",
       "state_code": "PR",
       "ballot_name": "DELTAN DALLAGNOL",
       "party_code": "NOVO",
-      "sources": [
-        {
-          "url": "https://DELTANDALLAGNOL.COM.BR/",
-          "title": "Deltan Dallagnol continua candidato ao Senado pelo Paraná",
-          "sha256": "b7dff7b2a0d1392ac0582a7b56db20f88c226a72ac939312ca4dc251864ba862",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:27+00:00"
-        }
-      ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
       "declared_sites": [
         "https://meusenadorassina.com.br/",
         "https://DELTANDALLAGNOL.COM.BR/"
       ],
-      "sections": [
+      "sources": [
         {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://DELTANDALLAGNOL.COM.BR/",
+          "title": "Deltan Dallagnol continua candidato ao Senado pelo Paraná",
+          "sha256": "9979c871f482ba7d73e791ea9e5a8c5e32aae389e4677ce6ece3b2d6c4b7c53e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:38:16+00:00"
         }
-      ]
+      ],
+      "statements": [],
+      "status": "shared-site-without-individual-profile"
     },
     {
       "candidate_id": "160002547658",
       "state_code": "PR",
       "ballot_name": "DR ROSINHA",
       "party_code": "PT",
-      "sources": [
-        {
-          "url": "https://WWW.DRROSINHA132.COM.BR/",
-          "title": "Dr. Rosinha 132",
-          "sha256": "2df1f6713ce8b68414c5873156cfb68b0d10c64c9683bc992439fb91431aaefe",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:29+00:00"
-        },
-        {
-          "url": "https://www.frameyu.com/f/nnaeqny0ov65",
-          "title": "Frameyu — Dr Rosinha Senador",
-          "sha256": "63078d65b1ad769701c6ecb4b839260c5b31d20738cc24937e3329f59cc72c2a",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:32+00:00"
-        }
-      ],
-      "statements": [
-        {
-          "text": "O Brasil não pode se curvar aos interesses externos, como quer a extrema direita. Assim como fez quando presidente do Parlamento do Mercosul, Dr. Rosinha vai defender a soberania nacional, a autonomia geopolítica e trabalhar pelo desenvolvimento da indústria brasileira.",
-          "section_title": "",
-          "topics": [
-            "economy-jobs"
-          ],
-          "source_url": "https://WWW.DRROSINHA132.COM.BR/",
-          "source_title": "Dr. Rosinha 132",
-          "source_sha256": "2df1f6713ce8b68414c5873156cfb68b0d10c64c9683bc992439fb91431aaefe",
-          "collected_at": "2026-10-03T13:11:29+00:00"
-        }
-      ],
-      "status": "proposals-found",
       "declared_sites": [
         "https://WWW.DOUTORROSINHA.COM.BR/",
         "https://WWW.DRROSINHA132.COM.BR/",
         "https://www.frameyu.com/f/nnaeqny0ov65",
         "https://WWW.DOUTORROSINHA132.COM.BR/"
       ],
-      "sections": [
+      "sources": [
         {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://WWW.DRROSINHA132.COM.BR/",
+          "title": "Dr. Rosinha 132",
+          "sha256": "2df1f6713ce8b68414c5873156cfb68b0d10c64c9683bc992439fb91431aaefe",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:38:21+00:00"
         },
         {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "O Brasil não pode se curvar aos interesses externos, como quer a extrema direita. Rosinha vai defender a soberania nacional, a autonomia geopolítica e trabalhar pelo desenvolvimento da indústria brasileira.",
-          "excerpts": [
-            {
-              "text": "O Brasil não pode se curvar aos interesses externos, como quer a extrema direita. Assim como fez quando presidente do Parlamento do Mercosul, Dr. Rosinha vai defender a soberania nacional, a autonomia geopolítica e trabalhar pelo desenvolvimento da indústria brasileira.",
-              "section_title": "",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://WWW.DRROSINHA132.COM.BR/",
-              "source_title": "Dr. Rosinha 132",
-              "source_sha256": "2df1f6713ce8b68414c5873156cfb68b0d10c64c9683bc992439fb91431aaefe",
-              "collected_at": "2026-10-03T13:11:29+00:00"
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://www.frameyu.com/f/nnaeqny0ov65",
+          "title": "Frameyu — Dr Rosinha Senador",
+          "sha256": "1e2c435cb3b971ee49f3b5b65ca434e4c0033b110012ddefd4b18b9636c4e29c",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:38:24+00:00"
         }
-      ]
+      ],
+      "statements": [
+        {
+          "text": "O Brasil não pode se curvar aos interesses externos, como quer a extrema direita. Assim como fez quando presidente do Parlamento do Mercosul, Dr. Rosinha vai defender a soberania nacional, a autonomia geopolítica e trabalhar pelo desenvolvimento da indústria brasileira.",
+          "section_title": "",
+          "topics": [],
+          "source_url": "https://WWW.DRROSINHA132.COM.BR/",
+          "source_title": "Dr. Rosinha 132",
+          "source_sha256": "2df1f6713ce8b68414c5873156cfb68b0d10c64c9683bc992439fb91431aaefe",
+          "collected_at": "2026-10-03T19:38:21+00:00"
+        }
+      ],
+      "status": "proposals-found"
     },
     {
       "candidate_id": "160002547660",
       "state_code": "PR",
       "ballot_name": "FILIPE BARROS",
       "party_code": "PL",
-      "sources": [
-        {
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzpbHr4UYV2frY6_FAuBW8Bph7zRMU8_Ym62PgSGetfI_EEQ/viewform",
-          "title": "SOLICITE AQUI SEU MATERIAL DE CAMPANHA!",
-          "sha256": "db1dffc4d9853285c5616a1c95a67fd95b909e33291a84916e354f841170e77f",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:34+00:00"
-        }
-      ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
       "declared_sites": [
         "https://FILIPEBARROS.COM.BR/",
         "https://docs.google.com/forms/d/e/1FAIpQLSfzpbHr4UYV2frY6_FAuBW8Bph7zRMU8_Ym62PgSGetfI_EEQ/viewform",
         "https://meusenadorassina.com.br/"
       ],
-      "sections": [
+      "sources": [
         {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzpbHr4UYV2frY6_FAuBW8Bph7zRMU8_Ym62PgSGetfI_EEQ/viewform",
+          "title": "SOLICITE AQUI SEU MATERIAL DE CAMPANHA!",
+          "sha256": "d953f417d2a677ae279aa6ded53471abcee5a916014438cfe85a311c5036ee17",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:38:28+00:00"
         }
-      ]
+      ],
+      "statements": [],
+      "status": "shared-site-without-individual-profile"
     },
     {
       "candidate_id": "160002547656",
       "state_code": "PR",
       "ballot_name": "GLEISI",
       "party_code": "PT",
+      "declared_sites": [
+        "https://GLEISISENADORA.COM/",
+        "https://GLEISI131.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://GLEISI131.COM.BR/",
           "title": "Início",
           "sha256": "59d55f613ca58140e5131c5d2b4069a383636f08f686611f072a6e397b7e1baf",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:37+00:00"
+          "collected_at": "2026-10-03T19:38:34+00:00"
         },
         {
           "url": "https://GLEISI131.COM.BR/propostasgleisi",
           "title": "Propostas",
           "sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:38+00:00"
+          "collected_at": "2026-10-03T19:38:36+00:00"
         }
       ],
       "statements": [
@@ -829,501 +286,62 @@
           "source_url": "https://GLEISI131.COM.BR/propostasgleisi",
           "source_title": "Propostas",
           "source_sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
-          "collected_at": "2026-10-03T13:11:38+00:00"
+          "collected_at": "2026-10-03T19:38:36+00:00"
         },
         {
           "text": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas. Gleisi será representante do direito dos animais e terá posição firme na defesa do meio ambiente e da biodiversidade no senado federal.",
           "section_title": "Apoio à agricultura familiar e o Instituto Brasileiro do Leite",
           "topics": [
             "environment-climate",
-            "rights-inclusion",
-            "agriculture-rural"
+            "rights-inclusion"
           ],
           "source_url": "https://GLEISI131.COM.BR/propostasgleisi",
           "source_title": "Propostas",
           "source_sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
-          "collected_at": "2026-10-03T13:11:38+00:00"
+          "collected_at": "2026-10-03T19:38:36+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://GLEISISENADORA.COM/",
-        "https://GLEISI131.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas.",
-          "excerpts": [
-            {
-              "text": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas. Gleisi será representante do direito dos animais e terá posição firme na defesa do meio ambiente e da biodiversidade no senado federal.",
-              "section_title": "Apoio à agricultura familiar e o Instituto Brasileiro do Leite",
-              "topics": [
-                "environment-climate",
-                "rights-inclusion",
-                "agriculture-rural"
-              ],
-              "source_url": "https://GLEISI131.COM.BR/propostasgleisi",
-              "source_title": "Propostas",
-              "source_sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
-              "collected_at": "2026-10-03T13:11:38+00:00"
-            }
-          ]
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas.",
-          "excerpts": [
-            {
-              "text": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas. Gleisi será representante do direito dos animais e terá posição firme na defesa do meio ambiente e da biodiversidade no senado federal.",
-              "section_title": "Apoio à agricultura familiar e o Instituto Brasileiro do Leite",
-              "topics": [
-                "environment-climate",
-                "rights-inclusion",
-                "agriculture-rural"
-              ],
-              "source_url": "https://GLEISI131.COM.BR/propostasgleisi",
-              "source_title": "Propostas",
-              "source_sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
-              "collected_at": "2026-10-03T13:11:38+00:00"
-            }
-          ]
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas.",
-          "excerpts": [
-            {
-              "text": "Gleisi propõe a criação de Centros de Referência de Animais em Risco, integrados de forma pioneira às faculdades de medicina veterinária do Paraná, para o cuidado de animais domésticos e silvestres. Ela também vai defender, junto das concessionárias de rodovias, a ampliação das passagens de fauna para preservar nossa biodiversidade nas estradas. Gleisi será representante do direito dos animais e terá posição firme na defesa do meio ambiente e da biodiversidade no senado federal.",
-              "section_title": "Apoio à agricultura familiar e o Instituto Brasileiro do Leite",
-              "topics": [
-                "environment-climate",
-                "rights-inclusion",
-                "agriculture-rural"
-              ],
-              "source_url": "https://GLEISI131.COM.BR/propostasgleisi",
-              "source_title": "Propostas",
-              "source_sha256": "9ba7c01c8224864240863651b4f8a675023278fcff32e119de82a7430de4bfab",
-              "collected_at": "2026-10-03T13:11:38+00:00"
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "160002551043",
       "state_code": "PR",
       "ballot_name": "JOAQUIM DO MLB",
       "party_code": "UP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "160002551121",
       "state_code": "PR",
       "ballot_name": "KAREN GUERREIRO",
       "party_code": "MISSÃO",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "160002552563",
       "state_code": "PR",
       "ballot_name": "MARCELO MARCELINO",
       "party_code": "PCO",
+      "declared_sites": [
+        "https://CANDIDATOS.PCO.ORG.BR/"
+      ],
       "sources": [
         {
           "url": "https://candidatos.pco.org.br/c/marcelo-marcelino/",
           "title": "MARCELO MARCELINO - Portal Eleitoral do PCO",
-          "sha256": "cd25edbefd8af75eb73ef2f85ca0c495cb1f07359dae3216a8854c6d6636a366",
+          "sha256": "2c10b0c3baea0ad595f3d074e7575a0c7c0544165245e030cecdb8ed6348bbd2",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:11:43+00:00"
+          "collected_at": "2026-10-03T19:38:40+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://CANDIDATOS.PCO.ORG.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     }
   ]
 }

@@ -72,250 +72,57 @@
       "state_code": "MT",
       "ballot_name": "BENY GODOY",
       "party_code": "AGIR",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "110002548042",
       "state_code": "MT",
       "ballot_name": "CORONEL DARWIN",
       "party_code": "DEMOCRATA",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "110002544986",
       "state_code": "MT",
       "ballot_name": "FÁVARO",
       "party_code": "PSD",
+      "declared_sites": [
+        "https://CARLOSFAVARO.COM.BR/"
+      ],
       "sources": [
         {
           "url": "https://CARLOSFAVARO.COM.BR/",
           "title": "Carlos Fávaro | Mato Grosso, cidade por cidade",
           "sha256": "ce1c35cf4ec95ce0c6069ccf10aefebef914ee1280ddab63a46a6e988d87e393",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:18+00:00"
+          "collected_at": "2026-10-03T19:36:47+00:00"
         },
         {
           "url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "url": "https://CARLOSFAVARO.COM.BR/municipios/peixoto-de-azevedo/",
           "title": "Peixoto de Azevedo | Recursos para Mato Grosso | Carlos Fávaro",
           "sha256": "f001903872691871a0c68b868327162f090c8f615834762c34a7e8a67f803a46",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:49+00:00"
         },
         {
           "url": "https://CARLOSFAVARO.COM.BR/noticias/favaro-reafirma-compromisso-com-setor-produtivo-e-defende-seguranca-juridica-par/",
           "title": "Fávaro reafirma compromisso com setor produtivo e defende segurança jurídica para Mato Grosso crescer | Notícias | Carlos Fávaro",
           "sha256": "b9b9f95aebeec32197a692f2be144db08b5a3971d71cd0308bb93aa06e30589a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:20+00:00"
+          "collected_at": "2026-10-03T19:36:50+00:00"
         }
       ],
       "statements": [
@@ -326,19 +133,18 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Recursos registrados para apoiar a agricultura e a produção rural.",
           "section_title": "Agricultura familiar e produção rural",
           "topics": [
-            "agriculture-rural",
-            "culture-sports-tourism"
+            "agriculture-rural"
           ],
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Aquisição de caminhão-pipa para apoiar os serviços municipais.",
@@ -347,7 +153,7 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Aquisição de trator para apoiar a produção rural.",
@@ -358,7 +164,7 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Aquisição de escavadeira hidráulica para apoiar os serviços municipais.",
@@ -367,18 +173,16 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Veículo para apoiar o transporte de pacientes.",
           "section_title": "Van para transporte sanitário",
-          "topics": [
-            "infrastructure-mobility"
-          ],
+          "topics": [],
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Grade niveladora 28 x 20 polegadas para apoiar a produção rural.",
@@ -389,7 +193,7 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Equipamento de quatro linhas para apoiar a produção rural.",
@@ -400,7 +204,7 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "Grade aradora 14 x 26 polegadas para apoiar a produção rural.",
@@ -411,7 +215,7 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
           "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
           "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-          "collected_at": "2026-10-03T13:10:19+00:00"
+          "collected_at": "2026-10-03T19:36:48+00:00"
         },
         {
           "text": "“Eu vou votar a favor do fim da escala 6x1. Mas temos que trabalhar a regulamentação. Não podemos melhorar a qualidade de vida do trabalhador e, ao mesmo tempo, inviabilizar o desenvolvimento econômico. Não terei essa irresponsabilidade”, afirmou.",
@@ -422,1012 +226,131 @@
           "source_url": "https://CARLOSFAVARO.COM.BR/noticias/favaro-reafirma-compromisso-com-setor-produtivo-e-defende-seguranca-juridica-par/",
           "source_title": "Fávaro reafirma compromisso com setor produtivo e defende segurança jurídica para Mato Grosso crescer | Notícias | Carlos Fávaro",
           "source_sha256": "b9b9f95aebeec32197a692f2be144db08b5a3971d71cd0308bb93aa06e30589a",
-          "collected_at": "2026-10-03T13:10:20+00:00"
+          "collected_at": "2026-10-03T19:36:50+00:00"
         }
       ],
-      "status": "proposals-found",
-      "declared_sites": [
-        "https://CARLOSFAVARO.COM.BR/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não podemos melhorar a qualidade de vida do trabalhador e, ao mesmo tempo, inviabilizar o desenvolvimento econômico.",
-          "excerpts": [
-            {
-              "text": "“Eu vou votar a favor do fim da escala 6x1. Mas temos que trabalhar a regulamentação. Não podemos melhorar a qualidade de vida do trabalhador e, ao mesmo tempo, inviabilizar o desenvolvimento econômico. Não terei essa irresponsabilidade”, afirmou.",
-              "section_title": "Escala 6x1",
-              "topics": [
-                "economy-jobs"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/noticias/favaro-reafirma-compromisso-com-setor-produtivo-e-defende-seguranca-juridica-par/",
-              "source_title": "Fávaro reafirma compromisso com setor produtivo e defende segurança jurídica para Mato Grosso crescer | Notícias | Carlos Fávaro",
-              "source_sha256": "b9b9f95aebeec32197a692f2be144db08b5a3971d71cd0308bb93aa06e30589a",
-              "collected_at": "2026-10-03T13:10:20+00:00"
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Veículo para apoiar o transporte de pacientes.",
-          "excerpts": [
-            {
-              "text": "Veículo para apoiar o transporte de pacientes.",
-              "section_title": "Van para transporte sanitário",
-              "topics": [
-                "infrastructure-mobility"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            }
-          ]
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Recursos registrados para apoiar a agricultura e a produção rural.",
-          "excerpts": [
-            {
-              "text": "Recursos registrados para apoiar a agricultura e a produção rural.",
-              "section_title": "Agricultura familiar e produção rural",
-              "topics": [
-                "agriculture-rural",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            },
-            {
-              "text": "Aquisição de trator para apoiar a produção rural.",
-              "section_title": "Trator agrícola",
-              "topics": [
-                "agriculture-rural"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            },
-            {
-              "text": "Grade niveladora 28 x 20 polegadas para apoiar a produção rural.",
-              "section_title": "Grade niveladora",
-              "topics": [
-                "agriculture-rural"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            },
-            {
-              "text": "Equipamento de quatro linhas para apoiar a produção rural.",
-              "section_title": "Plantadeira e adubadeira de grãos",
-              "topics": [
-                "agriculture-rural"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            },
-            {
-              "text": "Grade aradora 14 x 26 polegadas para apoiar a produção rural.",
-              "section_title": "Grade aradora",
-              "topics": [
-                "agriculture-rural"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            }
-          ]
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Recursos registrados para apoiar a agricultura e a produção rural.",
-          "excerpts": [
-            {
-              "text": "Recursos registrados para apoiar a agricultura e a produção rural.",
-              "section_title": "Agricultura familiar e produção rural",
-              "topics": [
-                "agriculture-rural",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://CARLOSFAVARO.COM.BR/municipios/nova-bandeirantes/",
-              "source_title": "Nova Bandeirantes | Recursos para Mato Grosso | Carlos Fávaro",
-              "source_sha256": "433f7f4c3700fb9a49601d287b66be727f365834e424c2c0567ea7836a3efd58",
-              "collected_at": "2026-10-03T13:10:19+00:00"
-            }
-          ]
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "proposals-found"
     },
     {
       "candidate_id": "110002540403",
       "state_code": "MT",
       "ballot_name": "GALVAN",
       "party_code": "AVANTE",
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
       "declared_sites": [
         "https://GALVAN700.COM.BR/",
         "https://senadorgalvan.com.br/",
         "https://SENADORGALVAN.COM.BR/",
         "https://galvan700.com.br/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed"
     },
     {
       "candidate_id": "110002552698",
       "state_code": "MT",
       "ballot_name": "JANAINA RIVA",
       "party_code": "MDB",
+      "declared_sites": [
+        "https://anossavoz.com.br/"
+      ],
       "sources": [
         {
           "url": "https://anossavoz.com.br/",
           "title": "Entra no meu grupo — Janaína Riva, Senado 2026",
-          "sha256": "a97ff6260cb950634ff35db5089247c0233b543f7d72b905ad31be03172457fe",
+          "sha256": "9a1966fee6fd7b0f07b2181ff6b2eb09ee7e78fb66f2ddfb233c1e22453b3d2a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:25+00:00"
+          "collected_at": "2026-10-03T19:36:58+00:00"
         }
       ],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
-      "declared_sites": [
-        "https://anossavoz.com.br/"
-      ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "110002551967",
       "state_code": "MT",
       "ballot_name": "MARGARETH BUZETTI",
       "party_code": "PP",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "110002551966",
       "state_code": "MT",
       "ballot_name": "MAURO MENDES",
       "party_code": "UNIÃO",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "110002544988",
       "state_code": "MT",
       "ballot_name": "PEDRO TAQUES",
       "party_code": "PSB",
-      "sources": [
-        {
-          "url": "http://www.panhou.com.br/",
-          "title": "Panhô · R$ 308 milhões",
-          "sha256": "51eccbebf0fd7393e55405a835a3d4997ba41cd655fe00a5ae5ca0a47640d47b",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:26+00:00"
-        },
-        {
-          "url": "https://panhou.com.br/jogo/",
-          "title": "Panhô ou não Panhô?",
-          "sha256": "59f857cae4d11c9f878aecd56a05377be974a51e18949ffbc550f879cb2d9a3d",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:26+00:00"
-        },
-        {
-          "url": "http://www.pedrotaques.com.br/",
-          "title": "Pedro Taques — Senador",
-          "sha256": "b3bf2194926a8d6d62a265659ddb6a8e49f3ddba975f996cfcc82b815bbc5937",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:27+00:00"
-        },
-        {
-          "url": "http://www.voudetaques.com.br/",
-          "title": "Vou de Taques | Voluntários da campanha de Pedro Taques ao Senado",
-          "sha256": "3668c377ce9d4998e2efc17f422c9b715402395b0accffa746d6b2636a35368c",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T13:10:28+00:00"
-        }
-      ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
       "declared_sites": [
         "http://www.panhou.com.br/",
         "https://panhou.com.br/jogo/",
         "http://www.pedrotaques.com.br/",
         "http://www.voudetaques.com.br/"
       ],
-      "sections": [
+      "sources": [
         {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "http://www.panhou.com.br/",
+          "title": "Panhô · R$ 308 milhões",
+          "sha256": "51eccbebf0fd7393e55405a835a3d4997ba41cd655fe00a5ae5ca0a47640d47b",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:37:03+00:00"
         },
         {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "https://panhou.com.br/jogo/",
+          "title": "Panhô ou não Panhô?",
+          "sha256": "59f857cae4d11c9f878aecd56a05377be974a51e18949ffbc550f879cb2d9a3d",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:37:04+00:00"
         },
         {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "http://www.pedrotaques.com.br/",
+          "title": "Pedro Taques — Senador",
+          "sha256": "b3bf2194926a8d6d62a265659ddb6a8e49f3ddba975f996cfcc82b815bbc5937",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:37:07+00:00"
         },
         {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "url": "http://www.voudetaques.com.br/",
+          "title": "Vou de Taques | Voluntários da campanha de Pedro Taques ao Senado",
+          "sha256": "3668c377ce9d4998e2efc17f422c9b715402395b0accffa746d6b2636a35368c",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-03T19:37:09+00:00"
         }
-      ]
+      ],
+      "statements": [],
+      "status": "official-site-without-extractable-proposals"
     },
     {
       "candidate_id": "110002553701",
       "state_code": "MT",
       "ballot_name": "PROFESSOR NELSON FERREIRA",
       "party_code": "AGIR",
+      "declared_sites": [],
       "sources": [],
       "statements": [],
-      "status": "no-candidate-website-in-tse",
-      "declared_sites": [],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "status": "no-candidate-website-in-tse"
     },
     {
       "candidate_id": "110002552693",
       "state_code": "MT",
       "ballot_name": "ZÉ MEDEIROS",
       "party_code": "PL",
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
       "declared_sites": [
         "http://www.zemedeiros.com.br/"
       ],
-      "sections": [
-        {
-          "id": "education",
-          "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "label": "Saúde",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "label": "Segurança pública",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "label": "Economia e emprego",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "label": "Orçamento e tributos",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "label": "Proteção social",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "label": "Infraestrutura e mobilidade",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "label": "Moradia e saneamento",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "label": "Meio ambiente e clima",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "label": "Agropecuária e desenvolvimento rural",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "label": "Ciência, inovação e digital",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "label": "Cultura, esporte e turismo",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "label": "Direitos e inclusão",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "label": "Gestão pública e transparência",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "label": "Energia e mineração",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "label": "Justiça e defesa",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
-        }
-      ]
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed"
     }
   ]
 }
