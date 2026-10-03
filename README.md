@@ -31,10 +31,10 @@ O Pages serve SQLite e PDFs como arquivos públicos, não como banco privado. O 
 npm run lint
 npm run typecheck
 $env:NEXT_OUTPUT_EXPORT = "1"
-$env:NEXT_PUBLIC_BASE_PATH = "/informeC"
+$env:NEXT_PUBLIC_BASE_PATH = "/voto-em-pauta"
 npm run build
 npm run preview:pages
 ```
 
-O preview local fica em `http://localhost:4173/informeC/`.
+O preview local fica em `http://localhost:4173/voto-em-pauta/`.
 
