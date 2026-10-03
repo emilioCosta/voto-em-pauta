@@ -7,7 +7,6 @@ import re
 import shutil
 import sqlite3
 import zipfile
-from datetime import datetime, timezone
 from pathlib import Path, PurePosixPath
 
 
@@ -21,10 +20,6 @@ SQL_WASM_SOURCE = ROOT / "node_modules" / "sql.js" / "dist" / "sql-wasm.wasm"
 SQL_WASM_TARGET = PUBLIC_DIR / "vendor" / "sql-wasm.wasm"
 TSE_DATASET_URL = "https://dadosabertos.tse.jus.br/dataset/candidatos-{year}"
 PLAN_MEMBER = re.compile(r"^(\d{4})([A-Z]{2})(\d+)_\d+\.pdf$", re.IGNORECASE)
-
-
-def now_utc() -> str:
-    return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
 def create_public_database(year: int, proposal_paths: list[dict[str, str]], sources: list[dict[str, str]]) -> None:
@@ -84,7 +79,6 @@ def create_public_database(year: int, proposal_paths: list[dict[str, str]], sour
                 resource_name TEXT NOT NULL,
                 source_url TEXT NOT NULL,
                 metadata_modified TEXT,
-                retrieved_at TEXT NOT NULL,
                 license TEXT NOT NULL
             );
             CREATE INDEX idx_candidates_filters ON candidates(election_year, party_code, office, state_code);
@@ -126,12 +120,12 @@ def create_public_database(year: int, proposal_paths: list[dict[str, str]], sour
             FROM declared_assets WHERE election_year = ?
         """, (year,)).fetchall())
         public.executemany("""
-            INSERT INTO sources (id, resource_name, source_url, metadata_modified, retrieved_at, license)
-            VALUES (?, ?, ?, ?, ?, ?)
+            INSERT INTO sources (id, resource_name, source_url, metadata_modified, license)
+            VALUES (?, ?, ?, ?, ?)
         """, [
             (
                 index, item["resource_name"], item["source_url"],
-                item.get("metadata_modified"), item["retrieved_at"],
+                item.get("metadata_modified"),
                 "Creative Commons Atribuição (CC BY)",
             )
             for index, item in enumerate(sources, start=1)
@@ -227,7 +221,7 @@ def main() -> None:
     source.row_factory = sqlite3.Row
     try:
         sources = [dict(row) for row in source.execute("""
-            SELECT resource_name, source_url, metadata_modified, retrieved_at
+            SELECT resource_name, source_url, metadata_modified
             FROM sources
             WHERE dataset_slug = ? AND (
                 resource_name = 'Candidatos' OR resource_name = 'Histórico de candidaturas'
@@ -251,7 +245,10 @@ def main() -> None:
         public.close()
     PUBLIC_INFO.write_text(json.dumps({
         "election_year": args.year,
-        "generated_at": now_utc(),
+        "source_data_updated_at": max(
+            (item["metadata_modified"] for item in sources if item.get("metadata_modified")),
+            default=None,
+        ),
         "source": TSE_DATASET_URL.format(year=args.year),
         "license": "Creative Commons Atribuição (CC BY)",
         "attribution": "Fonte: Tribunal Superior Eleitoral (TSE), Dados Abertos. CC BY.",

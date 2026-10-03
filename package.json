@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "preview:pages": "node scripts/serve_static_preview.cjs",
+    "preview:pages": "node scripts/serve_static_preview.mjs",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
   },

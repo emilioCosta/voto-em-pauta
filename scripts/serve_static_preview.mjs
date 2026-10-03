@@ -1,8 +1,10 @@
-const fs = require("node:fs");
-const http = require("node:http");
-const path = require("node:path");
+import fs from "node:fs";
+import http from "node:http";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const root = path.resolve(__dirname, "..", "out");
+const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
+const root = path.resolve(scriptDirectory, "..", "out");
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "/informeC";
 const port = Number(process.env.PORT || 4173);
 const mimeTypes = {
