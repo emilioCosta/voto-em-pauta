@@ -11,7 +11,7 @@ type PlanAnalysis = { candidate_id: string; sha256: string; method: string; summ
 type PlanTopic = { id: string; label: string };
 type SenatorStatement = { text: string; section_title: string; topics: string[]; source_url: string; source_title: string; source_sha256: string; collected_at: string };
 type SenatorTopicSection = { id: string; label: string; summary: string; excerpts: SenatorStatement[] };
-type SenatorProposalData = { candidate_id: string; status: string; declared_sites: string[]; sources: Array<{ url: string; title: string; collected_at: string; kind: string }>; statements: SenatorStatement[]; sections: SenatorTopicSection[] };
+type SenatorProposalData = { candidate_id: string; status: string; declared_sites: string[]; sources: Array<{ url: string; title: string; collected_at: string; kind: string }>; statements: SenatorStatement[]; sections?: SenatorTopicSection[] };
 type Candidate = { tse_candidate_id: string; state_code: string; office: string; full_name: string; ballot_name: string; party_code: string; proposals: Proposal[]; analyses: PlanAnalysis[]; topicLabels: Record<string, string>; senatorProposal?: SenatorProposalData };
 
 function analysisCategory(office: string) {
@@ -89,7 +89,7 @@ export default function ProposalPage() {
         {candidate.office === "SENADOR" && candidate.senatorProposal && <section className="plan-analysis senator-proposals">
           <div className="analysis-heading"><div><p className="eyebrow">FONTES INDIVIDUAIS VINCULADAS AO TSE</p><h2>Propostas por tema</h2></div><span>16 TEMAS · {candidate.senatorProposal.statements.length} TRECHOS</span></div>
           <p className="analysis-disclaimer">Trechos coletados somente de site ou documento vinculado pelo próprio candidato no cadastro do TSE. Não usamos posts de redes sociais nem programa partidário como substitutos de propostas individuais.</p>
-          <div className="analysis-sections">{candidate.senatorProposal.sections.map((section) => <article className="analysis-section" key={section.id}>
+          <div className="analysis-sections">{(candidate.senatorProposal.sections ?? []).map((section) => <article className="analysis-section" key={section.id}>
             <div className="analysis-section-heading"><h3>{section.label}</h3><span>{section.excerpts.length} {section.excerpts.length === 1 ? "trecho" : "trechos"}</span></div>
             <p>{section.summary}</p>
             {section.excerpts.map((excerpt, index) => <div className="senator-evidence" key={`${excerpt.source_sha256}-${index}`}>

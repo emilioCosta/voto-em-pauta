@@ -439,6 +439,25 @@ def collect_candidate(candidate: dict[str, str], urls: list[str], shared_hosts: 
     return result
 
 
+def add_topic_sections(candidate: dict[str, Any]) -> None:
+    statements = candidate.get("statements", [])
+    for statement in statements:
+        statement["topics"] = classify_proposal_topics(statement.get("section_title", ""), statement.get("text", ""))
+    candidate["sections"] = []
+    for topic in TOPICS:
+        excerpts = [statement for statement in statements if topic["id"] in statement.get("topics", [])]
+        summary = (
+            extractive_summary(" ".join(item["text"] for item in excerpts), limit=2)
+            if excerpts else "Não foi observado no material consultado para esta candidatura."
+        )
+        candidate["sections"].append({
+            "id": topic["id"],
+            "label": topic["label"],
+            "summary": summary,
+            "excerpts": excerpts,
+        })
+
+
 def postprocess_existing(links_by_candidate: dict[str, list[str]]) -> None:
     host_owners: dict[str, set[str]] = defaultdict(set)
     for candidate_id, urls in links_by_candidate.items():
@@ -474,24 +493,7 @@ def postprocess_existing(links_by_candidate: dict[str, list[str]]) -> None:
                     if url and urllib.parse.urlsplit(url).hostname in shared_hosts:
                         candidate["status"] = "shared-site-without-individual-profile"
                         break
-            for statement in candidate.get("statements", []):
-                statement["topics"] = classify_proposal_topics(statement.get("section_title", ""), statement.get("text", ""))
-            candidate["sections"] = []
-            for topic in TOPICS:
-                excerpts = [
-                    statement for statement in candidate.get("statements", [])
-                    if topic["id"] in statement.get("topics", [])
-                ]
-                summary = (
-                    extractive_summary(" ".join(item["text"] for item in excerpts), limit=2)
-                    if excerpts else "Não foi observado no material consultado para esta candidatura."
-                )
-                candidate["sections"].append({
-                    "id": topic["id"],
-                    "label": topic["label"],
-                    "summary": summary,
-                    "excerpts": excerpts,
-                })
+            add_topic_sections(candidate)
         path.write_text(json.dumps(shard, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         state = shard.get("state_code", path.stem)
         entries = shard.get("candidates", [])
@@ -576,6 +578,7 @@ def main() -> None:
                 "statements": [],
                 "status": f"collection-error:{type(error).__name__}",
             }
+        add_topic_sections(entry)
         by_state[candidate["state_code"]].append(entry)
         print(f"{candidate['state_code']} {candidate['ballot_name']}: {entry['status']}; fontes {len(entry['sources'])}; propostas {len(entry['statements'])}")
 
