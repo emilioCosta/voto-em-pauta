@@ -6,6 +6,7 @@
   "attribution": "Fonte: Tribunal Superior Eleitoral (TSE), Dados Abertos. CC BY.",
   "candidates": 20988,
   "proposal_documents": 232,
+  "candidate_photos": 20985,
   "excluded_fields": [
     "CPF",
     "e-mail",

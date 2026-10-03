@@ -33,6 +33,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Instalar parser PDF
+        run: python -m pip install -r requirements-analysis.txt
+
       - name: Configurar Node
         uses: actions/setup-node@v4
         with:
@@ -48,11 +51,17 @@ jobs:
       - name: Gerar SQLite sanitizado e copiar propostas
         run: python scripts/build_public_data.py --year 2026
 
+      - name: Pré-computar resumos e tópicos dos planos
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: python scripts/analyze_plans.py --year 2026 --use-llm
+
       - name: Guardar snapshot e propostas no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A public/data public/propostas public/vendor/sql-wasm.wasm
+          git add -A public/data/voto_em_pauta.sqlite3 public/data/source-info.json public/data/plan-analysis.json public/propostas public/fotos public/vendor/sql-wasm.wasm
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza snapshot público do TSE"
             git push

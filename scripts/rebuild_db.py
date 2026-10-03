@@ -68,7 +68,7 @@ def selected_resources(year: int, public_only: bool = False) -> list[dict[str, A
                 if public_only:
                     wanted = name in {
                         "candidatos", "bens de candidatos", "historico de candidaturas"
-                    } or "proposta de governo" in name
+                    } or "proposta de governo" in name or name.endswith("fotos de candidatos")
                 else:
                     wanted = (
                         name in {

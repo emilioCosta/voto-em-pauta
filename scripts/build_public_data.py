@@ -16,13 +16,19 @@ PUBLIC_DIR = ROOT / "public"
 PUBLIC_DB = PUBLIC_DIR / "data" / "voto_em_pauta.sqlite3"
 PUBLIC_INFO = PUBLIC_DIR / "data" / "source-info.json"
 PROPOSAL_DIR = PUBLIC_DIR / "propostas"
+PHOTO_DIR = PUBLIC_DIR / "fotos"
 SQL_WASM_SOURCE = ROOT / "node_modules" / "sql.js" / "dist" / "sql-wasm.wasm"
 SQL_WASM_TARGET = PUBLIC_DIR / "vendor" / "sql-wasm.wasm"
 TSE_DATASET_URL = "https://dadosabertos.tse.jus.br/dataset/candidatos-{year}"
 PLAN_MEMBER = re.compile(r"^(\d{4})([A-Z]{2})(\d+)_\d+\.pdf$", re.IGNORECASE)
 
 
-def create_public_database(year: int, proposal_paths: list[dict[str, str]], sources: list[dict[str, str]]) -> None:
+def create_public_database(
+    year: int,
+    proposal_paths: list[dict[str, str]],
+    photo_paths: list[dict[str, str]],
+    sources: list[dict[str, str]],
+) -> None:
     PUBLIC_DB.parent.mkdir(parents=True, exist_ok=True)
     PUBLIC_DB.unlink(missing_ok=True)
     public = sqlite3.connect(PUBLIC_DB)
@@ -73,6 +79,12 @@ def create_public_database(year: int, proposal_paths: list[dict[str, str]], sour
                 public_path TEXT NOT NULL,
                 sha256 TEXT NOT NULL,
                 UNIQUE(candidate_id, file_name)
+            );
+            CREATE TABLE candidate_photos (
+                candidate_id TEXT PRIMARY KEY REFERENCES candidates(tse_candidate_id),
+                state_code TEXT NOT NULL,
+                public_path TEXT NOT NULL,
+                sha256 TEXT NOT NULL
             );
             CREATE TABLE sources (
                 id INTEGER PRIMARY KEY,
@@ -139,6 +151,13 @@ def create_public_database(year: int, proposal_paths: list[dict[str, str]], sour
                 item["public_path"], item["sha256"],
             )
             for item in proposal_paths
+        ])
+        public.executemany("""
+            INSERT INTO candidate_photos (candidate_id, state_code, public_path, sha256)
+            VALUES (?, ?, ?, ?)
+        """, [
+            (item["candidate_id"], item["state_code"], item["public_path"], item["sha256"])
+            for item in photo_paths
         ])
         public.execute("PRAGMA user_version = 1")
         public.commit()
@@ -210,6 +229,63 @@ def extract_public_proposals(year: int) -> list[dict[str, str]]:
         source.close()
 
 
+def extract_public_photos(year: int) -> list[dict[str, str]]:
+    photo_pattern = re.compile(r"^F([A-Z]{2})(\d+)_div\.jpe?g$", re.IGNORECASE)
+    if PHOTO_DIR.exists():
+        shutil.rmtree(PHOTO_DIR)
+    PHOTO_DIR.mkdir(parents=True)
+    source = sqlite3.connect(f"file:{SOURCE_DB.as_posix()}?mode=ro", uri=True)
+    source.row_factory = sqlite3.Row
+    try:
+        candidates = {
+            row["tse_candidate_id"]: row["state_code"]
+            for row in source.execute(
+                "SELECT tse_candidate_id, state_code FROM candidates WHERE election_year = ?", (year,)
+            )
+        }
+        archives = source.execute("""
+            SELECT resource_name, local_path
+            FROM sources
+            WHERE dataset_slug = ? AND resource_name LIKE '%Fotos de candidatos'
+            ORDER BY resource_name
+        """, (f"candidatos-{year}",)).fetchall()
+
+        photos: dict[str, dict[str, str]] = {}
+        for row in archives:
+            archive_path = ROOT / row["local_path"]
+            with zipfile.ZipFile(archive_path) as archive:
+                for info in archive.infolist():
+                    if info.is_dir():
+                        continue
+                    match = photo_pattern.fullmatch(PurePosixPath(info.filename).name)
+                    if not match:
+                        continue
+                    state_code, candidate_id = match.groups()
+                    state_code = state_code.upper()
+                    if candidates.get(candidate_id) != state_code or info.file_size > 10 * 1024 * 1024:
+                        continue
+                    target_dir = PHOTO_DIR / str(year) / state_code
+                    target_dir.mkdir(parents=True, exist_ok=True)
+                    target = target_dir / f"{candidate_id}.jpg"
+                    digest = hashlib.sha256()
+                    with archive.open(info) as input_file, target.open("wb") as output_file:
+                        while chunk := input_file.read(256 * 1024):
+                            output_file.write(chunk)
+                            digest.update(chunk)
+                    if target.read_bytes()[:2] != b"\xff\xd8":
+                        target.unlink(missing_ok=True)
+                        continue
+                    photos[candidate_id] = {
+                        "candidate_id": candidate_id,
+                        "state_code": state_code,
+                        "public_path": f"/fotos/{year}/{state_code}/{candidate_id}.jpg",
+                        "sha256": digest.hexdigest(),
+                    }
+        return list(photos.values())
+    finally:
+        source.close()
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Gera arquivos estáticos públicos do TSE para GitHub Pages.")
     parser.add_argument("--year", type=int, default=2026)
@@ -226,6 +302,7 @@ def main() -> None:
             WHERE dataset_slug = ? AND (
                 resource_name = 'Candidatos' OR resource_name = 'Histórico de candidaturas'
                 OR resource_name LIKE '%Proposta de governo'
+                OR resource_name LIKE '%Fotos de candidatos'
             )
             ORDER BY resource_name
         """, (f"candidatos-{args.year}",))]
@@ -233,7 +310,8 @@ def main() -> None:
         source.close()
 
     proposals = extract_public_proposals(args.year)
-    create_public_database(args.year, proposals, sources)
+    photos = extract_public_photos(args.year)
+    create_public_database(args.year, proposals, photos, sources)
     if not SQL_WASM_SOURCE.exists():
         raise SystemExit("sql.js ausente; execute npm ci antes da publicação estática.")
     SQL_WASM_TARGET.parent.mkdir(parents=True, exist_ok=True)
@@ -254,11 +332,12 @@ def main() -> None:
         "attribution": "Fonte: Tribunal Superior Eleitoral (TSE), Dados Abertos. CC BY.",
         "candidates": candidate_count,
         "proposal_documents": len(proposals),
+        "candidate_photos": len(photos),
         "excluded_fields": ["CPF", "e-mail", "telefone", "título eleitoral", "descrições livres de bens/endereço"],
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Snapshot público: {PUBLIC_DB.relative_to(ROOT)}")
-    print(f"Candidaturas e histórico exportados; propostas públicas válidas: {len(proposals)}")
-    print(f"SQLite: {PUBLIC_DB.stat().st_size / (1024 * 1024):.1f} MB; PDFs: {sum(path.stat().st_size for path in PROPOSAL_DIR.rglob('*.pdf')) / (1024 * 1024):.1f} MB")
+    print(f"Candidaturas e histórico exportados; propostas: {len(proposals)}; fotos: {len(photos)}")
+    print(f"SQLite: {PUBLIC_DB.stat().st_size / (1024 * 1024):.1f} MB; PDFs: {sum(path.stat().st_size for path in PROPOSAL_DIR.rglob('*.pdf')) / (1024 * 1024):.1f} MB; fotos: {sum(path.stat().st_size for path in PHOTO_DIR.rglob('*.jpg')) / (1024 * 1024):.1f} MB")
 
 
 if __name__ == "__main__":

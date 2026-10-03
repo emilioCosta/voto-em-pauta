@@ -1,6 +1,7 @@
 "use client";
 
 import initSqlJs, { type Database } from "sql.js";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
@@ -18,6 +19,7 @@ type Candidate = {
   registration_status: string;
   registration_detail: string;
   proposal_count: number;
+  photo_path: string | null;
 };
 type Filters = { query: string; party: string; office: string; state: string; page: number };
 type Party = { code: string; name: string };
@@ -26,14 +28,19 @@ type Result = { candidates: Candidate[]; total: number; page: number; pageCount:
 const EMPTY_FILTERS: Filters = { query: "", party: "", office: "", state: "", page: 1 };
 
 function allRows<T>(database: Database, query: string, values: (string | number)[] = []): T[] {
-  const statement = database.prepare(query);
   try {
-    statement.bind(values);
-    const rows: T[] = [];
-    while (statement.step()) rows.push(statement.getAsObject() as T);
-    return rows;
-  } finally {
-    statement.free();
+    const statement = database.prepare(query);
+    try {
+      statement.bind(values);
+      const rows: T[] = [];
+      while (statement.step()) rows.push(statement.getAsObject() as T);
+      return rows;
+    } finally {
+      statement.free();
+    }
+  } catch (cause) {
+    console.error("SQLite query failed:", query);
+    throw cause;
   }
 }
 
@@ -68,7 +75,8 @@ function makeResult(database: Database, filters: Filters): Result {
     SELECT c.tse_candidate_id, c.state_code, c.office, c.full_name,
       c.ballot_name, c.party_code, c.party_name, c.ballot_number,
       c.registration_status, c.registration_detail,
-      (SELECT COUNT(*) FROM proposals p WHERE p.candidate_id = c.tse_candidate_id) AS proposal_count
+      (SELECT COUNT(*) FROM proposals p WHERE p.candidate_id = c.tse_candidate_id) AS proposal_count,
+      (SELECT public_path FROM candidate_photos p WHERE p.candidate_id = c.tse_candidate_id) AS photo_path
     FROM candidates c WHERE ${clause}
     ORDER BY c.state_code, c.office, c.ballot_name COLLATE NOCASE
     LIMIT ? OFFSET ?
@@ -159,7 +167,8 @@ export default function CandidatesBrowser() {
           <div className="candidate-list">{result.candidates.map((candidate, index) => {
             const status = candidate.registration_status && !["#NE", "#NULO", "-"].includes(candidate.registration_status) ? candidate.registration_status : null;
             return <article className="candidate-row" key={candidate.tse_candidate_id}>
-              <div className="candidate-index">{String((result.page - 1) * PAGE_SIZE + index + 1).padStart(2, "0")}</div><div className="candidate-monogram" aria-hidden="true">{initials(candidate.ballot_name || candidate.full_name)}</div>
+              <div className="candidate-index">{String((result.page - 1) * PAGE_SIZE + index + 1).padStart(2, "0")}</div>
+              {candidate.photo_path ? <Image className="candidate-monogram candidate-photo" src={`${BASE_PATH}${candidate.photo_path}`} alt={`Foto de ${candidate.ballot_name || candidate.full_name}`} width={41} height={41} unoptimized /> : <div className="candidate-monogram" aria-hidden="true">{initials(candidate.ballot_name || candidate.full_name)}</div>}
               <div className="candidate-main"><p className="candidate-ballot">{candidate.ballot_name || candidate.full_name}</p><p className="candidate-fullname">{candidate.full_name}</p></div>
               <div className="candidate-office"><span>{candidate.office}</span><strong>{candidate.state_code === "BR" ? "BRASIL" : candidate.state_code}</strong>{status && <small>{status}</small>}</div>
               <div className="candidate-party"><strong>{candidate.party_code}</strong><span>{candidate.party_name}</span></div>
