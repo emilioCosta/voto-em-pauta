@@ -189,7 +189,7 @@
           "title": "Eduardo da Fonte | Candidato ao Senado por Pernambuco",
           "sha256": "14693fad61bb5d6ef8c494255a44a55d7656a3df7303420e3564cf18b6c81d8c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:13+00:00"
+          "collected_at": "2026-10-05T15:46:52+00:00"
         }
       ],
       "statements": [],
@@ -415,7 +415,7 @@
           "title": "Humberto Costa - Senador de Lula, senador de Pernambuco",
           "sha256": "a76c3e63d5043511b982d71b9f5a33a765d84f9d21c6e936ad5d9dae68c5913e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:15+00:00"
+          "collected_at": "2026-10-05T15:46:54+00:00"
         }
       ],
       "statements": [],
@@ -531,9 +531,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/mailson-da-silva-neto/",
           "title": "MAILSON DA SILVA NETO - Portal Eleitoral do PCO",
-          "sha256": "c40497e5f3c2a559cea5b896ce15005a384c9ec90b48a90dcaf3c303f1b92dd1",
+          "sha256": "c3b7bbaf30e2dc18192c5239750270cd960329f61c43125dbdb6a337ba10b4f4",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:20+00:00"
+          "collected_at": "2026-10-05T15:46:57+00:00"
         }
       ],
       "statements": [],
@@ -759,7 +759,7 @@
           "title": "Fique mais perto de Marília Arraes | Grupo oficial no WhatsApp",
           "sha256": "907a09df3da27b8c28f9e9f2df85ffeea9d718beec41c32ec6c89283e72aabd8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:22+00:00"
+          "collected_at": "2026-10-05T15:46:59+00:00"
         }
       ],
       "statements": [],
@@ -875,9 +875,9 @@
         {
           "url": "https://MENDONCAFILHO.COM.BR/",
           "title": "Mendonça Senador 222 – A voz de Pernambuco no Senado",
-          "sha256": "9d750c92425de01e3ae5c07689eea15d6db1f1a621178923972bbb93e1cf74ca",
+          "sha256": "5315259ce291e800d36555a85cc77a4f72fbfb9b87affd38aff23ae95c570d12",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:28+00:00"
+          "collected_at": "2026-10-05T15:47:04+00:00"
         }
       ],
       "statements": [],
@@ -1317,44 +1317,13 @@
         {
           "url": "https://tulio555.com/",
           "title": "Túlio 555 Senador – Raquel Confia, Pernambuco Aprova!",
-          "sha256": "137429a646f1f9d2dd4c1089bc977003744dc5aa96d2b8f6b9b5c467f8b95c3e",
+          "sha256": "00f0064b784288f4361214c551afc528bb25421bca769364a5b735d787763947",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:29+00:00"
-        },
-        {
-          "url": "https://tulio555.com/a-cultura-tem-voz-no-senado-o-legado-e-as-propostas-de-tulio-para-o-futuro-da-nossa-arte/",
-          "title": "A cultura tem voz no Senado: O legado e as propostas de Túlio para o futuro da nossa arte – Túlio 555 Senador",
-          "sha256": "15e6b690e15cd4dbae8c3718887e717e2893bc2d7b88c185abdb31ea7505b184",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:30+00:00"
-        },
-        {
-          "url": "https://tulio555.com/a-cultura-tem-voz-no-senado-o-legado-e-as-propostas-de-tulio-para-o-futuro-da-nossa-arte/#content",
-          "title": "A cultura tem voz no Senado: O legado e as propostas de Túlio para o futuro da nossa arte – Túlio 555 Senador",
-          "sha256": "350265e9a86f7faa6a94a02fd036873c6b13788ce9869fc4fee6402ddb36529f",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:31+00:00"
-        },
-        {
-          "url": "https://tulio555.com/a-cultura-tem-voz-no-senado-o-legado-e-as-propostas-de-tulio-para-o-futuro-da-nossa-arte/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjQ3NjEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
-          "title": "A cultura tem voz no Senado: O legado e as propostas de Túlio para o futuro da nossa arte – Túlio 555 Senador",
-          "sha256": "3bb92ea8f0742be211963c543c1ba369c7250e31367ad54c1b18f831e789a309",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:32+00:00"
+          "collected_at": "2026-10-05T15:47:05+00:00"
         }
       ],
-      "statements": [
-        {
-          "text": "Fazer política pública para quem cria exige coragem, escuta e coerência. É essa mesma energia que queremos levar para o Senado Federal, garantindo que Pernambuco continue sendo referência cultural para o Brasil.",
-          "section_title": "Cultura como motor de desenvolvimento",
-          "topics": [],
-          "source_url": "https://tulio555.com/a-cultura-tem-voz-no-senado-o-legado-e-as-propostas-de-tulio-para-o-futuro-da-nossa-arte/",
-          "source_title": "A cultura tem voz no Senado: O legado e as propostas de Túlio para o futuro da nossa arte – Túlio 555 Senador",
-          "source_sha256": "15e6b690e15cd4dbae8c3718887e717e2893bc2d7b88c185abdb31ea7505b184",
-          "collected_at": "2026-10-03T20:31:30+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",

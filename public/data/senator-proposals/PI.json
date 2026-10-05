@@ -406,38 +406,31 @@
       "sources": [
         {
           "url": "https://tocomciro111.com/",
-          "title": "Ciro Nogueira 111 — O Senador da Gente",
-          "sha256": "14df18f095796841e103c608cf74e87c11a4326dfeac35fe0fba5d980e6eeb60",
+          "title": "Site fora do ar",
+          "sha256": "e7db10e77132e56100709c656464ce637724f79eb0db81363a5612fe70e7d967",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:34+00:00"
-        },
-        {
-          "url": "https://tocomciro111.com/projetos-de-lei.html",
-          "title": "Projetos de Lei — Ciro Nogueira 111",
-          "sha256": "2c4be9290c7bb0e37350ffcb6face9885cb5678803a37d8f0bea7aafd2496c0d",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:35+00:00"
+          "collected_at": "2026-10-05T15:47:07+00:00"
         },
         {
           "url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "title": "‎Ciro Nogueira — Apple Music",
-          "sha256": "429b10ad43449ef3bfb518905252428e30bbea8b5ec041a06d495a44069c32c1",
+          "sha256": "f889269bada1a0c75dc89f76bebb589439442e0c272b8ac2bc93f8e163f32de1",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:37+00:00"
+          "collected_at": "2026-10-05T15:47:08+00:00"
         },
         {
           "url": "https://music.amazon.com.br/artists/B0HFFJQRRY",
           "title": "",
           "sha256": "2c227e47b185041aaeb4bf07c2995a409a3236f6b03dc72f97622230f556bea4",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:38+00:00"
+          "collected_at": "2026-10-05T15:47:09+00:00"
         },
         {
           "url": "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
           "title": "MATERIAL CAMPANHA - SENADOR CIRO 111 - Google Drive",
-          "sha256": "e7b55d8c1f2a7a5a148d653af1b370df4bf3fcfd2adf9fd70a66b78962b558da",
+          "sha256": "e1c9fba598e89fa7b011a5eff8464961dfac11c88e25fd4c31609bd0fa822803",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:39+00:00"
+          "collected_at": "2026-10-05T15:47:11+00:00"
         }
       ],
       "statements": [
@@ -447,8 +440,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "429b10ad43449ef3bfb518905252428e30bbea8b5ec041a06d495a44069c32c1",
-          "collected_at": "2026-10-03T20:31:37+00:00"
+          "source_sha256": "f889269bada1a0c75dc89f76bebb589439442e0c272b8ac2bc93f8e163f32de1",
+          "collected_at": "2026-10-05T15:47:08+00:00"
         },
         {
           "text": "Ciro 111 Senador (Eu Vou Votar) - Single Ciro 111 Senador (Eu Vou Votar) - Single",
@@ -456,8 +449,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "429b10ad43449ef3bfb518905252428e30bbea8b5ec041a06d495a44069c32c1",
-          "collected_at": "2026-10-03T20:31:37+00:00"
+          "source_sha256": "f889269bada1a0c75dc89f76bebb589439442e0c272b8ac2bc93f8e163f32de1",
+          "collected_at": "2026-10-05T15:47:08+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1332,7 +1325,7 @@
           "title": "Júlio César 555 — Grupos por Território",
           "sha256": "d3c07e528580a576b20ae327cedb108db8a0863019879b75a2a443d5628f7ade",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:43+00:00"
+          "collected_at": "2026-10-05T15:47:18+00:00"
         }
       ],
       "statements": [],
@@ -1558,7 +1551,7 @@
           "title": "Sendor Marcelo Castro",
           "sha256": "6492c6e7433903021c162041854443ceb978a78c317269f2db12f6eb7f101f8b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:46+00:00"
+          "collected_at": "2026-10-05T15:47:20+00:00"
         }
       ],
       "statements": [],
@@ -1890,9 +1883,9 @@
         {
           "url": "https://www.pastorsena.com.br/",
           "title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "sha256": "9b34b58b8a66678e0782735230e92bd13c61a686e3489a42999f26dabc75ada1",
+          "sha256": "e76c21401517ba7e26c3bff87b6ebb398436011a4a20fb280ac5cd5c3b0b1a71",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:31:50+00:00"
+          "collected_at": "2026-10-05T15:47:25+00:00"
         }
       ],
       "statements": [
@@ -1902,8 +1895,8 @@
           "topics": [],
           "source_url": "https://www.pastorsena.com.br/",
           "source_title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "source_sha256": "9b34b58b8a66678e0782735230e92bd13c61a686e3489a42999f26dabc75ada1",
-          "collected_at": "2026-10-03T20:31:50+00:00"
+          "source_sha256": "e76c21401517ba7e26c3bff87b6ebb398436011a4a20fb280ac5cd5c3b0b1a71",
+          "collected_at": "2026-10-05T15:47:25+00:00"
         }
       ],
       "status": "proposals-found",

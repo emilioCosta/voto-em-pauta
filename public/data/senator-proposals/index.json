@@ -67,7 +67,7 @@
       "label": "Justiça e defesa"
     }
   ],
-  "generated_at": "2026-10-03T20:36:14+00:00",
+  "generated_at": "2026-10-05T15:51:29+00:00",
   "partitions": {
     "AC": {
       "path": "/data/senator-proposals/AC.json",
@@ -92,7 +92,7 @@
     "BA": {
       "path": "/data/senator-proposals/BA.json",
       "candidates": 10,
-      "with_proposals": 1
+      "with_proposals": 0
     },
     "CE": {
       "path": "/data/senator-proposals/CE.json",
@@ -107,7 +107,7 @@
     "ES": {
       "path": "/data/senator-proposals/ES.json",
       "candidates": 11,
-      "with_proposals": 1
+      "with_proposals": 0
     },
     "GO": {
       "path": "/data/senator-proposals/GO.json",
@@ -147,7 +147,7 @@
     "PE": {
       "path": "/data/senator-proposals/PE.json",
       "candidates": 12,
-      "with_proposals": 1
+      "with_proposals": 0
     },
     "PI": {
       "path": "/data/senator-proposals/PI.json",

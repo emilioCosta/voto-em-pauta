@@ -188,23 +188,23 @@
         {
           "url": "https://senadorevair100.com.br/",
           "title": "Faça parte do Time Evair — Espírito Santo",
-          "sha256": "af0538c646f3b4576785c80cb8855307456187eec829284f3c089ff6874234ff",
+          "sha256": "a882a44d0a12f2c14112d38da7d97d7e6a59cca929b08157a166ab6656fa5f9a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:27:56+00:00"
+          "collected_at": "2026-10-05T15:43:50+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/",
           "title": "Deputado Federal Evair de Melo: Home",
-          "sha256": "7e3f4d0e122dc3c99fc1ae3cb03010038d11133704359f162cbc7a192f4e4c75",
+          "sha256": "f6b0864626ec3428806e80344c077080f9b45ba4eb7b949dd319b7e05eec2246",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:27:58+00:00"
+          "collected_at": "2026-10-05T15:43:52+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/noticias/sao-gabriel-da-palha-pode-ser-capital-nacional-do-cafe-conilon-por-projeto-de-evair",
           "title": "Deputado Federal Evair de Melo: Noticias",
-          "sha256": "ad301b9c3d26cc45291c3b64db320ddce99467dc6e2519899ce1461e5a139955",
+          "sha256": "fe399aa04279f33de615470e9dad385bf0542bdcdee0dcac6e1ebb079aeafcee",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:27:59+00:00"
+          "collected_at": "2026-10-05T15:43:54+00:00"
         }
       ],
       "statements": [],
@@ -426,31 +426,9 @@
       "declared_sites": [
         "https://LEONARDOMONJARDIM.COM.BR/"
       ],
-      "sources": [
-        {
-          "url": "https://LEONARDOMONJARDIM.COM.BR/",
-          "title": "Vereador Leonardo Monjardim",
-          "sha256": "ee864d1e3898480ea2544c306c88caba10f7bc26c4ba1382d961e54544da1af4",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:09+00:00"
-        },
-        {
-          "url": "https://leonardomonjardim.com.br/projetos/",
-          "title": "projetos - Vereador Leonardo Monjardim",
-          "sha256": "b0f107442b9ec52642413cb2693b4bce4982fd3de69e314ea4f1992b391fd9f8",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:10+00:00"
-        },
-        {
-          "url": "https://leonardomonjardim.com.br/projetos/#content",
-          "title": "projetos - Vereador Leonardo Monjardim",
-          "sha256": "fbf6fb2a5e643aea1b18b013e991dc46c173013e79c812b9d3813dd543a34b3c",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:12+00:00"
-        }
-      ],
+      "sources": [],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",
@@ -677,21 +655,21 @@
           "title": "",
           "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:18+00:00"
+          "collected_at": "2026-10-05T15:44:05+00:00"
         },
         {
           "url": "https://AVERDADEDOCUMENTADA.COM.BR/",
           "title": "A Verdade Documentada!",
           "sha256": "61907f473af2b928ab22f48f11eb4817bea95486b4c7d402cfc5cc5a313c4dc0",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:21+00:00"
+          "collected_at": "2026-10-05T15:44:08+00:00"
         },
         {
           "url": "https://SENADORTRANSPARENTE.COM.BR/",
           "title": "Recursos - Senador Marcos do Val",
           "sha256": "0713f57f99f57c9a93f21aa350a4d7bcc08c479b0086355c099dd08065444027",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:23+00:00"
+          "collected_at": "2026-10-05T15:44:10+00:00"
         }
       ],
       "statements": [],
@@ -803,155 +781,27 @@
       "declared_sites": [
         "https://PROFESSORFABIAN.COM.BR/"
       ],
-      "sources": [
-        {
-          "url": "https://PROFESSORFABIAN.COM.BR/",
-          "title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        }
-      ],
-      "statements": [
-        {
-          "text": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação.",
-          "section_title": "Minhas Propostas",
-          "topics": [
-            "education"
-          ],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        },
-        {
-          "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
-          "section_title": "Minhas Propostas",
-          "topics": [
-            "public-safety",
-            "culture-sports-tourism"
-          ],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        },
-        {
-          "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
-          "section_title": "Minhas Propostas",
-          "topics": [
-            "education",
-            "health",
-            "culture-sports-tourism"
-          ],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        },
-        {
-          "text": "Os movimentos no combate ao racismo, ao machismo e à LGBTfobia carecem de representação no Congresso que lute pelas suas pautas históricas. Quero ampliar o diálogo institucional com essas bases, fortalecendo pautas historicamente tratadas como secundárias pelo Congresso.",
-          "section_title": "Minhas Propostas",
-          "topics": [],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        },
-        {
-          "text": "Ajudei a construir, junto à Arquidiocese de Vitória, o caderno de política de proteção à infância, e quero levar essa experiência para o Senado. Defendo políticas transversais de formação de crianças e jovens através da educação, da cultura e do esporte, com foco especial em quem teve o direito à liberdade negado pela falta de acesso a oportunidades.",
-          "section_title": "Minhas Propostas",
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        },
-        {
-          "text": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
-          "section_title": "Minhas Propostas",
-          "topics": [
-            "rights-inclusion"
-          ],
-          "source_url": "https://PROFESSORFABIAN.COM.BR/",
-          "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-          "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-          "collected_at": "2026-10-03T20:28:26+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",
           "label": "Educação",
-          "summary": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação. Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios.",
-          "excerpts": [
-            {
-              "text": "Quero tratar a escola pública como estrutura central de transformação social e priorizar a educação de jovens e adultos, especialmente nos territórios historicamente esquecidos pelo poder público, e cuidar também dos profissionais que atuam nas instituições privadas de educação, monitorando permanentemente a execução das metas dos planos nacional, estadual e municipal de educação.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "education"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            },
-            {
-              "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "education",
-                "health",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "health",
           "label": "Saúde",
-          "summary": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
-          "excerpts": [
-            {
-              "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "education",
-                "health",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "public-safety",
           "label": "Segurança pública",
-          "summary": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar.",
-          "excerpts": [
-            {
-              "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "public-safety",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "economy-jobs",
@@ -1004,63 +854,14 @@
         {
           "id": "culture-sports-tourism",
           "label": "Cultura, esporte e turismo",
-          "summary": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar.",
-          "excerpts": [
-            {
-              "text": "Proponho um modelo de segurança que rompe com a lógica do armamento e da repressão à periferia. Defendo câmeras em 100% dos fardamentos policiais, a criação de uma ouvidoria independente para segurança pública, militar, civil e guarda, o fortalecimento de políticas de prevenção à tortura e a massacres, e que a justiça responsável por esses casos seja civil, não militar. Quero priorizar investimento em educação, cultura, esporte e iluminação pública para crianças e jovens, indo à raiz da violência antes da punição.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "public-safety",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            },
-            {
-              "text": "Sou ligado ao samba capixaba e às tradições populares do estado, e por isso defendo políticas de valorização e sustentação das escolas de samba, dos grupos culturais de base comunitária e das rádios comunitárias que já sustentam a cultura do Espírito Santo com recursos próprios. Quero reconhecer a cultura popular como política de Estado, e não como evento isolado, dando estrutura permanente ao que hoje se sustenta na base da doação e do voluntariado.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "education",
-                "health",
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            },
-            {
-              "text": "Ajudei a construir, junto à Arquidiocese de Vitória, o caderno de política de proteção à infância, e quero levar essa experiência para o Senado. Defendo políticas transversais de formação de crianças e jovens através da educação, da cultura e do esporte, com foco especial em quem teve o direito à liberdade negado pela falta de acesso a oportunidades.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "culture-sports-tourism"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "rights-inclusion",
           "label": "Direitos e inclusão",
-          "summary": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
-          "excerpts": [
-            {
-              "text": "As juventudes há tempos lutam por espaços de cultura e de formação no campo das artes, da saúde, da agroecologia, mas fundamentalmente, a juventude negra e periférica luta pela vida, luta para não ser morta nas mãos do Estado, que ora negligencia seus direitos, ora atira em seus corpos. É com essa compreensão que vamos atuar na construção de políticas públicas para as juventudes.",
-              "section_title": "Minhas Propostas",
-              "topics": [
-                "rights-inclusion"
-              ],
-              "source_url": "https://PROFESSORFABIAN.COM.BR/",
-              "source_title": "Professor Fabian – Pré-Candidato ao Senado – PSol ES",
-              "source_sha256": "0fcba497a281a3ccbe5270543ddcd5c0aca5e1921ed40c3b79f7d1843af4816b",
-              "collected_at": "2026-10-03T20:28:26+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "governance",
@@ -1420,9 +1221,9 @@
         {
           "url": "https://sergiomeneguelli.com.br/",
           "title": "Sergio Meneguelli – Prefeito de Colatina",
-          "sha256": "f3fc325098505bae140af13b6d01ca83250d739877aecadc05115c21f6609e0b",
+          "sha256": "512b4d7b0027ff18b363b32ef1ccb1c70baf5c40f6b262ccf70c9353add74c49",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-03T20:28:33+00:00"
+          "collected_at": "2026-10-05T15:44:22+00:00"
         }
       ],
       "statements": [],
