@@ -79,37 +79,37 @@
         {
           "url": "https://AFRANIO.ORG.BR/",
           "title": "Principal - Afrânio Boppré",
-          "sha256": "01eb3f3fa77b2373ea16b45f4a4e56384963e2b8d074a15ebbed8f9f4b4c2ffd",
+          "sha256": "d0668ca4367747bd9b3bbf85cbd221fc5365b9c826c168dbfe8f08116454e235",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:49+00:00"
+          "collected_at": "2026-10-08T14:36:31+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "3066b3f6f5bec9c32d3f924d73659e42cbd3cf29bdfe895a8f58cb723a5082ec",
+          "sha256": "1fef470699523d72ad5ea9d8eec74f34464685ed055ad5224fe60968752dd52e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:52+00:00"
+          "collected_at": "2026-10-08T14:36:33+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/04/camara-aprova-regime-de-urgencia-sobre-projeto-de-cidade-esponja/",
           "title": "Câmara aprova regime de urgência sobre projeto de cidade esponja - Afrânio Boppré",
-          "sha256": "da0d7bc0d863dbd5e4d4bced6081a9ccdaa73f3a10544c23385af1672d04ab77",
+          "sha256": "13b26e3175443573140db0ce2bbab8166edbf75a3bc509725eb98ea800b2dd78",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:54+00:00"
+          "collected_at": "2026-10-08T14:36:35+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/03/municiparios-de-florianopolis-divulgam-carta-exigindo-mudanca-no-plano-de-saude-da-categoria/",
           "title": "Municipários de Florianópolis divulgam carta exigindo mudança no plano de saúde da categoria - Afrânio Boppré",
-          "sha256": "def6ec35834221a2f6a2287a696c7c2aa09e2d2a251b07029417a9489b166422",
+          "sha256": "2f4ba9655135b14fc34c08c8f447ead1e8250c4fa20e804fd21d68ed6c9d790e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:56+00:00"
+          "collected_at": "2026-10-08T14:36:37+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/#content",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "3066b3f6f5bec9c32d3f924d73659e42cbd3cf29bdfe895a8f58cb723a5082ec",
+          "sha256": "f20706faedee7d15192f92f0b4a7c0cfefa52c41fc0dbd36e7293b5847de2eb8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:57+00:00"
+          "collected_at": "2026-10-08T14:36:39+00:00"
         }
       ],
       "statements": [],
@@ -555,7 +555,7 @@
           "title": "Carol De Toni 221 · Senado",
           "sha256": "73cf824a284d95550cedb58822b0545e30bf212795b19d5b0e5b1c5ba5d8bb57",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:50:02+00:00"
+          "collected_at": "2026-10-08T14:36:44+00:00"
         }
       ],
       "statements": [],
@@ -668,17 +668,9 @@
         "https://deciosenador.com.br/",
         "https://grupolulasc.com.br/"
       ],
-      "sources": [
-        {
-          "url": "https://deciosenador.com.br/",
-          "title": "Décio Lima – 133",
-          "sha256": "5e0bad1b325c26fbd887fe0eb8eaff432423ef0b7f9969307275ff5e7ed73b0f",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:50:06+00:00"
-        }
-      ],
+      "sources": [],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",
@@ -790,9 +782,9 @@
         {
           "url": "https://tocomamin.com.br/",
           "title": "Tô com Amin",
-          "sha256": "f2a2c20df3a39e7b572a1c4ad5f912902271a759729240c38d236ecdf67e0f3d",
+          "sha256": "3bfa81738f533ea90e9d7145aca379a5d5c19acaeba6b73edb60d1715a4696ff",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:50:11+00:00"
+          "collected_at": "2026-10-08T14:37:02+00:00"
         }
       ],
       "statements": [],
@@ -910,14 +902,14 @@
           "title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:50:14+00:00"
+          "collected_at": "2026-10-08T14:37:05+00:00"
         },
         {
           "url": "https://www.jefersonrocha.store/#baixar",
           "title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:50:16+00:00"
+          "collected_at": "2026-10-08T14:37:07+00:00"
         }
       ],
       "statements": [
@@ -928,7 +920,7 @@
           "source_url": "https://www.jefersonrocha.store/",
           "source_title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "source_sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
-          "collected_at": "2026-10-05T15:50:14+00:00"
+          "collected_at": "2026-10-08T14:37:05+00:00"
         },
         {
           "text": "Constituinte até 2030, com base no trabalho do deputado Luiz Philippe de Orleans e Bragança: menos poder para Brasília, mandato para juízes e democracia direta. E digo sem rodeios: condeno o golpe de Estado de 1889, que depôs Dom Pedro II sem ouvir o povo, e defenderei a volta da monarquia parlamentarista — que deu ao Brasil um dos maiores períodos de progresso de sua história — por plebiscito, para que o povo decida, livremente, a forma de governo do país.",
@@ -937,7 +929,7 @@
           "source_url": "https://www.jefersonrocha.store/",
           "source_title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "source_sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
-          "collected_at": "2026-10-05T15:50:14+00:00"
+          "collected_at": "2026-10-08T14:37:05+00:00"
         }
       ],
       "status": "proposals-found",

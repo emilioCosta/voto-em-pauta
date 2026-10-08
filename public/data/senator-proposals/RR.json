@@ -189,7 +189,7 @@
           "title": "Senador Chico Rodrigues | Senador do Povo!",
           "sha256": "68e56683ddc720ad934424c3857b5c6041d810a4ad8369092eea26b5d215ade1",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:58+00:00"
+          "collected_at": "2026-10-08T14:35:43+00:00"
         }
       ],
       "statements": [],
@@ -413,17 +413,10 @@
       "sources": [
         {
           "url": "http://www.heliobolsonaro.com.br/",
-          "title": "Helio Bolsonaro 222 — Roraima no topo do Brasil",
-          "sha256": "2cf1bfdc1059943d256b850d5c7a1e2dc72abba2e7b9cc0aafc07bcad877e32b",
+          "title": "Obrigado, Roraima — Helio Bolsonaro 222",
+          "sha256": "dfc78eea2dfdf9f3e521e0168a1d042925419ac0e5842ecca68f011b4910aee8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:07+00:00"
-        },
-        {
-          "url": "http://www.heliobolsonaro.com.br/propostas.html",
-          "title": "53 propostas para Roraima — Helio Bolsonaro 222",
-          "sha256": "39526f78ed3e1172d7724b11ffd6ff80ccf7c4b856c70c38a17d1fdbc5af1ddb",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:08+00:00"
+          "collected_at": "2026-10-08T14:35:48+00:00"
         }
       ],
       "statements": [],
@@ -650,7 +643,7 @@
           "title": "Inicio",
           "sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         }
       ],
       "statements": [
@@ -661,7 +654,7 @@
           "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
           "source_title": "Inicio",
           "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         },
         {
           "text": "Trabalhar para levar mais consultas, exames, equipamentos e profissionais aos municípios, diminuindo a necessidade de deslocamento até Boa Vista. Também apoiar a telessaúde e defender transparência nas filas de atendimento.",
@@ -670,7 +663,7 @@
           "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
           "source_title": "Inicio",
           "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         },
         {
           "text": "Apoiar a produção local, o pequeno produtor, a agroindústria, o turismo e o comércio com a Guiana, a Venezuela e os países do Caribe, criando condições para gerar emprego e renda dentro do estado.",
@@ -681,7 +674,7 @@
           "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
           "source_title": "Inicio",
           "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         },
         {
           "text": "Defender políticas construídas com diálogo, consulta e respeito às decisões das comunidades, apoiando o acesso à água, energia, internet, produção, renda e proteção territorial.",
@@ -690,7 +683,7 @@
           "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
           "source_title": "Inicio",
           "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         },
         {
           "text": "Buscar recursos para prevenir queimadas, fortalecer brigadas, ampliar o saneamento e apoiar atividades que conciliem produção, preservação e geração de renda.",
@@ -699,7 +692,7 @@
           "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
           "source_title": "Inicio",
           "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-          "collected_at": "2026-10-05T15:49:11+00:00"
+          "collected_at": "2026-10-08T14:35:52+00:00"
         }
       ],
       "status": "proposals-found",
@@ -736,7 +729,7 @@
               "source_url": "http://WWW.HIPERIONDEOLIVEIRA.COM.BR/",
               "source_title": "Inicio",
               "source_sha256": "f2afe5acda1aa9e95ff3d6cf2800d90bc37fde6d04955735383a086512548f96",
-              "collected_at": "2026-10-05T15:49:11+00:00"
+              "collected_at": "2026-10-08T14:35:52+00:00"
             }
           ]
         },

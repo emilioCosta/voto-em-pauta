@@ -296,37 +296,37 @@
         {
           "url": "https://EDUARDOBRAGAAM.COM.BR/",
           "title": "Home",
-          "sha256": "6304c450501c4bb9f1c5191dea18ff6f68769d14ca29416e7239c676a0e9cd48",
+          "sha256": "b0c5174be2a866249fc6f204a2073fb1ae99984a038a605bfda8769769810352",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:41:30+00:00"
+          "collected_at": "2026-10-08T14:28:33+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "f8405b0e50d30bed901ea05a78cd7e6fbab3365f2e2a458bab49013dd3305458",
+          "sha256": "5f64e693293f26aa97fd694d51459579989e5cb836039fed3c647445cc6414e1",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:41:33+00:00"
+          "collected_at": "2026-10-08T14:28:37+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/noticia/presidente-sanciona-politica-nacional-de-minerais-criticos-projeto-relatado-por-braga/",
           "title": "Presidente sanciona Política Nacional de Minerais Críticos, projeto relatado por Braga",
-          "sha256": "afc4bb483e4a8183442adf1f7dbb937aa55925fdc16abf35dc60a1d02c40374a",
+          "sha256": "74fbe2280c526ce530d95c8f0174f839cf363f70bd393ba771b8c28917118827",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:41:36+00:00"
+          "collected_at": "2026-10-08T14:28:39+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/",
           "title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "sha256": "eb8e3d77ff91fd3fb563139c72796101c9d169d7130818554391b999c20659c2",
+          "sha256": "a79444e576950feec2eb28f7ba747c60001767c4db582a16867631dd128e6647",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:41:38+00:00"
+          "collected_at": "2026-10-08T14:28:42+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/#main",
           "title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "sha256": "eb8e3d77ff91fd3fb563139c72796101c9d169d7130818554391b999c20659c2",
+          "sha256": "a79444e576950feec2eb28f7ba747c60001767c4db582a16867631dd128e6647",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:41:41+00:00"
+          "collected_at": "2026-10-08T14:28:44+00:00"
         }
       ],
       "statements": [
@@ -336,8 +336,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/projetos/",
           "source_title": "Projetos - Eduardo Braga",
-          "source_sha256": "f8405b0e50d30bed901ea05a78cd7e6fbab3365f2e2a458bab49013dd3305458",
-          "collected_at": "2026-10-05T15:41:33+00:00"
+          "source_sha256": "5f64e693293f26aa97fd694d51459579989e5cb836039fed3c647445cc6414e1",
+          "collected_at": "2026-10-08T14:28:37+00:00"
         },
         {
           "text": "Segundo Braga, a proposição vai permitir priorizar as localidades onde a carência por recursos é maior pelo prazo necessário, conforme as avaliações periódicas conduzidas pelos órgãos federais da área educacional. Ele destacou a razoabilidade da matéria em atribuir ao regulamento a possibilidade de diferenciar o Fator Amazônico por ente da Federação ou por grupo de entes.",
@@ -345,8 +345,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/",
           "source_title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "source_sha256": "eb8e3d77ff91fd3fb563139c72796101c9d169d7130818554391b999c20659c2",
-          "collected_at": "2026-10-05T15:41:38+00:00"
+          "source_sha256": "a79444e576950feec2eb28f7ba747c60001767c4db582a16867631dd128e6647",
+          "collected_at": "2026-10-08T14:28:42+00:00"
         }
       ],
       "status": "proposals-found",
@@ -899,16 +899,16 @@
         {
           "url": "http://wilsonlimaam.com.br/",
           "title": "Wilson Lima",
-          "sha256": "7c976617f158d996913aff41c431f6deca0157d44d304bcc5941167af6854d59",
+          "sha256": "ee6025ca2f938ae8edcecbf38ad9f0d59263e3325d76ebcec3f6c238644ba1d1",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:42:03+00:00"
+          "collected_at": "2026-10-08T14:29:05+00:00"
         },
         {
           "url": "https://WILSONLIMA.MOBILIZY.COM.BR/",
           "title": "Time Wilson Lima | Convite",
-          "sha256": "734c73f55cc5e5d5fee6b844d60be3077e5ca9e288d5e84eb7166f6b105beb6f",
+          "sha256": "9857d2502707915d0414b99f46fe4f0d668411f7ed4f1df65d49e8e460f58f2c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:42:05+00:00"
+          "collected_at": "2026-10-08T14:29:07+00:00"
         }
       ],
       "statements": [],

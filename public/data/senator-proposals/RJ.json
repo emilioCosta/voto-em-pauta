@@ -190,7 +190,7 @@
           "title": "Home | Benedita da Silva",
           "sha256": "127372a6d8e5bc11bb5550ded1598716c0d7a6fe9cd47af924a85c27de8bff87",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:00+00:00"
+          "collected_at": "2026-10-08T14:34:55+00:00"
         }
       ],
       "statements": [],
@@ -634,16 +634,16 @@
         {
           "url": "https://heliosecco.com.br/",
           "title": "Helio Secco 144 — Candidato ao Senado pelo RJ",
-          "sha256": "02cb42d00849115142a337f6efc4f905964e0fc0d97cab73651c5faace6eac8d",
+          "sha256": "c94a4739e97c681c3c4e9d1bf939e3eb587431fb0c7a46838d2537a518dcb332",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:12+00:00"
+          "collected_at": "2026-10-08T14:35:08+00:00"
         },
         {
           "url": "https://heliosecco.com.br/#plano",
           "title": "Helio Secco 144 — Candidato ao Senado pelo RJ",
-          "sha256": "244f16032a7abebeab23771815b05f66b09516347bf3cbbf589cff58909672ef",
+          "sha256": "c6f1e09bdea75150ff58d672d1fd2b64316cf0ae45e8667c4ad18c27b39a4a47",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:14+00:00"
+          "collected_at": "2026-10-08T14:35:09+00:00"
         }
       ],
       "statements": [],
@@ -980,7 +980,7 @@
           "title": "Página padrão",
           "sha256": "6eb63eabeceac7b9b1a0854d93bd1c4bf0b0ce5b2d51163025a1e0036c3c09bc",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:23+00:00"
+          "collected_at": "2026-10-08T14:35:14+00:00"
         }
       ],
       "statements": [],
@@ -1096,16 +1096,16 @@
         {
           "url": "https://senadormarcosdias.com.br/",
           "title": "Marcos Dias Senador",
-          "sha256": "e34c1ff99894685f68667b4f68242b30a46280a2d86c9cd143e9d26ea0db35a0",
+          "sha256": "2b39d26898ae2254bd7a241f6d6c116f674479ca19a544bb55c59b3b9a33acf8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:27+00:00"
+          "collected_at": "2026-10-08T14:35:15+00:00"
         },
         {
           "url": "https://senadormarcosdias.com.br/coragem-e-compromisso-para-construir-um-brasil-diferente/",
           "title": "Coragem e compromisso para construir um Brasil diferente – Marcos Dias Senador",
-          "sha256": "30900c7727da43ed7bfda8d890b325d0eece9acf605f93073919757bab04c1f2",
+          "sha256": "74ecd9ac1ddfaa2a9ca02ec9df1145e480868d2dba73d5474017b323d8810cdc",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-05T15:48:29+00:00"
+          "collected_at": "2026-10-08T14:35:18+00:00"
         }
       ],
       "statements": [
@@ -1115,8 +1115,8 @@
           "topics": [],
           "source_url": "https://senadormarcosdias.com.br/coragem-e-compromisso-para-construir-um-brasil-diferente/",
           "source_title": "Coragem e compromisso para construir um Brasil diferente – Marcos Dias Senador",
-          "source_sha256": "30900c7727da43ed7bfda8d890b325d0eece9acf605f93073919757bab04c1f2",
-          "collected_at": "2026-10-05T15:48:29+00:00"
+          "source_sha256": "74ecd9ac1ddfaa2a9ca02ec9df1145e480868d2dba73d5474017b323d8810cdc",
+          "collected_at": "2026-10-08T14:35:18+00:00"
         }
       ],
       "status": "proposals-found",
