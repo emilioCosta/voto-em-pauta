@@ -79,37 +79,37 @@
         {
           "url": "https://AFRANIO.ORG.BR/",
           "title": "Principal - Afrânio Boppré",
-          "sha256": "d0668ca4367747bd9b3bbf85cbd221fc5365b9c826c168dbfe8f08116454e235",
+          "sha256": "4ec40356fe656ad847eea0fdede551d69f82d980e81ee9cd1eb74843497a9ad0",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:31+00:00"
+          "collected_at": "2026-10-12T16:45:03+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "1fef470699523d72ad5ea9d8eec74f34464685ed055ad5224fe60968752dd52e",
+          "sha256": "348580a1e6e2d597a8dc9fdd49c4748cd4fbff8792f6fb8e7906b61e9c3bba39",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:33+00:00"
+          "collected_at": "2026-10-12T16:45:06+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/04/camara-aprova-regime-de-urgencia-sobre-projeto-de-cidade-esponja/",
           "title": "Câmara aprova regime de urgência sobre projeto de cidade esponja - Afrânio Boppré",
-          "sha256": "13b26e3175443573140db0ce2bbab8166edbf75a3bc509725eb98ea800b2dd78",
+          "sha256": "880393a9cf78fe1b0c0e447ab19d8e58e92cb944438744cc929edd1a9f336d31",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:35+00:00"
+          "collected_at": "2026-10-12T16:45:08+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/03/municiparios-de-florianopolis-divulgam-carta-exigindo-mudanca-no-plano-de-saude-da-categoria/",
           "title": "Municipários de Florianópolis divulgam carta exigindo mudança no plano de saúde da categoria - Afrânio Boppré",
-          "sha256": "2f4ba9655135b14fc34c08c8f447ead1e8250c4fa20e804fd21d68ed6c9d790e",
+          "sha256": "9f4acd93fb3e7fa7c94df653903ab9a0af218fab9c907f8752b3309ae7d4e8d8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:37+00:00"
+          "collected_at": "2026-10-12T16:45:10+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/#content",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "f20706faedee7d15192f92f0b4a7c0cfefa52c41fc0dbd36e7293b5847de2eb8",
+          "sha256": "dfd1beb87decd1e1ea499f0f540b88e178a7effc6310acc21989cd14f65fdb36",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:39+00:00"
+          "collected_at": "2026-10-12T16:45:12+00:00"
         }
       ],
       "statements": [],
@@ -555,7 +555,7 @@
           "title": "Carol De Toni 221 · Senado",
           "sha256": "73cf824a284d95550cedb58822b0545e30bf212795b19d5b0e5b1c5ba5d8bb57",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:36:44+00:00"
+          "collected_at": "2026-10-12T16:45:16+00:00"
         }
       ],
       "statements": [],
@@ -782,9 +782,9 @@
         {
           "url": "https://tocomamin.com.br/",
           "title": "Tô com Amin",
-          "sha256": "3bfa81738f533ea90e9d7145aca379a5d5c19acaeba6b73edb60d1715a4696ff",
+          "sha256": "78501b2a91bec3a878a1f7847f89c2f7e579959c624d7986088505c314881855",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:02+00:00"
+          "collected_at": "2026-10-12T16:45:35+00:00"
         }
       ],
       "statements": [],
@@ -902,14 +902,14 @@
           "title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:05+00:00"
+          "collected_at": "2026-10-12T16:45:37+00:00"
         },
         {
           "url": "https://www.jefersonrocha.store/#baixar",
           "title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:07+00:00"
+          "collected_at": "2026-10-12T16:45:40+00:00"
         }
       ],
       "statements": [
@@ -920,7 +920,7 @@
           "source_url": "https://www.jefersonrocha.store/",
           "source_title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "source_sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
-          "collected_at": "2026-10-08T14:37:05+00:00"
+          "collected_at": "2026-10-12T16:45:37+00:00"
         },
         {
           "text": "Constituinte até 2030, com base no trabalho do deputado Luiz Philippe de Orleans e Bragança: menos poder para Brasília, mandato para juízes e democracia direta. E digo sem rodeios: condeno o golpe de Estado de 1889, que depôs Dom Pedro II sem ouvir o povo, e defenderei a volta da monarquia parlamentarista — que deu ao Brasil um dos maiores períodos de progresso de sua história — por plebiscito, para que o povo decida, livremente, a forma de governo do país.",
@@ -929,7 +929,7 @@
           "source_url": "https://www.jefersonrocha.store/",
           "source_title": "Plano Santa Catarina em Primeiro Lugar — Jeferson Rocha Senador 250",
           "source_sha256": "3815980e8402f9a4173a3e009e080afe87aaa3a6cf4516fecf9d4d5838f435c3",
-          "collected_at": "2026-10-08T14:37:05+00:00"
+          "collected_at": "2026-10-12T16:45:37+00:00"
         }
       ],
       "status": "proposals-found",

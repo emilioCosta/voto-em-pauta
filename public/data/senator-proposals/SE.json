@@ -511,16 +511,16 @@
         {
           "url": "https://EDUARDOAMORIMSERGIPE.COM.BR/",
           "title": "Página Inicial - Dr. Eduardo Amorim",
-          "sha256": "53efb5830833f530c6c3629a88218e21214aaab1903896d5d2d5cc3131b5df1f",
+          "sha256": "3bd06c6bbbaf41c15f52f711b5c2cc4028b2a840f5c99025bc79ac0bb6003f99",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:11+00:00"
+          "collected_at": "2026-10-12T16:45:42+00:00"
         },
         {
           "url": "https://eduardoamorimsergipe.com.br/2026/09/27/onda-azul-eduardo-amorim-reafirma-compromisso-com-sergipe/",
           "title": "Onda Azul: Eduardo Amorim reafirma compromisso com Sergipe - Dr. Eduardo Amorim",
-          "sha256": "f9b481bd931827b4563d124a769ce457a7be15e148dca8c79392c3ea6daa92a9",
+          "sha256": "03842ffd38acc580375ef5dbc6be739cdc779a37f78ece6443de29ca9e210559",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:13+00:00"
+          "collected_at": "2026-10-12T16:45:44+00:00"
         }
       ],
       "statements": [],
@@ -740,9 +740,45 @@
       "declared_sites": [
         "https://IRANBARBOSA.COM.BR/"
       ],
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://IRANBARBOSA.COM.BR/",
+          "title": "Home - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "259e415be164588daa3dc406cba3c5fae33ea9f440bfde34bbc2ecc9a927d4a2",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:45:51+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/projetos-de-lei/projetos-de-lei",
+          "title": "Projetos de Lei - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "941dcc1db966b7194f3066f9808b0d4aaaa95d5bc5d2643c083ce31a90770014",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:45:57+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/",
+          "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "028434339af027f8bb02615dd104f13453e144abdb05fd59ad42bb27a5bde688",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:46:00+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/#respond",
+          "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "c7e22ad7683f486e18fcc093b937d988ef73143236add7234be8b6112505b13b",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:46:06+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/#content",
+          "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "3fcabe15c987b5a3599c125d3972089ce6d94f292d85cd63bd0a89d25af775a5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:46:09+00:00"
+        }
+      ],
       "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",

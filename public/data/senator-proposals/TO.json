@@ -188,23 +188,23 @@
         {
           "url": "https://flaviobraga277.com.br/",
           "title": "Flávio Braga 277 | Senador pelo Tocantins",
-          "sha256": "977db311d38b9d683fddf2370f49a79c7c857b5c0c986fe76539ccdeb7f27d30",
+          "sha256": "1086d8b7bcd6f240c53c6b41a2c0b4ed29a6d0c2862cf23a65ed7b2f659287a0",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:43+00:00"
+          "collected_at": "2026-10-12T16:46:37+00:00"
         },
         {
           "url": "https://flaviobraga277.com.br/#propostas",
           "title": "Flávio Braga 277 | Senador pelo Tocantins",
-          "sha256": "bdbcea11d2e8739fd1ac927c0c4619801872e84e8aea943e9cd04fbdd6bf0eda",
+          "sha256": "2496c6068da2368bf4c6e1519467d159845e889d634c95b50222de2fb37a3ed8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:45+00:00"
+          "collected_at": "2026-10-12T16:46:39+00:00"
         },
         {
           "url": "https://flaviobraga277.com.br/bio",
           "title": "Flávio Braga 277 | Links Oficiais",
-          "sha256": "b894c83655a2194cac6080d936f1431cc3bd031f80293899e91b32c3fa9c5d76",
+          "sha256": "6ea4edf96f6905fc033dac673fbe01600e4c102530c9165609b3dd68f26be2e8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:37:46+00:00"
+          "collected_at": "2026-10-12T16:46:40+00:00"
         }
       ],
       "statements": [],
@@ -424,9 +424,17 @@
       "declared_sites": [
         "https://SUAMUSICA.COM.BR/EDUARDOGOMESTO"
       ],
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://SUAMUSICA.COM.BR/EDUARDOGOMESTO",
+          "title": "Eduardo Gomes - Perfil Completo no Sua Música",
+          "sha256": "5aa11ef59c4a44b117d65e946209a4cd54ed857aa1f215da10485be9036bc64a",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-12T16:47:01+00:00"
+        }
+      ],
       "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",
@@ -756,37 +764,37 @@
         {
           "url": "https://CARLOSGAGUIM.COM.BR/",
           "title": "Carlos Gaguim 444 - Experiência, trabalho e compromisso com o Tocantins.",
-          "sha256": "17e47271afd8f33670c8c5e5ba45d3632d1e99a4e5ce0e09bdc309b53d00f9be",
+          "sha256": "e7db0c468f46ba550ade563f3f8abd14e4959e589d055b28fc77ba964ccba50f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:38:11+00:00"
+          "collected_at": "2026-10-12T16:47:04+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/",
           "title": "Propostas de Carlos Gaguim para o Tocantins",
-          "sha256": "06b2423f5883ebb07e8dc7eb6573ce39b929940adb044def4e72cf3649e41019",
+          "sha256": "442f645e56a419d0709795ed2217aae879eff032a300ce13f913060378967ebe",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:38:13+00:00"
+          "collected_at": "2026-10-12T16:47:11+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/saude-de-qualidade/",
           "title": "Saúde de qualidade - Carlos Gaguim 444",
-          "sha256": "ae7ca99c018fde1fb64b79fd14fcf38739adefa07333d8e0eabed1c16e40c498",
+          "sha256": "a64f2a8232f3e065728b21cbbce47504b4d554d1015a72316fc45d1a3b6ea860",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:38:14+00:00"
+          "collected_at": "2026-10-12T16:47:14+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/educacao-que-transforma/",
           "title": "Educação que transforma - Carlos Gaguim 444",
-          "sha256": "b2985781dc3c3182b20cb3eb814f4be6e99b260a5068b5efabb4f09ecb331950",
+          "sha256": "f9fde2a2aa468f7795aca3b3e2511ff298d48b15919c7fa29151123e9cf1de61",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:38:16+00:00"
+          "collected_at": "2026-10-12T16:47:18+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/infraestrutura-e-desenvolvimento/",
           "title": "Infraestrutura e desenvolvimento - Carlos Gaguim 444",
-          "sha256": "dc8703044c0ca9bcb32e5e994c9b3e5be9f2d240edc7dda8c10fc6216334e902",
+          "sha256": "957c9eba0bb1c114e817dd2a9b5847b2e3f51a8482e0db36b48da7d10990e592",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-08T14:38:17+00:00"
+          "collected_at": "2026-10-12T16:47:21+00:00"
         }
       ],
       "statements": [],
