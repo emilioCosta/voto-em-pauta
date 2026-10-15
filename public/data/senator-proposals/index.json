@@ -67,7 +67,7 @@
       "label": "Justiça e defesa"
     }
   ],
-  "generated_at": "2026-10-12T16:47:21+00:00",
+  "generated_at": "2026-10-15T12:45:44+00:00",
   "partitions": {
     "AC": {
       "path": "/data/senator-proposals/AC.json",
@@ -112,7 +112,7 @@
     "GO": {
       "path": "/data/senator-proposals/GO.json",
       "candidates": 11,
-      "with_proposals": 3
+      "with_proposals": 2
     },
     "MA": {
       "path": "/data/senator-proposals/MA.json",

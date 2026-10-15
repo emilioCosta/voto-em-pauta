@@ -189,23 +189,23 @@
         {
           "url": "https://CAPITAOCONTAR.COM.BR/",
           "title": "capitao contar - Capitão Contar",
-          "sha256": "6512a4a4f5386444a8ba7870a833e4d4d97b34bde3b6eb2bf24efb63730713f5",
+          "sha256": "2cf822b973d0819df08061f9fda6a0e34a8197edf40f45259133599af10e417e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:42+00:00"
+          "collected_at": "2026-10-15T12:38:40+00:00"
         },
         {
           "url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "sha256": "2c3135b896e19591a397132a075335f7f41ec314de73f3b8445b49a85283db4d",
+          "sha256": "f8e9438a5f386d07aa651c4ac1c5eaa56a5f96234c89772d3bd1dd0a3988a3f7",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:45+00:00"
+          "collected_at": "2026-10-15T12:38:42+00:00"
         },
         {
           "url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/#content",
           "title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "sha256": "f08b2cfd94558c118318a057efa0f71f8abd4d496192fb5b3d72453d01811b30",
+          "sha256": "5fc1a7363d9dba1fcb493c6edae20c4cae147cc5ec7a826f82bc22915d340505",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:47+00:00"
+          "collected_at": "2026-10-15T12:38:44+00:00"
         }
       ],
       "statements": [
@@ -215,8 +215,8 @@
           "topics": [],
           "source_url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "source_title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "source_sha256": "2c3135b896e19591a397132a075335f7f41ec314de73f3b8445b49a85283db4d",
-          "collected_at": "2026-10-12T16:40:45+00:00"
+          "source_sha256": "f8e9438a5f386d07aa651c4ac1c5eaa56a5f96234c89772d3bd1dd0a3988a3f7",
+          "collected_at": "2026-10-15T12:38:42+00:00"
         },
         {
           "text": "“Flávio, você será o nosso presidente e nós vamos consertar esse país. Mato Grosso do Sul vai te entregar senadores alinhados com os princípios cristãos da direita e um governador 100% alinhado com as nossas pautas. No Mato Grosso do Sul, que tem um solo fértil, a sua política vai florescer porque temos gente de fibra, honesta e que acredita no Brasil”, finalizou Capitão Contar.",
@@ -224,8 +224,8 @@
           "topics": [],
           "source_url": "https://capitaocontar.com.br/com-flavio-bolsonaro-capitao-contar-reforca-alianca-da-direita-e-debate-propostas-de-desenvolvimento-e-seguranca-para-o-ms/",
           "source_title": "Com Flávio Bolsonaro, Capitão Contar reforça aliança da direita e debate propostas de desenvolvimento e segurança para o MS - Capitão Contar",
-          "source_sha256": "2c3135b896e19591a397132a075335f7f41ec314de73f3b8445b49a85283db4d",
-          "collected_at": "2026-10-12T16:40:45+00:00"
+          "source_sha256": "f8e9438a5f386d07aa651c4ac1c5eaa56a5f96234c89772d3bd1dd0a3988a3f7",
+          "collected_at": "2026-10-15T12:38:42+00:00"
         }
       ],
       "status": "proposals-found",
@@ -558,14 +558,14 @@
           "title": "Senador Reinaldo Azambuja",
           "sha256": "ad0f099fe41e2460f7ccc3242d35cd7b59015757e55df066e5ad03ac3f0c9aa9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:53+00:00"
+          "collected_at": "2026-10-15T12:38:50+00:00"
         },
         {
           "url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
           "title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
-          "sha256": "93b85256814b0fd8f8eae84fd1635264a9dfc15b900cc3819e5701501238467c",
+          "sha256": "ad72c07c203c261cf258ab66bc8612f9995c1b2c6cc0d39df3f3054fb91f57ce",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:55+00:00"
+          "collected_at": "2026-10-15T12:38:52+00:00"
         }
       ],
       "statements": [
@@ -576,7 +576,7 @@
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
           "source_sha256": "ad0f099fe41e2460f7ccc3242d35cd7b59015757e55df066e5ad03ac3f0c9aa9",
-          "collected_at": "2026-10-12T16:40:53+00:00"
+          "collected_at": "2026-10-15T12:38:50+00:00"
         },
         {
           "text": "Articular investimentos federais para melhorar os acessos rodoviários, fortalecer a infraestrutura aeroportuária, ampliar a qualificação profissional e apoiar o turismo sustentável.",
@@ -587,7 +587,7 @@
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
           "source_sha256": "ad0f099fe41e2460f7ccc3242d35cd7b59015757e55df066e5ad03ac3f0c9aa9",
-          "collected_at": "2026-10-12T16:40:53+00:00"
+          "collected_at": "2026-10-15T12:38:50+00:00"
         },
         {
           "text": "Defender um novo modelo de financiamento federal, com planejamento e recursos suficientes para evitar obras paralisadas e garantir que os investimentos sejam concluídos.",
@@ -596,7 +596,7 @@
           "source_url": "http://www.reinaldosenador.com.br/",
           "source_title": "Senador Reinaldo Azambuja",
           "source_sha256": "ad0f099fe41e2460f7ccc3242d35cd7b59015757e55df066e5ad03ac3f0c9aa9",
-          "collected_at": "2026-10-12T16:40:53+00:00"
+          "collected_at": "2026-10-15T12:38:50+00:00"
         },
         {
           "text": "Vai defender a importância da agropecuária e da agroindústria para a economia e geração de empregos;",
@@ -606,8 +606,8 @@
           ],
           "source_url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
           "source_title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
-          "source_sha256": "93b85256814b0fd8f8eae84fd1635264a9dfc15b900cc3819e5701501238467c",
-          "collected_at": "2026-10-12T16:40:55+00:00"
+          "source_sha256": "ad72c07c203c261cf258ab66bc8612f9995c1b2c6cc0d39df3f3054fb91f57ce",
+          "collected_at": "2026-10-15T12:38:52+00:00"
         },
         {
           "text": "Destinou mais de R$ 10 milhões em insumos para apoiar a produção indígena, incluindo sementes de milho, feijão, abóbora e melancia, calcário, óleo diesel e manutenção de tratores;",
@@ -615,8 +615,8 @@
           "topics": [],
           "source_url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
           "source_title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
-          "source_sha256": "93b85256814b0fd8f8eae84fd1635264a9dfc15b900cc3819e5701501238467c",
-          "collected_at": "2026-10-12T16:40:55+00:00"
+          "source_sha256": "ad72c07c203c261cf258ab66bc8612f9995c1b2c6cc0d39df3f3054fb91f57ce",
+          "collected_at": "2026-10-15T12:38:52+00:00"
         }
       ],
       "status": "proposals-found",
@@ -652,8 +652,8 @@
               ],
               "source_url": "http://www.reinaldosenador.com.br/noticias/campanha-elenca-222-motivos-para-voltar-no-reinaldo-neste-domingo",
               "source_title": "Campanha elenca 222 motivos para voltar no Reinaldo neste domingo | Senador Reinaldo Azambuja",
-              "source_sha256": "93b85256814b0fd8f8eae84fd1635264a9dfc15b900cc3819e5701501238467c",
-              "collected_at": "2026-10-12T16:40:55+00:00"
+              "source_sha256": "ad72c07c203c261cf258ab66bc8612f9995c1b2c6cc0d39df3f3054fb91f57ce",
+              "collected_at": "2026-10-15T12:38:52+00:00"
             }
           ]
         },
@@ -683,7 +683,7 @@
               "source_url": "http://www.reinaldosenador.com.br/",
               "source_title": "Senador Reinaldo Azambuja",
               "source_sha256": "ad0f099fe41e2460f7ccc3242d35cd7b59015757e55df066e5ad03ac3f0c9aa9",
-              "collected_at": "2026-10-12T16:40:53+00:00"
+              "collected_at": "2026-10-15T12:38:50+00:00"
             }
           ]
         },
@@ -866,9 +866,9 @@
         {
           "url": "https://www.sorayathronicke.com.br/",
           "title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "sha256": "b7be8c9e3bef458574c9d4ca672ce66b54e6539dbd0da73143328aef23844771",
+          "sha256": "7959b00711e8190e7cd1119cf0dd0740f06a716718162f4772ed0206e12adbee",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:41:24+00:00"
+          "collected_at": "2026-10-15T12:39:20+00:00"
         }
       ],
       "statements": [
@@ -878,8 +878,8 @@
           "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "b7be8c9e3bef458574c9d4ca672ce66b54e6539dbd0da73143328aef23844771",
-          "collected_at": "2026-10-12T16:41:24+00:00"
+          "source_sha256": "7959b00711e8190e7cd1119cf0dd0740f06a716718162f4772ed0206e12adbee",
+          "collected_at": "2026-10-15T12:39:20+00:00"
         },
         {
           "text": "Desenvolvo trabalhos legislativos no plenário e nas diversas comissões do Senado, visando criar leis focadas na necessidade do cidadão, fiscalizar a tramitação legislativa e defender o Brasil de projetos absurdos que chegam todos os dias.",
@@ -887,8 +887,8 @@
           "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "b7be8c9e3bef458574c9d4ca672ce66b54e6539dbd0da73143328aef23844771",
-          "collected_at": "2026-10-12T16:41:24+00:00"
+          "source_sha256": "7959b00711e8190e7cd1119cf0dd0740f06a716718162f4772ed0206e12adbee",
+          "collected_at": "2026-10-15T12:39:20+00:00"
         },
         {
           "text": "Meu trabalho é colocar o Mato Grosso do Sul acima de qualquer ideologia, representando nosso estado e garantindo os recursos que ele merece. Assim, tenho trabalhado para destinar recursos para os 79 municípios, com o objetivo de promover o desenvolvimento e a prosperidade da nossa gente.",
@@ -896,8 +896,8 @@
           "topics": [],
           "source_url": "https://www.sorayathronicke.com.br/",
           "source_title": "Senadora Soraya Thronicke | Mato Grosso do Sul",
-          "source_sha256": "b7be8c9e3bef458574c9d4ca672ce66b54e6539dbd0da73143328aef23844771",
-          "collected_at": "2026-10-12T16:41:24+00:00"
+          "source_sha256": "7959b00711e8190e7cd1119cf0dd0740f06a716718162f4772ed0206e12adbee",
+          "collected_at": "2026-10-15T12:39:20+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1012,9 +1012,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/valderi-garcia-2/",
           "title": "VALDERI GARCIA - Portal Eleitoral do PCO",
-          "sha256": "ba5b10a22fa15a870d69b02d8d84d7f97a356903322074fda775e918d98b4e3d",
+          "sha256": "303a2d545879799eb6966150534242fcd59973052bc2816a18e638ff66704622",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:41:28+00:00"
+          "collected_at": "2026-10-15T12:39:24+00:00"
         }
       ],
       "statements": [],
@@ -1130,16 +1130,16 @@
         {
           "url": "https://senadorvaltercomagran.com/",
           "title": "Valter da Comagran 258 — Senador por Mato Grosso do Sul",
-          "sha256": "f02ff92e0e5b05d2fe8a83742e5799b1576d3614df9b56870e43df4f1bb8fe26",
+          "sha256": "1fcf13527cfee8d095eb5de8edbb68d455dd6711bf3b5bdc1687444b9b92a500",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:41:31+00:00"
+          "collected_at": "2026-10-15T12:39:26+00:00"
         },
         {
           "url": "https://senadorvaltercomagran.com/propostas",
           "title": "Propostas — Valter da Comagran 258, Senador por MS",
-          "sha256": "891c5d7853705740e7329b57fd0678338c653f553ca245ef4ddba4159a928a0f",
+          "sha256": "1f0879bf3ed87fad5637759de7b5e07944f1ef11e4f30919405406b330494d0d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:41:32+00:00"
+          "collected_at": "2026-10-15T12:39:28+00:00"
         }
       ],
       "statements": [],

@@ -296,37 +296,37 @@
         {
           "url": "https://EDUARDOBRAGAAM.COM.BR/",
           "title": "Home",
-          "sha256": "61c8cb53e5c554732b1553790c796206d2a45986dfa2cb196e533ddfa4cda78d",
+          "sha256": "dff63ee789ebb2a013982afef9d785efbaedee6b338dfe4a79507847f8cdd721",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:24+00:00"
+          "collected_at": "2026-10-15T12:34:38+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "e40bf06ea2e25600dfd9702da63b625b2f3b7cf19ddcf497ab32544c99a4cd71",
+          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:27+00:00"
+          "collected_at": "2026-10-15T12:34:42+00:00"
         },
         {
-          "url": "https://eduardobragaam.com.br/noticia/presidente-sanciona-politica-nacional-de-minerais-criticos-projeto-relatado-por-braga/",
-          "title": "Presidente sanciona Política Nacional de Minerais Críticos, projeto relatado por Braga",
-          "sha256": "96dd50ce8656dbbff0b512990b8bc2fd16ae74c6ce3facbfcec97939e164a0d6",
+          "url": "https://eduardobragaam.com.br/projetos/#main",
+          "title": "Projetos - Eduardo Braga",
+          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:29+00:00"
+          "collected_at": "2026-10-15T12:34:45+00:00"
         },
         {
-          "url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/",
-          "title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "sha256": "9df7434dcb3c641f2022e4dab9f4bc71724abfd5cd3d2f7c580e90f8abcd82b8",
+          "url": "https://eduardobragaam.com.br/projetos/#content",
+          "title": "Projetos - Eduardo Braga",
+          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:31+00:00"
+          "collected_at": "2026-10-15T12:34:47+00:00"
         },
         {
-          "url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/#main",
-          "title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "sha256": "9df7434dcb3c641f2022e4dab9f4bc71724abfd5cd3d2f7c580e90f8abcd82b8",
+          "url": "https://br319ja.com.br/",
+          "title": "BR-319 sai do papel | Vitória do Amazonas",
+          "sha256": "d51daf515c7cf7cea4899d21a2f82e6b505c8eca73fa708fc246bd28e3735939",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:34+00:00"
+          "collected_at": "2026-10-15T12:34:48+00:00"
         }
       ],
       "statements": [
@@ -336,17 +336,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/projetos/",
           "source_title": "Projetos - Eduardo Braga",
-          "source_sha256": "e40bf06ea2e25600dfd9702da63b625b2f3b7cf19ddcf497ab32544c99a4cd71",
-          "collected_at": "2026-10-12T16:37:27+00:00"
-        },
-        {
-          "text": "Segundo Braga, a proposição vai permitir priorizar as localidades onde a carência por recursos é maior pelo prazo necessário, conforme as avaliações periódicas conduzidas pelos órgãos federais da área educacional. Ele destacou a razoabilidade da matéria em atribuir ao regulamento a possibilidade de diferenciar o Fator Amazônico por ente da Federação ou por grupo de entes.",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://eduardobragaam.com.br/noticia/projeto-relatado-por-braga-propoe-aumentar-recursos-para-educacao-na-amazonia-legal/",
-          "source_title": "Comissão aprova projeto relatado por Braga que aumenta recursos para educação na Amazônia",
-          "source_sha256": "9df7434dcb3c641f2022e4dab9f4bc71724abfd5cd3d2f7c580e90f8abcd82b8",
-          "collected_at": "2026-10-12T16:37:31+00:00"
+          "source_sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
+          "collected_at": "2026-10-15T12:34:42+00:00"
         }
       ],
       "status": "proposals-found",
@@ -899,16 +890,9 @@
         {
           "url": "http://wilsonlimaam.com.br/",
           "title": "Wilson Lima",
-          "sha256": "c7be19622736fa148895b6715e1ea9d2aeb83eedf5badd63843019895628ff72",
+          "sha256": "b93490cb96365a7fd668e6c588942f12e048a8c4483017b1b04085effc47d307",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:55+00:00"
-        },
-        {
-          "url": "https://WILSONLIMA.MOBILIZY.COM.BR/",
-          "title": "Time Wilson Lima | Convite",
-          "sha256": "f1390507d6d8e8ba15a4d6817331204cbb250ee01756ba04155684e2ec1ec3f5",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:37:57+00:00"
+          "collected_at": "2026-10-15T12:35:09+00:00"
         }
       ],
       "statements": [],

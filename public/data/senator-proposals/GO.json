@@ -187,16 +187,16 @@
         {
           "url": "https://DRZACHARIASCALIL.COM.BR/",
           "title": "Dr. Zacharias Calil",
-          "sha256": "332f52253556296b7107fed914bdabc8c3efc0ef167b49009da75a5a7aabbcd4",
+          "sha256": "4557be10a8c31732f6eb9276a4a18cd47da8515e0e1a7203bc96e6e7131ba9fc",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:39:58+00:00"
+          "collected_at": "2026-10-15T12:37:29+00:00"
         },
         {
           "url": "https://drzachariascalil.com.br/wp-content/uploads/2026/05/Apresentacao-Projetos-de-Lei.pdf",
           "title": "Apresentacao-Projetos-de-Lei.pdf",
           "sha256": "fba16a6bfd5e73ec064f8b7ec64cd483b5827f0d5fb53b69ef4dd9856f3a782d",
           "kind": "official-candidate-document",
-          "collected_at": "2026-10-12T16:39:59+00:00"
+          "collected_at": "2026-10-15T12:37:30+00:00"
         }
       ],
       "statements": [],
@@ -420,104 +420,19 @@
         {
           "url": "https://gracinhacaiado.com.br/",
           "title": "",
-          "sha256": "7fb3c705bd56d4793c126ef69073799f6984a77b52d8f2cda25d5a608e1ca75b",
+          "sha256": "8b40f1f5b43a9d061890309fddde96e22ebc80311a7f7d1cdc5030f411d3b125",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:05+00:00"
-        },
-        {
-          "url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "kind": "official-candidate-document",
-          "collected_at": "2026-10-12T16:40:06+00:00"
+          "collected_at": "2026-10-15T12:37:37+00:00"
         }
       ],
-      "statements": [
-        {
-          "text": "Defender a perda dos bens de condenados por violência contra a mulher",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender um programa nacional de segurança rural, inspirado no modelo de",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender para o Brasil o modelo de inteligência policial integrada de Goiás,",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender, no Senado, a aprovação da PEC 383/2017, que estabelece um",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender uma política nacional integrada para a primeira infância, reunindo",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
-          "section_title": "",
-          "topics": [
-            "education"
-          ],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        },
-        {
-          "text": "Defender uma distribuição mais racional dos recursos federais,",
-          "section_title": "",
-          "topics": [],
-          "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-          "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-          "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-          "collected_at": "2026-10-12T16:40:06+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",
           "label": "Educação",
-          "summary": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
-          "excerpts": [
-            {
-              "text": "Defender a expansão, em todo o Brasil, do modelo das Escolas do Futuro,",
-              "section_title": "",
-              "topics": [
-                "education"
-              ],
-              "source_url": "https://gracinhacaiado.com.br/wp-content/uploads/2026/09/PRINCIPAIS-PROPOSTAS.pdf",
-              "source_title": "PRINCIPAIS-PROPOSTAS.pdf",
-              "source_sha256": "1b83d897af02e7ef116347edf1585b369ab8abba4084f1bfb5c00169791de558",
-              "collected_at": "2026-10-12T16:40:06+00:00"
-            }
-          ]
+          "summary": "Não foi observado no material consultado para esta candidatura.",
+          "excerpts": []
         },
         {
           "id": "health",
@@ -733,16 +648,16 @@
         {
           "url": "http://gustavogayer.com.br/",
           "title": "Gustavo Gayer - 222 Senador",
-          "sha256": "32026dc580ff51c67619c79fa377aa77ff9287b2b9f6fe011bb9104159db2e07",
+          "sha256": "e61fbd37e1a73caa8c6467bd9dde93db88ad69941be470c9a3dd976b7827e983",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:09+00:00"
+          "collected_at": "2026-10-15T12:38:03+00:00"
         },
         {
           "url": "https://COS.TV/CHANNEL/27714561543414784/",
           "title": "COS.TV | Content platform on blockchain",
-          "sha256": "5e45e88114e8bbaa42e37d00f2dbef190b9e51b70284f44178231a312a485e62",
+          "sha256": "d2ec5b411e0e45c007a6d07a82e155d89f7c786d09f82505188a48cbebf7b125",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:12+00:00"
+          "collected_at": "2026-10-15T12:38:06+00:00"
         }
       ],
       "statements": [],
@@ -1078,14 +993,14 @@
           "title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
           "sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:14+00:00"
+          "collected_at": "2026-10-15T12:38:09+00:00"
         },
         {
           "url": "https://iurecastro.com/#propostas",
           "title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
           "sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:15+00:00"
+          "collected_at": "2026-10-15T12:38:11+00:00"
         }
       ],
       "statements": [
@@ -1096,7 +1011,7 @@
           "source_url": "https://iurecastro.com/",
           "source_title": "Iure Castro • Senado 2026 | Goiás Pensando o Brasil",
           "source_sha256": "f578eb7c7c37e88989b256dcf2b9b5381d229270fab73452782f18d8f872261a",
-          "collected_at": "2026-10-12T16:40:14+00:00"
+          "collected_at": "2026-10-15T12:38:09+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1322,14 +1237,14 @@
           "title": "Senador Vanderlan 555 – Quem trabalha tem que continuar",
           "sha256": "a01c33610c178ad79fa098e7cf5b5874d36a956035b24ca8fa8f7424fc2f9e46",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:19+00:00"
+          "collected_at": "2026-10-15T12:38:16+00:00"
         },
         {
           "url": "https://www.vanderlan.com.br/",
           "title": "Vanderlan Cardoso",
           "sha256": "b0908a34e66177353740153a0fc1edbb8a412191770730dc8e4a1dd6d1edd0ef",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-12T16:40:20+00:00"
+          "collected_at": "2026-10-15T12:38:17+00:00"
         }
       ],
       "statements": [
@@ -1340,7 +1255,7 @@
           "source_url": "https://www.vanderlan.com.br/",
           "source_title": "Vanderlan Cardoso",
           "source_sha256": "b0908a34e66177353740153a0fc1edbb8a412191770730dc8e4a1dd6d1edd0ef",
-          "collected_at": "2026-10-12T16:40:20+00:00"
+          "collected_at": "2026-10-15T12:38:17+00:00"
         }
       ],
       "status": "proposals-found",
