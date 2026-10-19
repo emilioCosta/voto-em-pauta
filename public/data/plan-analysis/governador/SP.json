@@ -1309,6 +1309,216 @@
       "candidate_type": "governador",
       "file_name": "2026SP250002544912_02.pdf",
       "public_path": "/propostas/2026/SP/2026SP250002544912_02.pdf",
+      "sha256": "9001db338d419c2c6a52513e9ad69102e36f1495997fe3d9fcbfc2e105e7c69b",
+      "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna. solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente. Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 1,
+          "page_end": 2,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
+          "excerpts": [
+            {
+              "id": "s01",
+              "page_start": 1,
+              "page_end": 2,
+              "text": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "250002544912",
+      "state_code": "SP",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026SP250002544912_03.pdf",
+      "public_path": "/propostas/2026/SP/2026SP250002544912_03.pdf",
       "sha256": "760d8fdd32694e6d161ed5deafa76259af7f8a2082058f9c76df57eb531fe59b",
       "summary": "Nosso compromisso Também ampliaremos a oferta de creches públicas, escolas em tempo integral e serviços públicos de cuidado, reconhecendo que a responsabilidade pela criação das crianças, pelo cuidado com idosos e pessoas com deficiAs mulheres sempre estiveram na linha de frente das grandes lutas populares de nosso país. Por isso, ampliaremos os investimentos em escolas de tempo integral, equipamentos culturais, bibliotecas, centros esportivos e espaços públicos de convivência, especialmente nas periferias e nos municípios que historicamente receberam menos investimentos. O desemprego, a precarização do trabalho, os baixos salários, a dificuldade de acesso ao ensino superior, o alto custo da moradia e a violência fazem com que milhares de jovens adiem ou abandonem seus sonhos. Foram protagonistas na resistência à ditadura, na construção do Sistema Único de Saúde, na conquista de direitos trabalhistas, na luta por moradia, educação e democracia. integradas de educação, saúde, cultura, assistência social, segurança pública e Nosso governo também fortalecerá as políticas de saúde mental voltadas à juventude, ampliando o atendimento psicossocial e desenvolvendo ações de prevenção ao sofrimento psíquico, reconhecendo os impactos da precarização do trabalho, da violência, da exclusão social e das pressões da vida contemporânea sobre os jovens. Entretanto, em São Paulo, esse direito não é garantido o abandono dos equipamentos públicos impede que crianças e jovens tenham acesso a atividades esportivas participação popular. Enquanto faltam investimentos em saúde, educação, moradia, transporte, cultura e segurança pública, bilhões de reais deixam de ser arrecadados por meio de isenções fiscais concedidas aos grandes grupos econômitratar professores, médicos, enfermeiros ou construir moradias populares, concedem benefícios bilionários aos setores mais ricos da economia e entregam empresas públicas estratégicas à iniciativa privada. As principais vítimas dessa política são os moradores das periferias, especialmente a juventude negra, submetida diariamente à violência policial, às abordagens abusivas e às execuções cometidas por agentes do próprio Estado. No entanto, a política de segurança implementada em São Paulo há décadas fracassou.",
       "sections": [
@@ -1675,216 +1885,6 @@
               "page_start": 34,
               "page_end": 37,
               "text": "Comunicação a serviço do povo Nosso Governo Popular utilizará os meios públicos de comunicação para ampliar o acesso ao conhecimento científico, divulgar a produção cultural paulista, valorizar a diversidade do estado e fortalecer campanhas de interesse público nas áreas de saúde, educação, direitos humanos, cultura e participação popular. Fortalecer a comunicação pública, comunitária e popular A comunicação produzida nas periferias, pelos movimentos sociais, pelas universidades, pelos povos indígenas, pelas comunidades quilombolas e pelas organizações populares deve receber o apoio necessário para ampliar sua capacidade de informar e dialogar com a sociedade."
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "250002544912",
-      "state_code": "SP",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026SP250002544912_03.pdf",
-      "public_path": "/propostas/2026/SP/2026SP250002544912_03.pdf",
-      "sha256": "9001db338d419c2c6a52513e9ad69102e36f1495997fe3d9fcbfc2e105e7c69b",
-      "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna. solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente. Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": 1,
-          "page_end": 2,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna.",
-          "excerpts": [
-            {
-              "id": "s01",
-              "page_start": 1,
-              "page_end": 2,
-              "text": "Significa planejar o desenvolvimento econômico de acordo com as necessidades da população, fortalecer a propriedade pública dos setores estratégicos, ampliar a participação popular nas decisões do Estado e assegurar que toda pessoa tenha direito ao trabalho, à moradia, à saúde, à educação, à cultura e a uma vida digna."
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": 1,
-          "page_end": 2,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente.",
-          "excerpts": [
-            {
-              "id": "s01",
-              "page_start": 1,
-              "page_end": 2,
-              "text": "solidária entre as diferentes regiões do Brasil e no respeito ao meio ambiente."
-            }
-          ]
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": 1,
-          "page_end": 2,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas.",
-          "excerpts": [
-            {
-              "id": "s01",
-              "page_start": 1,
-              "page_end": 2,
-              "text": "Significa enfrentar o racismo, o machismo, a LGBTfobia, a violência contra os povos indígenas, quilombolas e demais populações historicamente discriminadas, compreendendo que a emancipação humana exige igualdade de direitos, justiça social e poder popular. Governaremos ao lado dos trabalhadores, da juventude, das mulheres, da população negra, dos povos indígenas, dos quilombolas, dos movimentos populares, dos sindicatos, dos estudantes, Por isso, nosso compromisso não é administrar melhor esse modelo, mas construir uma alternativa capaz de superar suas contradições e colocar a economia a serviço das necessidades humanas."
             }
           ]
         },

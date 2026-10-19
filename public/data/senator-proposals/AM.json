@@ -296,37 +296,30 @@
         {
           "url": "https://EDUARDOBRAGAAM.COM.BR/",
           "title": "Home",
-          "sha256": "dff63ee789ebb2a013982afef9d785efbaedee6b338dfe4a79507847f8cdd721",
+          "sha256": "b2cd57f331c0cbcf9d1632c302f88369fe23acfcf9f266a23c3f27bec64a8be6",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:34:38+00:00"
+          "collected_at": "2026-10-19T14:34:15+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
+          "sha256": "cabd43f26e739e7c5b6467d59d6ce8111d070c90e650a7ede9ee65ae9f299761",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:34:42+00:00"
+          "collected_at": "2026-10-19T14:34:20+00:00"
         },
         {
-          "url": "https://eduardobragaam.com.br/projetos/#main",
-          "title": "Projetos - Eduardo Braga",
-          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
+          "url": "https://eduardobragaam.com.br/noticia/senado-aprova-projeto-que-altera-limites-do-mei-e-perdoa-debitos/",
+          "title": "Senado aprova projeto que altera limites do MEI e perdoa débitos",
+          "sha256": "0fc451d74c6109549ed6d706e68603964fa969c3c8e4303b70e81af8ac3a351e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:34:45+00:00"
-        },
-        {
-          "url": "https://eduardobragaam.com.br/projetos/#content",
-          "title": "Projetos - Eduardo Braga",
-          "sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:34:47+00:00"
+          "collected_at": "2026-10-19T14:34:22+00:00"
         },
         {
           "url": "https://br319ja.com.br/",
           "title": "BR-319 sai do papel | Vitória do Amazonas",
-          "sha256": "d51daf515c7cf7cea4899d21a2f82e6b505c8eca73fa708fc246bd28e3735939",
+          "sha256": "5b34abe9088dbf80258cfb205f04af0188fc2ec401d30d163a9106ebe42ae6dd",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:34:48+00:00"
+          "collected_at": "2026-10-19T14:34:24+00:00"
         }
       ],
       "statements": [
@@ -336,8 +329,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/projetos/",
           "source_title": "Projetos - Eduardo Braga",
-          "source_sha256": "2265786fe65464729ab4faf35b84d4a28456e48ec232a8b99f83f17fd66135a9",
-          "collected_at": "2026-10-15T12:34:42+00:00"
+          "source_sha256": "cabd43f26e739e7c5b6467d59d6ce8111d070c90e650a7ede9ee65ae9f299761",
+          "collected_at": "2026-10-19T14:34:20+00:00"
         }
       ],
       "status": "proposals-found",
@@ -890,9 +883,9 @@
         {
           "url": "http://wilsonlimaam.com.br/",
           "title": "Wilson Lima",
-          "sha256": "b93490cb96365a7fd668e6c588942f12e048a8c4483017b1b04085effc47d307",
+          "sha256": "c7e97213794e86712040c29f2e111506c0265abd39bf4059c27be9a6cc775152",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:35:09+00:00"
+          "collected_at": "2026-10-19T14:34:33+00:00"
         }
       ],
       "statements": [],

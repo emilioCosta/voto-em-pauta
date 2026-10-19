@@ -729,9 +729,9 @@
         {
           "url": "https://MOTTA-CAMPEAO-SITE.LOVABLE.APP/",
           "title": "Rafael Motta",
-          "sha256": "008ff96f00ef9abff699d06b90126e373bd2bd1471a623f9a51676b5d78e72ba",
+          "sha256": "572a2efd4baf3a1c5a6d00922c9c3b29d1c3b9fa2d69fdd2ec7ca0e4464ad81c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:41:51+00:00"
+          "collected_at": "2026-10-19T14:41:34+00:00"
         }
       ],
       "statements": [],
@@ -954,14 +954,24 @@
       "sources": [
         {
           "url": "https://www.samanda131.com.br/",
-          "title": "Samanda Alves 131 — Samanda de Lula",
-          "sha256": "6dd4d5fc8f2d8c3b952903626a3bbb03e5d5f166c65ff9f1de0d5e5666c0e13b",
+          "title": "Samanda de Lula 131",
+          "sha256": "2a96b10522db1eac07e98309afbd472d3b5f8c8732b88142f74caeb581206ea9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-15T12:41:54+00:00"
+          "collected_at": "2026-10-19T14:41:38+00:00"
         }
       ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
+      "statements": [
+        {
+          "text": "Defender quem trabalha é lutar pelo fim da escala 6x1, enfrentar o custo de vida, combater as bets que endividam e ampliar a proteção às mulheres e às crianças.",
+          "section_title": "Mais tempo, renda e proteção para as famílias",
+          "topics": [],
+          "source_url": "https://www.samanda131.com.br/",
+          "source_title": "Samanda de Lula 131",
+          "source_sha256": "2a96b10522db1eac07e98309afbd472d3b5f8c8732b88142f74caeb581206ea9",
+          "collected_at": "2026-10-19T14:41:38+00:00"
+        }
+      ],
+      "status": "proposals-found",
       "sections": [
         {
           "id": "education",
