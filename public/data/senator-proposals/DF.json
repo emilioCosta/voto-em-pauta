@@ -186,18 +186,11 @@
       ],
       "sources": [
         {
-          "url": "http://www.biakicis.com.br/",
-          "title": "Verificação de segurança",
-          "sha256": "332d102987273318f13e7fc89a043613c6dd5dd7eb7d21033a2ab73dd438a405",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:35:49+00:00"
-        },
-        {
           "url": "https://rendanobairro.com.br/",
           "title": "Renda no Bairro — Cadastro de associações do DF",
           "sha256": "1692e650d78e6fb4424a216b154a518fd1fbc738300b07964c125ab6d42ab334",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:35:51+00:00"
+          "collected_at": "2026-10-22T12:53:33+00:00"
         }
       ],
       "statements": [],
@@ -423,9 +416,9 @@
         {
           "url": "https://erikakokay.com.br/",
           "title": "Erika Kokay – A deputada de todas as lutas",
-          "sha256": "99f80e07609b492139a6c3770688551aab60a95dac0c1c0147aaf804492ab492",
+          "sha256": "a41cabae6639b12c98af2fde1de5c22a756bf8a9fca65b8fb75645eb93b3f83e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:35:58+00:00"
+          "collected_at": "2026-10-22T12:53:38+00:00"
         }
       ],
       "statements": [
@@ -435,8 +428,8 @@
           "topics": [],
           "source_url": "https://erikakokay.com.br/",
           "source_title": "Erika Kokay – A deputada de todas as lutas",
-          "source_sha256": "99f80e07609b492139a6c3770688551aab60a95dac0c1c0147aaf804492ab492",
-          "collected_at": "2026-10-19T14:35:58+00:00"
+          "source_sha256": "a41cabae6639b12c98af2fde1de5c22a756bf8a9fca65b8fb75645eb93b3f83e",
+          "collected_at": "2026-10-22T12:53:38+00:00"
         },
         {
           "text": "Defender a democracia, para Erika, nunca foi retórica. Foi enfrentar o golpismo de cara limpa e proteger as instituições quando muitos calaram. Essa firmeza contrasta com um projeto que, no Distrito Federal, governa de costas para o povo: que privatiza o que é de todos, abre mão da arrecadação pública e trata a cidade como negócio, não como direito. Brasília merece quem a represente pelo que ela é de verdade, e não pelos interesses de poucos.",
@@ -444,8 +437,8 @@
           "topics": [],
           "source_url": "https://erikakokay.com.br/",
           "source_title": "Erika Kokay – A deputada de todas as lutas",
-          "source_sha256": "99f80e07609b492139a6c3770688551aab60a95dac0c1c0147aaf804492ab492",
-          "collected_at": "2026-10-19T14:35:58+00:00"
+          "source_sha256": "a41cabae6639b12c98af2fde1de5c22a756bf8a9fca65b8fb75645eb93b3f83e",
+          "collected_at": "2026-10-22T12:53:38+00:00"
         }
       ],
       "status": "proposals-found",
@@ -668,16 +661,16 @@
         {
           "url": "https://leiladovolei.com/",
           "title": "Leila do Vôlei – Senadora pelo Distrito Federal",
-          "sha256": "ae01ef7ef4233183fb05e047f4320b1a7e7beb01658a3380e198573a67a22ade",
+          "sha256": "b8d5ce34943ef4d1df227bcffea2b11ddcfe4b36e73362a5cfa2feb88dd80a45",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:01+00:00"
+          "collected_at": "2026-10-22T12:53:41+00:00"
         },
         {
           "url": "https://leiladovolei.com/maus-tratos-contra-animais/",
           "title": "Avança à Câmara projeto que pune maus-tratos contra animais - LEILA DO VÔLEI",
-          "sha256": "c4a5b81d68531cac53dd24446f5cd8757bd6d6d12bb5603efe43cf654a8e271e",
+          "sha256": "1817287c2e97a1bd04433ce37cba4005a0ad6cbbb4cea7c0ffdcb14c082ef01f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:03+00:00"
+          "collected_at": "2026-10-22T12:53:43+00:00"
         }
       ],
       "statements": [
@@ -687,8 +680,8 @@
           "topics": [],
           "source_url": "https://leiladovolei.com/maus-tratos-contra-animais/",
           "source_title": "Avança à Câmara projeto que pune maus-tratos contra animais - LEILA DO VÔLEI",
-          "source_sha256": "c4a5b81d68531cac53dd24446f5cd8757bd6d6d12bb5603efe43cf654a8e271e",
-          "collected_at": "2026-10-19T14:36:03+00:00"
+          "source_sha256": "1817287c2e97a1bd04433ce37cba4005a0ad6cbbb4cea7c0ffdcb14c082ef01f",
+          "collected_at": "2026-10-22T12:53:43+00:00"
         }
       ],
       "status": "proposals-found",
@@ -911,37 +904,37 @@
         {
           "url": "https://michellebolsonaro222.com.br/",
           "title": "Michelle Bolsonaro 222 — Candidata a Senadora Plataforma de Compromissos — Michelle Bolsonaro 222",
-          "sha256": "a25c27c1049ad04e0435556f3468a8db870a5db76beacc6640fb48b04379f98d",
+          "sha256": "da17cb996f9d70e39c636709c2155b801ad1313fab7e48369d84edf77d431c33",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:05+00:00"
+          "collected_at": "2026-10-22T12:53:45+00:00"
         },
         {
           "url": "https://michellebolsonaro222.com.br/propostas/",
           "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
+          "sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "url": "https://michellebolsonaro222.com.br/propostas/#categorias",
           "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
+          "sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:07+00:00"
+          "collected_at": "2026-10-22T12:53:47+00:00"
         },
         {
           "url": "https://michellebolsonaro222.com.br/propostas/#prop-01",
           "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
+          "sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:08+00:00"
+          "collected_at": "2026-10-22T12:53:48+00:00"
         },
         {
           "url": "https://michellebolsonaro222.com.br/propostas/#prop-02",
           "title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
+          "sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:09+00:00"
+          "collected_at": "2026-10-22T12:53:49+00:00"
         }
       ],
       "statements": [
@@ -953,8 +946,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Organizar as filas com regras claras e prioridade para quem mais precisa de atendimento.",
@@ -964,8 +957,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender recursos federais e destinar emendas parlamentares que realmente melhorem a vida do povo.",
@@ -973,8 +966,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Apoiar a formação e o encaminhamento para o trabalho de jovens que se preparam para sair de instituições de acolhimento.",
@@ -982,8 +975,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou atuar nas leis nacionais e na defesa e ampliação dos direitos já previstos. Buscarei recursos para diagnóstico, reabilitação, acessibilidade e apoio aos cuidadores.",
@@ -991,8 +984,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender os recursos para as polícias e os Bombeiros do DF, com mais preparo, investigação, tecnologia e cuidado com a saúde dos profissionais e de suas famílias.",
@@ -1002,8 +995,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Proteger os investimentos e apoiar a contratação de profissionais dentro das regras, com formação e boas condições de trabalho.",
@@ -1011,8 +1004,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender o Fundo Constitucional do DF, que ajuda a financiar serviços do Distrito Federal. Também atuarei nas leis federais, na valorização das forças de segurança e na integração de informações.",
@@ -1020,8 +1013,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Priorizar a alfabetização e conhecimentos úteis para a vida, com atenção ao uso da tecnologia.",
@@ -1031,8 +1024,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Apoiar escolas inclusivas, com estrutura e profissionais preparados para atender estudantes e famílias.",
@@ -1042,8 +1035,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
@@ -1054,8 +1047,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vamos facilitar a vida de quem empreende e aproximar os cursos das vagas de trabalho. Jovens e trabalhadores precisam de preparo para as oportunidades e mudanças trazidas pela tecnologia.",
@@ -1063,8 +1056,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender a simplificação de normas federais, proteção ao pequeno negócio e formação profissional. Buscarei recursos e parcerias para preparar trabalhadores.",
@@ -1072,8 +1065,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Promover o acesso a documentos, saúde, cursos, vínculos familiares e trabalho, conforme a situação de cada pessoa.",
@@ -1081,8 +1074,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender recursos para a assistência social, aperfeiçoar as políticas nacionais de proteção social e fiscalizar programas e repasses.",
@@ -1092,8 +1085,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vamos unir voluntários e projetos sérios para apoiar jovens, idosos, pessoas com deficiência e famílias que precisam de ajuda. O trabalho voluntário aumenta o alcance do bem e soma forças ao dever do governo.",
@@ -1101,8 +1094,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
@@ -1112,8 +1105,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou apoiar melhorias nas leis do voluntariado, a formação de voluntários e regras claras organizações relacionadas a essa área.",
@@ -1121,8 +1114,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vamos oferecer cursos, orientação e apoio para mulheres que querem liderar ou abrir um negócio, fortalecer o combate à violência e ampliar sua presença nos espaços de decisão.",
@@ -1130,8 +1123,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou defender proteção contra violência e assédio, apoio ao empreendedorismo, qualificação e formação de lideranças, ampliando condições de participação na política e na economia.",
@@ -1141,8 +1134,8 @@
           ],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Vou trabalhar com a governadora e sua equipe para tirar as propostas do papel, transformando em realidade os sonhos da população.",
@@ -1150,8 +1143,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Fiscalizar o dinheiro federal, combater a corrupção e apoiar a proteção de quem denuncia irregularidades.",
@@ -1159,8 +1152,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         },
         {
           "text": "Defender novas despesas com planejamento, fonte de recursos e formas de medir os resultados.",
@@ -1168,8 +1161,8 @@
           "topics": [],
           "source_url": "https://michellebolsonaro222.com.br/propostas/",
           "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-          "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-          "collected_at": "2026-10-19T14:36:06+00:00"
+          "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+          "collected_at": "2026-10-22T12:53:46+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1187,8 +1180,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             },
             {
               "text": "Apoiar escolas inclusivas, com estrutura e profissionais preparados para atender estudantes e famílias.",
@@ -1198,8 +1191,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             },
             {
               "text": "Vou atuar nas leis nacionais de educação, no financiamento federal e na proteção dos estudantes. Defenderei a aproximação entre ensino, ciência, tecnologia e oportunidades de trabalho.",
@@ -1210,8 +1203,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1228,8 +1221,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             },
             {
               "text": "Organizar as filas com regras claras e prioridade para quem mais precisa de atendimento.",
@@ -1239,8 +1232,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1257,8 +1250,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             },
             {
               "text": "Apoiar orientação para jovens, cuidado com idosos, inclusão, bancos de alimentos e ações de Defesa Civil.",
@@ -1268,8 +1261,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1286,8 +1279,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1310,8 +1303,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1353,8 +1346,8 @@
               ],
               "source_url": "https://michellebolsonaro222.com.br/propostas/",
               "source_title": "Propostas - Michelle Bolsonaro Michelle Bolsonaro 222 — Propostas para o Distrito Federal | Senadora",
-              "source_sha256": "843f8c9f6b679e8758ee48bde0edefd4c6d9071004e1ab9bd2fb7e30458c833c",
-              "collected_at": "2026-10-19T14:36:06+00:00"
+              "source_sha256": "d50ba9bf0389414ae1408fad24f28064bb13ba4667be08a74f7e8419c0c9f9f3",
+              "collected_at": "2026-10-22T12:53:46+00:00"
             }
           ]
         },
@@ -1512,35 +1505,35 @@
           "title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
           "sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:12+00:00"
+          "collected_at": "2026-10-22T12:53:52+00:00"
         },
         {
           "url": "https://www.ronaldofonseca.com.br/propostas",
           "title": "Compromisso 555 — Ronaldo Fonseca",
           "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:14+00:00"
+          "collected_at": "2026-10-22T12:53:53+00:00"
         },
         {
           "url": "https://www.ronaldofonseca.com.br/propostas#familia",
           "title": "Compromisso 555 — Ronaldo Fonseca",
           "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:16+00:00"
+          "collected_at": "2026-10-22T12:53:55+00:00"
         },
         {
           "url": "https://www.ronaldofonseca.com.br/propostas#trabalho",
           "title": "Compromisso 555 — Ronaldo Fonseca",
           "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:18+00:00"
+          "collected_at": "2026-10-22T12:53:57+00:00"
         },
         {
           "url": "https://www.ronaldofonseca.com.br/propostas#cidade",
           "title": "Compromisso 555 — Ronaldo Fonseca",
           "sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:19+00:00"
+          "collected_at": "2026-10-22T12:53:58+00:00"
         }
       ],
       "statements": [
@@ -1551,7 +1544,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/",
           "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
           "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
-          "collected_at": "2026-10-19T14:36:12+00:00"
+          "collected_at": "2026-10-22T12:53:52+00:00"
         },
         {
           "text": "Não quero enfraquecer o STF. Quero fortalecer a democracia.",
@@ -1560,7 +1553,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/",
           "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
           "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
-          "collected_at": "2026-10-19T14:36:12+00:00"
+          "collected_at": "2026-10-22T12:53:52+00:00"
         },
         {
           "text": "Defender esse papel também significa discutir regras que ampliem a transparência, estabeleçam limites institucionais, fortaleçam a segurança jurídica e preservem o equilíbrio entre os Poderes.",
@@ -1569,7 +1562,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/",
           "source_title": "Ronaldo Fonseca — Senador pelo Distrito Federal",
           "source_sha256": "8308310de0ca241c423700dbd62c7958b02f868c920814986a8ec34ab34b46cb",
-          "collected_at": "2026-10-19T14:36:12+00:00"
+          "collected_at": "2026-10-22T12:53:52+00:00"
         },
         {
           "text": "Cinco compromissos pela Família, cinco pelo Trabalho e cinco pela sua Cidade. Quinze ao todo, e todos cabem no que um senador realmente faz: propor lei, votar, destinar emenda e defender o dinheiro do Distrito Federal.",
@@ -1578,7 +1571,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/propostas",
           "source_title": "Compromisso 555 — Ronaldo Fonseca",
           "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
-          "collected_at": "2026-10-19T14:36:14+00:00"
+          "collected_at": "2026-10-22T12:53:53+00:00"
         },
         {
           "text": "“ O Entorno depende de Brasília pra tudo. Vou trabalhar pra gerar emprego lá, perto de casa. ”",
@@ -1587,7 +1580,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/propostas",
           "source_title": "Compromisso 555 — Ronaldo Fonseca",
           "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
-          "collected_at": "2026-10-19T14:36:14+00:00"
+          "collected_at": "2026-10-22T12:53:53+00:00"
         },
         {
           "text": "Defender e fiscalizar o crédito do FCO, fundo federal que financia empresas no DF, para quem gera emprego nas cidades.",
@@ -1596,7 +1589,7 @@
           "source_url": "https://www.ronaldofonseca.com.br/propostas",
           "source_title": "Compromisso 555 — Ronaldo Fonseca",
           "source_sha256": "be142bf473456f0786cfa34fd8c4ff7c33ccdc976ef398dd6f1fce5a7a46da2e",
-          "collected_at": "2026-10-19T14:36:14+00:00"
+          "collected_at": "2026-10-22T12:53:53+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1823,23 +1816,23 @@
         {
           "url": "http://TIAGO360.COM.BR/",
           "title": "Tiago",
-          "sha256": "db96a9f9c2d3609c56074f8c79f8907064383adf3a50d926549b45b7316454f6",
+          "sha256": "f0178a0bbd1751122e73a9051fc3949cdd7e1c1d851c63f953cc5ca656840c19",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:26+00:00"
+          "collected_at": "2026-10-22T12:54:05+00:00"
         },
         {
           "url": "https://tiago360.com.br/propostas/",
           "title": "propostas – Tiago",
-          "sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
+          "sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "url": "https://tiago360.com.br/propostas/#wp--skip-link--target",
           "title": "propostas – Tiago",
-          "sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
+          "sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:28+00:00"
+          "collected_at": "2026-10-22T12:54:07+00:00"
         }
       ],
       "statements": [
@@ -1849,8 +1842,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Vou exercer um mandato independente, técnico e voltado a resultados, com transparência, fiscalização e controle da administração pública.",
@@ -1858,8 +1851,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Pretendo defender os interesses do Distrito Federal no Congresso Nacional, participar dos debates nacionais e buscar soluções sem transformar o mandato em disputa política ou “lacração” na internet.",
@@ -1867,8 +1860,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "A segurança pública será prioridade. Defendo a valorização dos profissionais, concursos, melhores condições de trabalho, tecnologia, câmeras em escolas e viaturas, monitoramento de rodovias e fronteiras, cães farejadores e integração das estruturas de segurança.",
@@ -1879,8 +1872,8 @@
           ],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Quero utilizar minha experiência no SINPOL-DF e a dos meus suplentes, policiais militares, para articular soluções concretas para os problemas do DF.",
@@ -1890,8 +1883,8 @@
           ],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Tenho princípios que podem coincidir com diferentes correntes políticas, mas não defenderei pessoas ou partidos quando estiverem errados.",
@@ -1899,8 +1892,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Não ter dinheiro envolvido na campanha pode parecer um problema — na verdade é independência no futuro, pois, com a permissão de Deus, quando for eleito não vou “dever” o mandato a empresários ou a grupos.",
@@ -1908,8 +1901,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "O poder deve emanar do povo, e quando os eleitores descobrirem o que pensamos e como vamos resolver os problemas do DF, faremos a diferença.",
@@ -1917,8 +1910,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Vou lutar para ser eleito no lugar de quem enganam o povo com ideologias e cortes na internet, mas não se preocupam com o DF nem com o Brasil, só pensam em eleição e poder.",
@@ -1926,8 +1919,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Eleito, não terei lado ou partido — vou dialogar com o GDF e o Governo Federal para resolver os problemas do DF, independente de quem seja eleito governador ou presidente.",
@@ -1935,8 +1928,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "Não tenho político de estimação nem bandido preferido. Se houver condenação ou investigação com provas de ilícitos, vou votar a favor de afastamento, suspensão ou cassação, e não vou aprovar quem é corrupto ou despreparado.",
@@ -1944,8 +1937,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         },
         {
           "text": "“Eu vou estar na frente da minha campanha nas ruas, olhando nos olhos das pessoas e falando a verdade, doa a quem doer.”",
@@ -1953,8 +1946,8 @@
           "topics": [],
           "source_url": "https://tiago360.com.br/propostas/",
           "source_title": "propostas – Tiago",
-          "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-          "collected_at": "2026-10-19T14:36:27+00:00"
+          "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+          "collected_at": "2026-10-22T12:54:06+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1973,8 +1966,8 @@
               ],
               "source_url": "https://tiago360.com.br/propostas/",
               "source_title": "propostas – Tiago",
-              "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-              "collected_at": "2026-10-19T14:36:27+00:00"
+              "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+              "collected_at": "2026-10-22T12:54:06+00:00"
             }
           ]
         },
@@ -1998,8 +1991,8 @@
               ],
               "source_url": "https://tiago360.com.br/propostas/",
               "source_title": "propostas – Tiago",
-              "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-              "collected_at": "2026-10-19T14:36:27+00:00"
+              "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+              "collected_at": "2026-10-22T12:54:06+00:00"
             },
             {
               "text": "Quero utilizar minha experiência no SINPOL-DF e a dos meus suplentes, policiais militares, para articular soluções concretas para os problemas do DF.",
@@ -2009,8 +2002,8 @@
               ],
               "source_url": "https://tiago360.com.br/propostas/",
               "source_title": "propostas – Tiago",
-              "source_sha256": "bf88d6e0081dcdbf138142e19d655f9cd6867363f4fc5b9ec823ba84be72e584",
-              "collected_at": "2026-10-19T14:36:27+00:00"
+              "source_sha256": "8e49945935f475591f35df155af222416246112d4e6e4fb4510756637b03a93a",
+              "collected_at": "2026-10-22T12:54:06+00:00"
             }
           ]
         },

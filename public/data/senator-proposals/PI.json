@@ -409,28 +409,28 @@
           "title": "Site fora do ar",
           "sha256": "e7db10e77132e56100709c656464ce637724f79eb0db81363a5612fe70e7d967",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:12+00:00"
+          "collected_at": "2026-10-22T12:57:28+00:00"
         },
         {
           "url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "title": "‎Ciro Nogueira — Apple Music",
-          "sha256": "2cd85ba2894ec95ba8467adb2e8616edbd3493e01072000408e5d84f4474a55a",
+          "sha256": "38323cd2336b3840b3206e2aaaa1c4fb35185840828357a2b84f6327b985ec55",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:13+00:00"
+          "collected_at": "2026-10-22T12:57:30+00:00"
         },
         {
           "url": "https://music.amazon.com.br/artists/B0HFFJQRRY",
           "title": "",
-          "sha256": "5a2c88dcbed6b55631888644cdbecdb84d6fd0d3660661dcb941c8236f83cad3",
+          "sha256": "6fa8ffe407efda1b78e2d3f223b77a311104063ed7a4fac6fdac08da56bac39a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:14+00:00"
+          "collected_at": "2026-10-22T12:57:31+00:00"
         },
         {
           "url": "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
           "title": "MATERIAL CAMPANHA - SENADOR CIRO 111 - Google Drive",
-          "sha256": "22d30f31128e9571e0838bc0734bfe05a7526a6a6af90eef64422b937ddca682",
+          "sha256": "79b07e71745a3079fdee7b0b65d61b939d6aa33785e46d5cd45d17d44fb4c9b3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:16+00:00"
+          "collected_at": "2026-10-22T12:57:33+00:00"
         }
       ],
       "statements": [
@@ -440,8 +440,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "2cd85ba2894ec95ba8467adb2e8616edbd3493e01072000408e5d84f4474a55a",
-          "collected_at": "2026-10-19T14:40:13+00:00"
+          "source_sha256": "38323cd2336b3840b3206e2aaaa1c4fb35185840828357a2b84f6327b985ec55",
+          "collected_at": "2026-10-22T12:57:30+00:00"
         },
         {
           "text": "Ciro 111 Senador (Eu Vou Votar) - Single Ciro 111 Senador (Eu Vou Votar) - Single",
@@ -449,8 +449,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "2cd85ba2894ec95ba8467adb2e8616edbd3493e01072000408e5d84f4474a55a",
-          "collected_at": "2026-10-19T14:40:13+00:00"
+          "source_sha256": "38323cd2336b3840b3206e2aaaa1c4fb35185840828357a2b84f6327b985ec55",
+          "collected_at": "2026-10-22T12:57:30+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1325,7 +1325,7 @@
           "title": "Júlio César 555 — Grupos por Território",
           "sha256": "d3c07e528580a576b20ae327cedb108db8a0863019879b75a2a443d5628f7ade",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:24+00:00"
+          "collected_at": "2026-10-22T12:57:40+00:00"
         }
       ],
       "statements": [],
@@ -1551,7 +1551,7 @@
           "title": "Sendor Marcelo Castro",
           "sha256": "6492c6e7433903021c162041854443ceb978a78c317269f2db12f6eb7f101f8b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:26+00:00"
+          "collected_at": "2026-10-22T12:57:42+00:00"
         }
       ],
       "statements": [],
@@ -1879,27 +1879,9 @@
       "declared_sites": [
         "https://www.pastorsena.com.br/"
       ],
-      "sources": [
-        {
-          "url": "https://www.pastorsena.com.br/",
-          "title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "sha256": "45f28b06162b8640aeccfd1c72add13a84cec113ad287e9a1dca88f5c871ccf6",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:40:29+00:00"
-        }
-      ],
-      "statements": [
-        {
-          "text": "Meus caros piauienses, irmãos na fé e companheiros de caminhada, Venho a público de cabeça erguida e com o coração repleto de gratidão a cada um de vocês. Diante dos últimos acontecimentos referentes ao pleito eleitoral deste domingo, faço questão de trazer a verdade aos piauienses: o Ministério Público Eleitoral (MPE) atestou de forma inequívoca que a minha candidatura cumpriu 100% dos requisitos individuais de elegibilidade. Minha vida, minhas certidões e minha conduta estão e sempre estiveram ficha-limpa e aprovadas. O impedimento da nossa presença nas urnas deu-se exclusivamente na esfera burocrática do DRAP partidário, uma questão técnica da sigla, alheia à minha pessoa. Construímos uma caminhada linda e independente. Mostramos a força da nossa gente, da família e dos valores cristãos em cada município do Piauí. Os números de apoio e o carinho que recebemos nas ruas provaram que não somos massa de manobra e que o nosso projeto é real e necessário. A burocracia pode ter nos afastado do papel de votação neste domingo, mas jamais apagará a nossa representatividade nem o nosso compromisso com o futuro do Piauí.",
-          "section_title": "Gratidão, verdade e transparência do Pastor Sena a todo o povo piauiense.",
-          "topics": [],
-          "source_url": "https://www.pastorsena.com.br/",
-          "source_title": "Pastor Sena 707 | Candidato a Senador pelo Piauí — AVANTE",
-          "source_sha256": "45f28b06162b8640aeccfd1c72add13a84cec113ad287e9a1dca88f5c871ccf6",
-          "collected_at": "2026-10-19T14:40:29+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",

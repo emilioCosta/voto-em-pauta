@@ -188,23 +188,23 @@
         {
           "url": "https://senadorevair100.com.br/",
           "title": "Faça parte do Time Evair — Espírito Santo",
-          "sha256": "26b1965d71e6b778cc9a51550f0a4ffe186dfd08bd19432ffb028e76b87db6ff",
+          "sha256": "2a847dff418590953e420e16a13ac086c7c83487298291165f3ed43f73d0d5c4",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:32+00:00"
+          "collected_at": "2026-10-22T12:54:11+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/",
           "title": "Deputado Federal Evair de Melo: Home",
-          "sha256": "b4bb207953ec8b3eb166a6d76b6296bcea8e5632c2af1c75855f66b1eccb6c40",
+          "sha256": "a67f9dcd4804a5abd38e8e3d331818bb7612845ae7f4714d9c6965b4a52bf606",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:34+00:00"
+          "collected_at": "2026-10-22T12:54:13+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/noticias/sao-gabriel-da-palha-pode-ser-capital-nacional-do-cafe-conilon-por-projeto-de-evair",
           "title": "Deputado Federal Evair de Melo: Noticias",
-          "sha256": "5f1911d712e1149044d628f4b2508e68842efb4ed01ec9d632ffc33f2df11273",
+          "sha256": "d2747b4abd31f4cc5096f0667b3b59eba000443854bdeead586266d056cadad1",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:36+00:00"
+          "collected_at": "2026-10-22T12:54:14+00:00"
         }
       ],
       "statements": [],
@@ -316,9 +316,17 @@
       "declared_sites": [
         "https://WWW.FABIANOCONTARATO.COM.BR/"
       ],
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://WWW.FABIANOCONTARATO.COM.BR/",
+          "title": "Hospedagem de Sites | Página não encontrada",
+          "sha256": "6f5d9bc43ee4175845d07b9c482822edbd556ebf9c1556e22859e0d4125b757b",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-22T12:54:18+00:00"
+        }
+      ],
       "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",
@@ -655,21 +663,21 @@
           "title": "",
           "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:48+00:00"
+          "collected_at": "2026-10-22T12:54:25+00:00"
         },
         {
           "url": "https://AVERDADEDOCUMENTADA.COM.BR/",
           "title": "A Verdade Documentada!",
-          "sha256": "9de2877e5d4c4a2e517eff40898f59b386b1d591f4610141bdbe8cf913ff6207",
+          "sha256": "af025bda0227294aa2ed629ca1744cfea47ef709fb74f908e201b2dcefd63a04",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:50+00:00"
+          "collected_at": "2026-10-22T12:54:27+00:00"
         },
         {
           "url": "https://SENADORTRANSPARENTE.COM.BR/",
           "title": "Recursos - Senador Marcos do Val",
-          "sha256": "2df309f09a870b7188aef9d97deca6f0a7a919ff07384ad1b0cfe77e65006362",
+          "sha256": "d2d07c799f4e653cc078444f0c3e3f3a4625e13043f6fa61116df3c5c0bf17c6",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:36:52+00:00"
+          "collected_at": "2026-10-22T12:54:30+00:00"
         }
       ],
       "statements": [],
@@ -1221,9 +1229,9 @@
         {
           "url": "https://sergiomeneguelli.com.br/",
           "title": "Sergio Meneguelli – Prefeito de Colatina",
-          "sha256": "431ea1698f436bf9a2649199c92ed98df89b61f428c4ca112eb9658aa7924967",
+          "sha256": "515ddaffdbe14d0cc05623075b66d3518d9b547fd44ae6a0ea6c69e1c46142ff",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:37:04+00:00"
+          "collected_at": "2026-10-22T12:54:39+00:00"
         }
       ],
       "statements": [],

@@ -291,9 +291,70 @@
       "declared_sites": [
         "https://aecioneves.com.br/"
       ],
-      "sources": [],
-      "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "sources": [
+        {
+          "url": "https://aecioneves.com.br/",
+          "title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
+          "sha256": "3836d0a6a092841db5522e3adb76fda286b6fe9548e0ed962b12a3e2f4650b8f",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-22T12:55:16+00:00"
+        },
+        {
+          "url": "https://aecioneves.com.br/sala-de-imprensa/destaques/aecio-voltei-a-presidencia-do-psdb-porque-acredito-que-vamos-construir-um-novo-projeto-presidencial-em-pouco-tempo/",
+          "title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo” – Aécio Neves",
+          "sha256": "64d44597802d496bfd899fd934dc1fae7b814b791c515f52eae48e7ad09c42e5",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-22T12:55:18+00:00"
+        }
+      ],
+      "statements": [
+        {
+          "text": "“Quero ser muito direto e claro com cada um dos mineiros e das mineiras. Eu havia tomado uma decisão, uma decisão serena, refletida, de me dedicar, nos próximos anos, à recuperação do espaço político do…",
+          "section_title": "Entrevista Aécio Neves em Belo Horizonte 28-08-26",
+          "topics": [],
+          "source_url": "https://aecioneves.com.br/",
+          "source_title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
+          "source_sha256": "3836d0a6a092841db5522e3adb76fda286b6fe9548e0ed962b12a3e2f4650b8f",
+          "collected_at": "2026-10-22T12:55:16+00:00"
+        },
+        {
+          "text": "“Estamos recebendo adesões no Nordeste do país, no Centro-Oeste, na região Central, na região Sudeste e sairemos fortalecidos das próximas eleições. Vamos ultrapassar 30 parlamentares federais eleitos, alguns governadores, e queremos voltar a apresentar um projeto para o Brasil. Por isso, estou aqui muito feliz com o que estou vendo. Temos uma pré-candidatura colocada do prefeito Maranata, que tem muita determinação, tem uma administração muito bem avaliada no seu município, e vai mostrar isso no estado do Rio Grande”, disse Aécio.",
+          "section_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo”",
+          "topics": [],
+          "source_url": "https://aecioneves.com.br/sala-de-imprensa/destaques/aecio-voltei-a-presidencia-do-psdb-porque-acredito-que-vamos-construir-um-novo-projeto-presidencial-em-pouco-tempo/",
+          "source_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo” – Aécio Neves",
+          "source_sha256": "64d44597802d496bfd899fd934dc1fae7b814b791c515f52eae48e7ad09c42e5",
+          "collected_at": "2026-10-22T12:55:18+00:00"
+        },
+        {
+          "text": "“O PSDB é um partido que o Brasil conhece, não é uma novidade. O PSDB é responsável pelas principais transformações ocorridas no Brasil nas últimas décadas, em todas as áreas. O nosso projeto está vivo e, na política, o caminho mais fácil não é o que nos leva mais longe. Vamos sair fortalecidos das eleições e aqueles que hoje chegam, acreditando nesse novo momento, sabem que vale a pena lutar para reconstruir o PSDB”, afirmou.",
+          "section_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo”",
+          "topics": [],
+          "source_url": "https://aecioneves.com.br/sala-de-imprensa/destaques/aecio-voltei-a-presidencia-do-psdb-porque-acredito-que-vamos-construir-um-novo-projeto-presidencial-em-pouco-tempo/",
+          "source_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo” – Aécio Neves",
+          "source_sha256": "64d44597802d496bfd899fd934dc1fae7b814b791c515f52eae48e7ad09c42e5",
+          "collected_at": "2026-10-22T12:55:18+00:00"
+        },
+        {
+          "text": "“Aqueles que estão hoje ajudando na reconstrução do nosso partido sabem que vamos reassumir novamente, em pouco tempo, o papel que nos cabe na política nacional: o de apontar caminhos para o Brasil”.",
+          "section_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo”",
+          "topics": [],
+          "source_url": "https://aecioneves.com.br/sala-de-imprensa/destaques/aecio-voltei-a-presidencia-do-psdb-porque-acredito-que-vamos-construir-um-novo-projeto-presidencial-em-pouco-tempo/",
+          "source_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo” – Aécio Neves",
+          "source_sha256": "64d44597802d496bfd899fd934dc1fae7b814b791c515f52eae48e7ad09c42e5",
+          "collected_at": "2026-10-22T12:55:18+00:00"
+        },
+        {
+          "text": "“O Brasil precisa hoje, mais do que nunca, de partidos políticos que não se curvem às facilidades. O Brasil está inundado de partidos pragmáticos que vivem a lógica de aumentar o fundo partidário, aumentam suas bancadas e, com isso, aumentam mais ainda os fundos, para depois apoiar qualquer governo, seja de esquerda, seja de direita. O PSDB optou pelo caminho mais difícil, de construir um projeto ao centro para o Brasil. Então, isso faz com que, mesmo com menos parlamentares, estejamos hoje muito mais unidos”, disse.",
+          "section_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo”",
+          "topics": [],
+          "source_url": "https://aecioneves.com.br/sala-de-imprensa/destaques/aecio-voltei-a-presidencia-do-psdb-porque-acredito-que-vamos-construir-um-novo-projeto-presidencial-em-pouco-tempo/",
+          "source_title": "Aécio: “Voltei à presidência do PSDB porque acredito que vamos construir um novo projeto presidencial em pouco tempo” – Aécio Neves",
+          "source_sha256": "64d44597802d496bfd899fd934dc1fae7b814b791c515f52eae48e7ad09c42e5",
+          "collected_at": "2026-10-22T12:55:18+00:00"
+        }
+      ],
+      "status": "proposals-found",
       "sections": [
         {
           "id": "education",
@@ -1701,9 +1762,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/tiao-pessoa/",
           "title": "TIÃO PESSOA - Portal Eleitoral do PCO",
-          "sha256": "6b3187395d7fabaecd011e00a120fdf12557adc3ac620b20f1b1ad4814ebb3f9",
+          "sha256": "dc0653554c584ab6c717359b2f15d8882fca831e08b9e35bede9607070d0c25b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-19T14:37:48+00:00"
+          "collected_at": "2026-10-22T12:55:21+00:00"
         }
       ],
       "statements": [],
