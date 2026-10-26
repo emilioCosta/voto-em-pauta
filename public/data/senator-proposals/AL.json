@@ -727,16 +727,16 @@
         {
           "url": "https://RENANCALHEIROS.COM.BR/",
           "title": "Senador Renan Calheiros - Perfil Biográfico, Discursos e Atuação Parlamentar",
-          "sha256": "7509c3e45bab360cb49af90c3a3952ba3a21698c4854a4f3144e0bc31a7943df",
+          "sha256": "b8f0cef6ec123784fa6b5a13607ef194aed3fbc832ac97d8955c45ecd8c0fa2f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:51:51+00:00"
+          "collected_at": "2026-10-26T14:00:40+00:00"
         },
         {
           "url": "https://renancalheiros.com.br/artigos/compromisso-com-a-verdade.html",
           "title": "Compromisso com a Verdade - Senador Renan Calheiros",
-          "sha256": "911059c0f0393a43cdc197e86d47fe46522c900af8cedaf7b93c9a83d2353692",
+          "sha256": "1d6a524c547df65c72094f7d3fff1af48056493c0f20217cf45a33c8f9c0d68e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:51:58+00:00"
+          "collected_at": "2026-10-26T14:00:43+00:00"
         }
       ],
       "statements": [
@@ -746,8 +746,8 @@
           "topics": [],
           "source_url": "https://renancalheiros.com.br/artigos/compromisso-com-a-verdade.html",
           "source_title": "Compromisso com a Verdade - Senador Renan Calheiros",
-          "source_sha256": "911059c0f0393a43cdc197e86d47fe46522c900af8cedaf7b93c9a83d2353692",
-          "collected_at": "2026-10-22T12:51:58+00:00"
+          "source_sha256": "1d6a524c547df65c72094f7d3fff1af48056493c0f20217cf45a33c8f9c0d68e",
+          "collected_at": "2026-10-26T14:00:43+00:00"
         }
       ],
       "status": "proposals-found",

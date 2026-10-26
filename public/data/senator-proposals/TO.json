@@ -188,23 +188,23 @@
         {
           "url": "https://flaviobraga277.com.br/",
           "title": "Flávio Braga 277 | Senador pelo Tocantins",
-          "sha256": "e0fe4fe7750ae35646198d1167e41ba54848de0566cea421512d2fe8add5858f",
+          "sha256": "3eaf3660a4f75c595008ab450f0d22f86bb600630b13ed67f4381d5f8b4d132f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:01:50+00:00"
+          "collected_at": "2026-10-26T14:11:19+00:00"
         },
         {
           "url": "https://flaviobraga277.com.br/#propostas",
           "title": "Flávio Braga 277 | Senador pelo Tocantins",
-          "sha256": "c9d0bb197a9891e5c6a419d136032bef567b9339517744a56aa7065fb57ccd14",
+          "sha256": "b4815f237a149496c3d16700fcf417c8bb94f530d32f10846dd3c49aee06783d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:01:51+00:00"
+          "collected_at": "2026-10-26T14:11:20+00:00"
         },
         {
           "url": "https://flaviobraga277.com.br/bio",
           "title": "Flávio Braga 277 | Links Oficiais",
-          "sha256": "cad9788cf4c5c06e1a65c0040c8e84b64c93b2d73cfeec4e69d304a2eb00849c",
+          "sha256": "a8aa517bd06ca8d2474861ce96118d0848aa30d7d2f8973a2c6e729359bb3682",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:01:52+00:00"
+          "collected_at": "2026-10-26T14:11:22+00:00"
         }
       ],
       "statements": [],
@@ -424,9 +424,45 @@
       "declared_sites": [
         "https://SUAMUSICA.COM.BR/EDUARDOGOMESTO"
       ],
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://SUAMUSICA.COM.BR/EDUARDOGOMESTO",
+          "title": "Eduardo Gomes - Perfil Completo no Sua Música",
+          "sha256": "91c5ab37c0919dd78657e0fcc608c1eafa3d18ea76e035b27254147fb81ea7ff",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-26T14:11:23+00:00"
+        },
+        {
+          "url": "https://SUAMUSICA.COM.BR/projetoavontade",
+          "title": "À Vontade - Perfil Completo no Sua Música",
+          "sha256": "a15c706b16c23f972e85c2683eeaa583f92956e9de824c9c68d7f25a731c7097",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-26T14:11:34+00:00"
+        },
+        {
+          "url": "https://SUAMUSICA.COM.BR/noticia/xand-aviao-inicia-era-conexao-com-leo-foguete-em-gravacao-de-clipe-em-fortaleza",
+          "title": "Xand Avião inicia Era Conexão com Léo Foguete em gravação de clipe em Fortaleza - Sua Música",
+          "sha256": "90724117730be97762b5d79ca6fccb8b778637b3de3760f6e831d23df8f2be49",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-26T14:11:35+00:00"
+        },
+        {
+          "url": "https://SUAMUSICA.COM.BR/noticia/ze-vaqueiro-mistura-forro-e-rock-doido-em-gravacao-de-dvd-em-belem",
+          "title": "Zé Vaqueiro mistura forró e rock doido em gravação de DVD em Belém - Sua Música",
+          "sha256": "6343d12a6c75283f9888997d5545f79a729b2d4e346d7cfcc433e11e1ca448d3",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-26T14:11:36+00:00"
+        },
+        {
+          "url": "https://SUAMUSICA.COM.BR/noticia/wesley-safadao-canta-com-matheus-aleixo-no-aniversario-de-maria-flor-filha-de-virginia",
+          "title": "Wesley Safadão canta com Matheus Aleixo no aniversário de Maria Flor, filha de Virginia - Sua Música",
+          "sha256": "84497f1eabf66e3340307ebb164a64112c8493a8b800baf5469b91b0cbe69a2e",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-10-26T14:11:37+00:00"
+        }
+      ],
       "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",
@@ -756,37 +792,37 @@
         {
           "url": "https://CARLOSGAGUIM.COM.BR/",
           "title": "Carlos Gaguim Deputado Federal - Experiência, trabalho e compromisso com o Tocantins.",
-          "sha256": "8575a2f212ec4e97ae01bd35b11229894d233148bf95ea1865e597b7bc358415",
+          "sha256": "e9193cbde3d6f317ec717aa1ba598606959f6a0db2572d57a18380679680d4f3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:02:33+00:00"
+          "collected_at": "2026-10-26T14:11:57+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/",
           "title": "Propostas de Carlos Gaguim para o Tocantins",
-          "sha256": "029256460fb97ed1eaef25edc8ac9090b43d4e3c854fe7cd9fa2a023d9f9b182",
+          "sha256": "21ee544b491cc01e4ed1e0a2c0c48678089f53962233f98ccd2808e48f5281a3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:02:35+00:00"
+          "collected_at": "2026-10-26T14:11:59+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/saude-de-qualidade/",
           "title": "Saúde de qualidade - Carlos Gaguim Deputado Federal",
-          "sha256": "212d5bc9a6b0b34ecce398a6369a03d5414cdedd0b831b36ad238bbc82f8edd0",
+          "sha256": "5b6462f8c239e794016ad2e0296f993e68c0ee7308565670e16d3e3b86e8ee6b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:02:36+00:00"
+          "collected_at": "2026-10-26T14:12:00+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/educacao-que-transforma/",
           "title": "Educação que transforma - Carlos Gaguim Deputado Federal",
-          "sha256": "5b14f1bdc96a3ce703ef8f08fe9ae245afd55ecc00f9704ee201e2c94caed5a2",
+          "sha256": "c7bc7ef99729b362eccde8ada39af0134f8f9f0f7ec49c35304ea09ac9c5d7a3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:02:37+00:00"
+          "collected_at": "2026-10-26T14:12:02+00:00"
         },
         {
           "url": "https://carlosgaguim.com.br/propostas/infraestrutura-e-desenvolvimento/",
           "title": "Infraestrutura e desenvolvimento - Carlos Gaguim Deputado Federal",
-          "sha256": "9016b4195a7f986ad1f575afc2119a1d78b23ca9a72513e7b29678f7e12c1dca",
+          "sha256": "068d688724bdc75864b0ef4b6a50172161fe0036427e1cd5b3bcd3a1df4ddd35",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T13:02:39+00:00"
+          "collected_at": "2026-10-26T14:12:04+00:00"
         }
       ],
       "statements": [],

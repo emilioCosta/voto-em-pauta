@@ -189,7 +189,7 @@
           "title": "Eduardo da Fonte | Candidato ao Senado por Pernambuco",
           "sha256": "14693fad61bb5d6ef8c494255a44a55d7656a3df7303420e3564cf18b6c81d8c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:57:05+00:00"
+          "collected_at": "2026-10-26T14:06:26+00:00"
         }
       ],
       "statements": [],
@@ -415,7 +415,7 @@
           "title": "Humberto Costa - Senador de Lula, senador de Pernambuco",
           "sha256": "a76c3e63d5043511b982d71b9f5a33a765d84f9d21c6e936ad5d9dae68c5913e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:57:08+00:00"
+          "collected_at": "2026-10-26T14:06:29+00:00"
         }
       ],
       "statements": [],
@@ -531,9 +531,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/mailson-da-silva-neto/",
           "title": "MAILSON DA SILVA NETO - Portal Eleitoral do PCO",
-          "sha256": "51247bcea57caaba7f79c088f701dd694514a39d7ab1ffb5227092358df2fc1f",
+          "sha256": "5c8a5a792e51306cae92f482e2393d68029aba29c76d736a0688da93bf17195c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:57:11+00:00"
+          "collected_at": "2026-10-26T14:06:33+00:00"
         }
       ],
       "statements": [],
@@ -753,17 +753,9 @@
       "declared_sites": [
         "https://mariliaarraes.com/"
       ],
-      "sources": [
-        {
-          "url": "https://mariliaarraes.com/",
-          "title": "Fique mais perto de Marília Arraes | Grupo oficial no WhatsApp",
-          "sha256": "907a09df3da27b8c28f9e9f2df85ffeea9d718beec41c32ec6c89283e72aabd8",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-10-22T12:57:12+00:00"
-        }
-      ],
+      "sources": [],
       "statements": [],
-      "status": "official-site-without-extractable-proposals",
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",
