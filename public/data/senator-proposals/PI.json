@@ -409,28 +409,28 @@
           "title": "Site fora do ar",
           "sha256": "e7db10e77132e56100709c656464ce637724f79eb0db81363a5612fe70e7d967",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:06:50+00:00"
+          "collected_at": "2026-10-29T14:07:04+00:00"
         },
         {
           "url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "title": "‎Ciro Nogueira — Apple Music",
-          "sha256": "00fd66d47cccd7b1a8384fb5485ef5311e88af4871a7ab4c555b89ec9f55f2ce",
+          "sha256": "e830cf2abe436593156060f52e55c29282d806f8a67d988e41144a454cd58be7",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:06:51+00:00"
+          "collected_at": "2026-10-29T14:07:05+00:00"
         },
         {
           "url": "https://music.amazon.com.br/artists/B0HFFJQRRY",
           "title": "",
-          "sha256": "6fa8ffe407efda1b78e2d3f223b77a311104063ed7a4fac6fdac08da56bac39a",
+          "sha256": "fec5fbb3b1fce85c7bc3f8e851dac7b85f1e240d76d39d338a5ba0684ec2088b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:06:52+00:00"
+          "collected_at": "2026-10-29T14:07:06+00:00"
         },
         {
           "url": "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
           "title": "MATERIAL CAMPANHA - SENADOR CIRO 111 - Google Drive",
-          "sha256": "b1b15ed11e3656444b1555c11d94fb5d76bc9c48366f69ec6ca09a8db509fa92",
+          "sha256": "4a75b388c8e95470b31079a3547c3558444b9ad0ddcea18df606a54741240055",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:06:53+00:00"
+          "collected_at": "2026-10-29T14:07:07+00:00"
         }
       ],
       "statements": [
@@ -440,8 +440,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "00fd66d47cccd7b1a8384fb5485ef5311e88af4871a7ab4c555b89ec9f55f2ce",
-          "collected_at": "2026-10-26T14:06:51+00:00"
+          "source_sha256": "e830cf2abe436593156060f52e55c29282d806f8a67d988e41144a454cd58be7",
+          "collected_at": "2026-10-29T14:07:05+00:00"
         },
         {
           "text": "Ciro 111 Senador (Eu Vou Votar) - Single Ciro 111 Senador (Eu Vou Votar) - Single",
@@ -449,8 +449,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "00fd66d47cccd7b1a8384fb5485ef5311e88af4871a7ab4c555b89ec9f55f2ce",
-          "collected_at": "2026-10-26T14:06:51+00:00"
+          "source_sha256": "e830cf2abe436593156060f52e55c29282d806f8a67d988e41144a454cd58be7",
+          "collected_at": "2026-10-29T14:07:05+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1325,7 +1325,7 @@
           "title": "Júlio César 555 — Grupos por Território",
           "sha256": "d3c07e528580a576b20ae327cedb108db8a0863019879b75a2a443d5628f7ade",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:07:01+00:00"
+          "collected_at": "2026-10-29T14:07:13+00:00"
         }
       ],
       "statements": [],
@@ -1551,7 +1551,7 @@
           "title": "Sendor Marcelo Castro",
           "sha256": "6492c6e7433903021c162041854443ceb978a78c317269f2db12f6eb7f101f8b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:07:04+00:00"
+          "collected_at": "2026-10-29T14:07:16+00:00"
         }
       ],
       "statements": [],

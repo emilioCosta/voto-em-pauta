@@ -3474,195 +3474,6 @@
       "candidate_type": "governador",
       "file_name": "2026DF70002553982_01.pdf",
       "public_path": "/propostas/2026/DF/2026DF70002553982_01.pdf",
-      "sha256": "ac857a986d18f82fb3f912425d36f8ec347c75c8b67ef1257425fa3880da0cb2",
-      "summary": "Não foi possível extrair propostas temáticas do plano.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "70002553982",
-      "state_code": "DF",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026DF70002553982_02.pdf",
-      "public_path": "/propostas/2026/DF/2026DF70002553982_02.pdf",
       "sha256": "d90f42f6b2d1a12a08e9832af978a30c6c39789b630e5632610466cd60167228",
       "summary": "O Distrito Federal possui uma rede com mais de 470 mil estudantes no ensino público fundamental e médio, além de uma parcela signiﬁcativa de jovens fora do mercado de trabalho e da sala de aula, exigindo uma resposta pública urgente para superar a desarticulação educacional e a exclusão social. Para enfrentar essa realidade e garantir um futuro de oportunidades, a transformação da educação pública sob nossa gestão irá integrar a inovação digital das salas de aula e plataformas de formação técnica conectadas às demandas do mercado de trabalho ao estabelecimento de metas rigorosas de redução da evasão escolar e à descentralização de centros de qualiﬁcação proﬁssional, polos de inclusão digital e complexos esportivos comunitários em todas as Regiões Administrativas. Expandir as Escolas de Tempo Integral no DF, superando o modelo que funciona apenas como \"guarda de alunos\". A saúde pública e a rede de proteção social representam o compromisso mais fundamental de um Estado com a dignidade da sua população, exigindo do Distrito Federal a superação deﬁnitiva de gargalos históricos como ﬁlas prolongadas, descontinuidade na atenção primária e desarticulação do acolhimento assistencial. Descentralização, Tecnologia e Redução de Filas A superação das deﬁciências na saúde pública do Distrito Federal exige compreender que o grande gargalo do setor não é apenas a falta de orçamento, mas a gestão de processos, a ﬁxação de proﬁssionais e a eﬁciência operacional. Elevar a cobertura da atenção primária de forma regionalizada (foco em Ceilândia, Samambaia, Planaltina, Sol Nascente/Pôr do Sol e Recanto das Emas), transformando as UBSs em centros de resolutividade preventiva para evitar a lotação desnecessária das Unidades de Pronto Atendimento (UPAs). Integração em tempo real entre a Secretaria de Segurança Pública (SSP-DF), Polícia Civil, Tribunal de Justiça e Assistência Social. O Distrito Federal sob nossa gestão irá alinhar a valorização das forças policiais, o uso intensivo de tecnologia e inteligência integrada e uma forte atuação preventiva territorial para garantir a segurança pública e a paz social em todas as regiões. Este documento apresenta um diagnóstico preciso e propostas estruturantes baseadas em parâmetros reais, combinando responsabilidade fiscal severa, inovação tecnológica, preservação ambiental e, sobretudo, justiça para nossa gente.",
       "sections": [
@@ -4124,6 +3935,195 @@
               "text": " Integração total entre o sistema de Justiça, PCDF e Polícia Militar no acompanhamento das Medidas Protetivas de Urgência (MPUs)."
             }
           ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "70002553982",
+      "state_code": "DF",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026DF70002553982_02.pdf",
+      "public_path": "/propostas/2026/DF/2026DF70002553982_02.pdf",
+      "sha256": "ac857a986d18f82fb3f912425d36f8ec347c75c8b67ef1257425fa3880da0cb2",
+      "summary": "Não foi possível extrair propostas temáticas do plano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
         }
       ],
       "method": "extractive-v2.18"

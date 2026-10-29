@@ -79,9 +79,9 @@
         {
           "url": "https://ACIR.COM.BR/",
           "title": "Acir Gurgacz – Uma história que atravessa Rondônia",
-          "sha256": "5edd6a85fe45cd1892e63a752a77777ebc044b545e06c652b8491fcdf96541f9",
+          "sha256": "57cecec3d8d473071fa82dae20bd7cd90425be7603569b826de0e3b6147bb267",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:08:24+00:00"
+          "collected_at": "2026-10-29T14:08:26+00:00"
         }
       ],
       "statements": [],
@@ -631,9 +631,9 @@
         {
           "url": "http://LUCIANADEOLIVEIRAESILVA.COM.BR/",
           "title": "lucianadeoliveiraesilva.com.br lucianadeoliveiraesilva.com.br",
-          "sha256": "a330d2dcc9c9737cb54d46fbc19cdbc27b44f6f171b8530040ff13c00a3c86ea",
+          "sha256": "7f432a43be46601bfa9cab098a9fbc3f205e29bff9d6b18047a34e8fe0ff1100",
           "kind": "official-candidate-site",
-          "collected_at": "2026-10-26T14:08:32+00:00"
+          "collected_at": "2026-10-29T14:08:33+00:00"
         }
       ],
       "statements": [
@@ -643,8 +643,8 @@
           "topics": [],
           "source_url": "http://LUCIANADEOLIVEIRAESILVA.COM.BR/",
           "source_title": "lucianadeoliveiraesilva.com.br lucianadeoliveiraesilva.com.br",
-          "source_sha256": "a330d2dcc9c9737cb54d46fbc19cdbc27b44f6f171b8530040ff13c00a3c86ea",
-          "collected_at": "2026-10-26T14:08:32+00:00"
+          "source_sha256": "7f432a43be46601bfa9cab098a9fbc3f205e29bff9d6b18047a34e8fe0ff1100",
+          "collected_at": "2026-10-29T14:08:33+00:00"
         },
         {
           "text": "Defender o voto, as instituições e a soberania popular.",
@@ -652,8 +652,8 @@
           "topics": [],
           "source_url": "http://LUCIANADEOLIVEIRAESILVA.COM.BR/",
           "source_title": "lucianadeoliveiraesilva.com.br lucianadeoliveiraesilva.com.br",
-          "source_sha256": "a330d2dcc9c9737cb54d46fbc19cdbc27b44f6f171b8530040ff13c00a3c86ea",
-          "collected_at": "2026-10-26T14:08:32+00:00"
+          "source_sha256": "7f432a43be46601bfa9cab098a9fbc3f205e29bff9d6b18047a34e8fe0ff1100",
+          "collected_at": "2026-10-29T14:08:33+00:00"
         }
       ],
       "status": "proposals-found",
