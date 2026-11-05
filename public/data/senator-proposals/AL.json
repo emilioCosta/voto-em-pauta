@@ -727,30 +727,13 @@
         {
           "url": "https://RENANCALHEIROS.COM.BR/",
           "title": "Senador Renan Calheiros - Perfil Biográfico, Discursos e Atuação Parlamentar",
-          "sha256": "64131a8c4bde4da065287423fafc7213e18ea84340c2011c9a1febf59b0de777",
+          "sha256": "e8d31f0c3156f8307dd373516b77c8adf0b52c3b763c6aaf60e03b0a78e875e0",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-02T16:58:15+00:00"
-        },
-        {
-          "url": "https://renancalheiros.com.br/artigos/compromisso-com-a-verdade.html",
-          "title": "Compromisso com a Verdade - Senador Renan Calheiros",
-          "sha256": "a99b68c0054698c8a3ed2ff1eca6c64d35bc6912687d44c7f60c9eeaeeb3accf",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-11-02T16:58:20+00:00"
+          "collected_at": "2026-11-05T15:18:49+00:00"
         }
       ],
-      "statements": [
-        {
-          "text": "Não podemos revogar muitas páginas da nossa História, mas sempre que preciso devemos reformá-las a fim de iluminar as futuras gerações. Vamos repor a verdade sempre que necessário, como fiz quando presidi a sessão que anulou a farsa de 64. Vamos resistir sempre aos fundamentalistas que não convivem com as diferenças. A lógica do senso único é inservível à democracia. Diante de disparates, o Congresso Nacional estará atento e saberá reagir como bem definiu Ulysses Guimarães ao promulgar a Constituição: “A sociedade foi Rubens Paiva, não os facínoras que o mataram”.",
-          "section_title": "Compromisso com a Verdade",
-          "topics": [],
-          "source_url": "https://renancalheiros.com.br/artigos/compromisso-com-a-verdade.html",
-          "source_title": "Compromisso com a Verdade - Senador Renan Calheiros",
-          "source_sha256": "a99b68c0054698c8a3ed2ff1eca6c64d35bc6912687d44c7f60c9eeaeeb3accf",
-          "collected_at": "2026-11-02T16:58:20+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "statements": [],
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",

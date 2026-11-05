@@ -729,9 +729,9 @@
         {
           "url": "https://MOTTA-CAMPEAO-SITE.LOVABLE.APP/",
           "title": "Rafael Motta",
-          "sha256": "601bbb5efb9c6109f118fb1a34c4ed4b24a246296792bbcb23fa19364b1bd899",
+          "sha256": "c9413bbea3e8da26e1d419f1d61b3bf06d5b7adb9eac4ed753c3efdf6bf9d15d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-02T17:05:47+00:00"
+          "collected_at": "2026-11-05T15:25:12+00:00"
         }
       ],
       "statements": [],
@@ -955,9 +955,9 @@
         {
           "url": "https://www.samanda131.com.br/",
           "title": "Samanda de Lula 131",
-          "sha256": "c3ab5191e3ba278ea435b00a6c43f746c9b771a6c6d0c1eb8ef1bd9f28e37954",
+          "sha256": "a3f56c5a8805f129fe714ae97a9095f7a6c5432b5ce2d9d365b6768c29e9f688",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-02T17:05:51+00:00"
+          "collected_at": "2026-11-05T15:25:17+00:00"
         }
       ],
       "statements": [
@@ -967,8 +967,8 @@
           "topics": [],
           "source_url": "https://www.samanda131.com.br/",
           "source_title": "Samanda de Lula 131",
-          "source_sha256": "c3ab5191e3ba278ea435b00a6c43f746c9b771a6c6d0c1eb8ef1bd9f28e37954",
-          "collected_at": "2026-11-02T17:05:51+00:00"
+          "source_sha256": "a3f56c5a8805f129fe714ae97a9095f7a6c5432b5ce2d9d365b6768c29e9f688",
+          "collected_at": "2026-11-05T15:25:17+00:00"
         }
       ],
       "status": "proposals-found",
