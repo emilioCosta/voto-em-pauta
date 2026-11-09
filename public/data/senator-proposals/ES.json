@@ -188,23 +188,37 @@
         {
           "url": "https://senadorevair100.com.br/",
           "title": "Faça parte do Time Evair — Espírito Santo",
-          "sha256": "bdac8f4afb34820695643635d20396fdd0b8f6ab4316e07cc96ea1a736b1ba4a",
+          "sha256": "082d2a9d413df83bf80f26d8aea35319f7681d0088e5d1fa4e583de693d0a8d9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:01+00:00"
+          "collected_at": "2026-11-09T17:20:57+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/",
           "title": "Deputado Federal Evair de Melo: Home",
-          "sha256": "180f1b12de77bfae69c5ab64caab0b084b81afc6fbd9d058c6a9b38086ff0b37",
+          "sha256": "65fa212ceefec89925670257ffb17392fc12e2adf5dbc914ab9033f099031655",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:03+00:00"
+          "collected_at": "2026-11-09T17:20:59+00:00"
         },
         {
-          "url": "https://evairdemelo.com.br/noticias/sao-gabriel-da-palha-pode-ser-capital-nacional-do-cafe-conilon-por-projeto-de-evair",
-          "title": "Deputado Federal Evair de Melo: Noticias",
-          "sha256": "5b52bb566a4335344fe58f7b35b08973f5cfebd56e5ed25453872374f55ec462",
+          "url": "https://evairdemelo.com.br/projetos",
+          "title": "Deputado Federal Evair de Melo: Projetos",
+          "sha256": "9e8db1145b716eed9d4f9cef3ba09ad6fcb0da2d151ea59f76b816ca6fde1844",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:04+00:00"
+          "collected_at": "2026-11-09T17:21:00+00:00"
+        },
+        {
+          "url": "https://evairdemelo.com.br/projetos/anistia-reparacao-de-injusticas",
+          "title": "Deputado Federal Evair de Melo: Projetos",
+          "sha256": "6967345aea08185c42214cf3d3c33a9c5ab2cecf1bf9b4926493c3fe97449a12",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-09T17:21:01+00:00"
+        },
+        {
+          "url": "https://evairdemelo.com.br/projetos/anistia-reparacao-de-injusticas#carousel-2",
+          "title": "Deputado Federal Evair de Melo: Projetos",
+          "sha256": "6967345aea08185c42214cf3d3c33a9c5ab2cecf1bf9b4926493c3fe97449a12",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-09T17:21:02+00:00"
         }
       ],
       "statements": [],
@@ -653,16 +667,16 @@
         {
           "url": "https://AVERDADEDOCUMENTADA.COM.BR/",
           "title": "A Verdade Documentada!",
-          "sha256": "7bce92b477c519f0b57c820821a08c0fa2b92c2ed0eedf1d5d941bc5e6798577",
+          "sha256": "fb4b37e84fe6b146063d9fa64884bfab3db99b3bd093e555fc60b445dc12c5fb",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:17+00:00"
+          "collected_at": "2026-11-09T17:21:15+00:00"
         },
         {
           "url": "https://SENADORTRANSPARENTE.COM.BR/",
           "title": "Recursos - Senador Marcos do Val",
-          "sha256": "c011e8fc86fbbfa3b2b46b130aee6da9658e9fbe3de0350487393a043cd52333",
+          "sha256": "b9f61af19f8bbd36ff1f0981e3a358729603c68ace0ce799d4583bfb8ca361c4",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:19+00:00"
+          "collected_at": "2026-11-09T17:21:17+00:00"
         }
       ],
       "statements": [],
@@ -884,9 +898,17 @@
       "declared_sites": [
         "http://www.renatocasagrande.com.br/"
       ],
-      "sources": [],
+      "sources": [
+        {
+          "url": "http://www.renatocasagrande.com.br/",
+          "title": "Senador Casagrande",
+          "sha256": "4a9cf384d9f33f121c1b787247498ffbe6423b4df04e9ff8c194a5ef4cc517e9",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-09T17:21:20+00:00"
+        }
+      ],
       "statements": [],
-      "status": "site-unavailable-or-disallowed",
+      "status": "official-site-without-extractable-proposals",
       "sections": [
         {
           "id": "education",
@@ -1214,9 +1236,9 @@
         {
           "url": "https://sergiomeneguelli.com.br/",
           "title": "Sergio Meneguelli – Prefeito de Colatina",
-          "sha256": "6fe78107480d136a3264bb98a2f1ef903819595bc25a83572706d3764b229df5",
+          "sha256": "4c7fd8b5beeb391ec5c181bcf2f008fbcbf9ff9bce30dbda8fddcbaea9c13881",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:28+00:00"
+          "collected_at": "2026-11-09T17:21:26+00:00"
         }
       ],
       "statements": [],

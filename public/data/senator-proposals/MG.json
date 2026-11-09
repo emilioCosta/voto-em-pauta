@@ -291,27 +291,9 @@
       "declared_sites": [
         "https://aecioneves.com.br/"
       ],
-      "sources": [
-        {
-          "url": "https://aecioneves.com.br/",
-          "title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
-          "sha256": "05371519cb88de2e99fdc4859da56413be2ec61a0045082ac276735d64c92b09",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:21:57+00:00"
-        }
-      ],
-      "statements": [
-        {
-          "text": "“Quero ser muito direto e claro com cada um dos mineiros e das mineiras. Eu havia tomado uma decisão, uma decisão serena, refletida, de me dedicar, nos próximos anos, à recuperação do espaço político do…",
-          "section_title": "Entrevista Aécio Neves em Belo Horizonte 28-08-26",
-          "topics": [],
-          "source_url": "https://aecioneves.com.br/",
-          "source_title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
-          "source_sha256": "05371519cb88de2e99fdc4859da56413be2ec61a0045082ac276735d64c92b09",
-          "collected_at": "2026-11-05T15:21:57+00:00"
-        }
-      ],
-      "status": "proposals-found",
+      "sources": [],
+      "statements": [],
+      "status": "site-unavailable-or-disallowed",
       "sections": [
         {
           "id": "education",
@@ -1719,9 +1701,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/tiao-pessoa/",
           "title": "TIÃO PESSOA - Portal Eleitoral do PCO",
-          "sha256": "e652a212f0a14944fe0a64c43288ab4638a33616e36eac19811bf43437814e54",
+          "sha256": "a33ac4090f7813644cf47acbf7de7fdf961d79d3f61c280d3946beb6acce1680",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-05T15:22:00+00:00"
+          "collected_at": "2026-11-09T17:22:31+00:00"
         }
       ],
       "statements": [],
