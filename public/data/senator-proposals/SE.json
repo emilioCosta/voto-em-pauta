@@ -511,16 +511,16 @@
         {
           "url": "https://EDUARDOAMORIMSERGIPE.COM.BR/",
           "title": "Página Inicial - Dr. Eduardo Amorim",
-          "sha256": "56f3d365b509777dc3f63d40a2a48efd646f5660bce99f675b69af2b146eab08",
+          "sha256": "a472b6025eccde84dcd413603abb99940118e0afb04ba75954d38e7ca6212e80",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:25+00:00"
+          "collected_at": "2026-11-12T16:02:23+00:00"
         },
         {
           "url": "https://eduardoamorimsergipe.com.br/2026/09/27/onda-azul-eduardo-amorim-reafirma-compromisso-com-sergipe/",
           "title": "Onda Azul: Eduardo Amorim reafirma compromisso com Sergipe - Dr. Eduardo Amorim",
-          "sha256": "01ce4492acb99e619363c263f5b760360445a7d1c5490c5b5345a81cb81ebcfa",
+          "sha256": "b830e43fd8e33db2341ec91190692f00f4b79c278b09eb76f03c092e7413b29f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:27+00:00"
+          "collected_at": "2026-11-12T16:02:25+00:00"
         }
       ],
       "statements": [],
@@ -744,41 +744,69 @@
         {
           "url": "https://IRANBARBOSA.COM.BR/",
           "title": "Home - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "6eb97fb2748f219a8397aa444daf16e2b9d9d9b275f9d3ed8b529626d68fdd4a",
+          "sha256": "2d6b489d3c9dab261222fe507ed4611c39d47d626be9933663ccbb613542159f",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:33+00:00"
+          "collected_at": "2026-11-12T16:02:31+00:00"
         },
         {
           "url": "https://iranbarbosa.com.br/projetos-de-lei/projetos-de-lei",
           "title": "Projetos de Lei - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "b834888ab032ba0420b13f5c1e1577552493df6ea52d5652295e281978987151",
+          "sha256": "23ec16f8b752008aa7de6b11c84832e09ea487289513fa5a517d7c2375f349ee",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:40+00:00"
+          "collected_at": "2026-11-12T16:02:36+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
+          "title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "77bad0b4f3726a506f7ae45a697c8cf32363ff4e4606deb6be68888e3cc7a8c0",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-12T16:02:39+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/#respond",
+          "title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "d27854e2877c1cceb460a7addfe89969584f344c1b7b636e07cfcbc1cfd17cb6",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-12T16:02:41+00:00"
         },
         {
           "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/",
           "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "cdc06e0e56905a69c5fa32e09d9c6fa7b500ab67fcdf33a52dc1a7977ad56ee0",
+          "sha256": "8a5720d530ecb284ee3a5d210fdca4f9f6b78538c7d51dd6ddcc5e5cd57d4807",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:42+00:00"
-        },
-        {
-          "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/#respond",
-          "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "a9408f403b7c30e290cd565103761db597d922a7be206a85f92174b5fab86f43",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:45+00:00"
-        },
-        {
-          "url": "https://iranbarbosa.com.br/2026/07/16/iran-apresenta-proposta-de-emenda-a-lei-organica-vedando-preconceitos-por-identidade-de-genero/#content",
-          "title": "Iran apresenta Proposta de Emenda à Lei Orgânica vedando preconceitos por Identidade de Gênero - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "aa314288379475da8151aef22bb8db9521f1bdaeb53e26c6263865674c235b1c",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:48+00:00"
+          "collected_at": "2026-11-12T16:02:49+00:00"
         }
       ],
-      "statements": [],
-      "status": "official-site-without-extractable-proposals",
+      "statements": [
+        {
+          "text": "O parlamentar propôs ao presidente da Casa e das Comissões Permanentes uma ação preparatória por parte da Câmara Municipal de Aracaju para o engajamento da Casa Legislativa à campanha e a prioridade para apreciar e votar projetos que tratam do tema durante esse período.",
+          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
+          "topics": [],
+          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
+          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "source_sha256": "77bad0b4f3726a506f7ae45a697c8cf32363ff4e4606deb6be68888e3cc7a8c0",
+          "collected_at": "2026-11-12T16:02:39+00:00"
+        },
+        {
+          "text": "“Eu apresentei o Projeto de Lei n° 120/2026, que propõe instituir o Dia de Mobilização Municipal dos Homens pelo Fim da Violência Contra as Mulheres, mas, como já há Lei sobre a matéria, estou propondo ampliar não só as ações, mas também o espectro das responsabilidades de iniciativas, para alcançarmos o Poder Público de uma forma geral, inclusive, a Câmara Municipal de Aracaju, que tem e deve contribuir muito com essa mobilização”, destacou.",
+          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
+          "topics": [],
+          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
+          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "source_sha256": "77bad0b4f3726a506f7ae45a697c8cf32363ff4e4606deb6be68888e3cc7a8c0",
+          "collected_at": "2026-11-12T16:02:39+00:00"
+        },
+        {
+          "text": "“A Câmara tem contribuído muito em relação ao enfrentamento à violência contras as meninas e as mulheres, e continuará contribuindo, visto que tem vários projetos sobre esse tema tramitando. O meu apelo, portanto, é para que consigamos nos organizar internamente a fim de, em regime de urgência, dentro dos 21 dias de ativismo, priorizar a aprovação de projetos que pautam essa questão”, reforçou o parlamentar.",
+          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
+          "topics": [],
+          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
+          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "source_sha256": "77bad0b4f3726a506f7ae45a697c8cf32363ff4e4606deb6be68888e3cc7a8c0",
+          "collected_at": "2026-11-12T16:02:39+00:00"
+        }
+      ],
+      "status": "proposals-found",
       "sections": [
         {
           "id": "education",

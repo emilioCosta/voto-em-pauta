@@ -188,37 +188,37 @@
         {
           "url": "https://senadorevair100.com.br/",
           "title": "Faça parte do Time Evair — Espírito Santo",
-          "sha256": "082d2a9d413df83bf80f26d8aea35319f7681d0088e5d1fa4e583de693d0a8d9",
+          "sha256": "30409ce9dea1053656e61bcb2cd616bae6667abbb9aec236f748f01cd4ae1689",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:20:57+00:00"
+          "collected_at": "2026-11-12T15:56:26+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/",
           "title": "Deputado Federal Evair de Melo: Home",
-          "sha256": "65fa212ceefec89925670257ffb17392fc12e2adf5dbc914ab9033f099031655",
+          "sha256": "9f29fdc5d3bb225c2b6bc25c4cafe850bacad9fd905b414452e5919a30301e0d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:20:59+00:00"
+          "collected_at": "2026-11-12T15:56:28+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/projetos",
           "title": "Deputado Federal Evair de Melo: Projetos",
-          "sha256": "9e8db1145b716eed9d4f9cef3ba09ad6fcb0da2d151ea59f76b816ca6fde1844",
+          "sha256": "d8c17710f35b9b69b2f57365edb341aa23270069de6cb35c2418766cf3658d11",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:00+00:00"
+          "collected_at": "2026-11-12T15:56:29+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/projetos/anistia-reparacao-de-injusticas",
           "title": "Deputado Federal Evair de Melo: Projetos",
           "sha256": "6967345aea08185c42214cf3d3c33a9c5ab2cecf1bf9b4926493c3fe97449a12",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:01+00:00"
+          "collected_at": "2026-11-12T15:56:31+00:00"
         },
         {
           "url": "https://evairdemelo.com.br/projetos/anistia-reparacao-de-injusticas#carousel-2",
           "title": "Deputado Federal Evair de Melo: Projetos",
           "sha256": "6967345aea08185c42214cf3d3c33a9c5ab2cecf1bf9b4926493c3fe97449a12",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:02+00:00"
+          "collected_at": "2026-11-12T15:56:32+00:00"
         }
       ],
       "statements": [],
@@ -667,16 +667,16 @@
         {
           "url": "https://AVERDADEDOCUMENTADA.COM.BR/",
           "title": "A Verdade Documentada!",
-          "sha256": "fb4b37e84fe6b146063d9fa64884bfab3db99b3bd093e555fc60b445dc12c5fb",
+          "sha256": "35317df915ca9a6d52a58eeb05f708240799c1b69a697b7bdfc481c00f46ae25",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:15+00:00"
+          "collected_at": "2026-11-12T15:56:45+00:00"
         },
         {
           "url": "https://SENADORTRANSPARENTE.COM.BR/",
           "title": "Recursos - Senador Marcos do Val",
-          "sha256": "b9f61af19f8bbd36ff1f0981e3a358729603c68ace0ce799d4583bfb8ca361c4",
+          "sha256": "9b24b1adb8946e5f072e7f3ad746daf1697b2ff4e3509141a1aa40fe92fe929e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:17+00:00"
+          "collected_at": "2026-11-12T15:56:47+00:00"
         }
       ],
       "statements": [],
@@ -904,7 +904,7 @@
           "title": "Senador Casagrande",
           "sha256": "4a9cf384d9f33f121c1b787247498ffbe6423b4df04e9ff8c194a5ef4cc517e9",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:20+00:00"
+          "collected_at": "2026-11-12T15:56:50+00:00"
         }
       ],
       "statements": [],
@@ -1236,9 +1236,9 @@
         {
           "url": "https://sergiomeneguelli.com.br/",
           "title": "Sergio Meneguelli – Prefeito de Colatina",
-          "sha256": "4c7fd8b5beeb391ec5c181bcf2f008fbcbf9ff9bce30dbda8fddcbaea9c13881",
+          "sha256": "967f1d66c33522930cec60bdbbaaf665438e5c008f3073fee18e07890351dc63",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:21:26+00:00"
+          "collected_at": "2026-11-12T15:56:54+00:00"
         }
       ],
       "statements": [],

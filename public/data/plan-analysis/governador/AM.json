@@ -77,8 +77,8 @@
       "candidate_type": "governador",
       "file_name": "2026AM40002532272_01.pdf",
       "public_path": "/propostas/2026/AM/2026AM40002532272_01.pdf",
-      "sha256": "767d2062c62de7c4dbdfbf36b2ab724ba230d6806f3266569580957803662076",
-      "summary": "Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa. Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial. déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas. Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle.",
+      "sha256": "154c981e4aee62d4f59ebe700c38e5f8ead53c32729be464c1fb0e25137d80e6",
+      "summary": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos. Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024. envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico. O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial. A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas. Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos. A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência.",
       "sections": [
         {
           "id": "education",
@@ -94,49 +94,408 @@
         {
           "id": "health",
           "title": "Saúde",
-          "page_start": 1,
-          "page_end": 22,
+          "page_start": null,
+          "page_end": null,
           "topics": [
             "health"
           ],
-          "summary": "Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa. Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial. déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas.",
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 1,
+          "page_end": 32,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos. Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024.",
           "excerpts": [
             {
-              "id": "s04",
+              "id": "s01",
               "page_start": 1,
-              "page_end": 5,
-              "text": "SEFAZ-AM/SIAFE, maio-2026. Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa."
+              "page_end": 2,
+              "text": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos."
+            },
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 4,
+              "text": "Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024. Esse comportamento exige que o planejamento de segurança pública seja guiado por um diagnóstico territorializado por tipo de crime, capaz de identificar padrões, antecipar deslocamentos e orientar respostas focalizadas."
+            },
+            {
+              "id": "s06",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Diante disso, torna-se evidente que o ambiente virtual deve ser tratado como um território estratégico para a segurança pública, exigindo monitoramento permanente, inteligência digital avançada e cooperação com plataformas tecnológicas."
+            },
+            {
+              "id": "s07",
+              "page_start": 7,
+              "page_end": 8,
+              "text": " A complexidade do território e o ensaio para uma nova metodologia A leitura do território amazonense para fins de segurança pública exige uma abordagem metodológica capaz de lidar com limitações estruturais dos dados, diferenças entre bases estatísticas e lacunas históricas na forma como a criminalidade é registrada. A granularidade desigual das informações — ora disponíveis apenas por zona da capital, ora apenas por município, raramente por bairro — impõe a necessidade de combinar múltiplas fontes e construir mapas de risco que integrem dados do Ipea, do Anuário da SSP-AM, do Mapa do Ministério da Justiça e Segurança Pública (MJSP) e de boletins locais."
             },
             {
               "id": "s08",
               "page_start": 8,
               "page_end": 9,
-              "text": "Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial."
+              "text": "a nova metodologia proposta A territorialização proposta pelo Plano Estratégico de Desenvolvimento, no âmbito da Segurança Pública do Amazonas, busca reorganizar a atuação do Estado a partir de territórios funcionais que reflitam as dinâmicas criminais, logísticas e socioambientais, permitindo intervenções mais precisas e integradas. Para tanto, a proposta de territorialização, no âmbito deste Plano, organiza o Estado em quatro grandes territórios funcionais, alinhados às dinâmicas criminais, logísticas e socioambientais que estruturam a violência e a presença do crime organizado."
+            },
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A segurança pública no Amazonas demanda granularidade variável, capaz de operar simultaneamente em escalas como bairro, zona urbana, município, trecho de rio, bacia hidrográfica e corredor funcional — algo que a divisão constitucional não consegue oferecer. Do ponto de vista logístico, a classificação de territórios específicos para a atuação inteligente da segurança pública no Amazonas aumenta a eficiência operacional, reduz deslocamentos ociosos e melhora o tempo de resposta."
+            },
+            {
+              "id": "s12",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Apesar do Amazonas possuir apenas 3,22% dos municípios da faixa de fronteira, a área corresponde a mais de 25% das fronteiras brasileiras (Quadro 5), o que requer atenção especial, principalmente no que se refere à segurança pública, diretamente envolvida com as ações de manutenção da soberania da nação."
             },
             {
               "id": "s14",
               "page_start": 13,
               "page_end": 14,
-              "text": "déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas."
+              "text": "Ainda assim, essa limitação jurídica não impede — e, na prática, exige — ações conjuntas e mecanismos de cooperação entre os entes federativos, especialmente em temas como fiscalização ambiental, segurança pública, infraestrutura e políticas sociais."
+            },
+            {
+              "id": "s17",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Zonas sensíveis de governança territorial Do ponto de vista da segurança pública, as divisas interestaduais do Amazonas devem ser tratadas como zonas sensíveis de governança territorial, pois concentram vulnerabilidades estruturais."
+            },
+            {
+              "id": "s18",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "Plano estratégico de desenvolvimento A partir desse panorama, a análise das divisas do Amazonas revela dinâmicas distintas de circulação, ocupação e risco, permitindo qualificar estratégias de segurança pública conforme as especificidades de cada fronteira. Ao identificar os fluxos, os vazios demográficos e as pressões socioambientais de cada fronteira, torna-se possível orientar políticas de segurança pública mais precisas e integradas."
+            },
+            {
+              "id": "s20",
+              "page_start": 19,
+              "page_end": 20,
+              "text": "Ao incorporar essa lógica fluvial, o planejamento de segurança pública passa a refletir a realidade operacional do Estado. A territorialização por calhas supera a fragmentação dos recortes administrativos e permite uma visão sistêmica do crime, fortalecendo a capacidade do Plano Estratégico de Desenvolvimento, em seu eixo dedicado à da segurança pública, de atuar de forma integrada, eficiente e adaptada às especificidades amazônicas."
+            },
+            {
+              "id": "s21",
+              "page_start": 20,
+              "page_end": 21,
+              "text": "Territorialização no sistema penitenciário A política de segurança pública não está desvinculada do sistema prisional. A sistematização e a territorialização do sistema prisional facilitam o encaminhamento célere para unidades apropriadas à execução penal, reduzindo retenções irregulares e exposições a riscos."
+            },
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Essas medidas contribuem para reduzir a demanda por vagas no sistema prisional."
+            },
+            {
+              "id": "s23",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "A adoção da territorialização como eixo estruturante do Plano Estratégico de Desenvolvimento da Segurança Pública do Amazonas é um passo decisivo para a efetiva ocupação do território pelo Estado e para a reconstrução de sua capacidade de governança. O MPAM vem demandando a criação de vagas no sistema prisional, a implantação de centros regionais de triagem e a adoção de rotas logísticas e protocolos interinstitucionais para transferência imediata de presos."
+            },
+            {
+              "id": "s24",
+              "page_start": 23,
+              "page_end": 24,
+              "text": "A estrutura organizacional da segurança pública O Sistema de Segurança Pública no Amazonas encontra-se distribuído entre três secretarias de Estado, evidenciando um arranjo institucional fragmentado e de interfaces complexas (Figura 5). A Secretaria de Segurança Pública do Amazonas (SSP-AM) concentra os principais órgãos operacionais e técnico-científicos do sistema, entre eles a Polícia Civil, a Polícia Militar, o Corpo de Bombeiros Militar e o Departamento de Polícia Técnico-Científica (DPTC), este vinculado diretamente ao secretário da pasta."
+            },
+            {
+              "id": "s25",
+              "page_start": 24,
+              "page_end": 25,
+              "text": "Essa distribuição institucional resulta em um sistema com competências dispersas, exigindo elevado esforço de coordenação para garantir coerência e efetividade às políticas de segurança pública no Estado. Assim, a fragmentação institucional não é apenas estrutural, mas funcional, impactando diretamente a eficiência, a coerência e a capacidade de atuação conjunta do sistema de segurança pública."
+            },
+            {
+              "id": "s26",
+              "page_start": 25,
+              "page_end": 26,
+              "text": "De acordo com esses normativos, a PCAM exerce as funções de polícia judiciária, sendo responsável pela investigação de infrações penais (exceto militares), pela identificação civil e criminal e pela realização de perícias criminais técnico-científicas e médico-legais, sendo essas últimas atividades desenvolvidas pelo Departamento de Polícia Técnico-Científica (DPTC), que atualmente responde diretamente ao secretário de Segurança Pública. a Lei nº 2.538/1999 dispõe sobre a organização do Corpo de Bombeiros Militar do Estado do Amazonas, que tem como missão o planejamento e execução de atividades de Defesa Civil, combate a incêndios, operações de busca, salvamento e prestação de socorro de emergência à população."
+            },
+            {
+              "id": "s27",
+              "page_start": 26,
+              "page_end": 27,
+              "text": "E, a exemplo do que ocorreu com o DETRAN-AM, o Departamento de Polícia Técnico-Científica (DPTC), embora possua competências regimentais vinculadas à Polícia Civil, responde diretamente ao secretário de Segurança Pública por força do art. embora suas atribuições integrem competências da Polícia Civil do Estado do Amazonas, conforme previsto na Lei Delegada nº 87, de 18 de maio de 2007, o DPTC encontra-se atualmente vinculado ao organograma da Secretaria de Segurança Pública (SSP-AM)."
+            },
+            {
+              "id": "s28",
+              "page_start": 27,
+              "page_end": 28,
+              "text": "O resultado é a perda de oportunidades operacionais e a redução da capacidade de enfrentamento, especialmente no combate ao crime organizado. O resultado é um sistema que planeja muito, controla intensamente, mas executa de forma lenta — justamente o oposto do que a segurança pública contemporânea exige."
             },
             {
               "id": "s29",
-              "page_start": 21,
-              "page_end": 22,
-              "text": "O bloco 8 — Saúde Mental (RAPS) inclui um centro de saúde mental (CESMAM), um CAPS III e oito Serviços Residenciais Terapêuticos (SRTs), totalizando dez equipamentos."
+              "page_start": 28,
+              "page_end": 29,
+              "text": "A crise de confiança e a percepção de insegurança O cenário da segurança pública no país é marcado por um forte contraste, enquanto diversos indicadores apresentam tendência de queda, novas formas de criminalidade e a sensação de insegurança tomam conta da sociedade. Na segurança pública do Amazonas, a realidade não é distinta, pois lidamos com um cenário contraditório."
+            },
+            {
+              "id": "s31",
+              "page_start": 29,
+              "page_end": 31,
+              "text": "Ao mesmo tempo, a incapacidade do Estado de exercer controle contínuo sobre rios e fronteiras, especialmente na “Rota do Solimões”, fortalece facções transnacionais que utilizam as vias hidrográficas para o tráfico de drogas, armas, ouro e madeira, conforme destaca o Fórum Brasileiro de Segurança Pública. A ausência de uma política de Estado para a segurança pública agrava o quadro."
+            },
+            {
+              "id": "s32",
+              "page_start": 31,
+              "page_end": 32,
+              "text": "Em 2024, o Conselho Nacional dos Chefes de Polícia Civil (CONCPC) aprovou metodologia padronizada para mensuração da elucidação de homicídios, e em 2025 o Conselho Nacional de Secretários de Segurança Pública (CONSESP) validou o Indicador Nacional de Elucidação de Homicídios (INEH), atualmente em incorporação ao SINESP. Em um modelo institucional moderno, o Sistema de Segurança Pública deve conjugar as atuações da Secretaria de Segurança Pública e da Secretaria de Estado de Administração Penitenciária, com o Departamento de Polícia Técnico-Científica e o DETRAN-AM reposicionados como órgãos autônomos no terceiro nível hierárquico (Figura 8)."
             }
           ]
         },
         {
-          "id": "public-safety",
-          "title": "Segurança pública",
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
           "page_start": null,
           "page_end": null,
           "topics": [
-            "public-safety"
+            "tax-budget"
           ],
           "summary": "Não foi observado no plano.",
           "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": 8,
+          "page_end": 9,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
+            }
+          ]
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": 4,
+          "page_end": 29,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial. A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas.",
+          "excerpts": [
+            {
+              "id": "s03",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial."
+            },
+            {
+              "id": "s30",
+              "page_start": 29,
+              "page_end": 29,
+              "text": "A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas."
+            }
+          ]
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 21,
+          "page_end": 22,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos.",
+          "excerpts": [
+            {
+              "id": "s22",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": 9,
+          "page_end": 10,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência.",
+          "excerpts": [
+            {
+              "id": "s09",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência."
+            }
+          ]
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "40002532272",
+      "state_code": "AM",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AM40002532272_02.pdf",
+      "public_path": "/propostas/2026/AM/2026AM40002532272_02.pdf",
+      "sha256": "1d26104c99596077ac63fd3bf65085002294c31377c144106b33af9c2b048b66",
+      "summary": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU. Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência. Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM) A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": 2,
+          "page_end": 2,
+          "topics": [
+            "education"
+          ],
+          "summary": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": 10,
+          "page_end": 11,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU.",
+          "excerpts": [
+            {
+              "id": "s16",
+              "page_start": 10,
+              "page_end": 11,
+              "text": "Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU."
+            }
+          ]
         },
         {
           "id": "economy-jobs",
@@ -207,24 +566,50 @@
         {
           "id": "agriculture-rural",
           "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
+          "page_start": 15,
+          "page_end": 16,
           "topics": [
             "agriculture-rural"
           ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
+          "summary": "Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência.",
+          "excerpts": [
+            {
+              "id": "s26",
+              "page_start": 15,
+              "page_end": 16,
+              "text": "Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência."
+            }
+          ]
         },
         {
           "id": "science-digital",
           "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
+          "page_start": 3,
+          "page_end": 7,
           "topics": [
             "science-digital"
           ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
+          "summary": "Quadro 12 — Análise PESTEL × SWOT - diagnóstico estratégico Matriz de cinco dimensões cruzada com a leitura interna identifica a transformação digital como oportunidade-pivô do Plano de Modernização Análise estruturada do ambiente institucional da FAPEAM segundo o método PESTEL × SWOT, cruzando cinco dimensões do contexto externo (Político, Econômico, Social, Tecnológico, Ecológico) com a leitura interna da Fundação em quatro quadrantes (Forças, Fraquezas, Oportunidades, Ameaças). Político FORÇAS Alinhamento com a agenda nacional e estadual de transparência pública FRAQUEZAS Dependência da alta gestão para decisões estratégicas OPORTUNIDADES Fortalecer estruturas de governança e compliance institucional AMEAÇAS Pressão política por respostas rápidas em ciclos eleitorais Dimensão: Econômica FORÇAS Eficiência operacional com baixo custo administrativo (28% de cobertura) FRAQUEZAS Baixa capacidade de escala diante da demanda crescente por CT&I OPORTUNIDADES Automação de processos para redução de custos e ganho de produtividade AMEAÇAS Cortes orçamentários e contingenciamento em ciclos de ajuste fiscal Dimensão: Social FORÇAS Alta resolutividade na entrega de bolsas e financiamento dir",
+          "excerpts": [
+            {
+              "id": "s05",
+              "page_start": 3,
+              "page_end": 5,
+              "text": "Quadro 12 — Análise PESTEL × SWOT - diagnóstico estratégico Matriz de cinco dimensões cruzada com a leitura interna identifica a transformação digital como oportunidade-pivô do Plano de Modernização Análise estruturada do ambiente institucional da FAPEAM segundo o método PESTEL × SWOT, cruzando cinco dimensões do contexto externo (Político, Econômico, Social, Tecnológico, Ecológico) com a leitura interna da Fundação em quatro quadrantes (Forças, Fraquezas, Oportunidades, Ameaças). Político FORÇAS Alinhamento com a agenda nacional e estadual de transparência pública FRAQUEZAS Dependência da alta gestão para decisões estratégicas OPORTUNIDADES Fortalecer estruturas de governança e compliance institucional AMEAÇAS Pressão política por respostas rápidas em ciclos eleitorais Dimensão: Econômica FORÇAS Eficiência operacional com baixo custo administrativo (28% de cobertura) FRAQUEZAS Baixa capacidade de escala diante da demanda crescente por CT&I OPORTUNIDADES Automação de processos para redução de custos e ganho de produtividade AMEAÇAS Cortes orçamentários e contingenciamento em ciclos de ajuste fiscal Dimensão: Social FORÇAS Alta resolutividade na entrega de bolsas e financiamento dir"
+            },
+            {
+              "id": "s06",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "em seguida a Eficiência Operacional, com a redução de custos e tempo de respostas; em paralelo a implementação de ação voltada para Capacitação Institucional, criando reserva de capital institucional; Expansão e Interiorização de programa, chamadas e editais de temas ligados a biotecnologia, saúde, educação e logística."
+            },
+            {
+              "id": "s10",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Resultados esperados relacionados ao OBJETIVO ESPECÍFICO 5 Melhoria da produtividade Redução de retrabalho Equipe mais preparada para transformação digital"
+            }
+          ]
         },
         {
           "id": "culture-sports-tourism",
@@ -251,18 +636,24 @@
         {
           "id": "governance",
           "title": "Gestão pública e transparência",
-          "page_start": 9,
-          "page_end": 10,
+          "page_start": 6,
+          "page_end": 18,
           "topics": [
             "governance"
           ],
-          "summary": "Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle.",
+          "summary": "Treinamento em atendimento, inovação, gestão pública e tecnologia Responsável: Diretoria Administrativo-Financeira Prazo: Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM) A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia.",
           "excerpts": [
             {
-              "id": "s10",
-              "page_start": 9,
-              "page_end": 10,
-              "text": "Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle."
+              "id": "s09",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Treinamento em atendimento, inovação, gestão pública e tecnologia Responsável: Diretoria Administrativo-Financeira Prazo: Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM)"
+            },
+            {
+              "id": "s27",
+              "page_start": 16,
+              "page_end": 18,
+              "text": "A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia."
             }
           ]
         },
@@ -296,8 +687,284 @@
       "state_code": "AM",
       "office": "GOVERNADOR",
       "candidate_type": "governador",
-      "file_name": "2026AM40002532272_02.pdf",
-      "public_path": "/propostas/2026/AM/2026AM40002532272_02.pdf",
+      "file_name": "2026AM40002532272_03.pdf",
+      "public_path": "/propostas/2026/AM/2026AM40002532272_03.pdf",
+      "sha256": "c00bedc1f5443c2ab238e26eebe5a522a41afd76a1b76b73fefebfe5cf1b94d9",
+      "summary": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS. • Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025. Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil. ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade. Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS).",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 2,
+          "page_end": 21,
+          "topics": [
+            "health"
+          ],
+          "summary": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS. • Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 2,
+              "text": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS."
+            },
+            {
+              "id": "s06",
+              "page_start": 4,
+              "page_end": 5,
+              "text": "• Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025. • Implantar leitos psiquiátricos nos hospitais gerais regionais, em quantidade dimensionada conforme Portaria GM/MS nº 3.088/2011 (mínimo 5 leitos por hospital geral acima de 50 leitos) e disponibilidade de equipe multiprofissional — leitos de saúde mental nos hospitais gerais de referência das macrorregiões leste, oeste e madeira, conforme dimensionamento da Portaria GM/MS nº 3.088/2011 (mínimo de 5 leitos por hospital geral com mais de 50 leitos) e hospitais gerais dos demais polos regionais."
+            },
+            {
+              "id": "s08",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Formação de 300 profissionais da Atenção Primária em matriciamento em saúde mental e dependência química — por meio da Universidade Federal do Amazonas (UFAM), Universidade do Estado do Amazonas (UEA) e parceria com a Escola Nacional de Saúde Pública (ENSP/FIOCRUZ) —, ampliando a capacidade de identificação precoce e manejo inicial na Atenção Primária de Saúde (APS). Ampliação do Centro Estadual de Referência em Dependência Química do Amazonas (CERDQ-AM) e atualização imediata do Cadastro Nacional de Estabelecimentos de Saúde (CNES) do Centro de Saúde Mental do Amazonas (CESMAM) para refletir os 36 leitos reais, em vez dos 20 cadastrados."
+            },
+            {
+              "id": "s09",
+              "page_start": 7,
+              "page_end": 7,
+              "text": "Por fim, mas não menos importantes, existem pontos críticos que são transversais às ações e serão otimizados, tais quais: Desconcentrar da capital o tratamento psicossocial, pois hoje toda a rede especializada estadual está concentrada em Manaus, o que exclui 61 municípios de qualquer serviço estadual especializado em saúde mental. • Ampliar os leitos do Centro de Saúde Mental do Amazonas (CESMAM), que atualmente reflete atraso na atualização dos registros federais, comprometendo o planejamento."
+            },
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade. A Política Nacional de Saúde Mental, Álcool e outras Drogas e a Resolução CNJ nº 487/2023 (Política Antimanicomial do Poder Judiciário) reforçam esse arcabouço, exigindo articulação entre Judiciário, Rede de Atenção Psicossocial (RAPS) e medidas de reabilitação psicossocial alternativas à prisão."
+            },
+            {
+              "id": "s12",
+              "page_start": 10,
+              "page_end": 10,
+              "text": "Quadro 16 — Indicadores e Meta até 2030 - Saúde Mental Estado expandirá de 1 para 12 CAPS e dobrará o número de profissionais de saúde mental Painel de metas quantitativas para a Rede de Atenção Psicossocial (RAPS) do Amazonas até 2030, com expansão da rede de CAPS, leitos por mil habitantes e profissionais especializados. Os profissionais de saúde mental dobrarão (de ~250 para 500–700) e a cobertura de municípios com serviço especializado saltará de 1,6% para mais de 24%."
+            },
+            {
+              "id": "s16",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "A proporção de investimentos em internação — Centro de Saúde Mental do Amazonas (CESMAM) e Centro Estadual de Referência em Dependência Química do Amazonas (CRDQ) — em comparação com os serviços comunitários, como Centros de Atenção Psicossocial (CAPS), Serviços Residenciais Terapêuticos (SRT) e Centros de Convivência (CECO), revela desequilíbrio contrário aos princípios da desinstitucionalização."
+            },
+            {
+              "id": "s20",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "Habilitado como CAPS AD III Qualificado no âmbito do Sistema Único de Saúde (SUS), o novo equipamento será o nó de maior densidade técnica da rede estadual."
+            },
+            {
+              "id": "s27",
+              "page_start": 19,
+              "page_end": 20,
+              "text": " Formação de profissionais para a rede estadual Residência Multiprofissional em Saúde Mental com Ênfase em Dependência Química, em convênio com a Universidade Federal do Amazonas (UFAM) e a Universidade do Estado do Amazonas (UEA), formando profissionais para os CAPS AD regionais em ciclos de dois anos."
+            },
+            {
+              "id": "s28",
+              "page_start": 20,
+              "page_end": 21,
+              "text": " Pesquisa aplicada e produção de conhecimento O Centro Estadual de Referência em Dependência Química do Amazonas (CERDQ-AM) será estruturado também como núcleo de pesquisa aplicada, produção de evidências e inovação em saúde pública. perfil epidemiológico da dependência química no Amazonas, com acompanhamento longitudinal por substância, território e grupo étnico; efetividade de estratégias de redução de danos em contexto amazônico; impacto da telemedicina na continuidade do tratamento no interior; e interfaces entre saúde mental e dependência química em populações indígenas do Alto Rio Negro e Alto Solimões, em articulação com parceiros institucionais, em parceria com FUNAI, FIOCRUZ e DSEI-AM."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": 6,
+          "page_end": 12,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil. ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade.",
+          "excerpts": [
+            {
+              "id": "s08",
+              "page_start": 6,
+              "page_end": 7,
+              "text": "Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil."
+            },
+            {
+              "id": "s11",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade."
+            },
+            {
+              "id": "s16",
+              "page_start": 12,
+              "page_end": 12,
+              "text": "Diante desse cenário, será realizado levantamento diagnóstico e promovida a estruturação da rede de CAPS, em parceria com a Secretaria de Assistência Social, para corrigir esse desequilíbrio."
+            }
+          ]
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": 5,
+          "page_end": 6,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS).",
+          "excerpts": [
+            {
+              "id": "s07",
+              "page_start": 5,
+              "page_end": 6,
+              "text": "Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS)."
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "40002532272",
+      "state_code": "AM",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AM40002532272_04.pdf",
+      "public_path": "/propostas/2026/AM/2026AM40002532272_04.pdf",
       "sha256": "4cf49f539f36d6c3a77406dd23f27ca8d59c53b8e0dd9cc1a9738bcad742e3d0",
       "summary": "Assegura o acesso à Educação Básica, à leitura, à qualificação profissional e à inclusão digital das pessoas privadas de liberdade, em conformidade com a Lei de Execução Penal e com as diretrizes do Plano Pena Justa Amazonas. Implementação de uma política estadual de fortalecimento da educação no sistema prisional, com universalização progressiva do acesso à alfabetização, ao Ensino Fundamental, ao Ensino Médio e à Educação de Jovens e Adultos (EJA) nas unidades prisionais do estado. Integração saúde-educação na fila das creches Educação Infantil Direto Baixo Acolhimento e transição 5º→6º ano Aprendizagens / Trajetória Direto Baixo Avaliação diagnóstica bimestral Aprendizagens / Diagnóstico Direto Baixo-Médio Letramento digital e IA transversal Tecnologia / Currículo Direto Baixo Diretriz Ensino 5.0 Currículo EM Direto Zero Pacto Amazonense pela Alfabetização Direto Baixo-Médio Histórias Vivas — Leitura Intergeracional Alfabetização / Intersetorial Escala progressiva Médio Cultura olímpica Aprendizagens / Talentos Escala progressiva Médio-Alto Bolsa Licenciatura Carreira Docente Parceria IES Médio Itinerário Profissionalizante em IA e Ciência de Dados EM Profissionalizante Parceria saúde mental, álcool e outras drogas Fundamento institucional — Cuidar na Escola. A Pesquisa Nacional de Saúde do Escolar (PeNSE 2024) indica que parcela expressiva dos adolescentes amazonenses de 13 a 17 anos já experimentou drogas ilícitas ao menos uma vez na vida, em contexto de persistência dos desafios relacionados à saúde mental e ao uso de substâncias psicoativas entre jovens. Educação Especial e Inclusiva Modelo Amazonas de Equidade (E3) FASEADA — cobertura estadual Alto Fortalecimento da Educação Escolar Indígena Interior, Rural e Indígena (E3) ESTRUTURANTE — territorializada Alto Educação que Liberta: Sistema Prisional Permanecer, Aprender e Concluir (E2) FASEADA — unidades prisionais Médio Escola que Protege: Proteção e Enfrentamento a Violências Agenda Intersetorial na Escola IMEDIATA — pactuação intersetorial Médio Cuidar na Escola: Saúde Mental, Álcool e Drogas Agenda Intersetorial na Escola Promoção da Cultura de Paz e Direitos Humanos. educação no sistema prisional Fundamento institucional — Educação que liberta.",
       "sections": [
@@ -665,8 +1332,229 @@
       "state_code": "AM",
       "office": "GOVERNADOR",
       "candidate_type": "governador",
-      "file_name": "2026AM40002532272_03.pdf",
-      "public_path": "/propostas/2026/AM/2026AM40002532272_03.pdf",
+      "file_name": "2026AM40002532272_05.pdf",
+      "public_path": "/propostas/2026/AM/2026AM40002532272_05.pdf",
+      "sha256": "767d2062c62de7c4dbdfbf36b2ab724ba230d6806f3266569580957803662076",
+      "summary": "Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa. Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial. déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas. Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": 1,
+          "page_end": 22,
+          "topics": [
+            "health"
+          ],
+          "summary": "Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa. Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial. déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas.",
+          "excerpts": [
+            {
+              "id": "s04",
+              "page_start": 1,
+              "page_end": 5,
+              "text": "SEFAZ-AM/SIAFE, maio-2026. Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa."
+            },
+            {
+              "id": "s08",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial."
+            },
+            {
+              "id": "s14",
+              "page_start": 13,
+              "page_end": 14,
+              "text": "déficit por especialidades As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas."
+            },
+            {
+              "id": "s29",
+              "page_start": 21,
+              "page_end": 22,
+              "text": "O bloco 8 — Saúde Mental (RAPS) inclui um centro de saúde mental (CESMAM), um CAPS III e oito Serviços Residenciais Terapêuticos (SRTs), totalizando dez equipamentos."
+            }
+          ]
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": 9,
+          "page_end": 10,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle.",
+          "excerpts": [
+            {
+              "id": "s10",
+              "page_start": 9,
+              "page_end": 10,
+              "text": "Orçamento Total Executado R$ 5,53 bilhões Relatório de controle de gastos SEFAZ-AM 2025 Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle."
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "40002532272",
+      "state_code": "AM",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026AM40002532272_06.pdf",
+      "public_path": "/propostas/2026/AM/2026AM40002532272_06.pdf",
       "sha256": "525ae31d6031e72374f5abfb39156b826ff0753bf2b99ec3e49326dd5aa25ad5",
       "summary": "Propor Minuta de Lei Complementar para instituição do Fundo Nacional de Desenvolvimento Regional, de forma a indicar os bioativos da floresta como estratégia de agregação de valor aos produtos, desenvolvimento tecnológico e geração de emprego e renda no interior. Valorizar o fato de ser o estado mais preservado do Brasil, com ampla diversidade de espécies bioativas e forte cultura de extrativismo sustentável e agricultura familiar; Utilizar o arcabouço legal existente (RDC 26/2014, Lei da Biodiversidade, legislação de indicações geográficas e normas da ZFM); Integrar o conhecimento tradicional e etnobotânico das populações locais, associado ao cooperativismo e à marca Amazônia; Aproveitar a crescente demanda nacional e internacional por produtos naturais e bioativos; Fortalecer o ecossistema de PD&I já consolidado (UFAM, IFAM, INPA, EMBRAPA, CBA, FIOCRUZ); Expandir o uso dos incentivos fiscais da ZFM para acelerar a industrialização com matéria-prima regional.",
       "sections": [
@@ -837,814 +1725,6 @@
           ],
           "summary": "Não foi observado no plano.",
           "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "40002532272",
-      "state_code": "AM",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026AM40002532272_04.pdf",
-      "public_path": "/propostas/2026/AM/2026AM40002532272_04.pdf",
-      "sha256": "5907da46ac3a2a3bbaf6c3fbb26c680945d59a8d1e3ae7dc0c411efe96f914e7",
-      "summary": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar. Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica. A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo. produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais. Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção. A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar. Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios. Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": 11,
-          "page_end": 12,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
-          "excerpts": [
-            {
-              "id": "s10",
-              "page_start": 11,
-              "page_end": 12,
-              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
-            }
-          ]
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": 18,
-          "page_end": 23,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica. A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo.",
-          "excerpts": [
-            {
-              "id": "s25",
-              "page_start": 18,
-              "page_end": 19,
-              "text": "Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica."
-            },
-            {
-              "id": "s30",
-              "page_start": 22,
-              "page_end": 23,
-              "text": "A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo."
-            }
-          ]
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": 4,
-          "page_end": 23,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais. Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção. estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
-          "excerpts": [
-            {
-              "id": "s04",
-              "page_start": 4,
-              "page_end": 6,
-              "text": "produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais."
-            },
-            {
-              "id": "s07",
-              "page_start": 8,
-              "page_end": 9,
-              "text": "Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção."
-            },
-            {
-              "id": "s10",
-              "page_start": 11,
-              "page_end": 12,
-              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
-            },
-            {
-              "id": "s30",
-              "page_start": 22,
-              "page_end": 23,
-              "text": "Esse conjunto de fatores restringe tanto o acesso a mercados externos quanto a capacidade de atender de forma consistente a demanda interna, com impactos diretos sobre a segurança alimentar e a comercialização."
-            }
-          ]
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": 2,
-          "page_end": 19,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar. Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios.",
-          "excerpts": [
-            {
-              "id": "s02",
-              "page_start": 2,
-              "page_end": 3,
-              "text": "A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar."
-            },
-            {
-              "id": "s04",
-              "page_start": 4,
-              "page_end": 6,
-              "text": "Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios."
-            },
-            {
-              "id": "s07",
-              "page_start": 8,
-              "page_end": 9,
-              "text": "A fruticultura amazonense é, majoritariamente, uma atividade conduzida por agricultores familiares, envolvendo comunidades locais."
-            },
-            {
-              "id": "s10",
-              "page_start": 11,
-              "page_end": 12,
-              "text": "• Fortalecer os programas estaduais voltados à agricultura familiar, bioeconomia, produção orgânica e valorização de cadeias sustentáveis, atuando também na certificação e rastreabilidade dos produtos, sobretudo os produtos vocacionados à exportação (a exemplo do açaí, cupuaçu, abacaxi, castanha e guaraná etc.). estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
-            },
-            {
-              "id": "s11",
-              "page_start": 12,
-              "page_end": 13,
-              "text": "• Descontinuidade de programas de apoio à agricultura familiar, principalmente aquelas que dependem de repasses ou linhas de crédito do governo federal."
-            },
-            {
-              "id": "s23",
-              "page_start": 14,
-              "page_end": 16,
-              "text": "• Conflitos entre políticas dos entes federativos (Município, Estado e União), reduzindo a eficiência dos esforços; Baixa representatividade do setor na agenda nacional de bioeconomia; Descontinuidade de programas de apoio à agricultura familiar."
-            },
-            {
-              "id": "s25",
-              "page_start": 18,
-              "page_end": 19,
-              "text": "Nossa estratégia combina descentralização administrativa, integração logística e fortalecimento da agricultura familiar."
-            }
-          ]
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": 4,
-          "page_end": 12,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais. estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
-          "excerpts": [
-            {
-              "id": "s04",
-              "page_start": 4,
-              "page_end": 6,
-              "text": "Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais."
-            },
-            {
-              "id": "s10",
-              "page_start": 11,
-              "page_end": 12,
-              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "40002532272",
-      "state_code": "AM",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026AM40002532272_05.pdf",
-      "public_path": "/propostas/2026/AM/2026AM40002532272_05.pdf",
-      "sha256": "c00bedc1f5443c2ab238e26eebe5a522a41afd76a1b76b73fefebfe5cf1b94d9",
-      "summary": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS. • Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025. Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil. ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade. Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS).",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": 2,
-          "page_end": 21,
-          "topics": [
-            "health"
-          ],
-          "summary": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS. • Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025.",
-          "excerpts": [
-            {
-              "id": "s02",
-              "page_start": 2,
-              "page_end": 2,
-              "text": "Quadro 14.8 — Saúde mental, dependência química e população em situação de rua Reestruturação integral da RAPS e implantação do CAPS AD III 24h até 2030 Plano de ação para o eixo Saúde Mental, Dependência Química e População em Situação de Rua — três ações estruturantes em parceria com a SEAS para reestruturação da RAPS, implantação do CAPS AD III 24h e atenção integrada à população em situação de rua. Ações estruturantes do eixo Saúde Mental serão executadas em parceria SES-AM + SEAS."
-            },
-            {
-              "id": "s06",
-              "page_start": 4,
-              "page_end": 5,
-              "text": "• Implantar CAPS I nos municípios de médio porte com maior carga de doença identificada nos dados do Cadastro Nacional de Estabelecimentos de Saúde-CNES/MS (jan/2026), Sistema de Informações Hospitalares (SIH)/Departamento de Informática do Sistema Único de Saúde (DATASUS) SIH/DATASUS 2024 (CID-10 F10–F19) e IBGE 2025. • Implantar leitos psiquiátricos nos hospitais gerais regionais, em quantidade dimensionada conforme Portaria GM/MS nº 3.088/2011 (mínimo 5 leitos por hospital geral acima de 50 leitos) e disponibilidade de equipe multiprofissional — leitos de saúde mental nos hospitais gerais de referência das macrorregiões leste, oeste e madeira, conforme dimensionamento da Portaria GM/MS nº 3.088/2011 (mínimo de 5 leitos por hospital geral com mais de 50 leitos) e hospitais gerais dos demais polos regionais."
-            },
-            {
-              "id": "s08",
-              "page_start": 6,
-              "page_end": 7,
-              "text": "Formação de 300 profissionais da Atenção Primária em matriciamento em saúde mental e dependência química — por meio da Universidade Federal do Amazonas (UFAM), Universidade do Estado do Amazonas (UEA) e parceria com a Escola Nacional de Saúde Pública (ENSP/FIOCRUZ) —, ampliando a capacidade de identificação precoce e manejo inicial na Atenção Primária de Saúde (APS). Ampliação do Centro Estadual de Referência em Dependência Química do Amazonas (CERDQ-AM) e atualização imediata do Cadastro Nacional de Estabelecimentos de Saúde (CNES) do Centro de Saúde Mental do Amazonas (CESMAM) para refletir os 36 leitos reais, em vez dos 20 cadastrados."
-            },
-            {
-              "id": "s09",
-              "page_start": 7,
-              "page_end": 7,
-              "text": "Por fim, mas não menos importantes, existem pontos críticos que são transversais às ações e serão otimizados, tais quais: Desconcentrar da capital o tratamento psicossocial, pois hoje toda a rede especializada estadual está concentrada em Manaus, o que exclui 61 municípios de qualquer serviço estadual especializado em saúde mental. • Ampliar os leitos do Centro de Saúde Mental do Amazonas (CESMAM), que atualmente reflete atraso na atualização dos registros federais, comprometendo o planejamento."
-            },
-            {
-              "id": "s11",
-              "page_start": 9,
-              "page_end": 10,
-              "text": "ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade. A Política Nacional de Saúde Mental, Álcool e outras Drogas e a Resolução CNJ nº 487/2023 (Política Antimanicomial do Poder Judiciário) reforçam esse arcabouço, exigindo articulação entre Judiciário, Rede de Atenção Psicossocial (RAPS) e medidas de reabilitação psicossocial alternativas à prisão."
-            },
-            {
-              "id": "s12",
-              "page_start": 10,
-              "page_end": 10,
-              "text": "Quadro 16 — Indicadores e Meta até 2030 - Saúde Mental Estado expandirá de 1 para 12 CAPS e dobrará o número de profissionais de saúde mental Painel de metas quantitativas para a Rede de Atenção Psicossocial (RAPS) do Amazonas até 2030, com expansão da rede de CAPS, leitos por mil habitantes e profissionais especializados. Os profissionais de saúde mental dobrarão (de ~250 para 500–700) e a cobertura de municípios com serviço especializado saltará de 1,6% para mais de 24%."
-            },
-            {
-              "id": "s16",
-              "page_start": 12,
-              "page_end": 12,
-              "text": "A proporção de investimentos em internação — Centro de Saúde Mental do Amazonas (CESMAM) e Centro Estadual de Referência em Dependência Química do Amazonas (CRDQ) — em comparação com os serviços comunitários, como Centros de Atenção Psicossocial (CAPS), Serviços Residenciais Terapêuticos (SRT) e Centros de Convivência (CECO), revela desequilíbrio contrário aos princípios da desinstitucionalização."
-            },
-            {
-              "id": "s20",
-              "page_start": 14,
-              "page_end": 16,
-              "text": "Habilitado como CAPS AD III Qualificado no âmbito do Sistema Único de Saúde (SUS), o novo equipamento será o nó de maior densidade técnica da rede estadual."
-            },
-            {
-              "id": "s27",
-              "page_start": 19,
-              "page_end": 20,
-              "text": " Formação de profissionais para a rede estadual Residência Multiprofissional em Saúde Mental com Ênfase em Dependência Química, em convênio com a Universidade Federal do Amazonas (UFAM) e a Universidade do Estado do Amazonas (UEA), formando profissionais para os CAPS AD regionais em ciclos de dois anos."
-            },
-            {
-              "id": "s28",
-              "page_start": 20,
-              "page_end": 21,
-              "text": " Pesquisa aplicada e produção de conhecimento O Centro Estadual de Referência em Dependência Química do Amazonas (CERDQ-AM) será estruturado também como núcleo de pesquisa aplicada, produção de evidências e inovação em saúde pública. perfil epidemiológico da dependência química no Amazonas, com acompanhamento longitudinal por substância, território e grupo étnico; efetividade de estratégias de redução de danos em contexto amazônico; impacto da telemedicina na continuidade do tratamento no interior; e interfaces entre saúde mental e dependência química em populações indígenas do Alto Rio Negro e Alto Solimões, em articulação com parceiros institucionais, em parceria com FUNAI, FIOCRUZ e DSEI-AM."
-            }
-          ]
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": 6,
-          "page_end": 12,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil. ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade.",
-          "excerpts": [
-            {
-              "id": "s08",
-              "page_start": 6,
-              "page_end": 7,
-              "text": "Realização de censo municipal de população em situação de rua em Manaus e municípios polo, em parceria com o IBGE e as secretarias municipais de assistência social, produzindo dados auditáveis e atualizados bienalmente. Implantação do Centro de Referência Especializado para a População em Situação de Rua (Centro), integrado ao Centro de Assistência Social (CAPS) e ao Centro de Referência de Assistência Social (CRAS), garantindo articulação entre saúde, assistência social e documentação civil."
-            },
-            {
-              "id": "s11",
-              "page_start": 9,
-              "page_end": 10,
-              "text": "ação em parceria com assistência social e educação A Rede de Atenção Psicossocial (RAPS) foi instituída pela Portaria nº 3.088/2011 do Ministério da Saúde, fundamentada na Lei 10.216/2001 — a Lei da Reforma Psiquiátrica — que proibiu a criação de novos hospitais psiquiátricos com verba pública e redirecionou o modelo assistencial para o cuidado comunitário e em liberdade."
-            },
-            {
-              "id": "s16",
-              "page_start": 12,
-              "page_end": 12,
-              "text": "Diante desse cenário, será realizado levantamento diagnóstico e promovida a estruturação da rede de CAPS, em parceria com a Secretaria de Assistência Social, para corrigir esse desequilíbrio."
-            }
-          ]
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": 5,
-          "page_end": 6,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS).",
-          "excerpts": [
-            {
-              "id": "s07",
-              "page_start": 5,
-              "page_end": 6,
-              "text": "Regulamentação estadual das comunidades terapêuticas pelo Governo do Amazonas, condicionando qualquer financiamento público ao cumprimento dos requisitos técnicos mínimos, ao respeito aos direitos humanos, à proibição de trabalho compulsório e à integração formal à Rede de Atenção Psicossocial (RAPS)."
-            }
-          ]
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "40002532272",
-      "state_code": "AM",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026AM40002532272_06.pdf",
-      "public_path": "/propostas/2026/AM/2026AM40002532272_06.pdf",
-      "sha256": "1d26104c99596077ac63fd3bf65085002294c31377c144106b33af9c2b048b66",
-      "summary": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU. Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência. Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM) A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": 2,
-          "page_end": 2,
-          "topics": [
-            "education"
-          ],
-          "summary": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi",
-          "excerpts": [
-            {
-              "id": "s02",
-              "page_start": 2,
-              "page_end": 2,
-              "text": "BIGAMAZONAS CT&I (comunicação de dados), AQUA CT&I (recursos hídricos), FRONTEIRAS DO CONHECIMENTO (pesquisas disruptivas) e EDUCATEC-IN (inclusão na educação básica). POSGRAD — Apoio à Pós-Graduação Stricto Sensu BIGAMAZONAS CT&I — Comunicação de Dados e Pesquisa PAIC-AM — Iniciação Científica do Amazonas PRODOC — Apoio a Pós-Doutores Credenciamento de Instituições — Tecnologias para Estiagem e Eventos Climáticos EDUCATEC-IN — Inovação e Inclusão na Educação Básica PAPEA CT&I — Apoio a Eventos Científicos, Tecnológicos e Artísticos Painter — Ciência, Floresta e Cidadania PV-PD CT&I — Mobilidade de Pesquisadores Visitantes e Pós-Doutorado AQUA CT&I — Recursos Hídricos e Mudanças Climáticas Extremas POP CT&I — Popularização da Ciência FRONTEIRAS DO CONHECIMENTO — Pesquisas Disruptivas PCE — Ciência na Escola Chamada ERC–CONFAP 2025 PAREV — Realização de Eventos Científicos e Tecnológicos Chamada Water4All 2025 — Água e Saúde PEF-CP AM — Empreendedorismo Feminino nas Cadeias Produtivas Programa GCUB-Mob 2025 — Mobilidade Internacional PAPB-CT&I — Pesquisa Básica em Áreas Prioritárias Chamada Biodiversa+ 2025–2026 — BiodivConnect PPSUS — Pesquisa para o SUS: Gestão Compartilhada Prêmi"
-            }
-          ]
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": 10,
-          "page_end": 11,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU.",
-          "excerpts": [
-            {
-              "id": "s16",
-              "page_start": 10,
-              "page_end": 11,
-              "text": "Atraso na contratação de fornecedores Alta Mitigar · Iniciar processo licitatório com antecedência mínima de 6 meses Baixa adoção pelos usuários externos Alta Mitigar · Programa de capacitação e campanha de comunicação institucional Incompatibilidade com outros sistemas governamentais Alta Mitigar · Mapeamento prévio de integrações necessárias com SIGFAPEAM, SISTRA e SEPLAG-AM Vulnerabilidade quanto à LGPD Alta Mitigar · Implementar política de segurança da informação e criptografia de dados Fonte: Elaborado pelos autores conforme metodologia ABNT NBR ISO 31000:2018 e Referencial Básico de Gestão de Riscos do TCU."
-            }
-          ]
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": 15,
-          "page_end": 16,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência.",
-          "excerpts": [
-            {
-              "id": "s26",
-              "page_start": 15,
-              "page_end": 16,
-              "text": "Priorizar, nos editais e chamadas voltados ao interior, temáticas com potencial de impacto direto nas comunidades locais, tais como biodiversidade, saúde da floresta, pesca, agricultura familiar, logística fluvial e etnociência."
-            }
-          ]
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": 3,
-          "page_end": 7,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Quadro 12 — Análise PESTEL × SWOT - diagnóstico estratégico Matriz de cinco dimensões cruzada com a leitura interna identifica a transformação digital como oportunidade-pivô do Plano de Modernização Análise estruturada do ambiente institucional da FAPEAM segundo o método PESTEL × SWOT, cruzando cinco dimensões do contexto externo (Político, Econômico, Social, Tecnológico, Ecológico) com a leitura interna da Fundação em quatro quadrantes (Forças, Fraquezas, Oportunidades, Ameaças). Político FORÇAS Alinhamento com a agenda nacional e estadual de transparência pública FRAQUEZAS Dependência da alta gestão para decisões estratégicas OPORTUNIDADES Fortalecer estruturas de governança e compliance institucional AMEAÇAS Pressão política por respostas rápidas em ciclos eleitorais Dimensão: Econômica FORÇAS Eficiência operacional com baixo custo administrativo (28% de cobertura) FRAQUEZAS Baixa capacidade de escala diante da demanda crescente por CT&I OPORTUNIDADES Automação de processos para redução de custos e ganho de produtividade AMEAÇAS Cortes orçamentários e contingenciamento em ciclos de ajuste fiscal Dimensão: Social FORÇAS Alta resolutividade na entrega de bolsas e financiamento dir",
-          "excerpts": [
-            {
-              "id": "s05",
-              "page_start": 3,
-              "page_end": 5,
-              "text": "Quadro 12 — Análise PESTEL × SWOT - diagnóstico estratégico Matriz de cinco dimensões cruzada com a leitura interna identifica a transformação digital como oportunidade-pivô do Plano de Modernização Análise estruturada do ambiente institucional da FAPEAM segundo o método PESTEL × SWOT, cruzando cinco dimensões do contexto externo (Político, Econômico, Social, Tecnológico, Ecológico) com a leitura interna da Fundação em quatro quadrantes (Forças, Fraquezas, Oportunidades, Ameaças). Político FORÇAS Alinhamento com a agenda nacional e estadual de transparência pública FRAQUEZAS Dependência da alta gestão para decisões estratégicas OPORTUNIDADES Fortalecer estruturas de governança e compliance institucional AMEAÇAS Pressão política por respostas rápidas em ciclos eleitorais Dimensão: Econômica FORÇAS Eficiência operacional com baixo custo administrativo (28% de cobertura) FRAQUEZAS Baixa capacidade de escala diante da demanda crescente por CT&I OPORTUNIDADES Automação de processos para redução de custos e ganho de produtividade AMEAÇAS Cortes orçamentários e contingenciamento em ciclos de ajuste fiscal Dimensão: Social FORÇAS Alta resolutividade na entrega de bolsas e financiamento dir"
-            },
-            {
-              "id": "s06",
-              "page_start": 5,
-              "page_end": 6,
-              "text": "em seguida a Eficiência Operacional, com a redução de custos e tempo de respostas; em paralelo a implementação de ação voltada para Capacitação Institucional, criando reserva de capital institucional; Expansão e Interiorização de programa, chamadas e editais de temas ligados a biotecnologia, saúde, educação e logística."
-            },
-            {
-              "id": "s10",
-              "page_start": 7,
-              "page_end": 7,
-              "text": "Resultados esperados relacionados ao OBJETIVO ESPECÍFICO 5 Melhoria da produtividade Redução de retrabalho Equipe mais preparada para transformação digital"
-            }
-          ]
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": 6,
-          "page_end": 18,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Treinamento em atendimento, inovação, gestão pública e tecnologia Responsável: Diretoria Administrativo-Financeira Prazo: Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM) A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia.",
-          "excerpts": [
-            {
-              "id": "s09",
-              "page_start": 6,
-              "page_end": 7,
-              "text": "Treinamento em atendimento, inovação, gestão pública e tecnologia Responsável: Diretoria Administrativo-Financeira Prazo: Contínuo Recursos necessários: Cursos e consultorias e Parcerias institucionais (UEA e UFAM)"
-            },
-            {
-              "id": "s27",
-              "page_start": 16,
-              "page_end": 18,
-              "text": "A FAPEAM possui o capital institucional e o histórico necessários para se firmar como referência em gestão pública de ciência, tecnologia e inovação na Amazônia."
-            }
-          ]
         },
         {
           "id": "energy",
@@ -2006,8 +2086,8 @@
       "candidate_type": "governador",
       "file_name": "2026AM40002532272_08.pdf",
       "public_path": "/propostas/2026/AM/2026AM40002532272_08.pdf",
-      "sha256": "154c981e4aee62d4f59ebe700c38e5f8ead53c32729be464c1fb0e25137d80e6",
-      "summary": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos. Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024. envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico. O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial. A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas. Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos. A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência.",
+      "sha256": "5907da46ac3a2a3bbaf6c3fbb26c680945d59a8d1e3ae7dc0c411efe96f914e7",
+      "summary": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar. Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica. A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo. produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais. Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção. A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar. Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios. Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais.",
       "sections": [
         {
           "id": "education",
@@ -2034,162 +2114,42 @@
         {
           "id": "public-safety",
           "title": "Segurança pública",
-          "page_start": 1,
-          "page_end": 32,
+          "page_start": 11,
+          "page_end": 12,
           "topics": [
             "public-safety"
           ],
-          "summary": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos. Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024.",
+          "summary": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
           "excerpts": [
             {
-              "id": "s01",
-              "page_start": 1,
-              "page_end": 2,
-              "text": "Plano estratégico de desenvolvimento  Pensar o território para entender a geografia do crime no Amazonas No último biênio o Amazonas consolidou-se como o principal eixo logístico do crime organizado transnacional na América do Sul. Dados do Anuário Brasileiro de Segurança Pública e do estudo Cartografias da Violência na Amazônia, ambos de 2025, revelam um cenário paradoxal: enquanto áreas urbanas sob domínio consolidado apresentam quedas expressivas em indicadores como homicídios e roubos de veículos, a violência rural e fluvial (diretamente ligada ao controle de rotas transnacionais) permanecem em níveis críticos."
-            },
-            {
-              "id": "s02",
-              "page_start": 2,
-              "page_end": 4,
-              "text": "Já o Mapa da Segurança Pública do MJSP e comunicação oficial da SSP-AM indicam que, em 2025, a taxa caiu para 16,38 por 100 mil habitantes, com 708 casos, frente a 1.055 em 2024. Esse comportamento exige que o planejamento de segurança pública seja guiado por um diagnóstico territorializado por tipo de crime, capaz de identificar padrões, antecipar deslocamentos e orientar respostas focalizadas."
-            },
-            {
-              "id": "s06",
-              "page_start": 6,
-              "page_end": 7,
-              "text": "Diante disso, torna-se evidente que o ambiente virtual deve ser tratado como um território estratégico para a segurança pública, exigindo monitoramento permanente, inteligência digital avançada e cooperação com plataformas tecnológicas."
-            },
-            {
-              "id": "s07",
-              "page_start": 7,
-              "page_end": 8,
-              "text": " A complexidade do território e o ensaio para uma nova metodologia A leitura do território amazonense para fins de segurança pública exige uma abordagem metodológica capaz de lidar com limitações estruturais dos dados, diferenças entre bases estatísticas e lacunas históricas na forma como a criminalidade é registrada. A granularidade desigual das informações — ora disponíveis apenas por zona da capital, ora apenas por município, raramente por bairro — impõe a necessidade de combinar múltiplas fontes e construir mapas de risco que integrem dados do Ipea, do Anuário da SSP-AM, do Mapa do Ministério da Justiça e Segurança Pública (MJSP) e de boletins locais."
-            },
-            {
-              "id": "s08",
-              "page_start": 8,
-              "page_end": 9,
-              "text": "a nova metodologia proposta A territorialização proposta pelo Plano Estratégico de Desenvolvimento, no âmbito da Segurança Pública do Amazonas, busca reorganizar a atuação do Estado a partir de territórios funcionais que reflitam as dinâmicas criminais, logísticas e socioambientais, permitindo intervenções mais precisas e integradas. Para tanto, a proposta de territorialização, no âmbito deste Plano, organiza o Estado em quatro grandes territórios funcionais, alinhados às dinâmicas criminais, logísticas e socioambientais que estruturam a violência e a presença do crime organizado."
-            },
-            {
-              "id": "s09",
-              "page_start": 9,
-              "page_end": 10,
-              "text": "A segurança pública no Amazonas demanda granularidade variável, capaz de operar simultaneamente em escalas como bairro, zona urbana, município, trecho de rio, bacia hidrográfica e corredor funcional — algo que a divisão constitucional não consegue oferecer. Do ponto de vista logístico, a classificação de territórios específicos para a atuação inteligente da segurança pública no Amazonas aumenta a eficiência operacional, reduz deslocamentos ociosos e melhora o tempo de resposta."
-            },
-            {
-              "id": "s12",
-              "page_start": 12,
+              "id": "s10",
+              "page_start": 11,
               "page_end": 12,
-              "text": "Apesar do Amazonas possuir apenas 3,22% dos municípios da faixa de fronteira, a área corresponde a mais de 25% das fronteiras brasileiras (Quadro 5), o que requer atenção especial, principalmente no que se refere à segurança pública, diretamente envolvida com as ações de manutenção da soberania da nação."
-            },
-            {
-              "id": "s14",
-              "page_start": 13,
-              "page_end": 14,
-              "text": "Ainda assim, essa limitação jurídica não impede — e, na prática, exige — ações conjuntas e mecanismos de cooperação entre os entes federativos, especialmente em temas como fiscalização ambiental, segurança pública, infraestrutura e políticas sociais."
-            },
-            {
-              "id": "s17",
-              "page_start": 15,
-              "page_end": 16,
-              "text": "Zonas sensíveis de governança territorial Do ponto de vista da segurança pública, as divisas interestaduais do Amazonas devem ser tratadas como zonas sensíveis de governança territorial, pois concentram vulnerabilidades estruturais."
-            },
-            {
-              "id": "s18",
-              "page_start": 16,
-              "page_end": 18,
-              "text": "Plano estratégico de desenvolvimento A partir desse panorama, a análise das divisas do Amazonas revela dinâmicas distintas de circulação, ocupação e risco, permitindo qualificar estratégias de segurança pública conforme as especificidades de cada fronteira. Ao identificar os fluxos, os vazios demográficos e as pressões socioambientais de cada fronteira, torna-se possível orientar políticas de segurança pública mais precisas e integradas."
-            },
-            {
-              "id": "s20",
-              "page_start": 19,
-              "page_end": 20,
-              "text": "Ao incorporar essa lógica fluvial, o planejamento de segurança pública passa a refletir a realidade operacional do Estado. A territorialização por calhas supera a fragmentação dos recortes administrativos e permite uma visão sistêmica do crime, fortalecendo a capacidade do Plano Estratégico de Desenvolvimento, em seu eixo dedicado à da segurança pública, de atuar de forma integrada, eficiente e adaptada às especificidades amazônicas."
-            },
-            {
-              "id": "s21",
-              "page_start": 20,
-              "page_end": 21,
-              "text": "Territorialização no sistema penitenciário A política de segurança pública não está desvinculada do sistema prisional. A sistematização e a territorialização do sistema prisional facilitam o encaminhamento célere para unidades apropriadas à execução penal, reduzindo retenções irregulares e exposições a riscos."
-            },
-            {
-              "id": "s22",
-              "page_start": 21,
-              "page_end": 22,
-              "text": "Essas medidas contribuem para reduzir a demanda por vagas no sistema prisional."
-            },
-            {
-              "id": "s23",
-              "page_start": 22,
-              "page_end": 23,
-              "text": "A adoção da territorialização como eixo estruturante do Plano Estratégico de Desenvolvimento da Segurança Pública do Amazonas é um passo decisivo para a efetiva ocupação do território pelo Estado e para a reconstrução de sua capacidade de governança. O MPAM vem demandando a criação de vagas no sistema prisional, a implantação de centros regionais de triagem e a adoção de rotas logísticas e protocolos interinstitucionais para transferência imediata de presos."
-            },
-            {
-              "id": "s24",
-              "page_start": 23,
-              "page_end": 24,
-              "text": "A estrutura organizacional da segurança pública O Sistema de Segurança Pública no Amazonas encontra-se distribuído entre três secretarias de Estado, evidenciando um arranjo institucional fragmentado e de interfaces complexas (Figura 5). A Secretaria de Segurança Pública do Amazonas (SSP-AM) concentra os principais órgãos operacionais e técnico-científicos do sistema, entre eles a Polícia Civil, a Polícia Militar, o Corpo de Bombeiros Militar e o Departamento de Polícia Técnico-Científica (DPTC), este vinculado diretamente ao secretário da pasta."
-            },
-            {
-              "id": "s25",
-              "page_start": 24,
-              "page_end": 25,
-              "text": "Essa distribuição institucional resulta em um sistema com competências dispersas, exigindo elevado esforço de coordenação para garantir coerência e efetividade às políticas de segurança pública no Estado. Assim, a fragmentação institucional não é apenas estrutural, mas funcional, impactando diretamente a eficiência, a coerência e a capacidade de atuação conjunta do sistema de segurança pública."
-            },
-            {
-              "id": "s26",
-              "page_start": 25,
-              "page_end": 26,
-              "text": "De acordo com esses normativos, a PCAM exerce as funções de polícia judiciária, sendo responsável pela investigação de infrações penais (exceto militares), pela identificação civil e criminal e pela realização de perícias criminais técnico-científicas e médico-legais, sendo essas últimas atividades desenvolvidas pelo Departamento de Polícia Técnico-Científica (DPTC), que atualmente responde diretamente ao secretário de Segurança Pública. a Lei nº 2.538/1999 dispõe sobre a organização do Corpo de Bombeiros Militar do Estado do Amazonas, que tem como missão o planejamento e execução de atividades de Defesa Civil, combate a incêndios, operações de busca, salvamento e prestação de socorro de emergência à população."
-            },
-            {
-              "id": "s27",
-              "page_start": 26,
-              "page_end": 27,
-              "text": "E, a exemplo do que ocorreu com o DETRAN-AM, o Departamento de Polícia Técnico-Científica (DPTC), embora possua competências regimentais vinculadas à Polícia Civil, responde diretamente ao secretário de Segurança Pública por força do art. embora suas atribuições integrem competências da Polícia Civil do Estado do Amazonas, conforme previsto na Lei Delegada nº 87, de 18 de maio de 2007, o DPTC encontra-se atualmente vinculado ao organograma da Secretaria de Segurança Pública (SSP-AM)."
-            },
-            {
-              "id": "s28",
-              "page_start": 27,
-              "page_end": 28,
-              "text": "O resultado é a perda de oportunidades operacionais e a redução da capacidade de enfrentamento, especialmente no combate ao crime organizado. O resultado é um sistema que planeja muito, controla intensamente, mas executa de forma lenta — justamente o oposto do que a segurança pública contemporânea exige."
-            },
-            {
-              "id": "s29",
-              "page_start": 28,
-              "page_end": 29,
-              "text": "A crise de confiança e a percepção de insegurança O cenário da segurança pública no país é marcado por um forte contraste, enquanto diversos indicadores apresentam tendência de queda, novas formas de criminalidade e a sensação de insegurança tomam conta da sociedade. Na segurança pública do Amazonas, a realidade não é distinta, pois lidamos com um cenário contraditório."
-            },
-            {
-              "id": "s31",
-              "page_start": 29,
-              "page_end": 31,
-              "text": "Ao mesmo tempo, a incapacidade do Estado de exercer controle contínuo sobre rios e fronteiras, especialmente na “Rota do Solimões”, fortalece facções transnacionais que utilizam as vias hidrográficas para o tráfico de drogas, armas, ouro e madeira, conforme destaca o Fórum Brasileiro de Segurança Pública. A ausência de uma política de Estado para a segurança pública agrava o quadro."
-            },
-            {
-              "id": "s32",
-              "page_start": 31,
-              "page_end": 32,
-              "text": "Em 2024, o Conselho Nacional dos Chefes de Polícia Civil (CONCPC) aprovou metodologia padronizada para mensuração da elucidação de homicídios, e em 2025 o Conselho Nacional de Secretários de Segurança Pública (CONSESP) validou o Indicador Nacional de Elucidação de Homicídios (INEH), atualmente em incorporação ao SINESP. Em um modelo institucional moderno, o Sistema de Segurança Pública deve conjugar as atuações da Secretaria de Segurança Pública e da Secretaria de Estado de Administração Penitenciária, com o Departamento de Polícia Técnico-Científica e o DETRAN-AM reposicionados como órgãos autônomos no terceiro nível hierárquico (Figura 8)."
+              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
             }
           ]
         },
         {
           "id": "economy-jobs",
           "title": "Economia e emprego",
-          "page_start": 8,
-          "page_end": 9,
+          "page_start": 18,
+          "page_end": 23,
           "topics": [
             "economy-jobs"
           ],
-          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
+          "summary": "Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica. A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo.",
           "excerpts": [
             {
-              "id": "s08",
-              "page_start": 8,
-              "page_end": 9,
-              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Ao articular inovação, inclusão social e desenvolvimento regional, o Plano Estratégico de Desenvolvimento reforça a visão de que o futuro econômico do Amazonas depende do fortalecimento do interior, onde estão os maiores potenciais de diversificação produtiva, geração de emprego e consolidação da bioeconomia amazônica."
+            },
+            {
+              "id": "s30",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "A proposta é impulsionar o crescimento econômico por meio de uma cadeia produtiva estruturada, certificada e orientada para a agregação de valor, promovendo a competitividade dos produtos amazônicos nos mercados interno e externo."
             }
           ]
         },
@@ -2207,18 +2167,36 @@
         {
           "id": "social-protection",
           "title": "Proteção social",
-          "page_start": 8,
-          "page_end": 9,
+          "page_start": 4,
+          "page_end": 23,
           "topics": [
             "social-protection"
           ],
-          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
+          "summary": "produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais. Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção. estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
           "excerpts": [
             {
-              "id": "s08",
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "produção familiar forte, renovação geracional incerta A dimensão sociocultural da fruticultura amazonense sustenta o envolvimento comunitário e contribui para a segurança alimentar de populações rurais."
+            },
+            {
+              "id": "s07",
               "page_start": 8,
               "page_end": 9,
-              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
+              "text": "Além de garantir segurança alimentar, a fruticultura possui produtos com Indicação Geográfica (IG) no Amazonas, como o açaí, o abacaxi e o guaraná, que fortalecem o valor cultural e econômico da produção."
+            },
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
+            },
+            {
+              "id": "s30",
+              "page_start": 22,
+              "page_end": 23,
+              "text": "Esse conjunto de fatores restringe tanto o acesso a mercados externos quanto a capacidade de atender de forma consistente a demanda interna, com impactos diretos sobre a segurança alimentar e a comercialização."
             }
           ]
         },
@@ -2247,55 +2225,78 @@
         {
           "id": "environment-climate",
           "title": "Meio ambiente e clima",
-          "page_start": 8,
-          "page_end": 9,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico.",
-          "excerpts": [
-            {
-              "id": "s08",
-              "page_start": 8,
-              "page_end": 9,
-              "text": "envolvendo segurança, meio ambiente, saúde, assistência social e desenvolvimento econômico."
-            }
-          ]
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
           "page_start": null,
           "page_end": null,
           "topics": [
-            "agriculture-rural"
+            "environment-climate"
           ],
           "summary": "Não foi observado no plano.",
           "excerpts": []
         },
         {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": 2,
+          "page_end": 19,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar. Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios.",
+          "excerpts": [
+            {
+              "id": "s02",
+              "page_start": 2,
+              "page_end": 3,
+              "text": "A demanda crescente da indústria de refrigerantes, somada à diversificação na comercialização do guaraná (em pó, bastão, xarope e bebidas diversas), tem elevado o preço médio pago pelo produto, tornando a cultura uma alternativa econômica viável, especialmente para a agricultura familiar."
+            },
+            {
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Fruticultura em várias dimensões A fruticultura amazonense combina elevada diversidade, produtos regionais com potencial de diferenciação — inclusive para Indicações Geográficas — e forte participação da agricultura familiar, apoiada por políticas públicas e instituições locais. Há oportunidades claras voltadas à agricultura familiar, bioeconomia e produção orgânica, mas também conflitos entre ações de União, Estado e municípios."
+            },
+            {
+              "id": "s07",
+              "page_start": 8,
+              "page_end": 9,
+              "text": "A fruticultura amazonense é, majoritariamente, uma atividade conduzida por agricultores familiares, envolvendo comunidades locais."
+            },
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "• Fortalecer os programas estaduais voltados à agricultura familiar, bioeconomia, produção orgânica e valorização de cadeias sustentáveis, atuando também na certificação e rastreabilidade dos produtos, sobretudo os produtos vocacionados à exportação (a exemplo do açaí, cupuaçu, abacaxi, castanha e guaraná etc.). estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
+            },
+            {
+              "id": "s11",
+              "page_start": 12,
+              "page_end": 13,
+              "text": "• Descontinuidade de programas de apoio à agricultura familiar, principalmente aquelas que dependem de repasses ou linhas de crédito do governo federal."
+            },
+            {
+              "id": "s23",
+              "page_start": 14,
+              "page_end": 16,
+              "text": "• Conflitos entre políticas dos entes federativos (Município, Estado e União), reduzindo a eficiência dos esforços; Baixa representatividade do setor na agenda nacional de bioeconomia; Descontinuidade de programas de apoio à agricultura familiar."
+            },
+            {
+              "id": "s25",
+              "page_start": 18,
+              "page_end": 19,
+              "text": "Nossa estratégia combina descentralização administrativa, integração logística e fortalecimento da agricultura familiar."
+            }
+          ]
+        },
+        {
           "id": "science-digital",
           "title": "Ciência, inovação e digital",
-          "page_start": 4,
-          "page_end": 29,
+          "page_start": null,
+          "page_end": null,
           "topics": [
             "science-digital"
           ],
-          "summary": "O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial. A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas.",
-          "excerpts": [
-            {
-              "id": "s03",
-              "page_start": 4,
-              "page_end": 5,
-              "text": "O estelionato digital cresceu impulsionado por golpes bancários, phishing, engenharia social e fraudes que utilizam inteligência artificial."
-            },
-            {
-              "id": "s30",
-              "page_start": 29,
-              "page_end": 29,
-              "text": "A modernização do sistema exige a adoção de tecnologias como triagem automatizada por inteligência artificial, classificação de ocorrências por grau de criticidade e integração com plataformas digitais capazes de absorver demandas não emergenciais, liberando o atendimento para situações efetivamente críticas."
-            }
-          ]
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
         },
         {
           "id": "culture-sports-tourism",
@@ -2311,18 +2312,24 @@
         {
           "id": "rights-inclusion",
           "title": "Direitos e inclusão",
-          "page_start": 21,
-          "page_end": 22,
+          "page_start": 4,
+          "page_end": 12,
           "topics": [
             "rights-inclusion"
           ],
-          "summary": "Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos.",
+          "summary": "Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais. estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar.",
           "excerpts": [
             {
-              "id": "s22",
-              "page_start": 21,
-              "page_end": 22,
-              "text": "Hoje, o cenário compromete a segurança jurídica e a eficiência do processo judicial, especialmente quando o Estado é confrontado sob a ótica da violação de direitos humanos."
+              "id": "s04",
+              "page_start": 4,
+              "page_end": 6,
+              "text": "Surgem oportunidades de ampliar indicações geográficas, valorizar o papel de mulheres e povos indígenas nas cadeias produtivas e fortalecer hábitos de consumo de produtos regionais."
+            },
+            {
+              "id": "s10",
+              "page_start": 11,
+              "page_end": 12,
+              "text": "estabelecer a população empregada no interior (incluindo mulheres e povos indígenas), valorizar a agricultura familiar, introduzir hábitos de consumo dos produtos regionais e efetivar a política de segurança alimentar."
             }
           ]
         },
@@ -2351,20 +2358,13 @@
         {
           "id": "justice-defense",
           "title": "Justiça e defesa",
-          "page_start": 9,
-          "page_end": 10,
+          "page_start": null,
+          "page_end": null,
           "topics": [
             "justice-defense"
           ],
-          "summary": "A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência.",
-          "excerpts": [
-            {
-              "id": "s09",
-              "page_start": 9,
-              "page_end": 10,
-              "text": "A territorialização funcional e por competências facilita a integração com órgãos federais — como Polícia Federal, Polícia Rodoviária Federal, Ibama, Funai e Forças Armadas — e com as forças de segurança dos estados vizinhos, reduzindo sobreposições e conflitos de competência."
-            }
-          ]
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
         }
       ],
       "method": "extractive-v2.18"

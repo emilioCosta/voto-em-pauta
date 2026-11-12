@@ -296,30 +296,37 @@
         {
           "url": "https://EDUARDOBRAGAAM.COM.BR/",
           "title": "Home",
-          "sha256": "81f9ba6f260c377d2d0aece775f05ff4cce46abdee9f129babbba9921cb056cb",
+          "sha256": "6eb08900c619331094d0959927df33682ac38f76a6d32d98bfc68287e9b0e98c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:18:54+00:00"
+          "collected_at": "2026-11-12T15:54:15+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "7924b817d265b51b8d0070997f1d2950fb62780959994d11f3c99e8b156571aa",
+          "sha256": "a35ef97c0f5246d178a914a13dd66ac751ff284a5079f81914205f8e9b35b55c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:18:56+00:00"
+          "collected_at": "2026-11-12T15:54:18+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/noticia/eduardo-braga-defende-queda-da-taxa-selic-e-cobra-projeto-para-limitar-juros-ao-consumidor/",
           "title": "Eduardo Braga defende queda da taxa Selic e quer proteção ao consumidor",
-          "sha256": "7e5ad7bdf6e731a7b699d1ff4f30e6c8eb7a33315cfe97e0493b7b268097d25d",
+          "sha256": "7c5c45354cf6a25068cb725089a71d7f0912e83a9ac704dc524a262567099ab3",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:18:59+00:00"
+          "collected_at": "2026-11-12T15:54:20+00:00"
         },
         {
-          "url": "https://br319ja.com.br/",
-          "title": "BR-319 sai do papel | Vitória do Amazonas",
-          "sha256": "44a4b80b263b4d433c79e5bc33a3ad530565418b6d4ae31f75cad160a87640a7",
+          "url": "https://eduardobragaam.com.br/projetos/#main",
+          "title": "Projetos - Eduardo Braga",
+          "sha256": "d731f007771c01a295124322979ee0d4feca4e0bd2c15eb979efa702496e2f39",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:19:00+00:00"
+          "collected_at": "2026-11-12T15:54:23+00:00"
+        },
+        {
+          "url": "https://eduardobragaam.com.br/projetos/#content",
+          "title": "Projetos - Eduardo Braga",
+          "sha256": "d9987113ff51d5db916ba4921365eec3fe2c11e1cc773d6905a58383ae67ba29",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-12T15:54:25+00:00"
         }
       ],
       "statements": [
@@ -329,8 +336,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/projetos/",
           "source_title": "Projetos - Eduardo Braga",
-          "source_sha256": "7924b817d265b51b8d0070997f1d2950fb62780959994d11f3c99e8b156571aa",
-          "collected_at": "2026-11-09T17:18:56+00:00"
+          "source_sha256": "a35ef97c0f5246d178a914a13dd66ac751ff284a5079f81914205f8e9b35b55c",
+          "collected_at": "2026-11-12T15:54:18+00:00"
         },
         {
           "text": "O senador Eduardo Braga, líder do MDB no Senado, voltou a defender a queda da taxa de juros no Brasil. A declaração ocorreu durante reunião da Comissão de Assuntos Econômicos (CAE) nesta quarta-feira (04/11).",
@@ -338,8 +345,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/noticia/eduardo-braga-defende-queda-da-taxa-selic-e-cobra-projeto-para-limitar-juros-ao-consumidor/",
           "source_title": "Eduardo Braga defende queda da taxa Selic e quer proteção ao consumidor",
-          "source_sha256": "7e5ad7bdf6e731a7b699d1ff4f30e6c8eb7a33315cfe97e0493b7b268097d25d",
-          "collected_at": "2026-11-09T17:18:59+00:00"
+          "source_sha256": "7c5c45354cf6a25068cb725089a71d7f0912e83a9ac704dc524a262567099ab3",
+          "collected_at": "2026-11-12T15:54:20+00:00"
         },
         {
           "text": "“A taxa Selic é óbvio que tem a ver com o déficit público por causa da captação de financiamento da dívida pública brasileira. Mas o que não consigo entender é como o Brasil continua de forma, vamos dizer assim, desavergonhada com um financiamento de crédito rotativo de cartão de crédito a uma taxa de juros de 500% ao ano”, afirmou o senador.",
@@ -349,8 +356,8 @@
           ],
           "source_url": "https://eduardobragaam.com.br/noticia/eduardo-braga-defende-queda-da-taxa-selic-e-cobra-projeto-para-limitar-juros-ao-consumidor/",
           "source_title": "Eduardo Braga defende queda da taxa Selic e quer proteção ao consumidor",
-          "source_sha256": "7e5ad7bdf6e731a7b699d1ff4f30e6c8eb7a33315cfe97e0493b7b268097d25d",
-          "collected_at": "2026-11-09T17:18:59+00:00"
+          "source_sha256": "7c5c45354cf6a25068cb725089a71d7f0912e83a9ac704dc524a262567099ab3",
+          "collected_at": "2026-11-12T15:54:20+00:00"
         }
       ],
       "status": "proposals-found",
@@ -392,8 +399,8 @@
               ],
               "source_url": "https://eduardobragaam.com.br/noticia/eduardo-braga-defende-queda-da-taxa-selic-e-cobra-projeto-para-limitar-juros-ao-consumidor/",
               "source_title": "Eduardo Braga defende queda da taxa Selic e quer proteção ao consumidor",
-              "source_sha256": "7e5ad7bdf6e731a7b699d1ff4f30e6c8eb7a33315cfe97e0493b7b268097d25d",
-              "collected_at": "2026-11-09T17:18:59+00:00"
+              "source_sha256": "7c5c45354cf6a25068cb725089a71d7f0912e83a9ac704dc524a262567099ab3",
+              "collected_at": "2026-11-12T15:54:20+00:00"
             }
           ]
         },
@@ -915,9 +922,9 @@
         {
           "url": "http://wilsonlimaam.com.br/",
           "title": "Wilson Lima",
-          "sha256": "812163eecf484e8024ec04b1ad32c99881d0b64a4ab7596939919cfecd13635a",
+          "sha256": "5cfdd34b38479df2e623db923f350d2c8ec359d06aaaa11d43c11157abb8146b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:19:09+00:00"
+          "collected_at": "2026-11-12T15:54:33+00:00"
         }
       ],
       "statements": [],

@@ -79,37 +79,37 @@
         {
           "url": "https://AFRANIO.ORG.BR/",
           "title": "Principal - Afrânio Boppré",
-          "sha256": "58de3239007e57f6440d5b991c20cd6985976fce01f88b35510465bd5cfbac85",
+          "sha256": "6b17e23f3f170300c35569c42bfb358e7fd17d4a34b71c2607c6f41f0396856b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:26:47+00:00"
+          "collected_at": "2026-11-12T16:01:46+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "b799aa5535c1f8bb19f79efc897a40affd210c9e7da388376ccda67d7af92502",
+          "sha256": "230eaeadc57fcbbb3a5b3a6c57ecec2deefa4d8958769908fa163568ce93290d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:26:50+00:00"
+          "collected_at": "2026-11-12T16:01:48+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/04/camara-aprova-regime-de-urgencia-sobre-projeto-de-cidade-esponja/",
           "title": "Câmara aprova regime de urgência sobre projeto de cidade esponja - Afrânio Boppré",
-          "sha256": "f2d4790b3280413d5d3884bef3e7d37abb07f87e3e9370ce37a37b431794b133",
+          "sha256": "a3628b35802eb959465c2d4b2734587461e5c3a6b1a1ac64ed40c9e5b0c4f9dd",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:26:52+00:00"
+          "collected_at": "2026-11-12T16:01:51+00:00"
         },
         {
           "url": "https://afranio.org.br/2026/03/municiparios-de-florianopolis-divulgam-carta-exigindo-mudanca-no-plano-de-saude-da-categoria/",
           "title": "Municipários de Florianópolis divulgam carta exigindo mudança no plano de saúde da categoria - Afrânio Boppré",
-          "sha256": "87a36c62221e44fbff70233dbfacdc1c9631868d77e8040b237580a010521370",
+          "sha256": "5fe0cc6669fdcc9e54ac16ec29533541be6c320b0594552335fb00cf284fe1f8",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:26:54+00:00"
+          "collected_at": "2026-11-12T16:01:52+00:00"
         },
         {
           "url": "https://afranio.org.br/categoria/plano-diretor/#content",
           "title": "Arquivo para Plano Diretor - Afrânio Boppré",
-          "sha256": "3e4d552159c2fc25c3c20d7bd08e7ea24a8f79e7c8085f88e1ede2b97f69347b",
+          "sha256": "c9433aa8dfb5592c4bbb0eb823bbea02be6c37610a42ef17ebedc55c567dc0d2",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:26:56+00:00"
+          "collected_at": "2026-11-12T16:01:54+00:00"
         }
       ],
       "statements": [],
@@ -555,7 +555,7 @@
           "title": "Carol De Toni 221 · Senado",
           "sha256": "73cf824a284d95550cedb58822b0545e30bf212795b19d5b0e5b1c5ba5d8bb57",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:00+00:00"
+          "collected_at": "2026-11-12T16:01:59+00:00"
         }
       ],
       "statements": [],
@@ -782,9 +782,9 @@
         {
           "url": "https://tocomamin.com.br/",
           "title": "Tô com Amin",
-          "sha256": "8604d2e91b844424549e48b025734c928f944a624bfb82ce3de8eb5815d14a57",
+          "sha256": "89a4fd655f2dd2d0d7057f9cf9cd32151e687366c97e948ada41c2b2aa56b2c2",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:19+00:00"
+          "collected_at": "2026-11-12T16:02:17+00:00"
         }
       ],
       "statements": [],
@@ -902,7 +902,7 @@
           "title": "Jeferson Rocha — Ideias e ações para colocar Santa Catarina em primeiro lugar",
           "sha256": "0a84134e724db1928eb998aed90345227176616bd2baf812010357bdbb3a8385",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-09T17:27:21+00:00"
+          "collected_at": "2026-11-12T16:02:20+00:00"
         }
       ],
       "statements": [
@@ -913,7 +913,7 @@
           "source_url": "https://www.jefersonrocha.store/",
           "source_title": "Jeferson Rocha — Ideias e ações para colocar Santa Catarina em primeiro lugar",
           "source_sha256": "0a84134e724db1928eb998aed90345227176616bd2baf812010357bdbb3a8385",
-          "collected_at": "2026-11-09T17:27:21+00:00"
+          "collected_at": "2026-11-12T16:02:20+00:00"
         }
       ],
       "status": "proposals-found",
