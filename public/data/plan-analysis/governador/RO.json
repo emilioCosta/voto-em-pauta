@@ -1481,6 +1481,195 @@
       "candidate_type": "governador",
       "file_name": "2026RO220002542916_01.pdf",
       "public_path": "/propostas/2026/RO/2026RO220002542916_01.pdf",
+      "sha256": "3ced457d9d60a97be34150457a414b46fa1dcbb8e133e6ea5114f1cd05cdd8d5",
+      "summary": "Não foi possível extrair propostas temáticas do plano.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi observado no plano.",
+          "excerpts": []
+        }
+      ],
+      "method": "extractive-v2.18"
+    },
+    {
+      "candidate_id": "220002542916",
+      "state_code": "RO",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026RO220002542916_02.pdf",
+      "public_path": "/propostas/2026/RO/2026RO220002542916_02.pdf",
       "sha256": "65f628f8540d61ddf34792bc54702e4e63833600835b99ec6f2466d2a1fc3ad4",
       "summary": "1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas 1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Implantar a política estadual de saúde mental dos profissionais da segurança pública Instituir programas permanentes de atenção psicossocial destinados aos profissio‐ nais da segurança pública, garantindo acompanhamento psicológico, ações pre‐ ventivas, acolhimento especializado e suporte às suas famílias. Este Plano organiza as prioridades do futuro Governo em grandes eixos estratégi‐ cos, abrangendo áreas essenciais como saúde, educação, segurança pública, infraestrutura, desenvolvimento econômico e geração de emprego e renda, assis‐ tência social, agropecuária, turismo, meio ambiente, cultura, esporte, habitação e modernização da administração pública. 1 frentes estratégicas | 6 propostas SEGURANÇA PÚBLICA 12 frentes estratégicas | 37 propostas SAÚDE PÚBLICA 3 frentes estratégicas | 20 propostas EDUCAÇÃO PÚBLICA 6 frentes estratégicas | 15 propostas Combater o Crime Organizado com Inteligência, Integração e Tecnologia Fortalecer e Modernizar as Instituições de Segurança Pública Valorizar os Profissionais da Segurança Pública Proteger as Pessoas e Consolidar a Segurança dos Territórios Ampliar a Presença do Estado e Fortalecer a Prevenção Segurança Pública, Sistema Prisional e Penitenciário Modernizar e Fortalecer o Sistema Prisional Fortalecer a Inteligência e a Segurança Penitenciária Promover a Ressocialização e Reduzir a Reincidência Criminal EI XO 0 2 SEGURANÇA PÚBLICA A segurança pública é um direito de toda a população e uma das responsabilidades mais importantes do Estado. Uma visão baseada na responsabilidade fiscal, na eficiência administrativa, no combate à corrupção, na transparência, na inovação, na valorização das pessoas, no fortalecimento dos municípios e no desenvolvimento econômico sustentável. Cada decisão pública influencia a qualidade da saúde, da educação, da segu‐ rança, da infraestrutura, da geração de empregos e das oportunidades oferecidas às famílias.",
       "sections": [
@@ -1863,195 +2052,6 @@
               "text": "Ampliar a transparência e o acesso às informações públicas Reforçar as plataformas digitais e os mecanismos de transparência ativa, garan‐ tindo amplo acesso da população às informações públicas, em conformidade com a Lei de Acesso à Informação, ampliando o controle social e a transparência da administração pública."
             }
           ]
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        }
-      ],
-      "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "220002542916",
-      "state_code": "RO",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026RO220002542916_02.pdf",
-      "public_path": "/propostas/2026/RO/2026RO220002542916_02.pdf",
-      "sha256": "3ced457d9d60a97be34150457a414b46fa1dcbb8e133e6ea5114f1cd05cdd8d5",
-      "summary": "Não foi possível extrair propostas temáticas do plano.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi observado no plano.",
-          "excerpts": []
         },
         {
           "id": "energy",

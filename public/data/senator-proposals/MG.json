@@ -295,9 +295,9 @@
         {
           "url": "https://aecioneves.com.br/",
           "title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
-          "sha256": "8a94f7d860b69d6cdf6c6885880355e8788d4db5ab2e9ccb817c48036d4cd28a",
+          "sha256": "09d3cc100ff5ed189cb2319833d7cd9b86e867819baa83a357033ea3e1274158",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-16T16:54:55+00:00"
+          "collected_at": "2026-11-19T16:30:38+00:00"
         }
       ],
       "statements": [
@@ -307,8 +307,8 @@
           "topics": [],
           "source_url": "https://aecioneves.com.br/",
           "source_title": "Aécio Neves – Site Oficial do Deputado Federal Aécio Neves",
-          "source_sha256": "8a94f7d860b69d6cdf6c6885880355e8788d4db5ab2e9ccb817c48036d4cd28a",
-          "collected_at": "2026-11-16T16:54:55+00:00"
+          "source_sha256": "09d3cc100ff5ed189cb2319833d7cd9b86e867819baa83a357033ea3e1274158",
+          "collected_at": "2026-11-19T16:30:38+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1719,9 +1719,9 @@
         {
           "url": "https://candidatos.pco.org.br/c/tiao-pessoa/",
           "title": "TIÃO PESSOA - Portal Eleitoral do PCO",
-          "sha256": "b730fc17011f002e8ccd5675aee156018ae497dbab5fb5ec2764432531ef897b",
+          "sha256": "db52304ca1b305ff82c394878d9ca8d10a8531e63f320422dbaffb87f082e151",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-16T16:54:59+00:00"
+          "collected_at": "2026-11-19T16:30:42+00:00"
         }
       ],
       "statements": [],
