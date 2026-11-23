@@ -409,35 +409,35 @@
           "title": "Site fora do ar",
           "sha256": "e7db10e77132e56100709c656464ce637724f79eb0db81363a5612fe70e7d967",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:50+00:00"
+          "collected_at": "2026-11-23T19:17:28+00:00"
         },
         {
           "url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "title": "‎Ciro Nogueira — Apple Music",
-          "sha256": "3b03515e9fbd423c648bfecec25d33016b7d8e6ce057565fa63b25023d7e387e",
+          "sha256": "0e6d0def8d5611ec2542fea772e69e543f5f186cd004b37789d14ecf95b478a2",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:52+00:00"
+          "collected_at": "2026-11-23T19:17:30+00:00"
         },
         {
           "url": "https://music.amazon.com.br/artists/B0HFFJQRRY",
           "title": "",
-          "sha256": "3388bfc7d373e4e6d9091f7e8f1f763006ebd04260dd8c58cda3f423a7ffd5ef",
+          "sha256": "939291a1c627af8cd8114396b2ac6b0ebad7b32b9ca66853152c197cead45545",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:53+00:00"
+          "collected_at": "2026-11-23T19:17:31+00:00"
         },
         {
           "url": "https://drive.google.com/drive/u/2/folders/137daWEoQ4ISC6pswO66zgLU5-sAHjNp7",
           "title": "MATERIAL CAMPANHA - SENADOR CIRO 111 - Google Drive",
-          "sha256": "2804d3332417b0f36b76961052747a0c26f96fa7ff251cd60077cf8a9407f0cc",
+          "sha256": "e32ec8e7789845886c34608694dbbfe1e34b4696433fe20d7421026e752042ae",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:55+00:00"
+          "collected_at": "2026-11-23T19:17:33+00:00"
         },
         {
           "url": "https://CIRONOGUEIRA.COM.BR/",
           "title": "Ciro Nogueira",
-          "sha256": "0a3a01289ae98fed1bbac7311d2071b1721664549f3e5b52a60c2b9f644e0212",
+          "sha256": "7e07eeeb1f50dd5b668d1385cb504fe53bbb54d931ecd9acf8dafc0212fbc38d",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:58+00:00"
+          "collected_at": "2026-11-23T19:17:37+00:00"
         }
       ],
       "statements": [
@@ -447,8 +447,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "3b03515e9fbd423c648bfecec25d33016b7d8e6ce057565fa63b25023d7e387e",
-          "collected_at": "2026-11-19T16:32:52+00:00"
+          "source_sha256": "0e6d0def8d5611ec2542fea772e69e543f5f186cd004b37789d14ecf95b478a2",
+          "collected_at": "2026-11-23T19:17:30+00:00"
         },
         {
           "text": "Ciro 111 Senador (Eu Vou Votar) - Single Ciro 111 Senador (Eu Vou Votar) - Single",
@@ -456,8 +456,8 @@
           "topics": [],
           "source_url": "https://music.apple.com/br/artist/ciro-nogueira/6796064638",
           "source_title": "‎Ciro Nogueira — Apple Music",
-          "source_sha256": "3b03515e9fbd423c648bfecec25d33016b7d8e6ce057565fa63b25023d7e387e",
-          "collected_at": "2026-11-19T16:32:52+00:00"
+          "source_sha256": "0e6d0def8d5611ec2542fea772e69e543f5f186cd004b37789d14ecf95b478a2",
+          "collected_at": "2026-11-23T19:17:30+00:00"
         }
       ],
       "status": "proposals-found",
@@ -1332,7 +1332,7 @@
           "title": "Júlio César 555 — Grupos por Território",
           "sha256": "d3c07e528580a576b20ae327cedb108db8a0863019879b75a2a443d5628f7ade",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:33:02+00:00"
+          "collected_at": "2026-11-23T19:17:40+00:00"
         }
       ],
       "statements": [],
@@ -1558,7 +1558,7 @@
           "title": "Sendor Marcelo Castro",
           "sha256": "6492c6e7433903021c162041854443ceb978a78c317269f2db12f6eb7f101f8b",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:33:04+00:00"
+          "collected_at": "2026-11-23T19:17:44+00:00"
         }
       ],
       "statements": [],

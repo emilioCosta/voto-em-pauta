@@ -187,9 +187,9 @@
         {
           "url": "https://WWW.CELSOSABINO.COM.BR/",
           "title": "INÍCIO | Celso Sabino",
-          "sha256": "710fbae9ef7cf69c7d8b63ee6c23238ae059f2570d14d1b758fd0e9814d7e2d3",
+          "sha256": "6130400490b9d8f0ccb2e2a9d8736a117719578b07a1038056dd0020ba8af60c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:07+00:00"
+          "collected_at": "2026-11-23T19:16:38+00:00"
         }
       ],
       "statements": [],
@@ -305,9 +305,9 @@
         {
           "url": "https://chicaosenador.com.br/",
           "title": "Chicão 444",
-          "sha256": "2d0db8d7bac50d150be31c9c69a7a3f3098dc0ba028bd9c1178bf74518f01d4b",
+          "sha256": "5c9a65aada769ff4a271785c07c9204fc380a7af38a30389d7ad533a00df6039",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:12+00:00"
+          "collected_at": "2026-11-23T19:16:43+00:00"
         }
       ],
       "statements": [
@@ -317,8 +317,8 @@
           "topics": [],
           "source_url": "https://chicaosenador.com.br/",
           "source_title": "Chicão 444",
-          "source_sha256": "2d0db8d7bac50d150be31c9c69a7a3f3098dc0ba028bd9c1178bf74518f01d4b",
-          "collected_at": "2026-11-19T16:32:12+00:00"
+          "source_sha256": "5c9a65aada769ff4a271785c07c9204fc380a7af38a30389d7ad533a00df6039",
+          "collected_at": "2026-11-23T19:16:43+00:00"
         },
         {
           "text": "E ao lado do Helder, parceiro de mais de 20 anos, o trabalho é dobrado. Vamos trazer muito mais conquistas para o estado, apoiando a Governadora Hana no projeto que continuará fazendo o Pará avançar cada vez mais.",
@@ -326,8 +326,8 @@
           "topics": [],
           "source_url": "https://chicaosenador.com.br/",
           "source_title": "Chicão 444",
-          "source_sha256": "2d0db8d7bac50d150be31c9c69a7a3f3098dc0ba028bd9c1178bf74518f01d4b",
-          "collected_at": "2026-11-19T16:32:12+00:00"
+          "source_sha256": "5c9a65aada769ff4a271785c07c9204fc380a7af38a30389d7ad533a00df6039",
+          "collected_at": "2026-11-23T19:16:43+00:00"
         }
       ],
       "status": "proposals-found",
@@ -660,9 +660,9 @@
         {
           "url": "https://timebarra.com.br/",
           "title": "Time Barra | O time de Bolsonaro no Pará",
-          "sha256": "8226b2af6444e88cf486c4c1309f839645be1275ae386a0a7a794ef0fb5160a4",
+          "sha256": "2edb003837ef7939ea35598e783299c0797a781c7559967211c1f6975d741e08",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:15+00:00"
+          "collected_at": "2026-11-23T19:16:46+00:00"
         }
       ],
       "statements": [
@@ -672,8 +672,8 @@
           "topics": [],
           "source_url": "https://timebarra.com.br/",
           "source_title": "Time Barra | O time de Bolsonaro no Pará",
-          "source_sha256": "8226b2af6444e88cf486c4c1309f839645be1275ae386a0a7a794ef0fb5160a4",
-          "collected_at": "2026-11-19T16:32:15+00:00"
+          "source_sha256": "2edb003837ef7939ea35598e783299c0797a781c7559967211c1f6975d741e08",
+          "collected_at": "2026-11-23T19:16:46+00:00"
         },
         {
           "text": "Médica, mãe, cristã e mulher de direita. Convidada por Michelle Bolsonaro para integrar o PL Mulher, Tati Barra conhece a saúde pública por dentro e entrou na política para defender as mulheres, as crianças, as famílias e os valores cristãos.",
@@ -683,8 +683,8 @@
           ],
           "source_url": "https://timebarra.com.br/",
           "source_title": "Time Barra | O time de Bolsonaro no Pará",
-          "source_sha256": "8226b2af6444e88cf486c4c1309f839645be1275ae386a0a7a794ef0fb5160a4",
-          "collected_at": "2026-11-19T16:32:15+00:00"
+          "source_sha256": "2edb003837ef7939ea35598e783299c0797a781c7559967211c1f6975d741e08",
+          "collected_at": "2026-11-23T19:16:46+00:00"
         }
       ],
       "status": "proposals-found",
@@ -708,8 +708,8 @@
               ],
               "source_url": "https://timebarra.com.br/",
               "source_title": "Time Barra | O time de Bolsonaro no Pará",
-              "source_sha256": "8226b2af6444e88cf486c4c1309f839645be1275ae386a0a7a794ef0fb5160a4",
-              "collected_at": "2026-11-19T16:32:15+00:00"
+              "source_sha256": "2edb003837ef7939ea35598e783299c0797a781c7559967211c1f6975d741e08",
+              "collected_at": "2026-11-23T19:16:46+00:00"
             }
           ]
         },
@@ -1137,7 +1137,7 @@
           "title": "Helder Barbalho 151 — Candidato ao Senado Federal",
           "sha256": "fa82b7720b366621a5ae6d22c8bb743d744bfd3811302b3680e479cbf298d6ec",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:32:20+00:00"
+          "collected_at": "2026-11-23T19:16:51+00:00"
         }
       ],
       "statements": [],

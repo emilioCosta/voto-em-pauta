@@ -296,37 +296,37 @@
         {
           "url": "https://EDUARDOBRAGAAM.COM.BR/",
           "title": "Home",
-          "sha256": "4555fae88dc0eae2e2679d01947856d238cc22eb3fb10be44f4bd6c2741336bf",
+          "sha256": "52242fb06b54aafa4ecd49a0a6ed22e78e7f3462bbdfdab284579cff2ba8a55c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:08+00:00"
+          "collected_at": "2026-11-23T19:09:31+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "a749d765942d3ba93839d52f1ceccabe4639e7929045885a3c41a2c38c0de809",
+          "sha256": "fc979bb5a58c73a7ab4f9831d308ef5af6026513eb14bc683bc7e120c6a6f2c0",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:13+00:00"
+          "collected_at": "2026-11-23T19:09:34+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/noticia/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
           "title": "Senado aprova projeto de ajuste fiscal, relatado por Eduardo Braga",
-          "sha256": "b39d8ef8a81113759faf20dd3914849213bf59ac7e4ddb100641dc52ba8115f6",
+          "sha256": "b5eb0948cfa2438e10326cb61817172e369a9bc595d9c3eeaabd050aaaf98891",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:15+00:00"
+          "collected_at": "2026-11-23T19:09:37+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/#main",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "23ef370426c7cb6923b15af6d871664867a20dc650374f3cbf33f059ae84c3ba",
+          "sha256": "51262272ae977af2b967273aae82651d713a3bfc0e08d15308bf1e82d3dce935",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:18+00:00"
+          "collected_at": "2026-11-23T19:09:40+00:00"
         },
         {
           "url": "https://eduardobragaam.com.br/projetos/#content",
           "title": "Projetos - Eduardo Braga",
-          "sha256": "c787a8b12a71cb5ac785ebbd3f9adfa7d6f337ef499e5513dad024f6a5a8c16b",
+          "sha256": "e1b1913a41ed06655d1af6d61b5480ec089a5e517c0f1534c5df6486ec491b8c",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:20+00:00"
+          "collected_at": "2026-11-23T19:09:43+00:00"
         }
       ],
       "statements": [
@@ -336,8 +336,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/projetos/",
           "source_title": "Projetos - Eduardo Braga",
-          "source_sha256": "a749d765942d3ba93839d52f1ceccabe4639e7929045885a3c41a2c38c0de809",
-          "collected_at": "2026-11-19T16:27:13+00:00"
+          "source_sha256": "fc979bb5a58c73a7ab4f9831d308ef5af6026513eb14bc683bc7e120c6a6f2c0",
+          "collected_at": "2026-11-23T19:09:34+00:00"
         },
         {
           "text": "Em seu parecer, o relator detalhou a diretriz socioeconômica da proposta. Braga declarou. “Queremos um país que possa crescer com redução das desigualdades econômicas e regionais, além de assegurar um lar melhor para as futuras gerações”.",
@@ -345,8 +345,8 @@
           "topics": [],
           "source_url": "https://eduardobragaam.com.br/noticia/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
           "source_title": "Senado aprova projeto de ajuste fiscal, relatado por Eduardo Braga",
-          "source_sha256": "b39d8ef8a81113759faf20dd3914849213bf59ac7e4ddb100641dc52ba8115f6",
-          "collected_at": "2026-11-19T16:27:15+00:00"
+          "source_sha256": "b5eb0948cfa2438e10326cb61817172e369a9bc595d9c3eeaabd050aaaf98891",
+          "collected_at": "2026-11-23T19:09:37+00:00"
         },
         {
           "text": "Durante as deliberações em plenário, o relator rebateu acusações sobre um eventual descumprimento de obrigações com os entes federativos. Braga descartou a ocorrência de calote ao defender a aprovação de um orçamento alinhado com a arrecadação real da União.",
@@ -356,8 +356,8 @@
           ],
           "source_url": "https://eduardobragaam.com.br/noticia/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
           "source_title": "Senado aprova projeto de ajuste fiscal, relatado por Eduardo Braga",
-          "source_sha256": "b39d8ef8a81113759faf20dd3914849213bf59ac7e4ddb100641dc52ba8115f6",
-          "collected_at": "2026-11-19T16:27:15+00:00"
+          "source_sha256": "b5eb0948cfa2438e10326cb61817172e369a9bc595d9c3eeaabd050aaaf98891",
+          "collected_at": "2026-11-23T19:09:37+00:00"
         }
       ],
       "status": "proposals-found",
@@ -399,8 +399,8 @@
               ],
               "source_url": "https://eduardobragaam.com.br/noticia/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
               "source_title": "Senado aprova projeto de ajuste fiscal, relatado por Eduardo Braga",
-              "source_sha256": "b39d8ef8a81113759faf20dd3914849213bf59ac7e4ddb100641dc52ba8115f6",
-              "collected_at": "2026-11-19T16:27:15+00:00"
+              "source_sha256": "b5eb0948cfa2438e10326cb61817172e369a9bc595d9c3eeaabd050aaaf98891",
+              "collected_at": "2026-11-23T19:09:37+00:00"
             }
           ]
         },
@@ -922,9 +922,9 @@
         {
           "url": "http://wilsonlimaam.com.br/",
           "title": "Wilson Lima",
-          "sha256": "1a8af1bb4133713b5d9d13ea00137816d59b98bde0b22db73ae533c691f1b78a",
+          "sha256": "4e83eb1fd0a6ecafdbd6b7aef8ac4be702d75738ef305231266fdd191539b8ea",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-19T16:27:30+00:00"
+          "collected_at": "2026-11-23T19:09:54+00:00"
         }
       ],
       "statements": [],
