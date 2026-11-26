@@ -511,16 +511,16 @@
         {
           "url": "https://EDUARDOAMORIMSERGIPE.COM.BR/",
           "title": "Página Inicial - Dr. Eduardo Amorim",
-          "sha256": "c249cd2efb0dae47af3b4cabd318204dca214ce82ea93e5f6213d63566a05ba1",
+          "sha256": "dca46072dab3e48a64d3d3371e723dbb8d68b526b15b24ff245d93587dfac52e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:21+00:00"
+          "collected_at": "2026-11-26T17:50:25+00:00"
         },
         {
           "url": "https://eduardoamorimsergipe.com.br/2026/09/27/onda-azul-eduardo-amorim-reafirma-compromisso-com-sergipe/",
           "title": "Onda Azul: Eduardo Amorim reafirma compromisso com Sergipe - Dr. Eduardo Amorim",
-          "sha256": "7ed4740408e3305f9524d1bffdae3dc2b38d0b2393c3ea7f4eab3524dfff586b",
+          "sha256": "9c8deaacbf6cf5cc2a35cc3a1f1cdf80a8cf237978d2d3ed3f18481ee21f199e",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:23+00:00"
+          "collected_at": "2026-11-26T17:50:28+00:00"
         }
       ],
       "statements": [],
@@ -744,66 +744,50 @@
         {
           "url": "https://IRANBARBOSA.COM.BR/",
           "title": "Home - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "b25c0fff595641ede61f47f20083717201982d67016f697709bc635e7425077a",
+          "sha256": "4eb33bffaa72da43645d861eff99d186fdab6ad4f14ccb177c9537968a621efa",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:30+00:00"
+          "collected_at": "2026-11-26T17:50:35+00:00"
         },
         {
           "url": "https://iranbarbosa.com.br/projetos-de-lei/projetos-de-lei",
           "title": "Projetos de Lei - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "27a218789f9906b17a0ae90f3c33244c445fa2701e97e1e960c5109350637f1b",
+          "sha256": "f1dfcd7d3f2a2f51f2db737e7ed9c5298aa12209f573c11e15a267b9c2b2174a",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:36+00:00"
+          "collected_at": "2026-11-26T17:50:42+00:00"
+        },
+        {
+          "url": "https://iranbarbosa.com.br/2026/11/24/camara-inicia-aprovacao-de-projeto-que-institui-politica-municipal-de-recuperacao-e-reeducacao-de-autores-de-violencia-contra-mulheres/",
+          "title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "ee3ebd5cab4768aa308c52f745a65053bdbc8fb0505ed36c7ebe3c379671ae66",
+          "kind": "official-candidate-site",
+          "collected_at": "2026-11-26T17:50:45+00:00"
         },
         {
           "url": "https://iranbarbosa.com.br/2026/11/19/iran-lamenta-falta-de-zelo-com-a-praca-da-bandeira-e-de-programacao-alusiva-ao-dia-da-bandeira/",
           "title": "Iran lamenta falta de zelo com a Praça da Bandeira e de programação alusiva ao Dia da Bandeira - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "7ac3a9c921da1feb40d22d396eb9b67937786a26c26151055750874f0a19e84e",
+          "sha256": "4c0c2f2ddd0b31d706d12dfe2a0768da282b5f4dc4280dacc844e05ae9592150",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:39+00:00"
+          "collected_at": "2026-11-26T17:50:48+00:00"
         },
         {
-          "url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
-          "title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "968385cbe131d4fc3aa59a8f64e1864c36a4d00961b328ca57ae17ca1ee7b115",
+          "url": "https://iranbarbosa.com.br/2026/11/24/camara-inicia-aprovacao-de-projeto-que-institui-politica-municipal-de-recuperacao-e-reeducacao-de-autores-de-violencia-contra-mulheres/#respond",
+          "title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "sha256": "db57cf4e974e465aa0b4e47cb8239989d5d7b18df0e0c6809701332dd64d3255",
           "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:42+00:00"
-        },
-        {
-          "url": "https://iranbarbosa.com.br/2026/11/19/iran-lamenta-falta-de-zelo-com-a-praca-da-bandeira-e-de-programacao-alusiva-ao-dia-da-bandeira/#respond",
-          "title": "Iran lamenta falta de zelo com a Praça da Bandeira e de programação alusiva ao Dia da Bandeira - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "sha256": "b04d2e28bb8d3daea8b7270d536f555fbfca8e969ae517d39969dcfcadb35522",
-          "kind": "official-candidate-site",
-          "collected_at": "2026-11-23T19:22:45+00:00"
+          "collected_at": "2026-11-26T17:50:51+00:00"
         }
       ],
       "statements": [
         {
-          "text": "O parlamentar propôs ao presidente da Casa e das Comissões Permanentes uma ação preparatória por parte da Câmara Municipal de Aracaju para o engajamento da Casa Legislativa à campanha e a prioridade para apreciar e votar projetos que tratam do tema durante esse período.",
-          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
-          "topics": [],
-          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
-          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "source_sha256": "968385cbe131d4fc3aa59a8f64e1864c36a4d00961b328ca57ae17ca1ee7b115",
-          "collected_at": "2026-11-23T19:22:42+00:00"
-        },
-        {
-          "text": "“Eu apresentei o Projeto de Lei n° 120/2026, que propõe instituir o Dia de Mobilização Municipal dos Homens pelo Fim da Violência Contra as Mulheres, mas, como já há Lei sobre a matéria, estou propondo ampliar não só as ações, mas também o espectro das responsabilidades de iniciativas, para alcançarmos o Poder Público de uma forma geral, inclusive, a Câmara Municipal de Aracaju, que tem e deve contribuir muito com essa mobilização”, destacou.",
-          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
-          "topics": [],
-          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
-          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "source_sha256": "968385cbe131d4fc3aa59a8f64e1864c36a4d00961b328ca57ae17ca1ee7b115",
-          "collected_at": "2026-11-23T19:22:42+00:00"
-        },
-        {
-          "text": "“A Câmara tem contribuído muito em relação ao enfrentamento à violência contras as meninas e as mulheres, e continuará contribuindo, visto que tem vários projetos sobre esse tema tramitando. O meu apelo, portanto, é para que consigamos nos organizar internamente a fim de, em regime de urgência, dentro dos 21 dias de ativismo, priorizar a aprovação de projetos que pautam essa questão”, reforçou o parlamentar.",
-          "section_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres",
-          "topics": [],
-          "source_url": "https://iranbarbosa.com.br/2026/11/11/iran-barbosa-propoe-prioridade-na-apreciacao-de-projetos-que-combatem-a-violencia-contra-as-mulheres/",
-          "source_title": "Iran Barbosa propõe prioridade na apreciação de projetos que combatem a violência contra as mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
-          "source_sha256": "968385cbe131d4fc3aa59a8f64e1864c36a4d00961b328ca57ae17ca1ee7b115",
-          "collected_at": "2026-11-23T19:22:42+00:00"
+          "text": "O parlamentar acrescentou, ainda, que ao instituir esta política em Aracaju, o Município reafirma seu compromisso com os princípios constitucionais da dignidade da pessoa humana, da igualdade e da não discriminação, além de alinhar-se às diretrizes nacionais e internacionais de enfrentamento à violência contra a mulher.",
+          "section_title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres",
+          "topics": [
+            "education"
+          ],
+          "source_url": "https://iranbarbosa.com.br/2026/11/24/camara-inicia-aprovacao-de-projeto-que-institui-politica-municipal-de-recuperacao-e-reeducacao-de-autores-de-violencia-contra-mulheres/",
+          "source_title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+          "source_sha256": "ee3ebd5cab4768aa308c52f745a65053bdbc8fb0505ed36c7ebe3c379671ae66",
+          "collected_at": "2026-11-26T17:50:45+00:00"
         }
       ],
       "status": "proposals-found",
@@ -811,8 +795,20 @@
         {
           "id": "education",
           "label": "Educação",
-          "summary": "Não foi observado no material consultado para esta candidatura.",
-          "excerpts": []
+          "summary": "O parlamentar acrescentou, ainda, que ao instituir esta política em Aracaju, o Município reafirma seu compromisso com os princípios constitucionais da dignidade da pessoa humana, da igualdade e da não discriminação, além de alinhar-se às diretrizes nacionais e internacionais de enfrentamento à violência contra a mulher.",
+          "excerpts": [
+            {
+              "text": "O parlamentar acrescentou, ainda, que ao instituir esta política em Aracaju, o Município reafirma seu compromisso com os princípios constitucionais da dignidade da pessoa humana, da igualdade e da não discriminação, além de alinhar-se às diretrizes nacionais e internacionais de enfrentamento à violência contra a mulher.",
+              "section_title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres",
+              "topics": [
+                "education"
+              ],
+              "source_url": "https://iranbarbosa.com.br/2026/11/24/camara-inicia-aprovacao-de-projeto-que-institui-politica-municipal-de-recuperacao-e-reeducacao-de-autores-de-violencia-contra-mulheres/",
+              "source_title": "Câmara inicia aprovação de projeto que institui política municipal de recuperação e reeducação de autores de violência contra mulheres - IRAN BARBOSA - VEREADOR :: ARACAJU - PSOL",
+              "source_sha256": "ee3ebd5cab4768aa308c52f745a65053bdbc8fb0505ed36c7ebe3c379671ae66",
+              "collected_at": "2026-11-26T17:50:45+00:00"
+            }
+          ]
         },
         {
           "id": "health",

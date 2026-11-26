@@ -77,6 +77,195 @@
       "candidate_type": "governador",
       "file_name": "2026PR160002540833_01.pdf",
       "public_path": "/propostas/2026/PR/2026PR160002540833_01.pdf",
+      "sha256": "befba0e36d0277b2adf0a4e96027a61d76dd81744ada6b3599df835009504c13",
+      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
+      "sections": [
+        {
+          "id": "education",
+          "title": "Educação",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "education"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "health",
+          "title": "Saúde",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "health"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "public-safety",
+          "title": "Segurança pública",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "public-safety"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "economy-jobs",
+          "title": "Economia e emprego",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "economy-jobs"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "tax-budget",
+          "title": "Orçamento e tributos",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "tax-budget"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "social-protection",
+          "title": "Proteção social",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "social-protection"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "infrastructure-mobility",
+          "title": "Infraestrutura e mobilidade",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "infrastructure-mobility"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "housing-sanitation",
+          "title": "Moradia e saneamento",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "housing-sanitation"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "environment-climate",
+          "title": "Meio ambiente e clima",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "environment-climate"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "agriculture-rural",
+          "title": "Agropecuária e desenvolvimento rural",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "agriculture-rural"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "science-digital",
+          "title": "Ciência, inovação e digital",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "science-digital"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "culture-sports-tourism",
+          "title": "Cultura, esporte e turismo",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "culture-sports-tourism"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "rights-inclusion",
+          "title": "Direitos e inclusão",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "rights-inclusion"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "governance",
+          "title": "Gestão pública e transparência",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "governance"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "energy",
+          "title": "Energia e mineração",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "energy"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        },
+        {
+          "id": "justice-defense",
+          "title": "Justiça e defesa",
+          "page_start": null,
+          "page_end": null,
+          "topics": [
+            "justice-defense"
+          ],
+          "summary": "Não foi possível verificar: texto do plano não extraível.",
+          "excerpts": []
+        }
+      ],
+      "method": "text-extraction-unavailable"
+    },
+    {
+      "candidate_id": "160002540833",
+      "state_code": "PR",
+      "office": "GOVERNADOR",
+      "candidate_type": "governador",
+      "file_name": "2026PR160002540833_02.pdf",
+      "public_path": "/propostas/2026/PR/2026PR160002540833_02.pdf",
       "sha256": "e50b047bab00f4942a48fc86cdd5b95806c669e0e8bb89f885c3aee12e71d8dd",
       "summary": "talentos e preparação para o mundo do trabalho e as proﬁssões do futuro; 2. Educação Integral para o Futuro No Paraná, apenas 13% das matrículas dos Anos Finais e 7% do Ensino Médio são em tempo integral, percentuais que colocam o estado entre os piores do país. Entre nossos objetivos centrais, encontra-se ampliar o ensino em tempo integral atrelado à Educação Proﬁssional e Tecnológica no Ensino Médio, com matérias vinculadas ao ensino técnico, tecnológico e proﬁssionalizante ligados às vocações econômicas de cada região, para deixar o ensino mais atrativo para o estudante, combatendo a evasão do aluno do ensino em tempo integral e para que o estudante saia da escola com qualiﬁcação e caminho para o primeiro emprego. Saúde Modernização da gestão da saúde para ampliar o acesso, fortalecer a prevenção, qualiﬁcar a atenção básica, reduzir ﬁlas, expandir os serviços especializados, promover a saúde mental e utilizar tecnologias e inteligência de dados para melhorar os resultados assistenciais em todo o Estado. Criaremos uma política permanente de valorização do professor, com formação continuada, cuidado com a saúde mental, reconhecimento por bons resultados e melhores condições de trabalho, para que a carreira de professor no Paraná volte a ser uma carreira atraente e respeitada. Os hospitais públicos e ﬁlantrópicos serão resgatados do déﬁcit crônico em que se encontram e poderão focar na melhoria de gestão e de atendimento ao paciente. Um Estado que seja diferenciado não só em nossos corações e mentes, mas também em todos os indicadores sociais, de educação, saúde, infraestrutura, renda, emprego e segurança pública. Para transformar essa visão em realidade, organizamos nossas propostas em cinco grandes pilares, que estruturam as prioridades da gestão e orientam todas as políticas públicas: Desenvolvimento Social, para cuidar das pessoas e ampliar oportunidades; Desenvolvimento Econômico Sustentável, para gerar emprego, renda e competitividade; Desenvolvimento das Cidades e Infraestrutura, para conectar regiões e preparar o Paraná para o futuro; Gestão Pública Íntegra e Eﬁciente, para garantir eﬁciência, transparência, inovação e responsabilidade com os recursos públicos; e Segurança Pública, Justiça e Combate à Corrupção, para proteger as famílias, preservar a ordem, combater a corrupção e assegurar a liberdade de viver, trabalhar e empreender.",
       "sections": [
@@ -619,195 +808,6 @@
         }
       ],
       "method": "extractive-v2.18"
-    },
-    {
-      "candidate_id": "160002540833",
-      "state_code": "PR",
-      "office": "GOVERNADOR",
-      "candidate_type": "governador",
-      "file_name": "2026PR160002540833_02.pdf",
-      "public_path": "/propostas/2026/PR/2026PR160002540833_02.pdf",
-      "sha256": "befba0e36d0277b2adf0a4e96027a61d76dd81744ada6b3599df835009504c13",
-      "summary": "Não foi possível extrair texto automaticamente deste PDF. Consulte a proposta original.",
-      "sections": [
-        {
-          "id": "education",
-          "title": "Educação",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "education"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "health",
-          "title": "Saúde",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "health"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "public-safety",
-          "title": "Segurança pública",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "public-safety"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "economy-jobs",
-          "title": "Economia e emprego",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "economy-jobs"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "tax-budget",
-          "title": "Orçamento e tributos",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "tax-budget"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "social-protection",
-          "title": "Proteção social",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "social-protection"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "infrastructure-mobility",
-          "title": "Infraestrutura e mobilidade",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "infrastructure-mobility"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "housing-sanitation",
-          "title": "Moradia e saneamento",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "housing-sanitation"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "environment-climate",
-          "title": "Meio ambiente e clima",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "environment-climate"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "agriculture-rural",
-          "title": "Agropecuária e desenvolvimento rural",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "agriculture-rural"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "science-digital",
-          "title": "Ciência, inovação e digital",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "science-digital"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "culture-sports-tourism",
-          "title": "Cultura, esporte e turismo",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "culture-sports-tourism"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "rights-inclusion",
-          "title": "Direitos e inclusão",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "rights-inclusion"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "governance",
-          "title": "Gestão pública e transparência",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "governance"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "energy",
-          "title": "Energia e mineração",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "energy"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        },
-        {
-          "id": "justice-defense",
-          "title": "Justiça e defesa",
-          "page_start": null,
-          "page_end": null,
-          "topics": [
-            "justice-defense"
-          ],
-          "summary": "Não foi possível verificar: texto do plano não extraível.",
-          "excerpts": []
-        }
-      ],
-      "method": "text-extraction-unavailable"
     },
     {
       "candidate_id": "160002547594",
